@@ -216,13 +216,16 @@ export class BattleScene extends Phaser.Scene {
   private async playS00OpeningEvent(){
     if(this.openingEventActive)return;
     this.openingEventActive=true;this.animating=true;
-    const routes:Record<number,number[]>={32:[3,3,3,2,2,2,2],3:[3,3,3,2,2,2],33:[3,2,2,2,2]};
+    const tracedPaths=(s00LiuTrace.observations as Array<{kind:string;actor?:number;steps?:Array<{from:number[];direction:number}>}>).filter(row=>row.kind==='native-path'&&row.steps);
     try{
       await this.playS00Dialogue();
       for(const id of [32,3,33]){
         const unit=this.units.find(row=>Number(row.id.replace('s00-slot-',''))===({32:15,3:16,33:17} as Record<number,number>)[id]);
         if(!unit)continue;
-        for(const direction of routes[id]){
+        const path=tracedPaths.find(row=>row.actor===id)?.steps??[];
+        for(const step of path){
+          const direction=step.direction;
+          if(step.from?.length===2&&(unit.x!==step.from[0]||unit.y!==step.from[1]))continue;
           const [dx,dy]=directions[direction],startX=unit.x,startY=unit.y;
           unit.direction=2;unit.mirror=direction===1;
           const visual=this.unitSprites.find(entry=>entry.unit===unit);
