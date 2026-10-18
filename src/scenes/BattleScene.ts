@@ -36,7 +36,7 @@ import s00LiuTrace from '../../data/scenarios/S_00-liu-event-trace.json';
 import portraitBank from '../../public/assets/portraits/bank.json';
 import { portraitIndex, portraitRgba } from '../rules/portraitIndex';
 import { nativeCameraSteps, clampNativeCamera } from '../rules/nativeCamera';
-import type { NativeCommonState } from '../rules/nativeCommonState';
+import {applyEexOpcode32,applyEexOpcode58,applyEexOpcode103,type NativeCommonState} from '../rules/nativeCommonState';
 
 export class BattleScene extends Phaser.Scene {
   private mapId=0;
@@ -268,6 +268,16 @@ export class BattleScene extends Phaser.Scene {
       canvas.context.putImageData(new ImageData(rgba as unknown as Uint8ClampedArray<ArrayBuffer>,portraitBank.width,portraitBank.height),0,0);canvas.refresh();
     }
     return key;
+  }
+  /** Event-runner entry points mirroring native EEX common-state writes. */
+  applyNativeEexPortraitFlags(tag:number,value:number):number{
+    const result=applyEexOpcode32(this.commonState,tag,value);this.commonState=result.state;return result.status;
+  }
+  applyNativeEexChapterPhase(tag:number,value:number):number{
+    const result=applyEexOpcode103(this.commonState,tag,value);this.commonState=result.state;return result.status;
+  }
+  applyNativeEexDirectPhase(modeTag:number,mode:number,valueTag:number,value:number):number{
+    const result=applyEexOpcode58(this.commonState,modeTag,mode,valueTag,value);this.commonState=result.state;return result.status;
   }
   private fixInterfaceToViewport(){
     for(const object of [...this.children.list]){
