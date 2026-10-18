@@ -2,10 +2,11 @@ import {test,expect} from '@playwright/test';
 import {readFileSync} from 'node:fs';
 
 test('all migrated scenarios have native units and terrain indexes',()=>{
-  const terrain=JSON.parse(readFileSync('data/scenarios/native-terrain-index.json','utf8')) as Record<string,{width:number;height:number;terrain:unknown}>;
+  const readJson=(path:string)=>JSON.parse(readFileSync(path,'utf8').replace(/^\uFEFF/,''));
+  const terrain=readJson('data/scenarios/native-terrain-index.json') as Record<string,{width:number;height:number;terrain:unknown}>;
   for(let id=0;id<58;id++){
     const key=String(id).padStart(2,'0');
-    const data=JSON.parse(readFileSync(`data/scenarios/S_${key}-units-native.json`,'utf8')) as {units?:Array<Record<string,unknown>>};
+    const data=readJson(`data/scenarios/S_${key}-units-native.json`) as {units?:Array<Record<string,unknown>>};
     expect(data.units?.length,`S_${key} units`).toBeGreaterThan(0);
     expect(data.units?.every(unit=>Array.isArray(unit.position)&&unit.position.length===2&&typeof unit.classId==='number'&&typeof unit.art==='number')).toBe(true);
     const map=terrain[String(id)];
