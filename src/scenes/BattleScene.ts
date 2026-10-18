@@ -33,6 +33,7 @@ import battleResources from '../../data/mappings/battle-resource-links.json';
 import s00Units from '../../data/scenarios/S_00-units-native.json';
 import s00Terrain from '../../data/scenarios/S_00-terrain.json';
 import s00LiuTrace from '../../data/scenarios/S_00-liu-event-trace.json';
+import s01Units from '../../data/scenarios/S_01-units-native.json';
 import portraitBank from '../../public/assets/portraits/bank.json';
 import { portraitIndex, portraitRgba } from '../rules/portraitIndex';
 import { nativeCameraSteps, clampNativeCamera } from '../rules/nativeCamera';
@@ -187,6 +188,9 @@ export class BattleScene extends Phaser.Scene {
       cell.setInteractive();
       cell.on('pointerdown',(pointer:Phaser.Input.Pointer)=>{if(pointer.button===0)this.moveSelectedTo(key);});
     }
+  }
+  private createS01Units():Unit[]{
+    return (s01Units.units as Array<any>).map(record=>({id:`s01-slot-${record.slot}`,name:`角色 ${record.unitId}`,art:record.art,side:record.slot<35?'player':'enemy',x:record.position[0],y:record.position[1],hp:record.hp,maxHp:record.maxHp,mp:record.mp,move:6,acted:false,direction:record.facing,actorFlags:record.actorFlags,statusFlags:0,nativeClassId:record.classId,nativeEquipment:(record.equipment??[]).map((row:number[],slot:number)=>({slot,itemId:row[0],byte1:row[1]??255,byte2:row[2]??255}))}));
   }
   private createS00Units():Unit[]{
     this.map.terrain=s00Terrain.terrain as number[];
@@ -387,6 +391,7 @@ export class BattleScene extends Phaser.Scene {
     }
   }
   private drawUnits(){
+    if(this.mapId===1&&this.units.length===0)this.units=this.createS01Units();
     for(const {sprite,hpBack,hpFill} of this.unitSprites){sprite.destroy();hpBack.destroy();hpFill.destroy();}
     this.unitSprites=[];
     this.units.forEach(unit=>{
