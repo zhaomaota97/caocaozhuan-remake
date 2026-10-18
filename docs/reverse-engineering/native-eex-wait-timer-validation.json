@@ -1,0 +1,41 @@
+{
+  "scope": "Native timer controller; clock and message pump controlled",
+  "rows": [
+    {
+      "value": 0,
+      "tick": 1000,
+      "pumps": 0,
+      "deadline": 777,
+      "match": true
+    },
+    {
+      "value": 1,
+      "tick": 1002,
+      "pumps": 2,
+      "deadline": 1002,
+      "match": true
+    },
+    {
+      "value": 2,
+      "tick": 1004,
+      "pumps": 4,
+      "deadline": 1004,
+      "match": true
+    },
+    {
+      "value": 10,
+      "tick": 1020,
+      "pumps": 20,
+      "deadline": 1020,
+      "match": true
+    },
+    {
+      "value": 100,
+      "tick": 1200,
+      "pumps": 200,
+      "deadline": 1200,
+      "match": true
+    }
+  ],
+  "passed": true
+}

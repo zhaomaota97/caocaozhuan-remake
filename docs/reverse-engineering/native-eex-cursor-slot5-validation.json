@@ -1,0 +1,164 @@
+{
+  "scope": "Native 0x4183F7 and underlying readers, no replacements; output strings normalized to byte arrays",
+  "rows": [
+    {
+      "name": "empty-string",
+      "tag": 5,
+      "bytes": [
+        5,
+        0,
+        0
+      ],
+      "expectedOffset": 3,
+      "expectedCount": 2,
+      "string": [],
+      "returned": "string-pointer",
+      "value": [],
+      "cursorOffset": 3,
+      "count": 2,
+      "match": true
+    },
+    {
+      "name": "CP936-string",
+      "tag": 5,
+      "bytes": [
+        5,
+        0,
+        178,
+        220,
+        178,
+        217,
+        0
+      ],
+      "expectedOffset": 7,
+      "expectedCount": 2,
+      "string": [
+        178,
+        220,
+        178,
+        217
+      ],
+      "returned": "string-pointer",
+      "value": [
+        178,
+        220,
+        178,
+        217
+      ],
+      "cursorOffset": 7,
+      "count": 2,
+      "match": true
+    },
+    {
+      "name": "string-mismatch",
+      "tag": 5,
+      "bytes": [
+        2,
+        0,
+        1,
+        0
+      ],
+      "expectedOffset": 2,
+      "expectedCount": 2,
+      "sentinel": 2147483648,
+      "returned": 2147483648,
+      "value": 2147483648,
+      "cursorOffset": 2,
+      "count": 2,
+      "match": true
+    },
+    {
+      "name": "dword",
+      "tag": 4,
+      "bytes": [
+        4,
+        0,
+        120,
+        86,
+        52,
+        18
+      ],
+      "expectedOffset": 6,
+      "expectedCount": 6,
+      "scalar": 305419896,
+      "returned": 305419896,
+      "value": 305419896,
+      "cursorOffset": 6,
+      "count": 6,
+      "match": true
+    },
+    {
+      "name": "dword-mismatch",
+      "tag": 4,
+      "bytes": [
+        2,
+        0,
+        1,
+        0
+      ],
+      "expectedOffset": 2,
+      "expectedCount": 2,
+      "sentinel": 2147483648,
+      "returned": 2147483648,
+      "value": 2147483648,
+      "cursorOffset": 2,
+      "count": 2,
+      "match": true
+    },
+    {
+      "name": "word",
+      "tag": 2,
+      "bytes": [
+        2,
+        0,
+        254,
+        255
+      ],
+      "expectedOffset": 4,
+      "expectedCount": 4,
+      "scalar": 65534,
+      "returned": 65534,
+      "value": 65534,
+      "cursorOffset": 4,
+      "count": 4,
+      "match": true
+    },
+    {
+      "name": "word-mismatch",
+      "tag": 2,
+      "bytes": [
+        4,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "expectedOffset": 2,
+      "expectedCount": 2,
+      "sentinel": 32768,
+      "returned": 32768,
+      "value": 32768,
+      "cursorOffset": 2,
+      "count": 2,
+      "match": true
+    },
+    {
+      "name": "raw-opcode",
+      "tag": 1,
+      "bytes": [
+        107,
+        0
+      ],
+      "expectedOffset": 2,
+      "expectedCount": 2,
+      "scalar": 107,
+      "returned": 107,
+      "value": 107,
+      "cursorOffset": 2,
+      "count": 2,
+      "match": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,41 @@
+{
+  "static": {
+    "total": 108,
+    "dynamic": 21,
+    "staticOnly": 85,
+    "reserved": 2
+  },
+  "live": {
+    "runs": 19,
+    "unionCount": 15,
+    "opcodes": [
+      2,
+      8,
+      9,
+      10,
+      20,
+      28,
+      35,
+      39,
+      47,
+      48,
+      50,
+      51,
+      58,
+      59,
+      62
+    ]
+  },
+  "nativeProbeArtifacts": [
+    "native-eex-amount-validation.json",
+    "native-eex-animation-command-validation.json",
+    "native-eex-conditional-validation.json",
+    "native-eex-effect-dispatch-validation.json",
+    "native-eex-enemy-setup-validation.json",
+    "native-eex-high-frequency-validation.json",
+    "native-eex-low-frequency-validation.json",
+    "native-eex-restore-units-validation.json"
+  ],
+  "unobservedPriorityCount": 91,
+  "completionClaim": false
+}

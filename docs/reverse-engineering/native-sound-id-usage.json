@@ -1,0 +1,383 @@
+{
+  "source": "analysis/native-ui-sound-calls.json",
+  "ids": [
+    {
+      "soundId": "0",
+      "occurrences": 8,
+      "callers": [
+        "004337f4",
+        "00433bc8",
+        "0043419f",
+        "0043d538",
+        "00473e33",
+        "00479728"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "1",
+      "occurrences": 9,
+      "callers": [
+        "00433bc8",
+        "0043419f",
+        "0043d538",
+        "0045533d",
+        "0045d85d"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "10",
+      "occurrences": 6,
+      "callers": [
+        "004347ff",
+        "00434d33",
+        "0046dd05",
+        "0046e32e"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "11",
+      "occurrences": 1,
+      "callers": [
+        "004073b8"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "12",
+      "occurrences": 1,
+      "callers": [
+        "0041d4db"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "124",
+      "occurrences": 1,
+      "callers": [
+        "00424810"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "13",
+      "occurrences": 2,
+      "callers": [
+        "004083ef"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "134",
+      "occurrences": 1,
+      "callers": [
+        "00423b2f"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "14",
+      "occurrences": 2,
+      "callers": [
+        "00434d33",
+        "0045991b"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "15",
+      "occurrences": 5,
+      "callers": [
+        "00414f42",
+        "00456140",
+        "004570ee",
+        "004591a1",
+        "0045d85d"
+      ],
+      "modes": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "soundId": "16",
+      "occurrences": 2,
+      "callers": [
+        "00441744",
+        "00456140"
+      ],
+      "modes": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "soundId": "17",
+      "occurrences": 1,
+      "callers": [
+        "004419b6"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "18",
+      "occurrences": 2,
+      "callers": [
+        "00456140",
+        "004567c1"
+      ],
+      "modes": [
+        "0"
+      ]
+    },
+    {
+      "soundId": "19",
+      "occurrences": 1,
+      "callers": [
+        "00456140"
+      ],
+      "modes": [
+        "0"
+      ]
+    },
+    {
+      "soundId": "2",
+      "occurrences": 10,
+      "callers": [
+        "004337f4",
+        "0043d538",
+        "0043dc21",
+        "0045533d"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "22",
+      "occurrences": 1,
+      "callers": [
+        "004419b6"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "31",
+      "occurrences": 5,
+      "callers": [
+        "0044620b",
+        "00446613",
+        "0044711f",
+        "004475be",
+        "00448004"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "32",
+      "occurrences": 1,
+      "callers": [
+        "004044e9"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "33",
+      "occurrences": 5,
+      "callers": [
+        "004044e9",
+        "0041d4db",
+        "00445e14"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "34",
+      "occurrences": 1,
+      "callers": [
+        "004044e9"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "36",
+      "occurrences": 3,
+      "callers": [
+        "0044620b",
+        "0044711f",
+        "004475be"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "37",
+      "occurrences": 2,
+      "callers": [
+        "004044e9",
+        "00445e14"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "39",
+      "occurrences": 5,
+      "callers": [
+        "004218d6",
+        "004347ff",
+        "00434d33"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "40",
+      "occurrences": 1,
+      "callers": [
+        "0042c0a2"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "41",
+      "occurrences": 1,
+      "callers": [
+        "0041c762"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "42",
+      "occurrences": 2,
+      "callers": [
+        "004570ee",
+        "004591a1"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "5",
+      "occurrences": 1,
+      "callers": [
+        "0045e87d"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "6",
+      "occurrences": 7,
+      "callers": [
+        "004419b6",
+        "00444ccf",
+        "00444dad",
+        "00457428",
+        "0045778f"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "7",
+      "occurrences": 7,
+      "callers": [
+        "004044e9",
+        "00444496",
+        "004446d1",
+        "004469eb",
+        "00446db6",
+        "0045778f"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "8",
+      "occurrences": 15,
+      "callers": [
+        "004218d6",
+        "00443ce6",
+        "00443dff",
+        "00443f51",
+        "004440f1",
+        "00444243",
+        "004442ea",
+        "00444bbf",
+        "0045778f"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "9",
+      "occurrences": 2,
+      "callers": [
+        "0046bc8d",
+        "0046dd05"
+      ],
+      "modes": [
+        "1"
+      ]
+    },
+    {
+      "soundId": "dynamic",
+      "occurrences": 3,
+      "callers": [
+        "0043f38b",
+        "0047467a",
+        "00474a07"
+      ],
+      "modes": [
+        "0",
+        "1",
+        "int param_2"
+      ]
+    }
+  ]
+}

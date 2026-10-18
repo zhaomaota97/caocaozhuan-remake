@@ -1,0 +1,114 @@
+# EEX opcode coverage matrix
+
+Total 108; dynamic artifacts 21; static-only 85; reserved 2.
+
+| Opcode | Handler | Status | Evidence |
+|---:|---|---|---|
+| 0 | `-` | **reserved** | - |
+| 1 | `-` | **reserved** | - |
+| 2 | `00411fdc` | **static** | - |
+| 3 | `004112df` | **dynamic** | `native-eex-low-frequency-validation.json` |
+| 4 | `00411748` | **static** | - |
+| 5 | `004117a1` | **static** | - |
+| 6 | `00415b45` | **static** | - |
+| 7 | `00415c46` | **dynamic** | `native-eex-low-frequency-validation.json`, `native-eex-side-effect-validation.json` |
+| 8 | `0041431e` | **static** | - |
+| 9 | `00415b0f` | **dynamic** | `native-eex-high-frequency-validation.json`, `native-eex-live-new-game-validation.json` |
+| 10 | `00415ad7` | **dynamic** | `native-eex-low-frequency-validation.json` |
+| 11 | `004142b2` | **static** | - |
+| 12 | `004143a4` | **dynamic** | `native-eex-low-frequency-validation.json` |
+| 13 | `004143ae` | **dynamic** | `native-eex-low-frequency-validation.json` |
+| 14 | `00415890` | **dynamic** | `native-eex-conditional-validation.json` |
+| 15 | `004158af` | **static** | - |
+| 16 | `0041590d` | **static** | - |
+| 17 | `00415c67` | **static** | - |
+| 18 | `00411db9` | **static** | - |
+| 19 | `00411fa5` | **static** | - |
+| 20 | `00413661` | **dynamic** | `native-eex-live-new-game-validation.json` |
+| 21 | `00413911` | **static** | - |
+| 22 | `00413a5a` | **static** | - |
+| 23 | `00413ab4` | **static** | - |
+| 24 | `00413b07` | **static** | - |
+| 25 | `00413bd1` | **static** | - |
+| 26 | `00413c0e` | **static** | - |
+| 27 | `00413c56` | **static** | - |
+| 28 | `00413ebd` | **dynamic** | `native-eex-handler28-validation.json`, `native-eex-live-new-game-validation.json` |
+| 29 | `00413ee2` | **static** | - |
+| 30 | `00413ef1` | **dynamic** | `native-eex-low-frequency-validation.json` |
+| 31 | `00414257` | **static** | - |
+| 32 | `00416fd8` | **static** | - |
+| 33 | `00413efb` | **static** | - |
+| 34 | `004121ed` | **static** | - |
+| 35 | `004157b4` | **dynamic** | `native-eex-live-new-game-validation.json` |
+| 36 | `0041581c` | **static** | - |
+| 37 | `00411b50` | **static** | - |
+| 38 | `00411c36` | **static** | - |
+| 39 | `00413d13` | **static** | - |
+| 40 | `00414361` | **static** | - |
+| 41 | `00417143` | **static** | - |
+| 42 | `004171ff` | **static** | - |
+| 43 | `004172bb` | **static** | - |
+| 44 | `00417315` | **static** | - |
+| 45 | `004119e7` | **static** | - |
+| 46 | `00411a54` | **static** | - |
+| 47 | `00413652` | **static** | - |
+| 48 | `00413010` | **dynamic** | `native-eex-48-50-boundary-validation.json`, `native-eex-48-50-success-validation.json`, `native-eex-live-new-game-validation.json` |
+| 49 | `0041311c` | **static** | - |
+| 50 | `004132d4` | **dynamic** | `native-eex-48-50-boundary-validation.json`, `native-eex-48-50-success-validation.json`, `native-eex-live-new-game-validation.json` |
+| 51 | `004134c9` | **dynamic** | `native-eex-high-frequency-validation.json`, `native-eex-live-new-game-validation.json` |
+| 52 | `00413567` | **dynamic** | `native-eex-high-frequency-validation.json` |
+| 53 | `004135de` | **static** | - |
+| 54 | `004112e9` | **dynamic** | `native-eex-numeric-predicates-validation.json` |
+| 55 | `004118d4` | **static** | - |
+| 56 | `00412006` | **static** | - |
+| 57 | `00414b62` | **static** | - |
+| 58 | `004149f7` | **static** | - |
+| 59 | `004148fe` | **static** | - |
+| 60 | `00415cbf` | **static** | - |
+| 61 | `004143c2` | **static** | - |
+| 62 | `00416319` | **static** | - |
+| 63 | `00411652` | **dynamic** | `native-eex-numeric-predicates-validation.json` |
+| 64 | `004116ee` | **static** | - |
+| 65 | `0041149d` | **static** | - |
+| 66 | `00411d63` | **dynamic** | `native-eex-config-predicate-validation.json` |
+| 67 | `00411d8e` | **dynamic** | `native-eex-config-predicate-validation.json` |
+| 68 | `00412230` | **static** | - |
+| 69 | `004122f1` | **static** | - |
+| 70 | `004125c5` | **static** | - |
+| 71 | `004129a4` | **static** | - |
+| 72 | `00412dd6` | **static** | - |
+| 73 | `00415795` | **dynamic** | `native-eex-conditional-validation.json` |
+| 74 | `00415d92` | **static** | - |
+| 75 | `00415e31` | **static** | - |
+| 76 | `00414f42` | **static** | - |
+| 77 | `004150e7` | **static** | - |
+| 78 | `004146d4` | **static** | - |
+| 79 | `00415f65` | **static** | - |
+| 80 | `00416129` | **static** | - |
+| 81 | `0041626a` | **static** | - |
+| 82 | `00414d15` | **static** | - |
+| 83 | `0041557b` | **static** | - |
+| 84 | `00415771` | **dynamic** | `native-eex-conditional-validation.json` |
+| 85 | `0041591c` | **static** | - |
+| 86 | `00414f03` | **static** | - |
+| 87 | `00414ec4` | **static** | - |
+| 88 | `004166eb` | **static** | - |
+| 89 | `0041688b` | **static** | - |
+| 90 | `00416c97` | **static** | - |
+| 91 | `00416cbb` | **static** | - |
+| 92 | `00416e17` | **static** | - |
+| 93 | `00417068` | **static** | - |
+| 94 | `004174a2` | **static** | - |
+| 95 | `004175e8` | **static** | - |
+| 96 | `004175fc` | **static** | - |
+| 97 | `004176a8` | **static** | - |
+| 98 | `004176bc` | **static** | - |
+| 99 | `00417701` | **static** | - |
+| 100 | `004177b6` | **static** | - |
+| 101 | `00417826` | **static** | - |
+| 102 | `004178c6` | **static** | - |
+| 103 | `00413b3d` | **static** | - |
+| 104 | `00417535` | **static** | - |
+| 105 | `00413a05` | **static** | - |
+| 106 | `00416dfa` | **static** | - |
+| 107 | `0041405b` | **static** | - |

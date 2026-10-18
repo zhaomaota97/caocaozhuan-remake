@@ -1,0 +1,47 @@
+{
+  "rows": [
+    {
+      "opcode": 14,
+      "condition": 0,
+      "ret": 1,
+      "calls": []
+    },
+    {
+      "opcode": 73,
+      "condition": 0,
+      "ret": 1,
+      "calls": []
+    },
+    {
+      "opcode": 84,
+      "condition": 0,
+      "ret": 1,
+      "calls": []
+    },
+    {
+      "opcode": 14,
+      "condition": 1,
+      "ret": 1,
+      "calls": [
+        3
+      ]
+    },
+    {
+      "opcode": 73,
+      "condition": 1,
+      "ret": 1,
+      "calls": [
+        2
+      ]
+    },
+    {
+      "opcode": 84,
+      "condition": 1,
+      "ret": 1,
+      "calls": [
+        314371
+      ]
+    }
+  ],
+  "passed": true
+}

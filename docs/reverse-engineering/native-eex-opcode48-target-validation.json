@@ -1,0 +1,20 @@
+{
+  "result": {
+    "ret": 65535,
+    "calls": [
+      [
+        4933,
+        59768865,
+        -65502,
+        35,
+        3,
+        3,
+        1,
+        59768832,
+        -65536
+      ]
+    ]
+  },
+  "passed": true,
+  "abiNote": "short arguments are packed/sign-extended under the native call ABI; only the namespace and fixed mode fields are asserted"
+}

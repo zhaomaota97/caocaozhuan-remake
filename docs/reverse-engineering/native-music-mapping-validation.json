@@ -1,0 +1,151 @@
+{
+  "executable_sha256": "6c5c6d68a9074d08077d3343302474cc9bdd59ba1e9493c487737321c89d1bb6",
+  "playlist_lines": 22,
+  "source": "constructed playlist vector; native WndProc",
+  "rows": [
+    {
+      "track": 0,
+      "selected": null,
+      "expected": null,
+      "match": true
+    },
+    {
+      "track": 1,
+      "selected": null,
+      "expected": null,
+      "match": true
+    },
+    {
+      "track": 2,
+      "selected": "SoundTrk\\02-AudioTrack 02.mp3",
+      "expected": "SoundTrk\\02-AudioTrack 02.mp3",
+      "match": true
+    },
+    {
+      "track": 3,
+      "selected": "SoundTrk\\03-AudioTrack 03.mp3",
+      "expected": "SoundTrk\\03-AudioTrack 03.mp3",
+      "match": true
+    },
+    {
+      "track": 4,
+      "selected": "SoundTrk\\04-AudioTrack 04.mp3",
+      "expected": "SoundTrk\\04-AudioTrack 04.mp3",
+      "match": true
+    },
+    {
+      "track": 5,
+      "selected": "SoundTrk\\05-AudioTrack 05.mp3",
+      "expected": "SoundTrk\\05-AudioTrack 05.mp3",
+      "match": true
+    },
+    {
+      "track": 6,
+      "selected": "SoundTrk\\06-AudioTrack 06.mp3",
+      "expected": "SoundTrk\\06-AudioTrack 06.mp3",
+      "match": true
+    },
+    {
+      "track": 7,
+      "selected": "SoundTrk\\07-AudioTrack 07.mp3",
+      "expected": "SoundTrk\\07-AudioTrack 07.mp3",
+      "match": true
+    },
+    {
+      "track": 8,
+      "selected": "SoundTrk\\08-AudioTrack 08.mp3",
+      "expected": "SoundTrk\\08-AudioTrack 08.mp3",
+      "match": true
+    },
+    {
+      "track": 9,
+      "selected": "SoundTrk\\09-AudioTrack 09.mp3",
+      "expected": "SoundTrk\\09-AudioTrack 09.mp3",
+      "match": true
+    },
+    {
+      "track": 10,
+      "selected": "SoundTrk\\10-AudioTrack 10.mp3",
+      "expected": "SoundTrk\\10-AudioTrack 10.mp3",
+      "match": true
+    },
+    {
+      "track": 11,
+      "selected": "SoundTrk\\11-AudioTrack 11.mp3",
+      "expected": "SoundTrk\\11-AudioTrack 11.mp3",
+      "match": true
+    },
+    {
+      "track": 12,
+      "selected": "SoundTrk\\12-AudioTrack 12.mp3",
+      "expected": "SoundTrk\\12-AudioTrack 12.mp3",
+      "match": true
+    },
+    {
+      "track": 13,
+      "selected": "SoundTrk\\13-AudioTrack 13.mp3",
+      "expected": "SoundTrk\\13-AudioTrack 13.mp3",
+      "match": true
+    },
+    {
+      "track": 14,
+      "selected": "SoundTrk\\14-AudioTrack 14.mp3",
+      "expected": "SoundTrk\\14-AudioTrack 14.mp3",
+      "match": true
+    },
+    {
+      "track": 15,
+      "selected": "SoundTrk\\15-AudioTrack 15.mp3",
+      "expected": "SoundTrk\\15-AudioTrack 15.mp3",
+      "match": true
+    },
+    {
+      "track": 16,
+      "selected": "SoundTrk\\16-AudioTrack 16.mp3",
+      "expected": "SoundTrk\\16-AudioTrack 16.mp3",
+      "match": true
+    },
+    {
+      "track": 17,
+      "selected": "SoundTrk\\17-AudioTrack 17.mp3",
+      "expected": "SoundTrk\\17-AudioTrack 17.mp3",
+      "match": true
+    },
+    {
+      "track": 18,
+      "selected": "SoundTrk\\18-AudioTrack 18.mp3",
+      "expected": "SoundTrk\\18-AudioTrack 18.mp3",
+      "match": true
+    },
+    {
+      "track": 19,
+      "selected": "SoundTrk\\19-AudioTrack 19.mp3",
+      "expected": "SoundTrk\\19-AudioTrack 19.mp3",
+      "match": true
+    },
+    {
+      "track": 20,
+      "selected": "SoundTrk\\20-AudioTrack 20.mp3",
+      "expected": "SoundTrk\\20-AudioTrack 20.mp3",
+      "match": true
+    },
+    {
+      "track": 21,
+      "selected": "SoundTrk\\21-AudioTrack 21.mp3",
+      "expected": "SoundTrk\\21-AudioTrack 21.mp3",
+      "match": true
+    },
+    {
+      "track": 22,
+      "selected": "SoundTrk\\22-AudioTrack 22.mp3",
+      "expected": "SoundTrk\\22-AudioTrack 22.mp3",
+      "match": true
+    },
+    {
+      "track": 23,
+      "selected": null,
+      "expected": null,
+      "match": true
+    }
+  ]
+}

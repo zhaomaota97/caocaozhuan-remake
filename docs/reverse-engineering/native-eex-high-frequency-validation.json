@@ -1,0 +1,61 @@
+{
+  "rows": [
+    {
+      "opcode": 9,
+      "mode": 0,
+      "ret": 5,
+      "calls": []
+    },
+    {
+      "opcode": 52,
+      "mode": 0,
+      "ret": 5,
+      "calls": []
+    },
+    {
+      "opcode": 51,
+      "mode": 0,
+      "ret": 5,
+      "calls": []
+    },
+    {
+      "opcode": 9,
+      "mode": 1,
+      "ret": 1,
+      "calls": [
+        {
+          "target": "0x42c522",
+          "value": 52
+        }
+      ]
+    },
+    {
+      "opcode": 52,
+      "mode": 1,
+      "ret": 1,
+      "calls": [
+        {
+          "target": "0x428b87",
+          "a": 4114,
+          "b": 1866399729,
+          "c": 65535
+        }
+      ]
+    },
+    {
+      "opcode": 51,
+      "mode": 1,
+      "ret": 1,
+      "calls": [
+        {
+          "target": "0x428b87",
+          "a": 4114,
+          "b": 61079537,
+          "c": 52
+        }
+      ]
+    }
+  ],
+  "passed": true,
+  "opcode52ReaderBoundary": "verified: low-16-bit 0x8000 sentinel reaches status-5 branch"
+}

@@ -1,0 +1,57 @@
+{
+  "source": "analysis\\live-startup-20261018-043631\\events.jsonl",
+  "method": "live observe_live_game eex-handler hook",
+  "events": [
+    {
+      "opcode": 28,
+      "handler_rva": 81597,
+      "cursor_field": null,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    },
+    {
+      "opcode": 35,
+      "handler_rva": 87988,
+      "cursor_field": 104,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    },
+    {
+      "opcode": 48,
+      "handler_rva": 77840,
+      "cursor_field": null,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    },
+    {
+      "opcode": 50,
+      "handler_rva": 78548,
+      "cursor_field": 444,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    },
+    {
+      "opcode": 9,
+      "handler_rva": 88847,
+      "cursor_field": null,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    },
+    {
+      "opcode": 51,
+      "handler_rva": 79049,
+      "cursor_field": null,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    },
+    {
+      "opcode": 20,
+      "handler_rva": 79457,
+      "cursor_field": 498,
+      "source_event": "analysis\\live-startup-20261018-043631\\events.jsonl"
+    }
+  ],
+  "opcodes": [
+    9,
+    20,
+    28,
+    35,
+    48,
+    50,
+    51
+  ]
+}

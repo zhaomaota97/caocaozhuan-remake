@@ -1,0 +1,280 @@
+{
+  "scope": "Native opcode 20, reader, text splitting and numeric actor lookup; condition and UI leaves controlled",
+  "rows": [
+    {
+      "name": "narration",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "plain",
+          "speaker": 65535,
+          "style": 32,
+          "bytes": [
+            178,
+            220,
+            178,
+            217
+          ]
+        }
+      ],
+      "offset": 7,
+      "counter": 2,
+      "rendered": [
+        [
+          "plain",
+          65535,
+          "曹操"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "battle-narration",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "plain",
+          "speaker": 65535,
+          "style": 32,
+          "bytes": [
+            178,
+            220,
+            178,
+            217
+          ]
+        }
+      ],
+      "offset": 7,
+      "counter": 2,
+      "rendered": [
+        [
+          "plain",
+          65535,
+          "曹操"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "actor-speaker",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "portrait",
+          "speaker": 99,
+          "bytes": [
+            178,
+            220,
+            178,
+            217
+          ]
+        }
+      ],
+      "offset": 11,
+      "counter": 2,
+      "rendered": [
+        [
+          "portrait",
+          99,
+          "曹操"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "multiple-speakers",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "portrait",
+          "speaker": 99,
+          "bytes": [
+            178,
+            220,
+            178,
+            217
+          ]
+        },
+        {
+          "kind": "portrait",
+          "speaker": 100,
+          "bytes": [
+            207,
+            196,
+            186,
+            238,
+            144,
+            170
+          ]
+        }
+      ],
+      "offset": 22,
+      "counter": 2,
+      "rendered": [
+        [
+          "portrait",
+          99,
+          "曹操"
+        ],
+        [
+          "portrait",
+          100,
+          "夏侯惇"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "inactive-speaker",
+      "ret": 1,
+      "calls": [],
+      "offset": 11,
+      "counter": 2,
+      "rendered": [],
+      "match": true
+    },
+    {
+      "name": "wrong-tag",
+      "ret": 5,
+      "calls": [],
+      "offset": 2,
+      "counter": 2,
+      "rendered": [],
+      "match": true
+    },
+    {
+      "name": "named-speaker",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "portrait",
+          "speaker": 99,
+          "bytes": [
+            179,
+            246,
+            183,
+            162
+          ]
+        }
+      ],
+      "offset": 13,
+      "counter": 2,
+      "rendered": [
+        [
+          "portrait",
+          99,
+          "出发"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "named-story-speaker",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "plain",
+          "speaker": 99,
+          "style": 32,
+          "bytes": [
+            179,
+            246,
+            183,
+            162
+          ]
+        }
+      ],
+      "offset": 13,
+      "counter": 2,
+      "rendered": [
+        [
+          "plain",
+          99,
+          "出发"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "unknown-name",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "plain",
+          "speaker": 65535,
+          "style": 32,
+          "bytes": [
+            179,
+            246,
+            183,
+            162
+          ]
+        }
+      ],
+      "offset": 13,
+      "counter": 2,
+      "rendered": [
+        [
+          "plain",
+          65535,
+          "出发"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "current-speaker",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "portrait",
+          "speaker": 99,
+          "bytes": [
+            179,
+            246,
+            183,
+            162
+          ]
+        }
+      ],
+      "offset": 9,
+      "counter": 2,
+      "rendered": [
+        [
+          "portrait",
+          99,
+          "出发"
+        ]
+      ],
+      "match": true
+    },
+    {
+      "name": "dead-current-speaker",
+      "ret": 1,
+      "calls": [
+        {
+          "kind": "plain",
+          "speaker": 65535,
+          "style": 32,
+          "bytes": [
+            179,
+            246,
+            183,
+            162
+          ]
+        }
+      ],
+      "offset": 9,
+      "counter": 2,
+      "rendered": [
+        [
+          "plain",
+          65535,
+          "出发"
+        ]
+      ],
+      "match": true
+    }
+  ],
+  "passed": true
+}

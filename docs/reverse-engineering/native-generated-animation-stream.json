@@ -1,0 +1,510 @@
+{
+  "scope": "Native allocator/generator/bounds/writer; only path-direction selector controlled; return upper bits ignored",
+  "rows": [
+    {
+      "mask": 0,
+      "endDirection": -1,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 0,
+      "offset": 0,
+      "finalMask": 1,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        239,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 0,
+      "endDirection": -1,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 0,
+      "offset": 0,
+      "finalMask": 1,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        239,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 0,
+      "endDirection": -1,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 0,
+      "offset": 0,
+      "finalMask": 1,
+      "selectorCalls": 3,
+      "bytes": [
+        239,
+        1,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 0,
+      "endDirection": 2,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 0,
+      "offset": 0,
+      "finalMask": 1,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 0,
+      "endDirection": 2,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 0,
+      "offset": 0,
+      "finalMask": 1,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 0,
+      "endDirection": 2,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 0,
+      "offset": 0,
+      "finalMask": 1,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 1,
+      "endDirection": -1,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 1,
+      "offset": 1024,
+      "finalMask": 3,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        239,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 1,
+      "endDirection": -1,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 1,
+      "offset": 1024,
+      "finalMask": 3,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        239,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 1,
+      "endDirection": -1,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 1,
+      "offset": 1024,
+      "finalMask": 3,
+      "selectorCalls": 3,
+      "bytes": [
+        239,
+        1,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 1,
+      "endDirection": 2,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 1,
+      "offset": 1024,
+      "finalMask": 3,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 1,
+      "endDirection": 2,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 1,
+      "offset": 1024,
+      "finalMask": 3,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 1,
+      "endDirection": 2,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 1,
+      "offset": 1024,
+      "finalMask": 3,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 3,
+      "endDirection": -1,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 2,
+      "offset": 2048,
+      "finalMask": 7,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        239,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 3,
+      "endDirection": -1,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 2,
+      "offset": 2048,
+      "finalMask": 7,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        239,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 3,
+      "endDirection": -1,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 2,
+      "offset": 2048,
+      "finalMask": 7,
+      "selectorCalls": 3,
+      "bytes": [
+        239,
+        1,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 3,
+      "endDirection": 2,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 2,
+      "offset": 2048,
+      "finalMask": 7,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 3,
+      "endDirection": 2,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 2,
+      "offset": 2048,
+      "finalMask": 7,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 3,
+      "endDirection": 2,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 2,
+      "offset": 2048,
+      "finalMask": 7,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 2147483647,
+      "endDirection": -1,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 31,
+      "offset": 31744,
+      "finalMask": 4294967295,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        239,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 2147483647,
+      "endDirection": -1,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 31,
+      "offset": 31744,
+      "finalMask": 4294967295,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        239,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 2147483647,
+      "endDirection": -1,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 31,
+      "offset": 31744,
+      "finalMask": 4294967295,
+      "selectorCalls": 3,
+      "bytes": [
+        239,
+        1,
+        204,
+        204,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 2147483647,
+      "endDirection": 2,
+      "trim": 0,
+      "retLow": 0,
+      "slot": 31,
+      "offset": 31744,
+      "finalMask": 4294967295,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 2147483647,
+      "endDirection": 2,
+      "trim": 1,
+      "retLow": 0,
+      "slot": 31,
+      "offset": 31744,
+      "finalMask": 4294967295,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 2147483647,
+      "endDirection": 2,
+      "trim": 10,
+      "retLow": 0,
+      "slot": 31,
+      "offset": 31744,
+      "finalMask": 4294967295,
+      "selectorCalls": 3,
+      "bytes": [
+        0,
+        1,
+        18,
+        239,
+        204
+      ],
+      "match": true
+    },
+    {
+      "mask": 4294967295,
+      "endDirection": -1,
+      "trim": 0,
+      "retLow": 65535,
+      "slot": 43690,
+      "offset": 48059,
+      "finalMask": 4294967295,
+      "selectorCalls": 0,
+      "bytes": [],
+      "match": true
+    },
+    {
+      "mask": 4294967295,
+      "endDirection": -1,
+      "trim": 1,
+      "retLow": 65535,
+      "slot": 43690,
+      "offset": 48059,
+      "finalMask": 4294967295,
+      "selectorCalls": 0,
+      "bytes": [],
+      "match": true
+    },
+    {
+      "mask": 4294967295,
+      "endDirection": -1,
+      "trim": 10,
+      "retLow": 65535,
+      "slot": 43690,
+      "offset": 48059,
+      "finalMask": 4294967295,
+      "selectorCalls": 0,
+      "bytes": [],
+      "match": true
+    },
+    {
+      "mask": 4294967295,
+      "endDirection": 2,
+      "trim": 0,
+      "retLow": 65535,
+      "slot": 43690,
+      "offset": 48059,
+      "finalMask": 4294967295,
+      "selectorCalls": 0,
+      "bytes": [],
+      "match": true
+    },
+    {
+      "mask": 4294967295,
+      "endDirection": 2,
+      "trim": 1,
+      "retLow": 65535,
+      "slot": 43690,
+      "offset": 48059,
+      "finalMask": 4294967295,
+      "selectorCalls": 0,
+      "bytes": [],
+      "match": true
+    },
+    {
+      "mask": 4294967295,
+      "endDirection": 2,
+      "trim": 10,
+      "retLow": 65535,
+      "slot": 43690,
+      "offset": 48059,
+      "finalMask": 4294967295,
+      "selectorCalls": 0,
+      "bytes": [],
+      "match": true
+    }
+  ],
+  "passed": true
+}

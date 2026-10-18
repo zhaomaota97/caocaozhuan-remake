@@ -1,0 +1,14 @@
+{
+  "opcode": 28,
+  "handler": "0x413ebd",
+  "results": [
+    {
+      "mode": 0,
+      "ret": 1
+    },
+    {
+      "mode": 2,
+      "error": "Error: access violation accessing 0x0"
+    }
+  ]
+}

@@ -1,0 +1,4682 @@
+[
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 0,
+    "threshold": 36,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 0,
+    "threshold": 37,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 0,
+    "threshold": 38,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 1,
+    "threshold": 36,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 1,
+    "threshold": 37,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 1,
+    "threshold": 38,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 2,
+    "threshold": 36,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 2,
+    "threshold": 37,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 2,
+    "threshold": 38,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 99,
+    "threshold": 36,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 99,
+    "threshold": 37,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 99,
+    "threshold": 38,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 0,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 0,
+    "threshold": 40,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 0,
+    "threshold": 41,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 0,
+    "threshold": 42,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 1,
+    "threshold": 40,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 1,
+    "threshold": 41,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 1,
+    "threshold": 42,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 2,
+    "threshold": 40,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 2,
+    "threshold": 41,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 2,
+    "threshold": 42,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 99,
+    "threshold": 40,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 99,
+    "threshold": 41,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 99,
+    "threshold": 42,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 1,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 0,
+    "threshold": 52,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 0,
+    "threshold": 53,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 0,
+    "threshold": 54,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 1,
+    "threshold": 52,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 1,
+    "threshold": 53,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 1,
+    "threshold": 54,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 2,
+    "threshold": 52,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 2,
+    "threshold": 53,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 2,
+    "threshold": 54,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 99,
+    "threshold": 52,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 99,
+    "threshold": 53,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 99,
+    "threshold": 54,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 2,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 0,
+    "threshold": 66,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 0,
+    "threshold": 67,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 0,
+    "threshold": 68,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 1,
+    "threshold": 66,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 1,
+    "threshold": 67,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 1,
+    "threshold": 68,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 2,
+    "threshold": 66,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 2,
+    "threshold": 67,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 2,
+    "threshold": 68,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 99,
+    "threshold": 66,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 99,
+    "threshold": 67,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 99,
+    "threshold": 68,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 3,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 0,
+    "threshold": 78,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 0,
+    "threshold": 79,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 0,
+    "threshold": 80,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 1,
+    "threshold": 78,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 1,
+    "threshold": 79,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 1,
+    "threshold": 80,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 2,
+    "threshold": 78,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 2,
+    "threshold": 79,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 2,
+    "threshold": 80,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 99,
+    "threshold": 78,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 99,
+    "threshold": 79,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 99,
+    "threshold": 80,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 4,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 0,
+    "threshold": 305419895,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 0,
+    "threshold": 305419896,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 0,
+    "threshold": 305419897,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 1,
+    "threshold": 305419895,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 1,
+    "threshold": 305419896,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 1,
+    "threshold": 305419897,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 2,
+    "threshold": 305419895,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 2,
+    "threshold": 305419896,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 2,
+    "threshold": 305419897,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 99,
+    "threshold": 305419895,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 99,
+    "threshold": 305419896,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 99,
+    "threshold": 305419897,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 5,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 0,
+    "threshold": 90,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 0,
+    "threshold": 91,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 0,
+    "threshold": 92,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 1,
+    "threshold": 90,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 1,
+    "threshold": 91,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 1,
+    "threshold": 92,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 2,
+    "threshold": 90,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 2,
+    "threshold": 91,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 2,
+    "threshold": 92,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 99,
+    "threshold": 90,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 99,
+    "threshold": 91,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 99,
+    "threshold": 92,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 16
+    },
+    "expected_consumed": 16,
+    "match": true
+  },
+  {
+    "opcode": 54,
+    "channel": 6,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 20
+    },
+    "expected_consumed": 20,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 0,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 1,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 127,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 128,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 254,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 0,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 1,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 2,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 128,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 255,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 0,
+    "threshold": 4294967295,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 256,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 1,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 2,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 0,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 1,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 2,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 128,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 255,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 256,
+    "expected": 1,
+    "actual": {
+      "status": 1,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 2147483648,
+    "expected": 5,
+    "actual": {
+      "status": 5,
+      "consumed": 8
+    },
+    "expected_consumed": 8,
+    "match": true
+  },
+  {
+    "opcode": 63,
+    "turn": 255,
+    "operator": 99,
+    "threshold": 4294967295,
+    "expected": 0,
+    "actual": {
+      "status": 0,
+      "consumed": 12
+    },
+    "expected_consumed": 12,
+    "match": true
+  }
+]

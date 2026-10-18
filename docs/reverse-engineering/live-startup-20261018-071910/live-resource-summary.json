@@ -1,0 +1,81 @@
+{
+  "source": "analysis\\live-startup-20261018-071910\\events.jsonl",
+  "malformedLinesSkipped": 0,
+  "fileEvents": 17,
+  "files": [
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\CmdIcon.dll",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\DATA.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\FACE.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\HITAREA.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\IMSG.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\ItemIcon.dll",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\LOGO.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\LOGO_P.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\MARK.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\MMAP.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\MgcIcon.dll",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\PMAP.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\PMAPOBJ.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\PMPALET.E5",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\R_00.EEX",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SVCMN.E5S",
+    "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\UNIT_MOV.E5"
+  ],
+  "sounds": {
+    "SE00.WAV": 1,
+    "SE_E_01.WAV": 1
+  },
+  "resourceContainers": {
+    "DATA.E5": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "FACE.E5": [
+      0,
+      180
+    ],
+    "HITAREA.E5": [
+      0
+    ],
+    "LOGO.E5": [
+      0,
+      1,
+      2,
+      3,
+      12
+    ],
+    "LOGO_P.E5": [
+      0,
+      3
+    ],
+    "MMAP.E5": [
+      70
+    ],
+    "PMAP.E5": [
+      30
+    ],
+    "PMAPOBJ.E5": [
+      0,
+      1,
+      314,
+      315,
+      338,
+      339,
+      340,
+      341
+    ],
+    "PMPALET.E5": [
+      70
+    ],
+    "UNIT_MOV.E5": [
+      108
+    ]
+  },
+  "nativeEntries": {
+    "0x17ed2": 1
+  }
+}

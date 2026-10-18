@@ -1,0 +1,653 @@
+{
+  "handlerCount": 108,
+  "clusterCount": 73,
+  "clusters": [
+    {
+      "classification": "reserved/terminal",
+      "parameterTags": "",
+      "globalWrites": [],
+      "opcodes": [
+        0,
+        1
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "opcodes": [
+        2,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        105
+      ]
+    },
+    {
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "opcodes": [
+        3,
+        10,
+        12,
+        13,
+        14,
+        16,
+        28,
+        29,
+        30,
+        47,
+        66,
+        67,
+        68,
+        73,
+        81,
+        84,
+        90,
+        95,
+        97
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "38",
+      "globalWrites": [],
+      "opcodes": [
+        4,
+        98
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "53 1 53 1",
+      "globalWrites": [],
+      "opcodes": [
+        5
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "46 4 56 57",
+      "globalWrites": [
+        "004b09ec"
+      ],
+      "opcodes": [
+        6
+      ]
+    },
+    {
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [
+        "004ae4c0"
+      ],
+      "opcodes": [
+        7
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "46",
+      "globalWrites": [],
+      "opcodes": [
+        8
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4",
+      "globalWrites": [],
+      "opcodes": [
+        9,
+        19
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 39",
+      "globalWrites": [],
+      "opcodes": [
+        11
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "18",
+      "globalWrites": [],
+      "opcodes": [
+        15
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "55",
+      "globalWrites": [],
+      "opcodes": [
+        17
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5 2",
+      "globalWrites": [],
+      "opcodes": [
+        18
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "2 2 5",
+      "globalWrites": [],
+      "opcodes": [
+        21
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 39",
+      "globalWrites": [],
+      "opcodes": [
+        27
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 4",
+      "globalWrites": [],
+      "opcodes": [
+        31
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "74",
+      "globalWrites": [],
+      "opcodes": [
+        32
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 4 16 38 38",
+      "globalWrites": [],
+      "opcodes": [
+        33
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "27",
+      "globalWrites": [],
+      "opcodes": [
+        34
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "30 4",
+      "globalWrites": [],
+      "opcodes": [
+        35
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "9",
+      "globalWrites": [],
+      "opcodes": [
+        36
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        37,
+        41,
+        42
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 4 4 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        38
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "45 12 26 28 21",
+      "globalWrites": [
+        "004abf9c",
+        "004b3d08"
+      ],
+      "opcodes": [
+        39
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "54",
+      "globalWrites": [],
+      "opcodes": [
+        40
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2",
+      "globalWrites": [],
+      "opcodes": [
+        43,
+        45,
+        92
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5 38 38 38",
+      "globalWrites": [],
+      "opcodes": [
+        44
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 2 38",
+      "globalWrites": [],
+      "opcodes": [
+        46
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 4 4 43 13",
+      "globalWrites": [],
+      "opcodes": [
+        48
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "44 2 4 4 4 4 3",
+      "globalWrites": [],
+      "opcodes": [
+        49
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "64 2 4 4 4 43",
+      "globalWrites": [],
+      "opcodes": [
+        50,
+        85
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 13 43",
+      "globalWrites": [],
+      "opcodes": [
+        51
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 13",
+      "globalWrites": [],
+      "opcodes": [
+        52
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 19",
+      "globalWrites": [],
+      "opcodes": [
+        53
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 35 4 36",
+      "globalWrites": [],
+      "opcodes": [
+        54
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "40 4 36",
+      "globalWrites": [],
+      "opcodes": [
+        55
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 35 52 4",
+      "globalWrites": [],
+      "opcodes": [
+        56
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 4",
+      "globalWrites": [],
+      "opcodes": [
+        57
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "40 52 4",
+      "globalWrites": [],
+      "opcodes": [
+        58
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 14 62",
+      "globalWrites": [],
+      "opcodes": [
+        59
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 14 58",
+      "globalWrites": [],
+      "opcodes": [
+        60
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "23 73 38 2",
+      "globalWrites": [],
+      "opcodes": [
+        61
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 59 73 60 73 61",
+      "globalWrites": [],
+      "opcodes": [
+        62,
+        72
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 36",
+      "globalWrites": [],
+      "opcodes": [
+        63
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "72",
+      "globalWrites": [],
+      "opcodes": [
+        64
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "3 4 36 63 4 4 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        65
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "38 38 4 62 50 2 50 2 71 34",
+      "globalWrites": [
+        "00494fd0",
+        "00496c94",
+        "00496c96",
+        "00496c98",
+        "00496c9a",
+        "00496c9f",
+        "00496e21",
+        "00496e22",
+        "00496e23"
+      ],
+      "opcodes": [
+        69
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 38 4 4 43 62 69 7 2 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        70
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 38 38 4 4 43 62 69 7 2 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        71
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 56 57",
+      "globalWrites": [],
+      "opcodes": [
+        74
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 4 4 43 38",
+      "globalWrites": [],
+      "opcodes": [
+        75
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "64 2 4",
+      "globalWrites": [],
+      "opcodes": [
+        76
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "65 2 4 4 4 4 4 3 47 24 48 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        77
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "44 2 4 4 4 4 3 7 2 4 4",
+      "globalWrites": [],
+      "opcodes": [
+        78
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 2 43 38 38 38",
+      "globalWrites": [],
+      "opcodes": [
+        79
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 70 38 38",
+      "globalWrites": [],
+      "opcodes": [
+        80
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 3",
+      "globalWrites": [],
+      "opcodes": [
+        82
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "44 2 4 4 4 4 3 38",
+      "globalWrites": [],
+      "opcodes": [
+        83
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "71",
+      "globalWrites": [],
+      "opcodes": [
+        86
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "34",
+      "globalWrites": [],
+      "opcodes": [
+        87
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "66 67 68 4 4 38 38",
+      "globalWrites": [],
+      "opcodes": [
+        88
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 23 73 23 73 23 73 38",
+      "globalWrites": [],
+      "opcodes": [
+        89
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 4 4 4 38",
+      "globalWrites": [
+        "004b3d10",
+        "004b3d14",
+        "004b3d15",
+        "004b3d16",
+        "004b3d17"
+      ],
+      "opcodes": [
+        91
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "52 4",
+      "globalWrites": [
+        "004b3d0b"
+      ],
+      "opcodes": [
+        93
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "2 2",
+      "globalWrites": [],
+      "opcodes": [
+        94,
+        104
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "38 5 76",
+      "globalWrites": [],
+      "opcodes": [
+        96
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "38 5 38",
+      "globalWrites": [],
+      "opcodes": [
+        99
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "38 76",
+      "globalWrites": [],
+      "opcodes": [
+        100
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "38 77 38",
+      "globalWrites": [],
+      "opcodes": [
+        101
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "38 78 38",
+      "globalWrites": [],
+      "opcodes": [
+        102
+      ]
+    },
+    {
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "4 5",
+      "globalWrites": [],
+      "opcodes": [
+        103
+      ]
+    },
+    {
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [
+        "004b3d10"
+      ],
+      "opcodes": [
+        106
+      ]
+    },
+    {
+      "classification": "parameterized",
+      "parameterTags": "4 4 75 38",
+      "globalWrites": [],
+      "opcodes": [
+        107
+      ]
+    }
+  ],
+  "method": "static fingerprint only; cluster membership is not a runtime semantic claim"
+}

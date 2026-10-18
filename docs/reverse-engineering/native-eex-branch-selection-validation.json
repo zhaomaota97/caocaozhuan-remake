@@ -1,0 +1,257 @@
+[
+  {
+    "predicates": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "choice": 0,
+    "expected_branch": null,
+    "actual": {
+      "selected": 0,
+      "cursor": 56,
+      "bodyResult": null,
+      "flags": [
+        0,
+        0
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "choice": 1,
+    "expected_branch": 0,
+    "actual": {
+      "selected": 1,
+      "cursor": 28,
+      "bodyResult": 0,
+      "flags": [
+        1,
+        0
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "choice": 2,
+    "expected_branch": 1,
+    "actual": {
+      "selected": 1,
+      "cursor": 56,
+      "bodyResult": 0,
+      "flags": [
+        0,
+        1
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "choice": 0,
+    "expected_branch": null,
+    "actual": {
+      "selected": 0,
+      "cursor": 56,
+      "bodyResult": null,
+      "flags": [
+        0,
+        0
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "choice": 1,
+    "expected_branch": 1,
+    "actual": {
+      "selected": 1,
+      "cursor": 56,
+      "bodyResult": 0,
+      "flags": [
+        0,
+        1
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "choice": 2,
+    "expected_branch": null,
+    "actual": {
+      "selected": 0,
+      "cursor": 56,
+      "bodyResult": null,
+      "flags": [
+        0,
+        0
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "choice": 0,
+    "expected_branch": null,
+    "actual": {
+      "selected": 0,
+      "cursor": 64,
+      "bodyResult": null,
+      "flags": [
+        0,
+        0
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "choice": 1,
+    "expected_branch": 1,
+    "actual": {
+      "selected": 1,
+      "cursor": 64,
+      "bodyResult": 0,
+      "flags": [
+        0,
+        1
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "choice": 2,
+    "expected_branch": null,
+    "actual": {
+      "selected": 0,
+      "cursor": 64,
+      "bodyResult": null,
+      "flags": [
+        0,
+        0
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [],
+      []
+    ],
+    "choice": 0,
+    "expected_branch": 1,
+    "actual": {
+      "selected": 1,
+      "cursor": 40,
+      "bodyResult": 0,
+      "flags": [
+        0,
+        1
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [],
+      []
+    ],
+    "choice": 1,
+    "expected_branch": 1,
+    "actual": {
+      "selected": 1,
+      "cursor": 40,
+      "bodyResult": 0,
+      "flags": [
+        0,
+        1
+      ]
+    },
+    "match": true
+  },
+  {
+    "predicates": [
+      [],
+      []
+    ],
+    "choice": 2,
+    "expected_branch": 1,
+    "actual": {
+      "selected": 1,
+      "cursor": 40,
+      "bodyResult": 0,
+      "flags": [
+        0,
+        1
+      ]
+    },
+    "match": true
+  }
+]

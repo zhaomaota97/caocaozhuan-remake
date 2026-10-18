@@ -1,0 +1,767 @@
+{
+  "sourceFiles": 117,
+  "bodies": 2320,
+  "includesNestedConditions": true,
+  "totalOpcodes": 108,
+  "usedOpcodes": 92,
+  "unusedOpcodes": 16,
+  "terminatorCount": 4360,
+  "rows": [
+    {
+      "opcode": 0,
+      "handler": null,
+      "classification": "reserved/terminal",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 1,
+      "handler": null,
+      "classification": "reserved/terminal",
+      "occurrences": 2040,
+      "files": 91
+    },
+    {
+      "opcode": 2,
+      "handler": "00411fdc",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 601,
+      "files": 58
+    },
+    {
+      "opcode": 3,
+      "handler": "004112df",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 91,
+      "files": 36
+    },
+    {
+      "opcode": 4,
+      "handler": "00411748",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 5,
+      "handler": "004117a1",
+      "classification": "parameterized",
+      "occurrences": 1069,
+      "files": 83
+    },
+    {
+      "opcode": 6,
+      "handler": "00415b45",
+      "classification": "parameterized",
+      "occurrences": 115,
+      "files": 57
+    },
+    {
+      "opcode": 7,
+      "handler": "00415c46",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 8,
+      "handler": "0041431e",
+      "classification": "parameterized",
+      "occurrences": 293,
+      "files": 117
+    },
+    {
+      "opcode": 9,
+      "handler": "00415b0f",
+      "classification": "parameterized",
+      "occurrences": 2949,
+      "files": 95
+    },
+    {
+      "opcode": 10,
+      "handler": "00415ad7",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 63,
+      "files": 57
+    },
+    {
+      "opcode": 11,
+      "handler": "004142b2",
+      "classification": "parameterized",
+      "occurrences": 2334,
+      "files": 71
+    },
+    {
+      "opcode": 12,
+      "handler": "004143a4",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 13,
+      "handler": "004143ae",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 260,
+      "files": 115
+    },
+    {
+      "opcode": 14,
+      "handler": "00415890",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 67,
+      "files": 58
+    },
+    {
+      "opcode": 15,
+      "handler": "004158af",
+      "classification": "parameterized",
+      "occurrences": 3,
+      "files": 1
+    },
+    {
+      "opcode": 16,
+      "handler": "0041590d",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "opcode": 17,
+      "handler": "00415c67",
+      "classification": "parameterized",
+      "occurrences": 12,
+      "files": 9
+    },
+    {
+      "opcode": 18,
+      "handler": "00411db9",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 94,
+      "files": 70
+    },
+    {
+      "opcode": 19,
+      "handler": "00411fa5",
+      "classification": "parameterized",
+      "occurrences": 193,
+      "files": 70
+    },
+    {
+      "opcode": 20,
+      "handler": "00413661",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 7613,
+      "files": 117
+    },
+    {
+      "opcode": 21,
+      "handler": "00413911",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 96,
+      "files": 16
+    },
+    {
+      "opcode": 22,
+      "handler": "00413a5a",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 143,
+      "files": 78
+    },
+    {
+      "opcode": 23,
+      "handler": "00413ab4",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 253,
+      "files": 59
+    },
+    {
+      "opcode": 24,
+      "handler": "00413b07",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 73,
+      "files": 57
+    },
+    {
+      "opcode": 25,
+      "handler": "00413bd1",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 95,
+      "files": 58
+    },
+    {
+      "opcode": 26,
+      "handler": "00413c0e",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 94,
+      "files": 58
+    },
+    {
+      "opcode": 27,
+      "handler": "00413c56",
+      "classification": "parameterized",
+      "occurrences": 8,
+      "files": 6
+    },
+    {
+      "opcode": 28,
+      "handler": "00413ebd",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 415,
+      "files": 117
+    },
+    {
+      "opcode": 29,
+      "handler": "00413ee2",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 419,
+      "files": 117
+    },
+    {
+      "opcode": 30,
+      "handler": "00413ef1",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 298,
+      "files": 48
+    },
+    {
+      "opcode": 31,
+      "handler": "00414257",
+      "classification": "parameterized",
+      "occurrences": 18,
+      "files": 1
+    },
+    {
+      "opcode": 32,
+      "handler": "00416fd8",
+      "classification": "parameterized",
+      "occurrences": 276,
+      "files": 47
+    },
+    {
+      "opcode": 33,
+      "handler": "00413efb",
+      "classification": "parameterized",
+      "occurrences": 342,
+      "files": 8
+    },
+    {
+      "opcode": 34,
+      "handler": "004121ed",
+      "classification": "parameterized",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "opcode": 35,
+      "handler": "004157b4",
+      "classification": "parameterized",
+      "occurrences": 460,
+      "files": 67
+    },
+    {
+      "opcode": 36,
+      "handler": "0041581c",
+      "classification": "parameterized",
+      "occurrences": 598,
+      "files": 117
+    },
+    {
+      "opcode": 37,
+      "handler": "00411b50",
+      "classification": "parameterized",
+      "occurrences": 2,
+      "files": 1
+    },
+    {
+      "opcode": 38,
+      "handler": "00411c36",
+      "classification": "parameterized",
+      "occurrences": 20,
+      "files": 3
+    },
+    {
+      "opcode": 39,
+      "handler": "00413d13",
+      "classification": "parameterized",
+      "occurrences": 415,
+      "files": 117
+    },
+    {
+      "opcode": 40,
+      "handler": "00414361",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 41,
+      "handler": "00417143",
+      "classification": "parameterized",
+      "occurrences": 325,
+      "files": 48
+    },
+    {
+      "opcode": 42,
+      "handler": "004171ff",
+      "classification": "parameterized",
+      "occurrences": 174,
+      "files": 48
+    },
+    {
+      "opcode": 43,
+      "handler": "004172bb",
+      "classification": "parameterized",
+      "occurrences": 60,
+      "files": 26
+    },
+    {
+      "opcode": 44,
+      "handler": "00417315",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 472,
+      "files": 48
+    },
+    {
+      "opcode": 45,
+      "handler": "004119e7",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 46,
+      "handler": "00411a54",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 47,
+      "handler": "00413652",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 271,
+      "files": 58
+    },
+    {
+      "opcode": 48,
+      "handler": "00413010",
+      "classification": "parameterized",
+      "occurrences": 1453,
+      "files": 59
+    },
+    {
+      "opcode": 49,
+      "handler": "0041311c",
+      "classification": "parameterized",
+      "occurrences": 535,
+      "files": 95
+    },
+    {
+      "opcode": 50,
+      "handler": "004132d4",
+      "classification": "parameterized",
+      "occurrences": 1808,
+      "files": 88
+    },
+    {
+      "opcode": 51,
+      "handler": "004134c9",
+      "classification": "parameterized",
+      "occurrences": 1542,
+      "files": 59
+    },
+    {
+      "opcode": 52,
+      "handler": "00413567",
+      "classification": "parameterized",
+      "occurrences": 3009,
+      "files": 59
+    },
+    {
+      "opcode": 53,
+      "handler": "004135de",
+      "classification": "parameterized",
+      "occurrences": 11,
+      "files": 5
+    },
+    {
+      "opcode": 54,
+      "handler": "004112e9",
+      "classification": "parameterized",
+      "occurrences": 3,
+      "files": 2
+    },
+    {
+      "opcode": 55,
+      "handler": "004118d4",
+      "classification": "parameterized",
+      "occurrences": 4,
+      "files": 3
+    },
+    {
+      "opcode": 56,
+      "handler": "00412006",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 57,
+      "handler": "00414b62",
+      "classification": "parameterized",
+      "occurrences": 21,
+      "files": 1
+    },
+    {
+      "opcode": 58,
+      "handler": "004149f7",
+      "classification": "parameterized",
+      "occurrences": 47,
+      "files": 21
+    },
+    {
+      "opcode": 59,
+      "handler": "004148fe",
+      "classification": "parameterized",
+      "occurrences": 39,
+      "files": 21
+    },
+    {
+      "opcode": 60,
+      "handler": "00415cbf",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 61,
+      "handler": "004143c2",
+      "classification": "parameterized",
+      "occurrences": 293,
+      "files": 59
+    },
+    {
+      "opcode": 62,
+      "handler": "00416319",
+      "classification": "parameterized",
+      "occurrences": 5,
+      "files": 5
+    },
+    {
+      "opcode": 63,
+      "handler": "00411652",
+      "classification": "parameterized",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "opcode": 64,
+      "handler": "004116ee",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 65,
+      "handler": "0041149d",
+      "classification": "parameterized",
+      "occurrences": 39,
+      "files": 15
+    },
+    {
+      "opcode": 66,
+      "handler": "00411d63",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 67,
+      "handler": "00411d8e",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 68,
+      "handler": "00412230",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 58,
+      "files": 58
+    },
+    {
+      "opcode": 69,
+      "handler": "004122f1",
+      "classification": "parameterized",
+      "occurrences": 58,
+      "files": 58
+    },
+    {
+      "opcode": 70,
+      "handler": "004125c5",
+      "classification": "parameterized",
+      "occurrences": 57,
+      "files": 57
+    },
+    {
+      "opcode": 71,
+      "handler": "004129a4",
+      "classification": "parameterized",
+      "occurrences": 58,
+      "files": 58
+    },
+    {
+      "opcode": 72,
+      "handler": "00412dd6",
+      "classification": "parameterized",
+      "occurrences": 216,
+      "files": 53
+    },
+    {
+      "opcode": 73,
+      "handler": "00415795",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 202,
+      "files": 58
+    },
+    {
+      "opcode": 74,
+      "handler": "00415d92",
+      "classification": "parameterized",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "opcode": 75,
+      "handler": "00415e31",
+      "classification": "parameterized",
+      "occurrences": 878,
+      "files": 58
+    },
+    {
+      "opcode": 76,
+      "handler": "00414f42",
+      "classification": "parameterized",
+      "occurrences": 1376,
+      "files": 50
+    },
+    {
+      "opcode": 77,
+      "handler": "004150e7",
+      "classification": "parameterized",
+      "occurrences": 99,
+      "files": 21
+    },
+    {
+      "opcode": 78,
+      "handler": "004146d4",
+      "classification": "parameterized",
+      "occurrences": 2242,
+      "files": 55
+    },
+    {
+      "opcode": 79,
+      "handler": "00415f65",
+      "classification": "parameterized",
+      "occurrences": 2418,
+      "files": 58
+    },
+    {
+      "opcode": 80,
+      "handler": "00416129",
+      "classification": "parameterized",
+      "occurrences": 1380,
+      "files": 58
+    },
+    {
+      "opcode": 81,
+      "handler": "0041626a",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 130,
+      "files": 57
+    },
+    {
+      "opcode": 82,
+      "handler": "00414d15",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 83,
+      "handler": "0041557b",
+      "classification": "parameterized",
+      "occurrences": 659,
+      "files": 57
+    },
+    {
+      "opcode": 84,
+      "handler": "00415771",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "opcode": 85,
+      "handler": "0041591c",
+      "classification": "parameterized",
+      "occurrences": 1114,
+      "files": 15
+    },
+    {
+      "opcode": 86,
+      "handler": "00414f03",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 87,
+      "handler": "00414ec4",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 88,
+      "handler": "004166eb",
+      "classification": "parameterized",
+      "occurrences": 698,
+      "files": 16
+    },
+    {
+      "opcode": 89,
+      "handler": "0041688b",
+      "classification": "parameterized",
+      "occurrences": 155,
+      "files": 57
+    },
+    {
+      "opcode": 90,
+      "handler": "00416c97",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 57,
+      "files": 57
+    },
+    {
+      "opcode": 91,
+      "handler": "00416cbb",
+      "classification": "parameterized",
+      "occurrences": 41,
+      "files": 23
+    },
+    {
+      "opcode": 92,
+      "handler": "00416e17",
+      "classification": "parameterized",
+      "occurrences": 42,
+      "files": 31
+    },
+    {
+      "opcode": 93,
+      "handler": "00417068",
+      "classification": "parameterized",
+      "occurrences": 5,
+      "files": 4
+    },
+    {
+      "opcode": 94,
+      "handler": "004174a2",
+      "classification": "parameterized",
+      "occurrences": 0,
+      "files": 0
+    },
+    {
+      "opcode": 95,
+      "handler": "004175e8",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 52,
+      "files": 31
+    },
+    {
+      "opcode": 96,
+      "handler": "004175fc",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 104,
+      "files": 31
+    },
+    {
+      "opcode": 97,
+      "handler": "004176a8",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 50,
+      "files": 30
+    },
+    {
+      "opcode": 98,
+      "handler": "004176bc",
+      "classification": "parameterized",
+      "occurrences": 30,
+      "files": 19
+    },
+    {
+      "opcode": 99,
+      "handler": "00417701",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 353,
+      "files": 31
+    },
+    {
+      "opcode": 100,
+      "handler": "004177b6",
+      "classification": "parameterized",
+      "occurrences": 585,
+      "files": 31
+    },
+    {
+      "opcode": 101,
+      "handler": "00417826",
+      "classification": "parameterized",
+      "occurrences": 144,
+      "files": 22
+    },
+    {
+      "opcode": 102,
+      "handler": "004178c6",
+      "classification": "parameterized",
+      "occurrences": 246,
+      "files": 27
+    },
+    {
+      "opcode": 103,
+      "handler": "00413b3d",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 5,
+      "files": 5
+    },
+    {
+      "opcode": 104,
+      "handler": "00417535",
+      "classification": "parameterized",
+      "occurrences": 52,
+      "files": 31
+    },
+    {
+      "opcode": 105,
+      "handler": "00413a05",
+      "classification": "string-capable (tag 5 observed)",
+      "occurrences": 42,
+      "files": 21
+    },
+    {
+      "opcode": 106,
+      "handler": "00416dfa",
+      "classification": "no parameter-reader call observed",
+      "occurrences": 3,
+      "files": 3
+    },
+    {
+      "opcode": 107,
+      "handler": "0041405b",
+      "classification": "parameterized",
+      "occurrences": 2,
+      "files": 1
+    }
+  ]
+}

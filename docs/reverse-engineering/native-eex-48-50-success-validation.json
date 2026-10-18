@@ -1,0 +1,449 @@
+{
+  "scope": "Native handler control and argument forwarding; readers, condition, scene getter and effect leaves controlled",
+  "rows": [
+    {
+      "opcode": 48,
+      "condition": 0,
+      "ret": 1,
+      "reads": [
+        2,
+        4,
+        4,
+        43,
+        13
+      ],
+      "calls": [
+        [
+          "effect48",
+          18,
+          33,
+          34,
+          0,
+          3,
+          17
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 48,
+      "condition": 1,
+      "ret": 1,
+      "reads": [
+        2,
+        4,
+        4,
+        43,
+        13
+      ],
+      "calls": [
+        [
+          "actor48",
+          18
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 0,
+      "scene": 0,
+      "ret": 2,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 0,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ],
+        [
+          "scene",
+          0
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 1,
+      "scene": 0,
+      "ret": 2,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 1,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ],
+        [
+          "scene",
+          0
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 2,
+      "scene": 0,
+      "ret": 2,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 2,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ],
+        [
+          "scene",
+          0
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 65535,
+      "scene": 0,
+      "ret": 2,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 0,
+      "mode": 65535,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "effect50",
+          4114,
+          33,
+          34,
+          2
+        ],
+        [
+          "scene",
+          0
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 0,
+      "scene": 0,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "actor50",
+          18,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 0,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "actor50",
+          18,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 1,
+      "scene": 0,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "actor50",
+          99,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 1,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "actor50",
+          99,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 2,
+      "scene": 0,
+      "ret": 0,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 2,
+      "scene": 50,
+      "ret": 0,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 65535,
+      "scene": 0,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "actor50",
+          18,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "condition": 1,
+      "mode": 65535,
+      "scene": 50,
+      "ret": 1,
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "calls": [
+        [
+          "actor50",
+          18,
+          33,
+          34,
+          2
+        ]
+      ],
+      "match": true
+    }
+  ],
+  "passed": true
+}

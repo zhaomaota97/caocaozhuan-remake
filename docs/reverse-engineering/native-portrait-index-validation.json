@@ -1,0 +1,8 @@
+{
+  "function": "0x4075A7",
+  "mode": "suspended process; never resumed",
+  "cases": 24576,
+  "passed": 24576,
+  "failures": [],
+  "scope": "six character identities, four stored indices, four phases, all flag bytes; selector only"
+}

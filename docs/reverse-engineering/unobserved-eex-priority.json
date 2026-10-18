@@ -1,0 +1,1358 @@
+{
+  "observed": [
+    2,
+    8,
+    9,
+    10,
+    20,
+    28,
+    35,
+    39,
+    47,
+    48,
+    50,
+    51,
+    58,
+    59,
+    62
+  ],
+  "candidates": [
+    {
+      "opcode": 69,
+      "handler": "004122f1",
+      "score": 34,
+      "classification": "parameterized",
+      "parameterTags": "38 38 4 62 50 2 50 2 71 34",
+      "globalWrites": [
+        "00494fd0",
+        "00496c94",
+        "00496c96",
+        "00496c98",
+        "00496c9a",
+        "00496c9f",
+        "00496e21",
+        "00496e22",
+        "00496e23"
+      ],
+      "calledFunctions": [
+        "004122f1",
+        "004183f7",
+        "00418df0"
+      ]
+    },
+    {
+      "opcode": 61,
+      "handler": "004143c2",
+      "score": 29,
+      "classification": "parameterized",
+      "parameterTags": "23 73 38 2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00409600",
+        "0040b922",
+        "0040beb8",
+        "0040c14f",
+        "0040c6ea",
+        "0040c74c",
+        "0040c76e",
+        "0040d79c",
+        "0040da45",
+        "004143c2",
+        "004183f7",
+        "0041a1b0",
+        "0042f699",
+        "0045991b"
+      ]
+    },
+    {
+      "opcode": 107,
+      "handler": "0041405b",
+      "score": 29,
+      "classification": "parameterized",
+      "parameterTags": "4 4 75 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004014f8",
+        "004016ab",
+        "004019a4",
+        "00401e5c",
+        "0041405b",
+        "004183f7",
+        "00418cd0",
+        "004217ff",
+        "00421879",
+        "0044fa7e",
+        "0045503f",
+        "00455e44",
+        "00455e6b",
+        "0047fa40"
+      ]
+    },
+    {
+      "opcode": 76,
+      "handler": "00414f42",
+      "score": 27,
+      "classification": "parameterized",
+      "parameterTags": "64 2 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00403340",
+        "0040b922",
+        "00414f42",
+        "004183f7",
+        "00418c90",
+        "00418dd0",
+        "0042c4e0",
+        "0043fcc9",
+        "00442b03",
+        "0044a88a",
+        "0045503f",
+        "004570ee",
+        "0047467a"
+      ]
+    },
+    {
+      "opcode": 92,
+      "handler": "00416e17",
+      "score": 27,
+      "classification": "parameterized",
+      "parameterTags": "2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00403340",
+        "00403360",
+        "0040b922",
+        "00416e17",
+        "004183f7",
+        "00418c90",
+        "0042c4e0",
+        "0043fcc9",
+        "0044049e",
+        "00453a40",
+        "00453e32",
+        "0045503f",
+        "0045f670"
+      ]
+    },
+    {
+      "opcode": 57,
+      "handler": "00414b62",
+      "score": 25,
+      "classification": "parameterized",
+      "parameterTags": "2 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040721b",
+        "0040724a",
+        "004073b8",
+        "0040b922",
+        "00414b62",
+        "004183f7",
+        "0043f6cd",
+        "0043f70e",
+        "0045602b",
+        "00472c90",
+        "00477adc",
+        "00479a01"
+      ]
+    },
+    {
+      "opcode": 82,
+      "handler": "00414d15",
+      "score": 25,
+      "classification": "parameterized",
+      "parameterTags": "2 3",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00407907",
+        "00407dc4",
+        "0040b922",
+        "0040dff0",
+        "0040e030",
+        "00414d15",
+        "004183f7",
+        "0043fcc9",
+        "0043fe2c",
+        "0045602b",
+        "00477adc",
+        "00479a01"
+      ]
+    },
+    {
+      "opcode": 91,
+      "handler": "00416cbb",
+      "score": 24,
+      "classification": "parameterized",
+      "parameterTags": "4 4 4 4 38",
+      "globalWrites": [
+        "004b3d10",
+        "004b3d14",
+        "004b3d15",
+        "004b3d16",
+        "004b3d17"
+      ],
+      "calledFunctions": [
+        "0040b922",
+        "00416cbb",
+        "004183f7",
+        "0045a0ce"
+      ]
+    },
+    {
+      "opcode": 89,
+      "handler": "0041688b",
+      "score": 21,
+      "classification": "parameterized",
+      "parameterTags": "4 23 73 23 73 23 73 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004065d0",
+        "00409600",
+        "0040c74c",
+        "0040c76e",
+        "0040dbed",
+        "0041688b",
+        "004183f7",
+        "0041a1b0",
+        "0044b5a8",
+        "0045991b"
+      ]
+    },
+    {
+      "opcode": 56,
+      "handler": "00412006",
+      "score": 19,
+      "classification": "parameterized",
+      "parameterTags": "2 35 52 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00406d87",
+        "00406e17",
+        "00406f54",
+        "0040b922",
+        "00412006",
+        "004183f7",
+        "0045602b",
+        "00479a01",
+        "0047fa9e"
+      ]
+    },
+    {
+      "opcode": 77,
+      "handler": "004150e7",
+      "score": 19,
+      "classification": "parameterized",
+      "parameterTags": "65 2 4 4 4 4 4 3 47 24 48 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "004150e7",
+        "004183f7",
+        "00418c90",
+        "0045602b",
+        "0045aa5c",
+        "0045ade5",
+        "0045f670",
+        "00479a01"
+      ]
+    },
+    {
+      "opcode": 81,
+      "handler": "0041626a",
+      "score": 18,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00406690",
+        "0040721b",
+        "0041626a",
+        "00418c90",
+        "00418da0",
+        "0043f6cd",
+        "0044a88a",
+        "00453b13",
+        "0045f670"
+      ]
+    },
+    {
+      "opcode": 18,
+      "handler": "00411db9",
+      "score": 15,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5 2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00411db9",
+        "004179a5",
+        "004183f7",
+        "004184eb",
+        "0042de12",
+        "00449d96"
+      ]
+    },
+    {
+      "opcode": 49,
+      "handler": "0041311c",
+      "score": 15,
+      "classification": "parameterized",
+      "parameterTags": "44 2 4 4 4 4 3",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "0041311c",
+        "004183f7",
+        "00428b22",
+        "0045602b",
+        "0045a7b7",
+        "0045a80f"
+      ]
+    },
+    {
+      "opcode": 54,
+      "handler": "004112e9",
+      "score": 15,
+      "classification": "parameterized",
+      "parameterTags": "2 35 4 36",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00406d87",
+        "0040b922",
+        "004112e9",
+        "004183f7",
+        "0045602b",
+        "00472c90",
+        "00477adc"
+      ]
+    },
+    {
+      "opcode": 70,
+      "handler": "004125c5",
+      "score": 15,
+      "classification": "parameterized",
+      "parameterTags": "2 38 4 4 43 62 69 7 2 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004125c5",
+        "004183f7",
+        "0041885a",
+        "00418dd0",
+        "00449b27",
+        "0047fab5",
+        "0047fad0"
+      ]
+    },
+    {
+      "opcode": 71,
+      "handler": "004129a4",
+      "score": 15,
+      "classification": "parameterized",
+      "parameterTags": "2 38 38 4 4 43 62 69 7 2 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004129a4",
+        "004183f7",
+        "0041885a",
+        "00418dd0",
+        "00449b27",
+        "0047fab5",
+        "0047fad0"
+      ]
+    },
+    {
+      "opcode": 83,
+      "handler": "0041557b",
+      "score": 13,
+      "classification": "parameterized",
+      "parameterTags": "44 2 4 4 4 4 3 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "0041557b",
+        "004183f7",
+        "0045602b",
+        "0045a7b7",
+        "0045a80f"
+      ]
+    },
+    {
+      "opcode": 85,
+      "handler": "0041591c",
+      "score": 13,
+      "classification": "parameterized",
+      "parameterTags": "64 2 4 4 4 43",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "0041591c",
+        "004183f7",
+        "00418c90",
+        "00418dd0",
+        "004591a1"
+      ]
+    },
+    {
+      "opcode": 103,
+      "handler": "00413b3d",
+      "score": 13,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "4 5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b940",
+        "00413b3d",
+        "004179a5",
+        "004183f7",
+        "00418c70",
+        "0047fad0"
+      ]
+    },
+    {
+      "opcode": 6,
+      "handler": "00415b45",
+      "score": 12,
+      "classification": "parameterized",
+      "parameterTags": "46 4 56 57",
+      "globalWrites": [
+        "004b09ec"
+      ],
+      "calledFunctions": [
+        "00415b45",
+        "004183f7",
+        "00419d22",
+        "00419fe2"
+      ]
+    },
+    {
+      "opcode": 93,
+      "handler": "00417068",
+      "score": 12,
+      "classification": "parameterized",
+      "parameterTags": "52 4",
+      "globalWrites": [
+        "004b3d0b"
+      ],
+      "calledFunctions": [
+        "0040b922",
+        "00417068",
+        "004183f7",
+        "00449eca"
+      ]
+    },
+    {
+      "opcode": 21,
+      "handler": "00413911",
+      "score": 11,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "2 2 5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00413911",
+        "004179a5",
+        "004183f7",
+        "00459777"
+      ]
+    },
+    {
+      "opcode": 27,
+      "handler": "00413c56",
+      "score": 11,
+      "classification": "parameterized",
+      "parameterTags": "2 39",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00413c56",
+        "004183f7",
+        "00418cb0",
+        "00477adc"
+      ]
+    },
+    {
+      "opcode": 33,
+      "handler": "00413efb",
+      "score": 11,
+      "classification": "parameterized",
+      "parameterTags": "4 4 16 38 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00413efb",
+        "004183f7",
+        "00456140",
+        "004567c1"
+      ]
+    },
+    {
+      "opcode": 36,
+      "handler": "0041581c",
+      "score": 11,
+      "classification": "parameterized",
+      "parameterTags": "9",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0041581c",
+        "004183f7",
+        "00418d20",
+        "004745fe",
+        "00474619"
+      ]
+    },
+    {
+      "opcode": 55,
+      "handler": "004118d4",
+      "score": 11,
+      "classification": "parameterized",
+      "parameterTags": "40 4 36",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040d28f",
+        "0040e1d0",
+        "004118d4",
+        "004183f7",
+        "00418c30"
+      ]
+    },
+    {
+      "opcode": 78,
+      "handler": "004146d4",
+      "score": 11,
+      "classification": "parameterized",
+      "parameterTags": "44 2 4 4 4 4 3 7 2 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "004146d4",
+        "004183f7",
+        "00459d8b",
+        "00459e79"
+      ]
+    },
+    {
+      "opcode": 15,
+      "handler": "004158af",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "18",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004158af",
+        "004183f7",
+        "0041a1b0",
+        "0042b7c6"
+      ]
+    },
+    {
+      "opcode": 17,
+      "handler": "00415c67",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "55",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00415c67",
+        "004183f7",
+        "00418d60",
+        "00426bd5"
+      ]
+    },
+    {
+      "opcode": 22,
+      "handler": "00413a5a",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00413a5a",
+        "004179a5",
+        "004183f7",
+        "0042d5f1"
+      ]
+    },
+    {
+      "opcode": 23,
+      "handler": "00413ab4",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040bb78",
+        "00413ab4",
+        "004179a5",
+        "004183f7"
+      ]
+    },
+    {
+      "opcode": 26,
+      "handler": "00413c0e",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00413c0e",
+        "004183f7",
+        "0044bd27"
+      ]
+    },
+    {
+      "opcode": 32,
+      "handler": "00416fd8",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "74",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00409540",
+        "00416fd8",
+        "004183f7",
+        "00418d40"
+      ]
+    },
+    {
+      "opcode": 37,
+      "handler": "00411b50",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "2 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00411b50",
+        "004183f7",
+        "0045b371"
+      ]
+    },
+    {
+      "opcode": 38,
+      "handler": "00411c36",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "2 4 4 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00411c36",
+        "004183f7",
+        "0045b4a5"
+      ]
+    },
+    {
+      "opcode": 44,
+      "handler": "00417315",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5 38 38 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00417315",
+        "004179a5",
+        "004183f7",
+        "004327ef"
+      ]
+    },
+    {
+      "opcode": 45,
+      "handler": "004119e7",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0041004d",
+        "004119e7",
+        "004183f7",
+        "0042a910"
+      ]
+    },
+    {
+      "opcode": 46,
+      "handler": "00411a54",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "2 2 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00411a54",
+        "004183f7",
+        "0045afca"
+      ]
+    },
+    {
+      "opcode": 64,
+      "handler": "004116ee",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "72",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "004116ee",
+        "004183f7",
+        "0041c330"
+      ]
+    },
+    {
+      "opcode": 75,
+      "handler": "00415e31",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "4 4 4 43 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00415e31",
+        "004183f7",
+        "00418dd0",
+        "00449b27"
+      ]
+    },
+    {
+      "opcode": 88,
+      "handler": "004166eb",
+      "score": 9,
+      "classification": "parameterized",
+      "parameterTags": "66 67 68 4 4 38 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004166eb",
+        "004183f7",
+        "00456140",
+        "004567c1"
+      ]
+    },
+    {
+      "opcode": 96,
+      "handler": "004175fc",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "38 5 76",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004175fc",
+        "004179a5",
+        "004183f7",
+        "00449480"
+      ]
+    },
+    {
+      "opcode": 99,
+      "handler": "00417701",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "38 5 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00417701",
+        "004179a5",
+        "004183f7",
+        "004431af"
+      ]
+    },
+    {
+      "opcode": 105,
+      "handler": "00413a05",
+      "score": 9,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00413a05",
+        "004179a5",
+        "004183f7",
+        "0042f699"
+      ]
+    },
+    {
+      "opcode": 68,
+      "handler": "00412230",
+      "score": 8,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00412230",
+        "004184d1",
+        "00418dd0",
+        "00426c32"
+      ]
+    },
+    {
+      "opcode": 4,
+      "handler": "00411748",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00411748",
+        "004183f7",
+        "0042f699"
+      ]
+    },
+    {
+      "opcode": 5,
+      "handler": "004117a1",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "53 1 53 1",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004117a1",
+        "004183f7",
+        "004184b2"
+      ]
+    },
+    {
+      "opcode": 11,
+      "handler": "004142b2",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "4 39",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004142b2",
+        "004183f7",
+        "004184d1"
+      ]
+    },
+    {
+      "opcode": 19,
+      "handler": "00411fa5",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00411fa5",
+        "004183f7",
+        "00418504"
+      ]
+    },
+    {
+      "opcode": 24,
+      "handler": "00413b07",
+      "score": 7,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040bb48",
+        "00413b07",
+        "004183f7"
+      ]
+    },
+    {
+      "opcode": 25,
+      "handler": "00413bd1",
+      "score": 7,
+      "classification": "string-capable (tag 5 observed)",
+      "parameterTags": "5",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00413bd1",
+        "004179a5",
+        "004183f7"
+      ]
+    },
+    {
+      "opcode": 31,
+      "handler": "00414257",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00414257",
+        "004183f7",
+        "0045503f"
+      ]
+    },
+    {
+      "opcode": 34,
+      "handler": "004121ed",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "27",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004121ed",
+        "004183f7",
+        "0042f754"
+      ]
+    },
+    {
+      "opcode": 40,
+      "handler": "00414361",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "54",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00414361",
+        "004183f7",
+        "00418518"
+      ]
+    },
+    {
+      "opcode": 41,
+      "handler": "00417143",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00417143",
+        "004183f7",
+        "004331be"
+      ]
+    },
+    {
+      "opcode": 42,
+      "handler": "004171ff",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004171ff",
+        "004183f7",
+        "00432af4"
+      ]
+    },
+    {
+      "opcode": 43,
+      "handler": "004172bb",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004172bb",
+        "004183f7",
+        "00433070"
+      ]
+    },
+    {
+      "opcode": 52,
+      "handler": "00413567",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 13",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00413567",
+        "004183f7",
+        "00428b87"
+      ]
+    },
+    {
+      "opcode": 53,
+      "handler": "004135de",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 19",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004135de",
+        "004183f7",
+        "00418c50"
+      ]
+    },
+    {
+      "opcode": 60,
+      "handler": "00415cbf",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 14 58",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00415cbf",
+        "004183f7",
+        "00418d80"
+      ]
+    },
+    {
+      "opcode": 65,
+      "handler": "0041149d",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "3 4 36 63 4 4 4 4",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0041149d",
+        "004183f7",
+        "0044c8e6"
+      ]
+    },
+    {
+      "opcode": 72,
+      "handler": "00412dd6",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 59 73 60 73 61",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00412dd6",
+        "004183f7",
+        "00418dd0"
+      ]
+    },
+    {
+      "opcode": 74,
+      "handler": "00415d92",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "4 56 57",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00415d92",
+        "004183f7",
+        "0041856a"
+      ]
+    },
+    {
+      "opcode": 79,
+      "handler": "00415f65",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 2 43 38 38 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00415f65",
+        "004183f7",
+        "00457428"
+      ]
+    },
+    {
+      "opcode": 80,
+      "handler": "00416129",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 70 38 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00416129",
+        "004183f7",
+        "0045778f"
+      ]
+    },
+    {
+      "opcode": 86,
+      "handler": "00414f03",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "71",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00414f03",
+        "004183f7",
+        "00418d40"
+      ]
+    },
+    {
+      "opcode": 87,
+      "handler": "00414ec4",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "34",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00414ec4",
+        "004183f7",
+        "00418d20"
+      ]
+    },
+    {
+      "opcode": 98,
+      "handler": "004176bc",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004176bc",
+        "004183f7",
+        "004490da"
+      ]
+    },
+    {
+      "opcode": 100,
+      "handler": "004177b6",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "38 76",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004177b6",
+        "004183f7",
+        "00448524"
+      ]
+    },
+    {
+      "opcode": 101,
+      "handler": "00417826",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "38 77 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00417826",
+        "004183f7",
+        "00448394"
+      ]
+    },
+    {
+      "opcode": 102,
+      "handler": "004178c6",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "38 78 38",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004178c6",
+        "004183f7",
+        "0044847b"
+      ]
+    },
+    {
+      "opcode": 104,
+      "handler": "00417535",
+      "score": 7,
+      "classification": "parameterized",
+      "parameterTags": "2 2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00417535",
+        "004183f7",
+        "0044999f"
+      ]
+    },
+    {
+      "opcode": 106,
+      "handler": "00416dfa",
+      "score": 7,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [
+        "004b3d10"
+      ],
+      "calledFunctions": [
+        "0040b922",
+        "00416dfa"
+      ]
+    },
+    {
+      "opcode": 14,
+      "handler": "00415890",
+      "score": 6,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00415890",
+        "00455ffd"
+      ]
+    },
+    {
+      "opcode": 66,
+      "handler": "00411d63",
+      "score": 6,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0041004d",
+        "00411d63",
+        "0044c658"
+      ]
+    },
+    {
+      "opcode": 67,
+      "handler": "00411d8e",
+      "score": 6,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0041004d",
+        "00411d8e",
+        "0044c74d"
+      ]
+    },
+    {
+      "opcode": 73,
+      "handler": "00415795",
+      "score": 6,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00415795",
+        "00455ffd"
+      ]
+    },
+    {
+      "opcode": 84,
+      "handler": "00415771",
+      "score": 6,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0040b922",
+        "00415771",
+        "0044cc03"
+      ]
+    },
+    {
+      "opcode": 7,
+      "handler": "00415c46",
+      "score": 5,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [
+        "004ae4c0"
+      ],
+      "calledFunctions": [
+        "00415c46"
+      ]
+    },
+    {
+      "opcode": 63,
+      "handler": "00411652",
+      "score": 5,
+      "classification": "parameterized",
+      "parameterTags": "4 36",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00411652",
+        "004183f7"
+      ]
+    },
+    {
+      "opcode": 94,
+      "handler": "004174a2",
+      "score": 5,
+      "classification": "parameterized",
+      "parameterTags": "2 2",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004174a2",
+        "004183f7"
+      ]
+    },
+    {
+      "opcode": 13,
+      "handler": "004143ae",
+      "score": 4,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004143ae",
+        "0042c858"
+      ]
+    },
+    {
+      "opcode": 16,
+      "handler": "0041590d",
+      "score": 4,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "0041590d",
+        "00433359"
+      ]
+    },
+    {
+      "opcode": 29,
+      "handler": "00413ee2",
+      "score": 4,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00413ee2",
+        "0041e5c2"
+      ]
+    },
+    {
+      "opcode": 90,
+      "handler": "00416c97",
+      "score": 4,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00416c97",
+        "0044bac2"
+      ]
+    },
+    {
+      "opcode": 95,
+      "handler": "004175e8",
+      "score": 4,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004175e8",
+        "004498e0"
+      ]
+    },
+    {
+      "opcode": 97,
+      "handler": "004176a8",
+      "score": 4,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004176a8",
+        "00448ff5"
+      ]
+    },
+    {
+      "opcode": 3,
+      "handler": "004112df",
+      "score": 2,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004112df"
+      ]
+    },
+    {
+      "opcode": 12,
+      "handler": "004143a4",
+      "score": 2,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "004143a4"
+      ]
+    },
+    {
+      "opcode": 30,
+      "handler": "00413ef1",
+      "score": 2,
+      "classification": "no parameter-reader call observed",
+      "parameterTags": "",
+      "globalWrites": [],
+      "calledFunctions": [
+        "00413ef1"
+      ]
+    }
+  ]
+}

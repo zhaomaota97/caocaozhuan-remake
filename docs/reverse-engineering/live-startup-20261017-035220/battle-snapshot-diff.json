@@ -1,0 +1,34 @@
+{
+  "snapshot-actors": {
+    "before_bytes": 2990,
+    "after_bytes": 2990,
+    "changed_bytes": 0,
+    "first_offsets": []
+  },
+  "snapshot-artwork": {
+    "before_bytes": 1474560,
+    "after_bytes": 1474560,
+    "changed_bytes": 0,
+    "first_offsets": []
+  },
+  "snapshot-roster": {
+    "before_bytes": 16384,
+    "after_bytes": 16384,
+    "changed_bytes": 0,
+    "first_offsets": []
+  },
+  "snapshot-state": {
+    "before_bytes": 1266,
+    "after_bytes": 1266,
+    "changed_bytes": 1,
+    "first_offsets": [
+      11
+    ]
+  },
+  "snapshot-terrain": {
+    "before_bytes": 640,
+    "after_bytes": 640,
+    "changed_bytes": 0,
+    "first_offsets": []
+  }
+}

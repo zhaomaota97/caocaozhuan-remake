@@ -1,0 +1,177 @@
+{
+  "scope": "Native handler early-return boundaries; reader replaced; no success-path effects tested",
+  "rows": [
+    {
+      "opcode": 48,
+      "missingIndex": 0,
+      "expectedReads": [
+        2
+      ],
+      "reads": [
+        2
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 48,
+      "missingIndex": 1,
+      "expectedReads": [
+        2,
+        4
+      ],
+      "reads": [
+        2,
+        4
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 48,
+      "missingIndex": 2,
+      "expectedReads": [
+        2,
+        4,
+        4
+      ],
+      "reads": [
+        2,
+        4,
+        4
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 48,
+      "missingIndex": 3,
+      "expectedReads": [
+        2,
+        4,
+        4,
+        43
+      ],
+      "reads": [
+        2,
+        4,
+        4,
+        43
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 48,
+      "missingIndex": 4,
+      "expectedReads": [
+        2,
+        4,
+        4,
+        43,
+        13
+      ],
+      "reads": [
+        2,
+        4,
+        4,
+        43,
+        13
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 50,
+      "missingIndex": 0,
+      "expectedReads": [
+        64
+      ],
+      "reads": [
+        64
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 50,
+      "missingIndex": 1,
+      "expectedReads": [
+        64,
+        2
+      ],
+      "reads": [
+        64,
+        2
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 50,
+      "missingIndex": 2,
+      "expectedReads": [
+        64,
+        2,
+        4
+      ],
+      "reads": [
+        64,
+        2,
+        4
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 50,
+      "missingIndex": 3,
+      "expectedReads": [
+        64,
+        2,
+        4,
+        4
+      ],
+      "reads": [
+        64,
+        2,
+        4,
+        4
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 50,
+      "missingIndex": 4,
+      "expectedReads": [
+        64,
+        2,
+        4,
+        4,
+        4
+      ],
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4
+      ],
+      "ret": 5
+    },
+    {
+      "opcode": 50,
+      "missingIndex": 5,
+      "expectedReads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "reads": [
+        64,
+        2,
+        4,
+        4,
+        4,
+        43
+      ],
+      "ret": 5
+    }
+  ],
+  "passed": true
+}

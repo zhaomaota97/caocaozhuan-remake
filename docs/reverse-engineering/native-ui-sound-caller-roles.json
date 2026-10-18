@@ -1,0 +1,937 @@
+{
+  "source": "analysis\\native-ui-sound-calls.json",
+  "wrapper": "0x47467A",
+  "method": "static caller-role classification; unknown callers retained",
+  "roles": {
+    "effect-or-battle": [
+      {
+        "caller": "0041c762",
+        "line": 83,
+        "soundExpression": "0x29",
+        "modeExpression": "1",
+        "constantId": 41,
+        "role": "effect-or-battle"
+      },
+      {
+        "caller": "00441744",
+        "line": 27,
+        "soundExpression": "0x10",
+        "modeExpression": "1",
+        "constantId": 16,
+        "role": "effect-or-battle"
+      }
+    ],
+    "movement-animation": [
+      {
+        "caller": "0043d538",
+        "line": 104,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 126,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 129,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 137,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 140,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 145,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 151,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 154,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 162,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 165,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "movement-animation"
+      },
+      {
+        "caller": "0043d538",
+        "line": 174,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "movement-animation"
+      }
+    ],
+    "target-selection": [
+      {
+        "caller": "0045533d",
+        "line": 94,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "target-selection"
+      },
+      {
+        "caller": "0045533d",
+        "line": 106,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "target-selection"
+      },
+      {
+        "caller": "0045533d",
+        "line": 124,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "target-selection"
+      },
+      {
+        "caller": "0045533d",
+        "line": 137,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "target-selection"
+      }
+    ],
+    "turn-transition": [
+      {
+        "caller": "004337f4",
+        "line": 50,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "turn-transition"
+      },
+      {
+        "caller": "004337f4",
+        "line": 73,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "turn-transition"
+      },
+      {
+        "caller": "00433bc8",
+        "line": 51,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "turn-transition"
+      },
+      {
+        "caller": "00433bc8",
+        "line": 95,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "turn-transition"
+      },
+      {
+        "caller": "00433bc8",
+        "line": 106,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "turn-transition"
+      },
+      {
+        "caller": "00433bc8",
+        "line": 124,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "turn-transition"
+      }
+    ],
+    "unclassified": [
+      {
+        "caller": "004044e9",
+        "line": 122,
+        "soundExpression": "0x20",
+        "modeExpression": "1",
+        "constantId": 32,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004044e9",
+        "line": 125,
+        "soundExpression": "0x25",
+        "modeExpression": "1",
+        "constantId": 37,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004044e9",
+        "line": 129,
+        "soundExpression": "0x22",
+        "modeExpression": "1",
+        "constantId": 34,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004044e9",
+        "line": 161,
+        "soundExpression": "0x21",
+        "modeExpression": "1",
+        "constantId": 33,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004044e9",
+        "line": 192,
+        "soundExpression": "0x21",
+        "modeExpression": "1",
+        "constantId": 33,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004044e9",
+        "line": 239,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004073b8",
+        "line": 41,
+        "soundExpression": "0xb",
+        "modeExpression": "1",
+        "constantId": 11,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004083ef",
+        "line": 43,
+        "soundExpression": "0xd",
+        "modeExpression": "1",
+        "constantId": 13,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004083ef",
+        "line": 54,
+        "soundExpression": "0xd",
+        "modeExpression": "1",
+        "constantId": 13,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00414f42",
+        "line": 49,
+        "soundExpression": "0xf",
+        "modeExpression": "1",
+        "constantId": 15,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0041d4db",
+        "line": 103,
+        "soundExpression": "0x21",
+        "modeExpression": "1",
+        "constantId": 33,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0041d4db",
+        "line": 119,
+        "soundExpression": "0xc",
+        "modeExpression": "1",
+        "constantId": 12,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004218d6",
+        "line": 47,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004218d6",
+        "line": 98,
+        "soundExpression": "0x27",
+        "modeExpression": "1",
+        "constantId": 39,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00423b2f",
+        "line": 43,
+        "soundExpression": "0x86",
+        "modeExpression": "1",
+        "constantId": 134,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00424810",
+        "line": 135,
+        "soundExpression": "0x7c",
+        "modeExpression": "1",
+        "constantId": 124,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0042c0a2",
+        "line": 24,
+        "soundExpression": "0x28",
+        "modeExpression": "1",
+        "constantId": 40,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0043419f",
+        "line": 57,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0043419f",
+        "line": 75,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004347ff",
+        "line": 26,
+        "soundExpression": "0x27",
+        "modeExpression": "1",
+        "constantId": 39,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004347ff",
+        "line": 40,
+        "soundExpression": "10",
+        "modeExpression": "1",
+        "constantId": 10,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004347ff",
+        "line": 56,
+        "soundExpression": "0x27",
+        "modeExpression": "1",
+        "constantId": 39,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004347ff",
+        "line": 70,
+        "soundExpression": "10",
+        "modeExpression": "1",
+        "constantId": 10,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004347ff",
+        "line": 86,
+        "soundExpression": "0x27",
+        "modeExpression": "1",
+        "constantId": 39,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004347ff",
+        "line": 100,
+        "soundExpression": "10",
+        "modeExpression": "1",
+        "constantId": 10,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00434d33",
+        "line": 26,
+        "soundExpression": "0x27",
+        "modeExpression": "1",
+        "constantId": 39,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00434d33",
+        "line": 38,
+        "soundExpression": "0xe",
+        "modeExpression": "1",
+        "constantId": 14,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00434d33",
+        "line": 44,
+        "soundExpression": "10",
+        "modeExpression": "1",
+        "constantId": 10,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0043dc21",
+        "line": 19,
+        "soundExpression": "2",
+        "modeExpression": "1",
+        "constantId": 2,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0043f38b",
+        "line": 48,
+        "soundExpression": "local_c",
+        "modeExpression": "0",
+        "constantId": null,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004419b6",
+        "line": 69,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004419b6",
+        "line": 79,
+        "soundExpression": "0x11",
+        "modeExpression": "1",
+        "constantId": 17,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004419b6",
+        "line": 117,
+        "soundExpression": "0x16",
+        "modeExpression": "1",
+        "constantId": 22,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00443ce6",
+        "line": 12,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00443dff",
+        "line": 31,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00443f51",
+        "line": 37,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004440f1",
+        "line": 31,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00444243",
+        "line": 12,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004442ea",
+        "line": 37,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00444496",
+        "line": 42,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004446d1",
+        "line": 44,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00444bbf",
+        "line": 15,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00444ccf",
+        "line": 20,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00444dad",
+        "line": 15,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00445e14",
+        "line": 32,
+        "soundExpression": "0x21",
+        "modeExpression": "1",
+        "constantId": 33,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00445e14",
+        "line": 61,
+        "soundExpression": "0x25",
+        "modeExpression": "1",
+        "constantId": 37,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00445e14",
+        "line": 92,
+        "soundExpression": "0x21",
+        "modeExpression": "1",
+        "constantId": 33,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0044620b",
+        "line": 55,
+        "soundExpression": "0x24",
+        "modeExpression": "1",
+        "constantId": 36,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0044620b",
+        "line": 71,
+        "soundExpression": "0x1f",
+        "modeExpression": "1",
+        "constantId": 31,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00446613",
+        "line": 57,
+        "soundExpression": "0x1f",
+        "modeExpression": "1",
+        "constantId": 31,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004469eb",
+        "line": 38,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00446db6",
+        "line": 44,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0044711f",
+        "line": 66,
+        "soundExpression": "0x24",
+        "modeExpression": "1",
+        "constantId": 36,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0044711f",
+        "line": 82,
+        "soundExpression": "0x1f",
+        "modeExpression": "1",
+        "constantId": 31,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004475be",
+        "line": 95,
+        "soundExpression": "0x24",
+        "modeExpression": "1",
+        "constantId": 36,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004475be",
+        "line": 111,
+        "soundExpression": "0x1f",
+        "modeExpression": "1",
+        "constantId": 31,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00448004",
+        "line": 59,
+        "soundExpression": "0x1f",
+        "modeExpression": "1",
+        "constantId": 31,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00456140",
+        "line": 86,
+        "soundExpression": "0x13",
+        "modeExpression": "0",
+        "constantId": 19,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00456140",
+        "line": 123,
+        "soundExpression": "0x10",
+        "modeExpression": "0",
+        "constantId": 16,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00456140",
+        "line": 126,
+        "soundExpression": "0xf",
+        "modeExpression": "0",
+        "constantId": 15,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00456140",
+        "line": 129,
+        "soundExpression": "0x12",
+        "modeExpression": "0",
+        "constantId": 18,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004567c1",
+        "line": 106,
+        "soundExpression": "0x12",
+        "modeExpression": "0",
+        "constantId": 18,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004570ee",
+        "line": 53,
+        "soundExpression": "0xf",
+        "modeExpression": "1",
+        "constantId": 15,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004570ee",
+        "line": 70,
+        "soundExpression": "0x2a",
+        "modeExpression": "1",
+        "constantId": 42,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00457428",
+        "line": 49,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00457428",
+        "line": 92,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 97,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 127,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 142,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 157,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 187,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 217,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 263,
+        "soundExpression": "7",
+        "modeExpression": "1",
+        "constantId": 7,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 302,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 321,
+        "soundExpression": "6",
+        "modeExpression": "1",
+        "constantId": 6,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 345,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045778f",
+        "line": 366,
+        "soundExpression": "8",
+        "modeExpression": "1",
+        "constantId": 8,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004591a1",
+        "line": 55,
+        "soundExpression": "0xf",
+        "modeExpression": "1",
+        "constantId": 15,
+        "role": "unclassified"
+      },
+      {
+        "caller": "004591a1",
+        "line": 71,
+        "soundExpression": "0x2a",
+        "modeExpression": "1",
+        "constantId": 42,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045991b",
+        "line": 77,
+        "soundExpression": "0xe",
+        "modeExpression": "1",
+        "constantId": 14,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045d85d",
+        "line": 19,
+        "soundExpression": "0xf",
+        "modeExpression": "1",
+        "constantId": 15,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045d85d",
+        "line": 27,
+        "soundExpression": "1",
+        "modeExpression": "1",
+        "constantId": 1,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0045e87d",
+        "line": 29,
+        "soundExpression": "5",
+        "modeExpression": "1",
+        "constantId": 5,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0046bc8d",
+        "line": 29,
+        "soundExpression": "9",
+        "modeExpression": "1",
+        "constantId": 9,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0046dd05",
+        "line": 9,
+        "soundExpression": "10",
+        "modeExpression": "1",
+        "constantId": 10,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0046dd05",
+        "line": 12,
+        "soundExpression": "9",
+        "modeExpression": "1",
+        "constantId": 9,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0046e32e",
+        "line": 9,
+        "soundExpression": "10",
+        "modeExpression": "1",
+        "constantId": 10,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00473e33",
+        "line": 24,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "unclassified"
+      },
+      {
+        "caller": "0047467a",
+        "line": 3,
+        "soundExpression": "int param_1",
+        "modeExpression": "int param_2",
+        "constantId": null,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00474a07",
+        "line": 14,
+        "soundExpression": "param_1",
+        "modeExpression": "1",
+        "constantId": null,
+        "role": "unclassified"
+      },
+      {
+        "caller": "00479728",
+        "line": 11,
+        "soundExpression": "0",
+        "modeExpression": "1",
+        "constantId": 0,
+        "role": "unclassified"
+      }
+    ]
+  },
+  "roleCounts": {
+    "effect-or-battle": 2,
+    "movement-animation": 11,
+    "target-selection": 4,
+    "turn-transition": 6,
+    "unclassified": 91
+  },
+  "caveat": "Roles describe call-site context only; select/cancel sound IDs require dynamic UI evidence."
+}

@@ -1,0 +1,354 @@
+{
+  "chain": [
+    {
+      "address": "0x00438a20",
+      "pseudocode": "analysis\\native-main\\pseudocode\\00438a20.c",
+      "present": true,
+      "calledFunctions": [
+        "00403360",
+        "00406630",
+        "004066e0",
+        "00406710",
+        "0040721b",
+        "00407818",
+        "00425ad0",
+        "00435aad",
+        "00436586",
+        "00438a20",
+        "00438d96",
+        "0043bc4b",
+        "0043f8be",
+        "0043ffed",
+        "0045f670",
+        "00472c90",
+        "0047fa40",
+        "0047fd13"
+      ],
+      "globals": [
+        "004a1b68",
+        "004aab68",
+        "004b2c50",
+        "004b422c"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x00438965",
+      "pseudocode": "analysis\\native-main\\pseudocode\\00438965.c",
+      "present": true,
+      "calledFunctions": [
+        "00436586",
+        "00438965",
+        "00438a20",
+        "0043f8be"
+      ],
+      "globals": [
+        "004ac748",
+        "004b2c30"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x004391dc",
+      "pseudocode": "analysis\\native-main\\pseudocode\\004391dc.c",
+      "present": true,
+      "calledFunctions": [
+        "00418c90",
+        "00425b50",
+        "00435991",
+        "00435b3e",
+        "00436586",
+        "004391dc",
+        "00439522",
+        "00439576",
+        "004395ae"
+      ],
+      "globals": [
+        "004ac748",
+        "004ac7ac",
+        "004af4c0",
+        "004b2c2c",
+        "004b2c40"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x004395ae",
+      "pseudocode": "analysis\\native-main\\pseudocode\\004395ae.c",
+      "present": true,
+      "calledFunctions": [
+        "00403360",
+        "0040721b",
+        "0040724a",
+        "004077d0",
+        "00407a09",
+        "00418c90",
+        "0041e030",
+        "00425ad0",
+        "00425b50",
+        "00435991",
+        "00435aad",
+        "00438d96",
+        "004390ef",
+        "00439522",
+        "004395ae",
+        "0043a1f4",
+        "0043b470",
+        "0043b73f",
+        "0043bfaa",
+        "0043ffed",
+        "0045afca",
+        "0045f670",
+        "00472840",
+        "00472c90",
+        "0047fb13"
+      ],
+      "globals": [
+        "004a1b68",
+        "004af4c0",
+        "004b2c50"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x0043a529",
+      "pseudocode": "analysis\\native-main\\pseudocode\\0043a529.c",
+      "present": true,
+      "calledFunctions": [
+        "004065a0",
+        "004066e0",
+        "00425ad0",
+        "00425af0",
+        "00435884",
+        "00438965",
+        "004391dc",
+        "0043a4bf",
+        "0043a529",
+        "0043b420",
+        "0047fa40"
+      ],
+      "globals": [
+        "004aab68",
+        "004b2c20",
+        "004b2c28",
+        "004b2c2c",
+        "004b2c30",
+        "004b2c38",
+        "004b2c40",
+        "004b2c44",
+        "004b2c4c",
+        "004b422c"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x0043ad1c",
+      "pseudocode": "analysis\\native-main\\pseudocode\\0043ad1c.c",
+      "present": true,
+      "calledFunctions": [
+        "00403360",
+        "004065a0",
+        "004066e0",
+        "00406710",
+        "00418c90",
+        "00425ad0",
+        "00425af0",
+        "00437e2e",
+        "00438178",
+        "00438308",
+        "0043a28a",
+        "0043a7c9",
+        "0043a956",
+        "0043aafb",
+        "0043ad1c",
+        "0043b490",
+        "0043dc99",
+        "0043f74f",
+        "00440252",
+        "00441488",
+        "00442669",
+        "00442718",
+        "0045f650",
+        "0045f710"
+      ],
+      "globals": [
+        "004b2c1c",
+        "004b2c20",
+        "004b2c24",
+        "004b2c28",
+        "004b2c38",
+        "004b2c44",
+        "004b2c50",
+        "004b420c",
+        "004b5df0"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x004337f4",
+      "pseudocode": "analysis\\native-main\\pseudocode\\004337f4.c",
+      "present": true,
+      "calledFunctions": [
+        "00403340",
+        "00403360",
+        "004065a0",
+        "0042c4e0",
+        "00433726",
+        "0043378d",
+        "004337f4",
+        "004350f0",
+        "00438308",
+        "0043f74f",
+        "0043f8be",
+        "0044049e",
+        "004539dc",
+        "00453b13",
+        "00453e32",
+        "00457428",
+        "0045778f",
+        "00459487",
+        "0045965d",
+        "0045f710",
+        "0047467a"
+      ],
+      "globals": [
+        "0048ce3c",
+        "0048ce58",
+        "0048ce7c",
+        "0048cea8",
+        "0048cedc",
+        "0048cf24",
+        "0048cf58",
+        "0048cf78",
+        "0048cfc0",
+        "0048cff0",
+        "0048d030",
+        "0048d050",
+        "0048d09c",
+        "0048d0d0",
+        "0048d10c",
+        "0048d158",
+        "004b1b18",
+        "004b2c04",
+        "004b2c14",
+        "004b2c18",
+        "004b4250",
+        "004b69b0"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x00433bc8",
+      "pseudocode": "analysis\\native-main\\pseudocode\\00433bc8.c",
+      "present": true,
+      "calledFunctions": [
+        "00403340",
+        "00403360",
+        "004065a0",
+        "0042c4e0",
+        "00433726",
+        "0043378d",
+        "00433bc8",
+        "004350c0",
+        "00435110",
+        "00435130",
+        "00438308",
+        "0043f74f",
+        "0043f8be",
+        "0044a88a",
+        "00451c03",
+        "004539dc",
+        "00453b13",
+        "00453e32",
+        "00457428",
+        "0045778f",
+        "00459487",
+        "0045965d",
+        "0045bba0",
+        "0045e69a",
+        "0045f710",
+        "0047467a"
+      ],
+      "globals": [
+        "0048d17c",
+        "0048d1cc",
+        "0048d1f8",
+        "0048d210",
+        "0048d258",
+        "0048d298",
+        "0048d2c0",
+        "0048d2e4",
+        "0048d310",
+        "0048d34c",
+        "0048d374",
+        "0048d39c",
+        "0048d3d0",
+        "0048d3f8",
+        "0048d414",
+        "0048d448",
+        "0048d48c",
+        "004b1b18",
+        "004b2c0c",
+        "004b2c14",
+        "004b2c18",
+        "004b4250",
+        "004b5e98",
+        "004b69b0"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x0044c658",
+      "pseudocode": "analysis\\native-main\\pseudocode\\0044c658.c",
+      "present": true,
+      "calledFunctions": [
+        "00418c90",
+        "0044c658",
+        "0044c8e6",
+        "0044f7d0",
+        "0044f840",
+        "0045f670"
+      ],
+      "globals": [
+        "00492f90",
+        "004b2c50"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x0044c74d",
+      "pseudocode": "analysis\\native-main\\pseudocode\\0044c74d.c",
+      "present": true,
+      "calledFunctions": [
+        "00418c90",
+        "0044c74d",
+        "0044c8e6",
+        "0044f860",
+        "0044f880",
+        "0045f670"
+      ],
+      "globals": [
+        "00492f90",
+        "004b2c50"
+      ],
+      "hasReturn": true
+    },
+    {
+      "address": "0x0044c8e6",
+      "pseudocode": "analysis\\native-main\\pseudocode\\0044c8e6.c",
+      "present": true,
+      "calledFunctions": [
+        "00418c90",
+        "00435884",
+        "0043fc1a",
+        "0044c8e6",
+        "0045f710"
+      ],
+      "globals": [
+        "004b2c50"
+      ],
+      "hasReturn": true
+    }
+  ],
+  "evidenceBoundary": "Static call/token index; victory/defeat integration remains dynamically unverified."
+}

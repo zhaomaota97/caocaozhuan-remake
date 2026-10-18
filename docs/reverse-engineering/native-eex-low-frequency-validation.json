@@ -1,0 +1,33 @@
+{
+  "cases": [
+    {
+      "opcode": 10,
+      "before": 2779096485,
+      "ret": 1,
+      "after": 0,
+      "last": 0
+    },
+    {
+      "opcode": 3,
+      "ret": 6
+    },
+    {
+      "opcode": 12,
+      "ret": 8
+    },
+    {
+      "opcode": 13,
+      "ret": 7
+    },
+    {
+      "opcode": 30,
+      "ret": 2
+    },
+    {
+      "opcode": 7,
+      "ret": 1,
+      "after": 0
+    }
+  ],
+  "passed": true
+}

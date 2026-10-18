@@ -1,0 +1,2952 @@
+{
+  "baseline": {
+    "file": "Pmpalet.e5",
+    "entry": 0
+  },
+  "used_indices": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178
+  ],
+  "nonzero_visible_indices": 168,
+  "palettes": [
+    {
+      "file": "Pmpalet.e5",
+      "entry": 0,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 1,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 2,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 3,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 4,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 5,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 6,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 7,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 8,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 9,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 10,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 11,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 12,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 13,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 14,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 15,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 16,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 17,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 18,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 19,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 20,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 21,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 22,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 23,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 24,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 25,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 26,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 27,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 28,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 29,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 30,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 31,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 32,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 33,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 34,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 35,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 36,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 37,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 38,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 39,
+      "size": 768,
+      "changed_visible_indices": [],
+      "profile": 0
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 40,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 41,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 42,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 43,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 44,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 45,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 46,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 47,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 48,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 49,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 50,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 51,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 52,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 53,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 54,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 55,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 56,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 57,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 58,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 59,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 60,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 61,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 62,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 63,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 64,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 65,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 66,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 67,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 68,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 69,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 70,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 71,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 72,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 73,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 74,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 75,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 76,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 77,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 78,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 79,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 80,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 81,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 82,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 83,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 84,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 85,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 86,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 87,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 88,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 89,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 90,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 91,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 92,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 93,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 94,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 95,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 96,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 97,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 98,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 99,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 100,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 101,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 102,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 103,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 104,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 105,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 106,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 107,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 108,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 109,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 110,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 111,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 112,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 113,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Pmpalet.e5",
+      "entry": 114,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 0,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 1,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 2,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 3,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 4,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 5,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 6,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 7,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 8,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 9,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 10,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 11,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 12,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 13,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 14,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 15,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 16,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 17,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 18,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 19,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 20,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 21,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 22,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 23,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 24,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 25,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 26,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 27,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 28,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 29,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 30,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 31,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 32,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 33,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 34,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 35,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 36,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 37,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 38,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 39,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 40,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 41,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 42,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 43,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 44,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 45,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 46,
+      "size": 768,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 47,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 48,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 49,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 50,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 51,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 52,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 53,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 54,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 55,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 56,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    },
+    {
+      "file": "Spalet.e5",
+      "entry": 57,
+      "size": 738,
+      "changed_visible_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "profile": 1
+    }
+  ],
+  "palette_count": 173,
+  "equal_visible_colors": 40,
+  "visible_color_profiles": [
+    {
+      "id": 0,
+      "representative": {
+        "file": "Pmpalet.e5",
+        "entry": 0
+      },
+      "members": [
+        {
+          "file": "Pmpalet.e5",
+          "entry": 0
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 1
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 2
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 3
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 4
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 5
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 6
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 7
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 8
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 9
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 10
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 11
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 12
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 13
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 14
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 15
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 16
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 17
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 18
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 19
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 20
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 21
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 22
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 23
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 24
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 25
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 26
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 27
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 28
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 29
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 30
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 31
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 32
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 33
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 34
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 35
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 36
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 37
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 38
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 39
+        }
+      ],
+      "changed_indices": [],
+      "affected_faces": []
+    },
+    {
+      "id": 1,
+      "representative": {
+        "file": "Pmpalet.e5",
+        "entry": 40
+      },
+      "members": [
+        {
+          "file": "Pmpalet.e5",
+          "entry": 40
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 41
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 42
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 43
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 44
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 45
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 46
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 47
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 48
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 49
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 50
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 51
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 52
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 53
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 54
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 55
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 56
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 57
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 58
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 59
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 60
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 61
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 62
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 63
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 64
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 65
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 66
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 67
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 68
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 69
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 70
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 71
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 72
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 73
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 74
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 75
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 76
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 77
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 78
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 79
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 80
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 81
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 82
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 83
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 84
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 85
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 86
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 87
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 88
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 89
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 90
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 91
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 92
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 93
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 94
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 95
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 96
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 97
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 98
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 99
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 100
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 101
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 102
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 103
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 104
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 105
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 106
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 107
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 108
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 109
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 110
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 111
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 112
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 113
+        },
+        {
+          "file": "Pmpalet.e5",
+          "entry": 114
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 0
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 1
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 2
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 3
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 4
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 5
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 6
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 7
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 8
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 9
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 10
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 11
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 12
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 13
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 14
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 15
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 16
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 17
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 18
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 19
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 20
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 21
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 22
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 23
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 24
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 25
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 26
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 27
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 28
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 29
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 30
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 31
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 32
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 33
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 34
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 35
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 36
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 37
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 38
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 39
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 40
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 41
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 42
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 43
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 44
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 45
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 46
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 47
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 48
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 49
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 50
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 51
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 52
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 53
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 54
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 55
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 56
+        },
+        {
+          "file": "Spalet.e5",
+          "entry": 57
+        }
+      ],
+      "changed_indices": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "affected_faces": [
+        {
+          "index": 12,
+          "pixels": 12
+        },
+        {
+          "index": 21,
+          "pixels": 113
+        },
+        {
+          "index": 176,
+          "pixels": 92
+        },
+        {
+          "index": 179,
+          "pixels": 33
+        },
+        {
+          "index": 184,
+          "pixels": 178
+        },
+        {
+          "index": 185,
+          "pixels": 102
+        },
+        {
+          "index": 214,
+          "pixels": 28
+        },
+        {
+          "index": 215,
+          "pixels": 30
+        },
+        {
+          "index": 225,
+          "pixels": 76
+        }
+      ]
+    }
+  ],
+  "actual_zero_index_pixels": 0,
+  "preview": "64x80 PNG, baseline palette, index 0 transparent; not final Web assets",
+  "channel_evidence": "native stored channel order converted as channel1,channel2,channel0; high nibble retained"
+}

@@ -1,0 +1,330 @@
+{
+  "runCount": 19,
+  "union": [
+    2,
+    8,
+    9,
+    10,
+    20,
+    28,
+    35,
+    39,
+    47,
+    48,
+    50,
+    51,
+    58,
+    59,
+    62
+  ],
+  "unionCount": 15,
+  "firstEvidence": {
+    "2": "analysis\\live-startup-20261018-044137",
+    "8": "analysis\\live-startup-20261018-044137",
+    "9": "analysis\\live-startup-20261017-035007",
+    "10": "analysis\\live-startup-20261018-044137",
+    "20": "analysis\\live-startup-20261017-034839",
+    "28": "analysis\\live-startup-20261017-035007",
+    "35": "analysis\\live-startup-20261017-034839",
+    "39": "analysis\\live-startup-20261018-044137",
+    "47": "analysis\\live-startup-20261018-044137",
+    "48": "analysis\\live-startup-20261017-035007",
+    "50": "analysis\\live-startup-20261017-034839",
+    "51": "analysis\\live-startup-20261017-035007",
+    "58": "analysis\\live-startup-20261018-044137",
+    "59": "analysis\\live-startup-20261018-044137",
+    "62": "analysis\\live-startup-20261018-044137"
+  },
+  "runs": [
+    {
+      "run": "analysis\\live-startup-20261017-034839",
+      "opcodes": [
+        20,
+        35,
+        50
+      ],
+      "count": 3
+    },
+    {
+      "run": "analysis\\live-startup-20261017-035007",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261017-040510",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261017-040650",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261017-040811",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261017-155200",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261017-194421",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261017-194826",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261018-043631",
+      "opcodes": [
+        9,
+        20,
+        28,
+        35,
+        48,
+        50,
+        51
+      ],
+      "count": 7
+    },
+    {
+      "run": "analysis\\live-startup-20261018-044137",
+      "opcodes": [
+        2,
+        8,
+        9,
+        10,
+        20,
+        28,
+        35,
+        39,
+        47,
+        48,
+        50,
+        51,
+        58,
+        59,
+        62
+      ],
+      "count": 15
+    },
+    {
+      "run": "analysis\\live-startup-20261018-044334",
+      "opcodes": [
+        2,
+        8,
+        9,
+        10,
+        20,
+        28,
+        35,
+        39,
+        47,
+        48,
+        50,
+        51,
+        58,
+        59,
+        62
+      ],
+      "count": 15
+    },
+    {
+      "run": "analysis\\live-startup-20261018-071910",
+      "opcodes": [
+        2,
+        8,
+        9,
+        10,
+        20,
+        28,
+        35,
+        39,
+        47,
+        48,
+        50,
+        51,
+        58,
+        59,
+        62
+      ],
+      "count": 15
+    },
+    {
+      "run": "analysis\\live-startup-20261018-073242",
+      "opcodes": [
+        2,
+        8,
+        9,
+        10,
+        20,
+        28,
+        35,
+        39,
+        47,
+        48,
+        50,
+        51,
+        58,
+        59,
+        62
+      ],
+      "count": 15
+    },
+    {
+      "run": "analysis\\live-startup-20261018-075243",
+      "opcodes": [
+        2,
+        8,
+        10,
+        39,
+        47,
+        58,
+        59,
+        62
+      ],
+      "count": 8
+    },
+    {
+      "run": "analysis\\live-startup-20261018-075403",
+      "opcodes": [
+        2,
+        8,
+        10,
+        39,
+        47,
+        58,
+        59,
+        62
+      ],
+      "count": 8
+    },
+    {
+      "run": "analysis\\live-startup-20261018-075526",
+      "opcodes": [
+        2,
+        8,
+        10,
+        39,
+        47,
+        58,
+        59,
+        62
+      ],
+      "count": 8
+    },
+    {
+      "run": "analysis\\live-startup-20261018-084620",
+      "opcodes": [
+        2,
+        8,
+        10,
+        28,
+        35,
+        39,
+        47,
+        48,
+        50,
+        58,
+        59,
+        62
+      ],
+      "count": 12
+    },
+    {
+      "run": "analysis\\live-startup-20261018-090840",
+      "opcodes": [
+        2,
+        8,
+        10,
+        28,
+        35,
+        39,
+        47,
+        48,
+        50,
+        58,
+        59,
+        62
+      ],
+      "count": 12
+    },
+    {
+      "run": "analysis\\live-startup-20261018-102643",
+      "opcodes": [
+        2,
+        8,
+        10,
+        28,
+        39,
+        47,
+        58,
+        59,
+        62
+      ],
+      "count": 9
+    }
+  ]
+}

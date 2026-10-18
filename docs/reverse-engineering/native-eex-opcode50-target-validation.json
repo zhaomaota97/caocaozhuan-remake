@@ -1,0 +1,13 @@
+{
+  "rows": [
+    {
+      "case": "missing",
+      "ret": 65535
+    },
+    {
+      "case": "non-type4",
+      "ret": 65535
+    }
+  ],
+  "passed": true
+}

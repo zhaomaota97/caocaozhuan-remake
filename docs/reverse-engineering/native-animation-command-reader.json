@@ -1,0 +1,2054 @@
+{
+  "scope": "Original 0x427F04 and 0x427F2E; no replacements; lengths cross-checked against PE bytes",
+  "rows": [
+    {
+      "opcode": 0,
+      "returnedByte": 0,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 1,
+      "returnedByte": 1,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 2,
+      "returnedByte": 2,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 3,
+      "returnedByte": 3,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 4,
+      "returnedByte": 4,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 5,
+      "returnedByte": 5,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 6,
+      "returnedByte": 6,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 7,
+      "returnedByte": 7,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 8,
+      "returnedByte": 8,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 9,
+      "returnedByte": 9,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 10,
+      "returnedByte": 10,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 11,
+      "returnedByte": 11,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 12,
+      "returnedByte": 12,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 13,
+      "returnedByte": 13,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 14,
+      "returnedByte": 14,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 15,
+      "returnedByte": 15,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 16,
+      "returnedByte": 16,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 17,
+      "returnedByte": 17,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 18,
+      "returnedByte": 18,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 19,
+      "returnedByte": 19,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 20,
+      "returnedByte": 20,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 21,
+      "returnedByte": 21,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 22,
+      "returnedByte": 22,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 23,
+      "returnedByte": 23,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 24,
+      "returnedByte": 24,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 25,
+      "returnedByte": 25,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 26,
+      "returnedByte": 26,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 27,
+      "returnedByte": 27,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 28,
+      "returnedByte": 28,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 29,
+      "returnedByte": 29,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 30,
+      "returnedByte": 30,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 31,
+      "returnedByte": 31,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 32,
+      "returnedByte": 32,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 33,
+      "returnedByte": 33,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 34,
+      "returnedByte": 34,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 35,
+      "returnedByte": 35,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 36,
+      "returnedByte": 36,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 37,
+      "returnedByte": 37,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 38,
+      "returnedByte": 38,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 39,
+      "returnedByte": 39,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 40,
+      "returnedByte": 40,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 41,
+      "returnedByte": 41,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 42,
+      "returnedByte": 42,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 43,
+      "returnedByte": 43,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 44,
+      "returnedByte": 44,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 45,
+      "returnedByte": 45,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 46,
+      "returnedByte": 46,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 47,
+      "returnedByte": 47,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 48,
+      "returnedByte": 48,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 49,
+      "returnedByte": 49,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 50,
+      "returnedByte": 50,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 51,
+      "returnedByte": 51,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 52,
+      "returnedByte": 52,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 53,
+      "returnedByte": 53,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 54,
+      "returnedByte": 54,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 55,
+      "returnedByte": 55,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 56,
+      "returnedByte": 56,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 57,
+      "returnedByte": 57,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 58,
+      "returnedByte": 58,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 59,
+      "returnedByte": 59,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 60,
+      "returnedByte": 60,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 61,
+      "returnedByte": 61,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 62,
+      "returnedByte": 62,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 63,
+      "returnedByte": 63,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 64,
+      "returnedByte": 64,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 65,
+      "returnedByte": 65,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 66,
+      "returnedByte": 66,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 67,
+      "returnedByte": 67,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 68,
+      "returnedByte": 68,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 69,
+      "returnedByte": 69,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 70,
+      "returnedByte": 70,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 71,
+      "returnedByte": 71,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 72,
+      "returnedByte": 72,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 73,
+      "returnedByte": 73,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 74,
+      "returnedByte": 74,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 75,
+      "returnedByte": 75,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 76,
+      "returnedByte": 76,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 77,
+      "returnedByte": 77,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 78,
+      "returnedByte": 78,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 79,
+      "returnedByte": 79,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 80,
+      "returnedByte": 80,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 81,
+      "returnedByte": 81,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 82,
+      "returnedByte": 82,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 83,
+      "returnedByte": 83,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 84,
+      "returnedByte": 84,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 85,
+      "returnedByte": 85,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 86,
+      "returnedByte": 86,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 87,
+      "returnedByte": 87,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 88,
+      "returnedByte": 88,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 89,
+      "returnedByte": 89,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 90,
+      "returnedByte": 90,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 91,
+      "returnedByte": 91,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 92,
+      "returnedByte": 92,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 93,
+      "returnedByte": 93,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 94,
+      "returnedByte": 94,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 95,
+      "returnedByte": 95,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 96,
+      "returnedByte": 96,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 97,
+      "returnedByte": 97,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 98,
+      "returnedByte": 98,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 99,
+      "returnedByte": 99,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 100,
+      "returnedByte": 100,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 101,
+      "returnedByte": 101,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 102,
+      "returnedByte": 102,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 103,
+      "returnedByte": 103,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 104,
+      "returnedByte": 104,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 105,
+      "returnedByte": 105,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 106,
+      "returnedByte": 106,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 107,
+      "returnedByte": 107,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 108,
+      "returnedByte": 108,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 109,
+      "returnedByte": 109,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 110,
+      "returnedByte": 110,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 111,
+      "returnedByte": 111,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 112,
+      "returnedByte": 112,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 113,
+      "returnedByte": 113,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 114,
+      "returnedByte": 114,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 115,
+      "returnedByte": 115,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 116,
+      "returnedByte": 116,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 117,
+      "returnedByte": 117,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 118,
+      "returnedByte": 118,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 119,
+      "returnedByte": 119,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 120,
+      "returnedByte": 120,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 121,
+      "returnedByte": 121,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 122,
+      "returnedByte": 122,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 123,
+      "returnedByte": 123,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 124,
+      "returnedByte": 124,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 125,
+      "returnedByte": 125,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 126,
+      "returnedByte": 126,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 127,
+      "returnedByte": 127,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 128,
+      "returnedByte": 128,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 129,
+      "returnedByte": 129,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 130,
+      "returnedByte": 130,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 131,
+      "returnedByte": 131,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 132,
+      "returnedByte": 132,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 133,
+      "returnedByte": 133,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 134,
+      "returnedByte": 134,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 135,
+      "returnedByte": 135,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 136,
+      "returnedByte": 136,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 137,
+      "returnedByte": 137,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 138,
+      "returnedByte": 138,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 139,
+      "returnedByte": 139,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 140,
+      "returnedByte": 140,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 141,
+      "returnedByte": 141,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 142,
+      "returnedByte": 142,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 143,
+      "returnedByte": 143,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 144,
+      "returnedByte": 144,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 145,
+      "returnedByte": 145,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 146,
+      "returnedByte": 146,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 147,
+      "returnedByte": 147,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 148,
+      "returnedByte": 148,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 149,
+      "returnedByte": 149,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 150,
+      "returnedByte": 150,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 151,
+      "returnedByte": 151,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 152,
+      "returnedByte": 152,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 153,
+      "returnedByte": 153,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 154,
+      "returnedByte": 154,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 155,
+      "returnedByte": 155,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 156,
+      "returnedByte": 156,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 157,
+      "returnedByte": 157,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 158,
+      "returnedByte": 158,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 159,
+      "returnedByte": 159,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 160,
+      "returnedByte": 160,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 161,
+      "returnedByte": 161,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 162,
+      "returnedByte": 162,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 163,
+      "returnedByte": 163,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 164,
+      "returnedByte": 164,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 165,
+      "returnedByte": 165,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 166,
+      "returnedByte": 166,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 167,
+      "returnedByte": 167,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 168,
+      "returnedByte": 168,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 169,
+      "returnedByte": 169,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 170,
+      "returnedByte": 170,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 171,
+      "returnedByte": 171,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 172,
+      "returnedByte": 172,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 173,
+      "returnedByte": 173,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 174,
+      "returnedByte": 174,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 175,
+      "returnedByte": 175,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 176,
+      "returnedByte": 176,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 177,
+      "returnedByte": 177,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 178,
+      "returnedByte": 178,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 179,
+      "returnedByte": 179,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 180,
+      "returnedByte": 180,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 181,
+      "returnedByte": 181,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 182,
+      "returnedByte": 182,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 183,
+      "returnedByte": 183,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 184,
+      "returnedByte": 184,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 185,
+      "returnedByte": 185,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 186,
+      "returnedByte": 186,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 187,
+      "returnedByte": 187,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 188,
+      "returnedByte": 188,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 189,
+      "returnedByte": 189,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 190,
+      "returnedByte": 190,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 191,
+      "returnedByte": 191,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 192,
+      "returnedByte": 192,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 193,
+      "returnedByte": 193,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 194,
+      "returnedByte": 194,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 195,
+      "returnedByte": 195,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 196,
+      "returnedByte": 196,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 197,
+      "returnedByte": 197,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 198,
+      "returnedByte": 198,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 199,
+      "returnedByte": 199,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 200,
+      "returnedByte": 200,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 201,
+      "returnedByte": 201,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 202,
+      "returnedByte": 202,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 203,
+      "returnedByte": 203,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 204,
+      "returnedByte": 204,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 205,
+      "returnedByte": 205,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 206,
+      "returnedByte": 206,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 207,
+      "returnedByte": 207,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 208,
+      "returnedByte": 208,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 209,
+      "returnedByte": 209,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 210,
+      "returnedByte": 210,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 211,
+      "returnedByte": 211,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 212,
+      "returnedByte": 212,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 213,
+      "returnedByte": 213,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 214,
+      "returnedByte": 214,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 215,
+      "returnedByte": 215,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 216,
+      "returnedByte": 216,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 217,
+      "returnedByte": 217,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 218,
+      "returnedByte": 218,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 219,
+      "returnedByte": 219,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 220,
+      "returnedByte": 220,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 221,
+      "returnedByte": 221,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 222,
+      "returnedByte": 222,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 223,
+      "returnedByte": 223,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 224,
+      "returnedByte": 224,
+      "length": 2,
+      "upperWord": 42405,
+      "advanced": 2,
+      "match": true
+    },
+    {
+      "opcode": 225,
+      "returnedByte": 225,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 226,
+      "returnedByte": 226,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 227,
+      "returnedByte": 227,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 228,
+      "returnedByte": 228,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 229,
+      "returnedByte": 229,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 230,
+      "returnedByte": 230,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 231,
+      "returnedByte": 231,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 232,
+      "returnedByte": 232,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 233,
+      "returnedByte": 233,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 234,
+      "returnedByte": 234,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 235,
+      "returnedByte": 235,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 236,
+      "returnedByte": 236,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 237,
+      "returnedByte": 237,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 238,
+      "returnedByte": 238,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 239,
+      "returnedByte": 239,
+      "length": 1,
+      "upperWord": 42405,
+      "advanced": 1,
+      "match": true
+    },
+    {
+      "opcode": 240,
+      "returnedByte": 240,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 241,
+      "returnedByte": 241,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 242,
+      "returnedByte": 242,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 243,
+      "returnedByte": 243,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 244,
+      "returnedByte": 244,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 245,
+      "returnedByte": 245,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 246,
+      "returnedByte": 246,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 247,
+      "returnedByte": 247,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 248,
+      "returnedByte": 248,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 249,
+      "returnedByte": 249,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 250,
+      "returnedByte": 250,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 251,
+      "returnedByte": 251,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 252,
+      "returnedByte": 252,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 253,
+      "returnedByte": 253,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 254,
+      "returnedByte": 254,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    },
+    {
+      "opcode": 255,
+      "returnedByte": 255,
+      "length": 255,
+      "upperWord": 42405,
+      "advanced": 255,
+      "match": true
+    }
+  ],
+  "passed": true
+}

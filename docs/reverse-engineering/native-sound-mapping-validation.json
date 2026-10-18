@@ -1,0 +1,1897 @@
+[
+  {
+    "id": 0,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE00.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE00.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 1,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE01.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE01.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 2,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE02.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE02.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 3,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE03.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE03.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 4,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE04.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE04.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 5,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE05.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE05.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 6,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE06.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE06.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 7,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE07.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE07.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 8,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE08.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE08.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 9,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE09.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE09.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 10,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE10.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE10.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 11,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE11.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE11.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 12,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE12.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE12.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 13,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE13.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE13.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 14,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE14.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE14.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 15,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE15.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE15.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 16,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE16.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE16.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 17,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE17.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE17.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 18,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE18.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE18.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 19,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE19.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE19.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 20,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE20.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE20.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 21,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE21.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE21.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 22,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE22.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE22.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 23,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE23.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE23.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 24,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE24.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE24.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 25,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE25.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE25.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 26,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE26.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE26.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 27,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE27.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE27.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 28,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE28.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE28.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 29,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE29.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE29.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 30,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE30.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE30.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 31,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE31.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE31.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 32,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE32.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE32.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 33,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE33.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE33.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 34,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE34.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE34.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 35,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE35.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE35.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 36,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE36.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE36.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 37,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE37.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE37.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 38,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE38.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE38.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 39,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE39.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE39.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 40,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE40.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE40.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 41,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE41.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE41.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 42,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE42.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE42.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 43,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 44,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 45,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 46,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 47,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 48,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 49,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 50,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 51,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 52,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 53,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 54,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 55,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 56,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 57,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 58,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 59,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 60,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 61,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 62,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 63,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 64,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 65,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 66,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 67,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 68,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 69,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 70,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 71,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 72,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 73,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 74,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 75,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 76,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 77,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 78,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 79,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 80,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 81,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 82,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 83,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 84,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 85,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 86,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 87,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 88,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 89,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 90,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 91,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 92,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 93,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 94,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 95,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 96,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 97,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 98,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 99,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 100,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_00.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_00.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 101,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_01.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_01.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 102,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_02.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_02.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 103,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_03.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_03.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 104,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_04.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_04.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 105,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_05.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_05.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 106,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_06.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_06.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 107,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_07.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_07.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 108,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_08.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_08.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 109,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_09.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_09.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 110,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_10.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_10.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 111,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_11.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_11.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 112,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_12.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_12.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 113,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_13.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_13.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 114,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_14.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_14.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 115,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_15.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_15.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 116,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_16.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_16.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 117,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_17.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_17.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 118,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_18.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_18.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 119,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_19.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_19.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 120,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_20.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_20.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 121,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_21.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_21.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 122,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_22.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_22.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 123,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_23.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_23.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 124,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_24.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_24.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 125,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_25.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_25.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 126,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_26.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_26.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 127,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_27.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_27.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 128,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_28.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_28.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 129,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_29.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_29.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 130,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_30.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_30.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 131,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_31.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_31.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 132,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_32.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_32.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 133,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_33.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_33.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 134,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_34.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_34.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 135,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_35.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_35.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 136,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_36.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_M_36.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 137,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 138,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 139,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 140,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 141,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 142,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 143,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 144,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 145,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 146,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 147,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 148,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 149,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 150,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 151,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 152,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 153,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 154,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 155,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 156,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 157,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 158,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 159,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 160,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 161,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 162,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 163,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 164,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 165,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 166,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 167,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 168,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 169,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 170,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 171,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 172,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 173,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 174,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 175,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 176,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 177,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 178,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 179,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 180,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 181,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 182,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 183,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 184,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 185,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 186,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 187,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 188,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 189,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 190,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 191,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 192,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 193,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 194,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 195,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 196,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 197,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 198,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 199,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "id": 200,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_00.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_00.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 201,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_01.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_01.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 202,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_02.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_02.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 203,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_03.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_03.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 204,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_04.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_04.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 205,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_05.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_05.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 206,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_06.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_06.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 207,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_07.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_07.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 208,
+    "returned": 1,
+    "paths": [
+      {
+        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_08.WAV",
+        "flags": 3
+      }
+    ],
+    "expected": "SE_E_08.WAV",
+    "file_exists": true,
+    "match": true
+  },
+  {
+    "id": 209,
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "name": "busy-gate",
+    "returned": 0,
+    "paths": [],
+    "match": true
+  },
+  {
+    "name": "disabled-gate",
+    "returned": 0,
+    "paths": [],
+    "match": true
+  }
+]

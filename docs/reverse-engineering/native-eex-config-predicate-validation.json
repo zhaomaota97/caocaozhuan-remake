@@ -1,0 +1,69 @@
+{
+  "rows": [
+    {
+      "opcode": 66,
+      "value": 0,
+      "op66": 0,
+      "op67": 0,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 67,
+      "value": 0,
+      "op66": 0,
+      "op67": 0,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 66,
+      "value": 1,
+      "op66": 1,
+      "op67": 1,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 67,
+      "value": 1,
+      "op66": 1,
+      "op67": 1,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 66,
+      "value": 2,
+      "op66": 0,
+      "op67": 0,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 67,
+      "value": 2,
+      "op66": 0,
+      "op67": 0,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 66,
+      "value": 4294967295,
+      "op66": 0,
+      "op67": 0,
+      "refresh5": 1,
+      "refresh6": 1
+    },
+    {
+      "opcode": 67,
+      "value": 4294967295,
+      "op66": 0,
+      "op67": 0,
+      "refresh5": 1,
+      "refresh6": 1
+    }
+  ],
+  "passed": true
+}
