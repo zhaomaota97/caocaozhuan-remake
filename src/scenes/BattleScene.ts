@@ -188,6 +188,11 @@ export class BattleScene extends Phaser.Scene {
       const native=record.controlledNativeExpansion ?? {};
       const placement=record.nativePlacement ?? {};
       const group=record.nativeSlotGroup as string;
+      const unitHex=String(native.unitHex??'');
+      const readLe32=(hex:string)=>parseInt(hex.match(/../g)!.reverse().join(''),16)>>>0;
+      const nativeWord0=unitHex.length>=8?readLe32(unitHex.slice(0,8)):record.unitId16;
+      const portraitCharacterId=nativeWord0&0xfff;
+      const portraitStoredIndex=unitHex.length>=16?readLe32(unitHex.slice(8,16))|0:record.unitId16;
       // S_00 opcode75 places Cao Cao in the primary slot at (7,0); auxiliary
       // type-1 records remain deferred until their verified appearance event.
       const eventPosition:Record<number,[number,number]>={32:[14,1],3:[13,2],33:[13,1]};
@@ -199,7 +204,7 @@ export class BattleScene extends Phaser.Scene {
         x:hidden?0:(initialPosition?.[0]??(placement.position?.[0]===255?record.coordinateBytes[0]:(placement.position?.[0]??record.coordinateBytes[0]))),y:hidden?0:(initialPosition?.[1]??(placement.position?.[1]===255?record.coordinateBytes[1]:(placement.position?.[1]??record.coordinateBytes[1]))),
         hp:native.hp??1,maxHp:native.maxHp??1,mp:native.mp??0,move:6,acted:false,
         direction:native.facing??2,actorFlags:native.actorFlags??0,statusFlags:0,injuredPose:false,
-        nativeMovementCosts:[],nativeEquipment:(native.equipment??[]).map((row:number[],index:number)=>({slot:index,itemId:row[0],byte1:row[1]??255,byte2:row[2]??255})),nativeHidden:hidden,nativeClassId:native.classId};
+        nativeMovementCosts:[],nativeEquipment:(native.equipment??[]).map((row:number[],index:number)=>({slot:index,itemId:row[0],byte1:row[1]??255,byte2:row[2]??255})),nativePortraitCharacterId:portraitCharacterId,nativePortraitStoredIndex:portraitStoredIndex,nativeHidden:hidden,nativeClassId:native.classId};
     });
   }
   private async playS00OpeningEvent(){
