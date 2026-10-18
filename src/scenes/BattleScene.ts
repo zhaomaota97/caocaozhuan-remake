@@ -219,10 +219,13 @@ export class BattleScene extends Phaser.Scene {
     const tracedPaths=(s00LiuTrace.observations as Array<{kind:string;actor?:number;steps?:Array<{from:number[];direction:number}>}>).filter(row=>row.kind==='native-path'&&row.steps);
     try{
       await this.playS00Dialogue();
-      for(const id of [32,3,33]){
-        const unit=this.units.find(row=>Number(row.id.replace('s00-slot-',''))===({32:15,3:16,33:17} as Record<number,number>)[id]);
+      const actorSlotMap:Record<number,number>={32:15,3:16,33:17};
+      for(const pathRow of tracedPaths){
+        const id=pathRow.actor;
+        if(id===undefined)continue;
+        const unit=this.units.find(row=>Number(row.id.replace('s00-slot-',''))===actorSlotMap[id]);
         if(!unit)continue;
-        const path=tracedPaths.find(row=>row.actor===id)?.steps??[];
+        const path=pathRow.steps??[];
         for(const step of path){
           const direction=step.direction;
           if(step.from?.length===2&&(unit.x!==step.from[0]||unit.y!==step.from[1]))continue;
