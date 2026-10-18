@@ -28,6 +28,8 @@ its use.
   scenarios, with S_02 browser smoke coverage.
 - Native EEX common-state rules for opcodes 32, 58 and 103, portrait selection,
   dialogue section parsing, and common-state dispatch.
+- Native unit/weapon experience award formulas and level-growth writeback rules,
+  with copied dynamic validation matrices under `docs/reverse-engineering/`.
 - Build and rule checks: `npx tsc --noEmit`, `npm run build`, targeted
   Playwright tests.
 
