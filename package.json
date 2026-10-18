@@ -10,7 +10,7 @@
     "verify:independent": "node tools/verify-independent.mjs",
     "manifest:resources": "node tools/build-resource-manifest.mjs",
     "verify:resources": "node tools/verify-resource-manifest.mjs",
-    "test:reverse-rules": "playwright test tests/unit-growth.spec.ts tests/experience-awards.spec.ts tests/equipment-experience.spec.ts tests/native-growth-fields.spec.ts tests/eex-runner.spec.ts tests/native-camera.spec.ts tests/scenario-data-integrity.spec.ts tests/item-equipment-separation.spec.ts"
+    "test:reverse-rules": "playwright test tests/unit-growth.spec.ts tests/experience-awards.spec.ts tests/equipment-experience.spec.ts tests/native-growth-fields.spec.ts tests/eex-runner.spec.ts tests/native-camera.spec.ts tests/attack-range.spec.ts tests/scenario-data-integrity.spec.ts tests/item-equipment-separation.spec.ts"
   },
   "dependencies": {
     "phaser": "^3.80.1"
