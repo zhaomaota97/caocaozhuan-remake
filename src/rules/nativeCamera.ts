@@ -16,3 +16,9 @@ export function nativeCameraSteps(from:{x:number;y:number},to:{x:number;y:number
 export function clampNativeCamera(target:{x:number;y:number},map:{width:number;height:number},viewport:{width:number;height:number}){
   return {x:Math.max(0,Math.min(target.x,map.width-viewport.width)),y:Math.max(0,Math.min(target.y,map.height-viewport.height))};
 }
+
+/** Decode the two bytes read by native 0x403360 from a 0x24-byte actor record. */
+export function nativeCameraTargetFromActorRecord(record:Uint8Array|number[]):{x:number;y:number}{
+  if(record.length<8)throw new Error('native actor record requires at least 8 bytes');
+  return {x:record[6]&0xff,y:record[7]&0xff};
+}
