@@ -15,6 +15,9 @@ its use.
 - Readable reverse evidence: `docs/reverse-engineering/`.
 - Resource integrity: `npm run manifest:resources` produces SHA-256 hashes for
   2,772 migrated assets.
+- Source migration integrity: `npm run verify:source-migration` compares every
+  native `.e5`, `.e5s`, `.eex`, WAV and data file in the original directory by
+  SHA-256 against `public/assets/native-extracted/`.
 - Independence check: `npm run verify:independent` scans runtime source/data
   and rejects original-directory paths.
 

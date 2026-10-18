@@ -1,0 +1,2320 @@
+{
+  "sourceRoot": "../sanguozhi",
+  "destinationRoot": "public/assets/native-extracted",
+  "extensions": [
+    ".e5",
+    ".e5s",
+    ".eex",
+    ".wav",
+    ".dat"
+  ],
+  "sourceCount": 329,
+  "migratedCount": 329,
+  "missing": [],
+  "mismatched": [],
+  "entries": [
+    {
+      "name": "Data.e5",
+      "source": "Data.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Data.e5",
+      "sha256": "462fa6d697849a685c9dcf2a074c5ebdae20044a8b03f98c9a1bc3f54177ffe8",
+      "migrated": true
+    },
+    {
+      "name": "Effarea.e5",
+      "source": "Effarea.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Effarea.e5",
+      "sha256": "2763dbe6ef4b491b8db8c6b0e42267443fa3f83a2f424a67772630715c7fbb4f",
+      "migrated": true
+    },
+    {
+      "name": "Face.e5",
+      "source": "Face.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Face.e5",
+      "sha256": "126689f69b5c66987024800d3522b6560634fbf1f1ab92f9c2c102b169e8e376",
+      "migrated": true
+    },
+    {
+      "name": "Font.e5",
+      "source": "Font.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Font.e5",
+      "sha256": "66bb756f72ffdfbdf05fc61b206df2d46a6a8886884054eee5b950008a67dc5a",
+      "migrated": true
+    },
+    {
+      "name": "Gate.e5",
+      "source": "Gate.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Gate.e5",
+      "sha256": "1df4b974a7615e9d13f19acb9a418e12d8283d006beca79c2286807434243027",
+      "migrated": true
+    },
+    {
+      "name": "Hexzmap.e5",
+      "source": "Hexzmap.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hexzmap.e5",
+      "sha256": "c5cac5fb66e09756ac080b5ce56a349495b225f408e33fee9c61e5ab0f034527",
+      "migrated": true
+    },
+    {
+      "name": "Hitarea.e5",
+      "source": "Hitarea.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hitarea.e5",
+      "sha256": "d42348e408a72cd2e1e3c486899b4dff1b41bb1cde07ea8bc3dbd102ced8f7cf",
+      "migrated": true
+    },
+    {
+      "name": "Hm00.e5",
+      "source": "Hm00.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm00.e5",
+      "sha256": "4f2b412cb34cfee26ca6437f1fdec208c948900e4376581ff62d08c155d360b8",
+      "migrated": true
+    },
+    {
+      "name": "Hm01.e5",
+      "source": "Hm01.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm01.e5",
+      "sha256": "e9da1b019b249256ff01351d5cac89e7f67297e5628c5e57778493044f589e63",
+      "migrated": true
+    },
+    {
+      "name": "Hm02.e5",
+      "source": "Hm02.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm02.e5",
+      "sha256": "94b7c820e0d6360ab7a69b8916f9511563cf3e728f7a3fb9fbfc48fd82053bc8",
+      "migrated": true
+    },
+    {
+      "name": "Hm03.e5",
+      "source": "Hm03.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm03.e5",
+      "sha256": "33d701dbbe77ae1f7c1421b24cad23d484bba2a5f896362f224841515c9e015e",
+      "migrated": true
+    },
+    {
+      "name": "Hm04.e5",
+      "source": "Hm04.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm04.e5",
+      "sha256": "01d8aa4e709ad8dd5676e228138a5187bd7517df1c00bcf08b529232e0b78e22",
+      "migrated": true
+    },
+    {
+      "name": "Hm05.e5",
+      "source": "Hm05.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm05.e5",
+      "sha256": "9bf996100a809ca0a27fb571ac4ae363c709c52e83b62aca2295caf98cd12a7a",
+      "migrated": true
+    },
+    {
+      "name": "Hm06.e5",
+      "source": "Hm06.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm06.e5",
+      "sha256": "5d0b76b6a1c863f26cab6c9b3d097c093fe671e448c489aafd6727e432da17cb",
+      "migrated": true
+    },
+    {
+      "name": "Hm07.e5",
+      "source": "Hm07.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm07.e5",
+      "sha256": "15d491e02b030a1511fd513e98b9ebfc2688190806a029b1abb650cae833a84d",
+      "migrated": true
+    },
+    {
+      "name": "Hm08.e5",
+      "source": "Hm08.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm08.e5",
+      "sha256": "e615c48d90f34e00f736b4a6d10ad14fb7f7a51af31f2e8aa87f71ec09308ed2",
+      "migrated": true
+    },
+    {
+      "name": "Hm09.e5",
+      "source": "Hm09.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm09.e5",
+      "sha256": "26b119f7ffc8ca5788e1c8fb13cf8169218da01c9168533488f83b1f890a9ffa",
+      "migrated": true
+    },
+    {
+      "name": "Hm10.e5",
+      "source": "Hm10.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm10.e5",
+      "sha256": "133bf27d17d42ab1963b537989a0a0c1d4704d58c477422edad24ea9d5c282ac",
+      "migrated": true
+    },
+    {
+      "name": "Hm11.e5",
+      "source": "Hm11.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm11.e5",
+      "sha256": "28f142b1044a3ba98fa59f81f9cdedbeaa1562c05ea21b6b51f3477137ad20ec",
+      "migrated": true
+    },
+    {
+      "name": "Hm12.e5",
+      "source": "Hm12.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm12.e5",
+      "sha256": "26886890390cb7e5ccbd17f842af76170d7470c902319d2683e0d3f2f4a4072c",
+      "migrated": true
+    },
+    {
+      "name": "Hm13.e5",
+      "source": "Hm13.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm13.e5",
+      "sha256": "2d6211126a460507ae68bebcae5d1bd80dbb27288f2e3f90d4e023dc0c14e17f",
+      "migrated": true
+    },
+    {
+      "name": "Hm14.e5",
+      "source": "Hm14.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm14.e5",
+      "sha256": "2f3426ee4bea290f450fcaa837fb9c2ce68aa6b3db47e218a198c1afb8742476",
+      "migrated": true
+    },
+    {
+      "name": "Hm15.e5",
+      "source": "Hm15.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm15.e5",
+      "sha256": "9dd99fd73ebb6079d1e0c99a58c8edd22c93a55374d5dce5df9936f94c3ecbeb",
+      "migrated": true
+    },
+    {
+      "name": "Hm16.e5",
+      "source": "Hm16.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm16.e5",
+      "sha256": "afb31f7229800312c3e058eeb7c155f05da82830361d6c21169ab4eb18437a54",
+      "migrated": true
+    },
+    {
+      "name": "Hm17.e5",
+      "source": "Hm17.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm17.e5",
+      "sha256": "4db544ebf528d6d57ecae9737b34a75258b08562ed67dafefaa88d7f07c35017",
+      "migrated": true
+    },
+    {
+      "name": "Hm18.e5",
+      "source": "Hm18.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm18.e5",
+      "sha256": "44a424e630bd724a8e1f2129de88124e7de68799bede8f8dddcf7543ee6971fd",
+      "migrated": true
+    },
+    {
+      "name": "Hm19.e5",
+      "source": "Hm19.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm19.e5",
+      "sha256": "93b77a705f154382fa3bd9b2dbf1c98934dc332a475db82a87ba754be9c7d92b",
+      "migrated": true
+    },
+    {
+      "name": "Hm20.e5",
+      "source": "Hm20.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm20.e5",
+      "sha256": "c7995a1f42c5a381a2169f5b3efaa82fb5784074c6203bead580f14cc5b6e08a",
+      "migrated": true
+    },
+    {
+      "name": "Hm21.e5",
+      "source": "Hm21.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm21.e5",
+      "sha256": "66bf4ea171ee8dfa96a801394300c6f941674dd2b7f3c22e0f561d820d244673",
+      "migrated": true
+    },
+    {
+      "name": "Hm22.e5",
+      "source": "Hm22.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm22.e5",
+      "sha256": "22d4cce1cc0437649f813cdd02bc359df6ba7206d32d27503c42ab96c6bfa9e4",
+      "migrated": true
+    },
+    {
+      "name": "Hm23.e5",
+      "source": "Hm23.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm23.e5",
+      "sha256": "9973dff160da67d0c66b99cbbb69cedc699d03cdcfa96a8c94472f4368e1d1df",
+      "migrated": true
+    },
+    {
+      "name": "Hm24.e5",
+      "source": "Hm24.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm24.e5",
+      "sha256": "62551b05c40f7e2d9151819affbe4c848c5f89f969b58443cd7c5ee66b2b3c20",
+      "migrated": true
+    },
+    {
+      "name": "Hm25.e5",
+      "source": "Hm25.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm25.e5",
+      "sha256": "adc56ea09f327be0307ac19b09485af5649b83ec45ebf487b67fd294eea8ad40",
+      "migrated": true
+    },
+    {
+      "name": "Hm26.e5",
+      "source": "Hm26.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm26.e5",
+      "sha256": "2565b6d745cfaef1d2507a13bdfd7bb97a7ad55ff6725bb2491fb7b9df269887",
+      "migrated": true
+    },
+    {
+      "name": "Hm27.e5",
+      "source": "Hm27.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm27.e5",
+      "sha256": "3f8f8e18bcd28b8ff1d5b358cbfdf8da1c13d36e6ae9b8fe5348817d97c3a2c8",
+      "migrated": true
+    },
+    {
+      "name": "Hm28.e5",
+      "source": "Hm28.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm28.e5",
+      "sha256": "3f8f8e18bcd28b8ff1d5b358cbfdf8da1c13d36e6ae9b8fe5348817d97c3a2c8",
+      "migrated": true
+    },
+    {
+      "name": "Hm29.e5",
+      "source": "Hm29.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm29.e5",
+      "sha256": "89081d402686479019c90e874158bce5cd3324a2f2547dcaadce21b00ac869c7",
+      "migrated": true
+    },
+    {
+      "name": "Hm30.e5",
+      "source": "Hm30.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm30.e5",
+      "sha256": "1f15a41523a3e6ec81fcec6c91c9eacd36a8b5d8999f3e2bc99faabe936f3287",
+      "migrated": true
+    },
+    {
+      "name": "Hm31.e5",
+      "source": "Hm31.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm31.e5",
+      "sha256": "d776d74113812656702c45c0972dc0fb81be570459a85653906f4d57fa93953d",
+      "migrated": true
+    },
+    {
+      "name": "Hm32.e5",
+      "source": "Hm32.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm32.e5",
+      "sha256": "06fbad3eda7be724cb1128dc1ebed7fd61bcb1f6d76e479022de9913f68819f1",
+      "migrated": true
+    },
+    {
+      "name": "Hm33.e5",
+      "source": "Hm33.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm33.e5",
+      "sha256": "dae295b8aa371d2339f1b3767638d2d4245f142cbba0c57ee28e7920218e360f",
+      "migrated": true
+    },
+    {
+      "name": "Hm34.e5",
+      "source": "Hm34.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm34.e5",
+      "sha256": "8955cc9a38336efeaf4e263a898ad2e2dab54e6af2ce49a0cd2c1dfc7e484e10",
+      "migrated": true
+    },
+    {
+      "name": "Hm35.e5",
+      "source": "Hm35.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm35.e5",
+      "sha256": "0067bc3cff56d8114078ac1cce55fdf2a65d930f907377cc46d3c897d8c918b2",
+      "migrated": true
+    },
+    {
+      "name": "Hm36.e5",
+      "source": "Hm36.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm36.e5",
+      "sha256": "0b87dd408184b58a66698e357d26563e3e75e34de3a648d9dcd7c92f8425f912",
+      "migrated": true
+    },
+    {
+      "name": "Hm37.e5",
+      "source": "Hm37.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm37.e5",
+      "sha256": "131208d8c12459babefa15348394271ce3729459c931bf37942bacf9e5c2731d",
+      "migrated": true
+    },
+    {
+      "name": "Hm38.e5",
+      "source": "Hm38.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm38.e5",
+      "sha256": "82368ea79bc72d5a6a0a17a40ffc292926d8537bb735c0d85564d6d666fa6f6a",
+      "migrated": true
+    },
+    {
+      "name": "Hm39.e5",
+      "source": "Hm39.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm39.e5",
+      "sha256": "bb1639dd162b3a7d6606eb9f4390ad1e3728d90757a2be8e4345d57ec068a751",
+      "migrated": true
+    },
+    {
+      "name": "Hm40.e5",
+      "source": "Hm40.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm40.e5",
+      "sha256": "a8e2c9af90f28e5cee75339131df47406b96dc0c29f6240d109e9522dc95604a",
+      "migrated": true
+    },
+    {
+      "name": "Hm41.e5",
+      "source": "Hm41.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm41.e5",
+      "sha256": "c4ff00c22ac3084c3e203712ed773e33b1047202f64f8f8b92ef78f86676d981",
+      "migrated": true
+    },
+    {
+      "name": "Hm42.e5",
+      "source": "Hm42.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm42.e5",
+      "sha256": "2de45ca809ba1b0eaa853661d79ac5821170187e07b0b16bf08a672379d9c397",
+      "migrated": true
+    },
+    {
+      "name": "Hm43.e5",
+      "source": "Hm43.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm43.e5",
+      "sha256": "a8fd47aa3217c506ec9fde5a7c863d0c93d45caa3f77e79fa2ef2172f348875e",
+      "migrated": true
+    },
+    {
+      "name": "Hm44.e5",
+      "source": "Hm44.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm44.e5",
+      "sha256": "2e71c184c8dba687f3e015f22bd04ab9fc27b052ff92283dbc0c9ef4b8fc4c87",
+      "migrated": true
+    },
+    {
+      "name": "Hm45.e5",
+      "source": "Hm45.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm45.e5",
+      "sha256": "0ab2512092b16933132a1dd65b3c0c9dbf01a8a397f032fe178dd72d4517bae3",
+      "migrated": true
+    },
+    {
+      "name": "Hm46.e5",
+      "source": "Hm46.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm46.e5",
+      "sha256": "0067bc3cff56d8114078ac1cce55fdf2a65d930f907377cc46d3c897d8c918b2",
+      "migrated": true
+    },
+    {
+      "name": "Hm47.e5",
+      "source": "Hm47.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm47.e5",
+      "sha256": "b63b3649087f5ea4c1d39a58611445660e961c753ef77b6af9c851a57350b79b",
+      "migrated": true
+    },
+    {
+      "name": "Hm48.e5",
+      "source": "Hm48.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm48.e5",
+      "sha256": "fb24541b4df4c43dcacfd0e672c2d963b35fc939f8f87ad8f5a1910fece9cd4f",
+      "migrated": true
+    },
+    {
+      "name": "Hm49.e5",
+      "source": "Hm49.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm49.e5",
+      "sha256": "64f187a000a2e5c37560a2a204f1da1e1d8be7ba6a871bf6a6c87aca1f43c9df",
+      "migrated": true
+    },
+    {
+      "name": "Hm50.e5",
+      "source": "Hm50.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm50.e5",
+      "sha256": "2e71c184c8dba687f3e015f22bd04ab9fc27b052ff92283dbc0c9ef4b8fc4c87",
+      "migrated": true
+    },
+    {
+      "name": "Hm51.e5",
+      "source": "Hm51.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm51.e5",
+      "sha256": "cc699472f366d84e6129df6fbc0237d9829bf2724ae278ae868d73256a21d5a6",
+      "migrated": true
+    },
+    {
+      "name": "Hm52.e5",
+      "source": "Hm52.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm52.e5",
+      "sha256": "52f2b1b39b766f1eec7543bbf64070f13552373703ba4b362a84b2054d6387fb",
+      "migrated": true
+    },
+    {
+      "name": "Hm53.e5",
+      "source": "Hm53.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm53.e5",
+      "sha256": "5ffdd26524844acfd41f1ee4d9c3e0f8ded890f32a368c85fe87fd44c67d82f6",
+      "migrated": true
+    },
+    {
+      "name": "Hm54.e5",
+      "source": "Hm54.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm54.e5",
+      "sha256": "2d3ed1beadfc8fe0d1cbce95d2395088df5fdac0ca88333ea04e8d2b19c0dbc0",
+      "migrated": true
+    },
+    {
+      "name": "Hm55.e5",
+      "source": "Hm55.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm55.e5",
+      "sha256": "1ea97ef191db390ac7217b102e4f02df10a2db3d47adb48ba8d7cf8c2910a79e",
+      "migrated": true
+    },
+    {
+      "name": "Hm56.e5",
+      "source": "Hm56.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm56.e5",
+      "sha256": "8b2f7e0dae17d2992593cf2f145b5749fe671fe79d1cb5f9f038fd20173a37c6",
+      "migrated": true
+    },
+    {
+      "name": "Hm57.e5",
+      "source": "Hm57.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Hm57.e5",
+      "sha256": "7f07ce9c0026faa89227ae4092152013118241d98622eff7ced2ccfb9fdb104c",
+      "migrated": true
+    },
+    {
+      "name": "Imsg.e5",
+      "source": "Imsg.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Imsg.e5",
+      "sha256": "d499fa07d21f0d17750f4222e4a7da24e944346209ecadd50303b9e66543bdca",
+      "migrated": true
+    },
+    {
+      "name": "Item.e5",
+      "source": "Item.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Item.e5",
+      "sha256": "ef2a898a2f1c2fa2a23f196d4827eeda52d1ec686b88a42d77400709cb808321",
+      "migrated": true
+    },
+    {
+      "name": "Logo.e5",
+      "source": "Logo.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Logo.e5",
+      "sha256": "dda4859b863fe795560052cb56814f75968ebd7d44d2b4d3bcadc3575a20af8b",
+      "migrated": true
+    },
+    {
+      "name": "Logo_p.e5",
+      "source": "Logo_p.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Logo_p.e5",
+      "sha256": "27910bc19072fde113b7a891ae4cb8f0f185c59e23e9decea11cdd8172f5f546",
+      "migrated": true
+    },
+    {
+      "name": "Mark.e5",
+      "source": "Mark.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mark.e5",
+      "sha256": "c182371ea2478721bf64962f206eb4b984bda2c28107ecc0bdd5526d94f120a9",
+      "migrated": true
+    },
+    {
+      "name": "Mcall00.e5",
+      "source": "Mcall00.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall00.e5",
+      "sha256": "d124aca9a1adfd0f89c7fe96f91f6853645b2be5e14ebe4108bc189fd1db88d4",
+      "migrated": true
+    },
+    {
+      "name": "Mcall01.e5",
+      "source": "Mcall01.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall01.e5",
+      "sha256": "3829204cd6843fb9bffa6a7d4ecbddc27d19fbe0ca062e1a1712b28c3a5f5005",
+      "migrated": true
+    },
+    {
+      "name": "Mcall02.e5",
+      "source": "Mcall02.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall02.e5",
+      "sha256": "2e096b551e0b20abb21d5712242a78a8052b21b1246893ce9dc6d0dc9a6f758c",
+      "migrated": true
+    },
+    {
+      "name": "Mcall03.e5",
+      "source": "Mcall03.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall03.e5",
+      "sha256": "944667fddaaa329636f222470b77e5378d627531cc1ffc21e8022cc2442cb848",
+      "migrated": true
+    },
+    {
+      "name": "Mcall04.e5",
+      "source": "Mcall04.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall04.e5",
+      "sha256": "95da2a5234eca9cf4416f7255b65800dd49229ce348288c20a76e16e519d6830",
+      "migrated": true
+    },
+    {
+      "name": "Mcall05.e5",
+      "source": "Mcall05.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall05.e5",
+      "sha256": "fe86b9b67f0672cd5812e755e579b5eb49228eef31702aa0c06606fcc3fb8ada",
+      "migrated": true
+    },
+    {
+      "name": "Mcall06.e5",
+      "source": "Mcall06.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall06.e5",
+      "sha256": "c8cf41d36a98fa4e22e3726709a20da40c3256ca08f8ea8f076ee19ed91e814d",
+      "migrated": true
+    },
+    {
+      "name": "Mcall07.e5",
+      "source": "Mcall07.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall07.e5",
+      "sha256": "685bdad491a8ffcc24c1999820ea5e391743f6d1be184974394baf82e45ed803",
+      "migrated": true
+    },
+    {
+      "name": "Mcall08.e5",
+      "source": "Mcall08.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mcall08.e5",
+      "sha256": "2c7de17d0d07633cb57bf1780986235d1020e0a5ec59e5401c5b5b228ae4bcc0",
+      "migrated": true
+    },
+    {
+      "name": "Meff.e5",
+      "source": "Meff.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Meff.e5",
+      "sha256": "72a16875dc47886f3ce505b32eb4cac229d75ae0266c7f6c7b1791ba66691061",
+      "migrated": true
+    },
+    {
+      "name": "Mmap.e5",
+      "source": "Mmap.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Mmap.e5",
+      "sha256": "d755799d0ac485ddc55d9b61aa68a9bb0ac73e79be04d75f438a446987fd7c42",
+      "migrated": true
+    },
+    {
+      "name": "Pmap.e5",
+      "source": "Pmap.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Pmap.e5",
+      "sha256": "8d0062e5cb8cba0e024debf90c65df0eee8b68f5c10406aa0d7b12f33938e7b3",
+      "migrated": true
+    },
+    {
+      "name": "Pmapobj.e5",
+      "source": "Pmapobj.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Pmapobj.e5",
+      "sha256": "7ba9274aed1e60b1eb5f13f387ef898313e6c77f3ff61817fee3cee453f7b143",
+      "migrated": true
+    },
+    {
+      "name": "Pmpalet.e5",
+      "source": "Pmpalet.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Pmpalet.e5",
+      "sha256": "78e9b1c7e8bedaa9b43adaca619c0ae6daee347f63c42bf3b4db91f79b2b6f66",
+      "migrated": true
+    },
+    {
+      "name": "R_00.eex",
+      "source": "R_00.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_00.eex",
+      "sha256": "712219890ae97b8b71525879f59b90f3a0ae5b71c4ee5ef5064d908a1b286034",
+      "migrated": true
+    },
+    {
+      "name": "R_01.eex",
+      "source": "R_01.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_01.eex",
+      "sha256": "95bea110f52016b2964a5ff108a31ea532ebaf0efbd27b2b1cfc3bffa6ec8561",
+      "migrated": true
+    },
+    {
+      "name": "R_02.eex",
+      "source": "R_02.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_02.eex",
+      "sha256": "d4cd897cb616d44467d6617f6b14b642a0258892bf2d171e58470fe26996f6a1",
+      "migrated": true
+    },
+    {
+      "name": "R_03.eex",
+      "source": "R_03.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_03.eex",
+      "sha256": "ea4ca4665ad49fe8972959f20f0f43dde5955a358ede54c489e9f60235c2a76d",
+      "migrated": true
+    },
+    {
+      "name": "R_04.eex",
+      "source": "R_04.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_04.eex",
+      "sha256": "5a708e8d5287e58b4454f094026186808694194a09b0633fdbf698d469fe6c61",
+      "migrated": true
+    },
+    {
+      "name": "R_05.eex",
+      "source": "R_05.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_05.eex",
+      "sha256": "8f485b546d61d02939499d19f8f56d898f6725c18b6350d2c740537c4ffbbd2e",
+      "migrated": true
+    },
+    {
+      "name": "R_06.eex",
+      "source": "R_06.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_06.eex",
+      "sha256": "24f7d593da937f44df8fb3c48b3cdc6a0f67eb348088b0e00763140b8ea3bce2",
+      "migrated": true
+    },
+    {
+      "name": "R_07.eex",
+      "source": "R_07.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_07.eex",
+      "sha256": "a6db627b60350170b93f33c0bb7bec8fb956f4ace219ebc614e3cecb51d879e2",
+      "migrated": true
+    },
+    {
+      "name": "R_08.eex",
+      "source": "R_08.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_08.eex",
+      "sha256": "cf5a4993f53af70a2af258834c4efb3478e62ada56c22a081381bb3c87ae181f",
+      "migrated": true
+    },
+    {
+      "name": "R_09.eex",
+      "source": "R_09.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_09.eex",
+      "sha256": "c832e5f3b6ad8818fa04e96120911a86c2e1aeefaa119dcea3d185dcc9d91c65",
+      "migrated": true
+    },
+    {
+      "name": "R_10.eex",
+      "source": "R_10.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_10.eex",
+      "sha256": "ef3bfaad905a575991d930a7bf3c40b0ebfea1c1867359ec48b28444e855088b",
+      "migrated": true
+    },
+    {
+      "name": "R_11.eex",
+      "source": "R_11.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_11.eex",
+      "sha256": "7e6e4e92cc14ee1d6e4ccf811d9ccf9d933aba2a399b8a1a8641c2d54e2da799",
+      "migrated": true
+    },
+    {
+      "name": "R_12.eex",
+      "source": "R_12.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_12.eex",
+      "sha256": "14bedbd65a9f947cf6a742c4c89484b1e3ab34cc4d73f1bf296a83b015dd116f",
+      "migrated": true
+    },
+    {
+      "name": "R_13.eex",
+      "source": "R_13.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_13.eex",
+      "sha256": "59cb1e5c726b2fbebe21b6abb22fa6a1d6a45036792ce104401be6d431fbed30",
+      "migrated": true
+    },
+    {
+      "name": "R_14.eex",
+      "source": "R_14.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_14.eex",
+      "sha256": "63819a6810ba38048ce29fd93d313d4e99f2e646d08d1be79f53349e0f40c44d",
+      "migrated": true
+    },
+    {
+      "name": "R_15.eex",
+      "source": "R_15.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_15.eex",
+      "sha256": "c6587e25aa933166368f807d5e76d549f4dcb68315e0e3e99c3620a390ead28f",
+      "migrated": true
+    },
+    {
+      "name": "R_16.eex",
+      "source": "R_16.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_16.eex",
+      "sha256": "1b29347633bb0e346056c55f863752df82c61719b057bd21fd6de1c5d67a7007",
+      "migrated": true
+    },
+    {
+      "name": "R_17.eex",
+      "source": "R_17.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_17.eex",
+      "sha256": "62859c1c006ca0d0bca77645f1baa07af6f2ee09b1d3aa95646af776376eb3fd",
+      "migrated": true
+    },
+    {
+      "name": "R_18.eex",
+      "source": "R_18.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_18.eex",
+      "sha256": "6aa60243dd58d7d7487144f40121300779bc999057e6f16658caf0f5a267e06b",
+      "migrated": true
+    },
+    {
+      "name": "R_19.eex",
+      "source": "R_19.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_19.eex",
+      "sha256": "285244bd06ad19efdd878aaac68e86f530e0530f3076124fc21cd3aeee01010c",
+      "migrated": true
+    },
+    {
+      "name": "R_20.eex",
+      "source": "R_20.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_20.eex",
+      "sha256": "c23c8a11c7777f1f39d5cb630e0edd1172c194c271a4a411b446f05841d2edaf",
+      "migrated": true
+    },
+    {
+      "name": "R_21.eex",
+      "source": "R_21.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_21.eex",
+      "sha256": "8b5a3b78b340d6db5af9d451c707ae492c708a7dc4a2d5d432662d53ea9a3e76",
+      "migrated": true
+    },
+    {
+      "name": "R_22.eex",
+      "source": "R_22.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_22.eex",
+      "sha256": "4191d4741937b3a82735047d31b34a8d20b6c7b3039a46aa79b3b8a460f7f909",
+      "migrated": true
+    },
+    {
+      "name": "R_23.eex",
+      "source": "R_23.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_23.eex",
+      "sha256": "5cbce3e6bda2e676c70600bc701edc1c0e985d70792f1484b5fcc6c921b8b606",
+      "migrated": true
+    },
+    {
+      "name": "R_24.eex",
+      "source": "R_24.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_24.eex",
+      "sha256": "d12259f064d3079e1c0d13f785a9b3b3e510bd1990401b7e492284327583f592",
+      "migrated": true
+    },
+    {
+      "name": "R_25.eex",
+      "source": "R_25.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_25.eex",
+      "sha256": "4496cd2e6fe58bbabf2513358e8240d4b86924f544ade9fdfdf1dc02392f3fad",
+      "migrated": true
+    },
+    {
+      "name": "R_26.eex",
+      "source": "R_26.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_26.eex",
+      "sha256": "53e2f84b2b9dc19dba2fec8586caf0d700933f0cd4882a1280b7b275bc81be47",
+      "migrated": true
+    },
+    {
+      "name": "R_27.eex",
+      "source": "R_27.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_27.eex",
+      "sha256": "89f199a46f9e6ca429cdb5ef290aeed2fe30d9ac2a6be579c36c13520f827c89",
+      "migrated": true
+    },
+    {
+      "name": "R_28.eex",
+      "source": "R_28.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_28.eex",
+      "sha256": "0689698c6cbaaa3712d9fa94363bac05ddc5f1a3b4c0fcae86aab9a654fca415",
+      "migrated": true
+    },
+    {
+      "name": "R_29.eex",
+      "source": "R_29.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_29.eex",
+      "sha256": "6c343bebd5a69739a40e12071cecb977599aeba61e4ab13a221a8e29eb3d61a5",
+      "migrated": true
+    },
+    {
+      "name": "R_30.eex",
+      "source": "R_30.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_30.eex",
+      "sha256": "3b22a0f916cdbe5469247097803574d43f7c0e729922be7b6f4780423738c03a",
+      "migrated": true
+    },
+    {
+      "name": "R_31.eex",
+      "source": "R_31.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_31.eex",
+      "sha256": "ea24b81cba81898ed5cccaedb6f53205527e56b250642714370cd8c40460e5d1",
+      "migrated": true
+    },
+    {
+      "name": "R_32.eex",
+      "source": "R_32.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_32.eex",
+      "sha256": "311a5948f293843da032f935c19e8b5e67c91fea4d535a9cf94a472d0dc20462",
+      "migrated": true
+    },
+    {
+      "name": "R_33.eex",
+      "source": "R_33.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_33.eex",
+      "sha256": "a386de0c98a75f55f3ce47cdad38a7652dc50f2972e07664299990d9dae8d678",
+      "migrated": true
+    },
+    {
+      "name": "R_34.eex",
+      "source": "R_34.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_34.eex",
+      "sha256": "2e29a991239c8a4b0bc3bced76df371c5c0db09ce2fa40b12fcb0287e736dd0d",
+      "migrated": true
+    },
+    {
+      "name": "R_35.eex",
+      "source": "R_35.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_35.eex",
+      "sha256": "5223e8890a6ed194c7db1b849e9e020e2d9cdac0ac5cd3a7057d012500de5929",
+      "migrated": true
+    },
+    {
+      "name": "R_36.eex",
+      "source": "R_36.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_36.eex",
+      "sha256": "d10b481dd31f4cb18ebab5500e9ad5e2aa1cf386c2498bc3712df50b8bbecb24",
+      "migrated": true
+    },
+    {
+      "name": "R_37.eex",
+      "source": "R_37.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_37.eex",
+      "sha256": "95ee03a6ae6ba422ddedffa998dfca34c91955670f29ce795936ba2ed0278d28",
+      "migrated": true
+    },
+    {
+      "name": "R_38.eex",
+      "source": "R_38.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_38.eex",
+      "sha256": "19a2375a3abdea7c0bacecfc2caa38791ce97077c1b8fa5298ef6189c7c48610",
+      "migrated": true
+    },
+    {
+      "name": "R_39.eex",
+      "source": "R_39.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_39.eex",
+      "sha256": "c8d65e39185d45d81d0a62325575cbca8ffc6fb55ccf5905d71be59148e65d6d",
+      "migrated": true
+    },
+    {
+      "name": "R_40.eex",
+      "source": "R_40.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_40.eex",
+      "sha256": "741e3adb4ab1d668bc5116841672a2a1063547595eba9043eb225a4815f1c681",
+      "migrated": true
+    },
+    {
+      "name": "R_41.eex",
+      "source": "R_41.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_41.eex",
+      "sha256": "45b73ecc0cc782997e08c9518070240ddd45ade9b67283a960684175da6f03e2",
+      "migrated": true
+    },
+    {
+      "name": "R_42.eex",
+      "source": "R_42.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_42.eex",
+      "sha256": "b76b5b0a5bd860a539a032ffb1a7e29e902186928c7bd58e61c8e93fc5b4dfbf",
+      "migrated": true
+    },
+    {
+      "name": "R_43.eex",
+      "source": "R_43.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_43.eex",
+      "sha256": "532a05c61704f3a22cb38ee371c5fbe06219552c6fda954160b1bb7c64605d79",
+      "migrated": true
+    },
+    {
+      "name": "R_44.eex",
+      "source": "R_44.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_44.eex",
+      "sha256": "22c929e836ff68151f36c57ce1fe1df099ad6ec237dab0788a59a6996660fcd8",
+      "migrated": true
+    },
+    {
+      "name": "R_45.eex",
+      "source": "R_45.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_45.eex",
+      "sha256": "8e0a93c67aadbc9464e1cbd390bce500cdb8dcc20f3c37bebabd16d67ac4d4c8",
+      "migrated": true
+    },
+    {
+      "name": "R_46.eex",
+      "source": "R_46.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_46.eex",
+      "sha256": "b54748db05733131cb810305d6eacb24025c3d9711b9a1972c7968726331b4d4",
+      "migrated": true
+    },
+    {
+      "name": "R_47.eex",
+      "source": "R_47.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_47.eex",
+      "sha256": "7f2f9a5740a647c4c2eac283e639a572c6a3407ff95a37976a62a066b7c7b05a",
+      "migrated": true
+    },
+    {
+      "name": "R_48.eex",
+      "source": "R_48.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_48.eex",
+      "sha256": "d01485a3eaa0f482fa6c4e540d1260943e195057ce85b348e3f44097a180e37b",
+      "migrated": true
+    },
+    {
+      "name": "R_49.eex",
+      "source": "R_49.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_49.eex",
+      "sha256": "b4f7751f9b5fd0d3b22b62ae60a4913aa5140d229eb922cb4b22fbe18ef5925d",
+      "migrated": true
+    },
+    {
+      "name": "R_50.eex",
+      "source": "R_50.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_50.eex",
+      "sha256": "2c879e2104633fd6e9f88c197b1059ed1f9564b9f6105b0fb94f823f31c504b5",
+      "migrated": true
+    },
+    {
+      "name": "R_51.eex",
+      "source": "R_51.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_51.eex",
+      "sha256": "8549f30a4cb765a56907000f97410b74def4cd369de6a8a98ca01520d3b8caae",
+      "migrated": true
+    },
+    {
+      "name": "R_52.eex",
+      "source": "R_52.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_52.eex",
+      "sha256": "5f5741467b4eb01a8c65c75078361caffbd04b15e5abee09d29e5de274bcc381",
+      "migrated": true
+    },
+    {
+      "name": "R_53.eex",
+      "source": "R_53.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_53.eex",
+      "sha256": "dd07ce843089eec628e47a89d787f4907cace1be5eeb6a78cea78728d2256e76",
+      "migrated": true
+    },
+    {
+      "name": "R_54.eex",
+      "source": "R_54.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_54.eex",
+      "sha256": "b38e2c454c29ae96a0914be8bd4da34ce34763dae2a5ab833d38f988bfacd452",
+      "migrated": true
+    },
+    {
+      "name": "R_55.eex",
+      "source": "R_55.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_55.eex",
+      "sha256": "6db946b38a30cacb2de3f7c7780fdb86ccd50497a8d54edaf0f2f8f185725d1f",
+      "migrated": true
+    },
+    {
+      "name": "R_56.eex",
+      "source": "R_56.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_56.eex",
+      "sha256": "0b8485ad6d1ba1579bea8659a425fb7de250c017074813d0cd7618179bc73d6f",
+      "migrated": true
+    },
+    {
+      "name": "R_57.eex",
+      "source": "R_57.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_57.eex",
+      "sha256": "cc52d295ad7008ba5c16e43dc2d876f7cd12a422d3bfc8a1c0fb54d3a326b57d",
+      "migrated": true
+    },
+    {
+      "name": "R_58.eex",
+      "source": "R_58.eex",
+      "destination": "public/assets/native-extracted/runtime-game/R_58.eex",
+      "sha256": "5725e0432fa23e809d24de751b677f41b37056149aee3c5464d66b3150690975",
+      "migrated": true
+    },
+    {
+      "name": "S_00.eex",
+      "source": "S_00.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_00.eex",
+      "sha256": "9f073c2164c4b5f9fb809dd24a1b543baadbef7e64292cf2812c9fbc7dea4d29",
+      "migrated": true
+    },
+    {
+      "name": "S_01.eex",
+      "source": "S_01.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_01.eex",
+      "sha256": "5faf8ddc21c65a84bb449fd87bf75f0acd54e7d0ab08f059aeb28186df11c8d0",
+      "migrated": true
+    },
+    {
+      "name": "S_02.eex",
+      "source": "S_02.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_02.eex",
+      "sha256": "97f69639fccf5482a5b47c2d98b66062e4215dbb98d8bf996c48909fab5a47a9",
+      "migrated": true
+    },
+    {
+      "name": "S_03.eex",
+      "source": "S_03.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_03.eex",
+      "sha256": "14a9a3b9b31f65faa298afe485a9aac20f0b5fafb89381443359ca2f8194ee5b",
+      "migrated": true
+    },
+    {
+      "name": "S_04.eex",
+      "source": "S_04.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_04.eex",
+      "sha256": "313ae35933b01aaf1a5da47b6de0c9efc9785bab24e48d937e12e86073fbefc5",
+      "migrated": true
+    },
+    {
+      "name": "S_05.eex",
+      "source": "S_05.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_05.eex",
+      "sha256": "97b010198dd456b3c8c11d482dedb4f8fd2689a881779ea12a5de257d4f8a763",
+      "migrated": true
+    },
+    {
+      "name": "S_06.eex",
+      "source": "S_06.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_06.eex",
+      "sha256": "bbcf3b64307c260038a818153f6f420f3aff7ab051a4723cb8bc7b3c8f56775e",
+      "migrated": true
+    },
+    {
+      "name": "S_07.eex",
+      "source": "S_07.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_07.eex",
+      "sha256": "a50c96357dbee2fd5c8397e6cabe1e7ded7c08475f9447246bcbc59c7e81848f",
+      "migrated": true
+    },
+    {
+      "name": "S_08.eex",
+      "source": "S_08.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_08.eex",
+      "sha256": "c01c1776ce684bdc29805e82bc8ab102771c87552cba32ae1aafdfb62a551948",
+      "migrated": true
+    },
+    {
+      "name": "S_09.eex",
+      "source": "S_09.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_09.eex",
+      "sha256": "6177131c4ba9f3b6cd23656e63f4337b6f0aba46de6ae95d4464f56ab712164b",
+      "migrated": true
+    },
+    {
+      "name": "S_10.eex",
+      "source": "S_10.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_10.eex",
+      "sha256": "331cb90ec9a2944eca47a627f827daeaa6f26eec76a1809111b380b7a07ae0d9",
+      "migrated": true
+    },
+    {
+      "name": "S_11.eex",
+      "source": "S_11.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_11.eex",
+      "sha256": "253573f511eae10c7327d84237d971966a283c76004518be9bad3592bd44c046",
+      "migrated": true
+    },
+    {
+      "name": "S_12.eex",
+      "source": "S_12.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_12.eex",
+      "sha256": "8f8fc552e03f8816c96ce0cdb81002826c9fa1db84ca8609f6a0a9abc63855eb",
+      "migrated": true
+    },
+    {
+      "name": "S_13.eex",
+      "source": "S_13.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_13.eex",
+      "sha256": "e732f5f87552fc1d8df447a23178b76b348038ded0b29b33bdde35b228b7337f",
+      "migrated": true
+    },
+    {
+      "name": "S_14.eex",
+      "source": "S_14.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_14.eex",
+      "sha256": "6ff8f5d4273f67b8b1d2fda931682cdf5f40ad8c5a223b1864132772e9c48d5f",
+      "migrated": true
+    },
+    {
+      "name": "S_15.eex",
+      "source": "S_15.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_15.eex",
+      "sha256": "375d5e94be5093585c717feb69d7bd287ebe2fa2cd911471aecc64674e36cc49",
+      "migrated": true
+    },
+    {
+      "name": "S_16.eex",
+      "source": "S_16.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_16.eex",
+      "sha256": "5e5f55ff685bd7cdc87cf6c21b40cdfc060c564d5450027ac100ebb4181631d7",
+      "migrated": true
+    },
+    {
+      "name": "S_17.eex",
+      "source": "S_17.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_17.eex",
+      "sha256": "6f7fef3cb2d128f5b7dbb6e151a5a4d5d1d9a826a8b198156cc7fbc2c2048545",
+      "migrated": true
+    },
+    {
+      "name": "S_18.eex",
+      "source": "S_18.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_18.eex",
+      "sha256": "8c4014df4009fc554a3c30ddb563a8ffa92018221c9ecfe10e121b92d50ee8ca",
+      "migrated": true
+    },
+    {
+      "name": "S_19.eex",
+      "source": "S_19.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_19.eex",
+      "sha256": "87de125f5df73ca0e33eb63d7bf64a4cf70aa40f3b5596188b7fa08d62842948",
+      "migrated": true
+    },
+    {
+      "name": "S_20.eex",
+      "source": "S_20.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_20.eex",
+      "sha256": "a774d95dd931b10195a03f03179e929e391f67ccb98dc929ef30192f9f2aef99",
+      "migrated": true
+    },
+    {
+      "name": "S_21.eex",
+      "source": "S_21.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_21.eex",
+      "sha256": "1f50c5be94467be5240ee1db0fe0657218d2d47e60d4e0ccb040bfa138355232",
+      "migrated": true
+    },
+    {
+      "name": "S_22.eex",
+      "source": "S_22.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_22.eex",
+      "sha256": "eb965237421609afeb135282ff1148180c096c379d7d40110beb171724dc6d8a",
+      "migrated": true
+    },
+    {
+      "name": "S_23.eex",
+      "source": "S_23.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_23.eex",
+      "sha256": "57b583ba9757f0cceac3b5a64f2ccbf6dcb794483ca68c88bcea7b613b21fc10",
+      "migrated": true
+    },
+    {
+      "name": "S_24.eex",
+      "source": "S_24.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_24.eex",
+      "sha256": "cdb163385c22753c6d6c86bab4f56c8c290088138bad0646f581934b7cc1d5e9",
+      "migrated": true
+    },
+    {
+      "name": "S_25.eex",
+      "source": "S_25.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_25.eex",
+      "sha256": "b2e68d4007e8e80993b469a5a231730d2e01c2c6095adcbec450eceb68b8229b",
+      "migrated": true
+    },
+    {
+      "name": "S_26.eex",
+      "source": "S_26.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_26.eex",
+      "sha256": "07e9718b16abfbd9a42446b6e222c04aa581e2d969a964a1843408b1c131e72e",
+      "migrated": true
+    },
+    {
+      "name": "S_27.eex",
+      "source": "S_27.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_27.eex",
+      "sha256": "bf1b2d1ab70b09697dd3c6f3033e6cf7fa598dcacff4ae761cd3ea2693fd57e9",
+      "migrated": true
+    },
+    {
+      "name": "S_28.eex",
+      "source": "S_28.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_28.eex",
+      "sha256": "aec072f5e05876da2d2cad8a67648b277f12c6cca1eed00767665859d3119a44",
+      "migrated": true
+    },
+    {
+      "name": "S_29.eex",
+      "source": "S_29.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_29.eex",
+      "sha256": "1fe49392cefa9c3ac31f961c9d9ee9dd121cbdae865f447169d7c07b9ffbfa4b",
+      "migrated": true
+    },
+    {
+      "name": "S_30.eex",
+      "source": "S_30.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_30.eex",
+      "sha256": "9fde859b5a2952acff46712beef2bf00e485a5ca0f1fa23fb87e0fe60af1ef05",
+      "migrated": true
+    },
+    {
+      "name": "S_31.eex",
+      "source": "S_31.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_31.eex",
+      "sha256": "e65334dc4ab70cb5e4ad1aa19e5365cbb1605e17b2abec471276b6a67e5685ac",
+      "migrated": true
+    },
+    {
+      "name": "S_32.eex",
+      "source": "S_32.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_32.eex",
+      "sha256": "96e24e16534a858240efcd7d2df8cc676758a284d0c2f4958c7b709b5d603ccc",
+      "migrated": true
+    },
+    {
+      "name": "S_33.eex",
+      "source": "S_33.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_33.eex",
+      "sha256": "23c533cc4f6a4f3701ba67cc2d719ee0b257a4baa3e2dad0f50e10b5802cf816",
+      "migrated": true
+    },
+    {
+      "name": "S_34.eex",
+      "source": "S_34.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_34.eex",
+      "sha256": "0009905219021e0f78825f8b8581d9711c360f6836f65d204b10b9b829073aaf",
+      "migrated": true
+    },
+    {
+      "name": "S_35.eex",
+      "source": "S_35.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_35.eex",
+      "sha256": "1eeda50720a7f98128263b86fb8573eebf196397919cd955d16f0048883854a4",
+      "migrated": true
+    },
+    {
+      "name": "S_36.eex",
+      "source": "S_36.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_36.eex",
+      "sha256": "565f5073c93f17acde478d61bd1ed58d679252450e9088b99e2378358cf593d6",
+      "migrated": true
+    },
+    {
+      "name": "S_37.eex",
+      "source": "S_37.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_37.eex",
+      "sha256": "5256270f12629a91e2cc803d34479d7cf6131175d5793466f8ee3c5cfdfa39a5",
+      "migrated": true
+    },
+    {
+      "name": "S_38.eex",
+      "source": "S_38.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_38.eex",
+      "sha256": "c2f3ab488c8ef447da8a58ca731a28706576dcefa79c6521e1c52deb8f4b5b81",
+      "migrated": true
+    },
+    {
+      "name": "S_39.eex",
+      "source": "S_39.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_39.eex",
+      "sha256": "e7b8fc22b7df5d20e5c9a76d256af3f99a31101e24e90aff2287e8e3aed0743f",
+      "migrated": true
+    },
+    {
+      "name": "S_40.eex",
+      "source": "S_40.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_40.eex",
+      "sha256": "6fca8aa263760918ca9f64454020025640509f863504ee74cb5910686a679ac4",
+      "migrated": true
+    },
+    {
+      "name": "S_41.eex",
+      "source": "S_41.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_41.eex",
+      "sha256": "257a63dcb966c59cfd56f397de2fb5e34c15572f9a608f9398bb3df2c32f7992",
+      "migrated": true
+    },
+    {
+      "name": "S_42.eex",
+      "source": "S_42.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_42.eex",
+      "sha256": "5954452f130f9603e35796599dbe051c4a72cd93a2466649a6198bf36eb1c5a7",
+      "migrated": true
+    },
+    {
+      "name": "S_43.eex",
+      "source": "S_43.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_43.eex",
+      "sha256": "ecbcdd38a9625423a2466245f91eaf970e94a854a6b22472b342604a2adca7a3",
+      "migrated": true
+    },
+    {
+      "name": "S_44.eex",
+      "source": "S_44.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_44.eex",
+      "sha256": "0cd683f3de975b8be383d4c375f9a541873321db84c3304ff0f2fde1d8771b9e",
+      "migrated": true
+    },
+    {
+      "name": "S_45.eex",
+      "source": "S_45.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_45.eex",
+      "sha256": "a0354bbfa5b6ec934b7020b54ee16e928b3378e4580d8f570e0762e591a6f819",
+      "migrated": true
+    },
+    {
+      "name": "S_46.eex",
+      "source": "S_46.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_46.eex",
+      "sha256": "0f88d6a37a97af3aaeaad91f9790d09cfd015922b51eb3c2df9cd87ac79edadb",
+      "migrated": true
+    },
+    {
+      "name": "S_47.eex",
+      "source": "S_47.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_47.eex",
+      "sha256": "7e1eb6af6daaba07bdd10baba3d09646f57b0e225559155964c6cf702f208349",
+      "migrated": true
+    },
+    {
+      "name": "S_48.eex",
+      "source": "S_48.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_48.eex",
+      "sha256": "1dec11a6b6cef7a2c40910a06d948ce1e0f919270e12e0700e1c4f0b84df3249",
+      "migrated": true
+    },
+    {
+      "name": "S_49.eex",
+      "source": "S_49.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_49.eex",
+      "sha256": "9c004a22c370127e9922b9a7f2c8869d4720db5902f7a0afcf2293b595bc20a0",
+      "migrated": true
+    },
+    {
+      "name": "S_50.eex",
+      "source": "S_50.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_50.eex",
+      "sha256": "357e52d5a0534d41077f3868a2c29f32c8ac8df3dda9569984e6a5b3a7137359",
+      "migrated": true
+    },
+    {
+      "name": "S_51.eex",
+      "source": "S_51.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_51.eex",
+      "sha256": "8a5f1eab08e2cddcff7792ffd31407aedde3f4afe515d100282f8c888f7be8d4",
+      "migrated": true
+    },
+    {
+      "name": "S_52.eex",
+      "source": "S_52.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_52.eex",
+      "sha256": "b3666fdbab6e8fdbba91d0bbb0f49f76cab18f949d754ade973add9507eb9390",
+      "migrated": true
+    },
+    {
+      "name": "S_53.eex",
+      "source": "S_53.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_53.eex",
+      "sha256": "54d235e95c97da95703b8a2e487d85967528e0140e008322f77d6888594770db",
+      "migrated": true
+    },
+    {
+      "name": "S_54.eex",
+      "source": "S_54.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_54.eex",
+      "sha256": "857f2beeefcc57029cb568968e2dbdea1c3e1fad7ac08b071fb2ec57c9da4260",
+      "migrated": true
+    },
+    {
+      "name": "S_55.eex",
+      "source": "S_55.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_55.eex",
+      "sha256": "b9f1c98d33b9d4d7b37d05da73914b3cde2e3d6af9d9432b8178a25053c5f538",
+      "migrated": true
+    },
+    {
+      "name": "S_56.eex",
+      "source": "S_56.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_56.eex",
+      "sha256": "840d6792761dbcea33ffff9e4c777c67abc4289ecdd67257d0e29833a830a746",
+      "migrated": true
+    },
+    {
+      "name": "S_57.eex",
+      "source": "S_57.eex",
+      "destination": "public/assets/native-extracted/runtime-game/S_57.eex",
+      "sha256": "c69a18bab7edc043fc71340ec646cd9aa16880f77c263e4ab98014077db99575",
+      "migrated": true
+    },
+    {
+      "name": "Se00.wav",
+      "source": "Se00.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se00.wav",
+      "sha256": "334d38f3804dd68b95fffd2db22eb53d2715f265ff57a724eedff7859dae2ca7",
+      "migrated": true
+    },
+    {
+      "name": "Se01.wav",
+      "source": "Se01.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se01.wav",
+      "sha256": "207fc4be59b3936d7081a28500c2962e8585166f88c8cda392e397aee9eae39b",
+      "migrated": true
+    },
+    {
+      "name": "Se02.wav",
+      "source": "Se02.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se02.wav",
+      "sha256": "8b510d4a568e4e0bdbd864e05adad7aab510de15b3e173be0424bf9e237fa05f",
+      "migrated": true
+    },
+    {
+      "name": "Se03.wav",
+      "source": "Se03.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se03.wav",
+      "sha256": "de2f132655385744771638fb864aac171c742017a3d865996d4868633790b3aa",
+      "migrated": true
+    },
+    {
+      "name": "Se04.wav",
+      "source": "Se04.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se04.wav",
+      "sha256": "9f2e3ec06404b21baad7a0ef1bd49922bdc6e175cbb221b0275c61470c2bac7a",
+      "migrated": true
+    },
+    {
+      "name": "Se05.wav",
+      "source": "Se05.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se05.wav",
+      "sha256": "887f72a45ac57fd13f3a737b9080bc1e249d7d37fd87485cab3af5101209d1db",
+      "migrated": true
+    },
+    {
+      "name": "Se06.wav",
+      "source": "Se06.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se06.wav",
+      "sha256": "0aea6fe4cc2530204ee99a31a323cc8a724f0fa8326a504a055769e864ad714f",
+      "migrated": true
+    },
+    {
+      "name": "Se07.wav",
+      "source": "Se07.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se07.wav",
+      "sha256": "63db0ea0d8a87aab3783ba0c1d06bbbebf8efd8475b3ff58fe1cba12c90c1142",
+      "migrated": true
+    },
+    {
+      "name": "Se08.wav",
+      "source": "Se08.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se08.wav",
+      "sha256": "f8b6a50cbdbf06936e4e5c7c8fb359a816b78dc56cd436f1e84cbc30582007da",
+      "migrated": true
+    },
+    {
+      "name": "Se09.wav",
+      "source": "Se09.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se09.wav",
+      "sha256": "e3764ef1d7f5d9a149f9d774158e1a197d41ad1e7edf69f51fca03b2f4ddbe4d",
+      "migrated": true
+    },
+    {
+      "name": "Se10.wav",
+      "source": "Se10.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se10.wav",
+      "sha256": "d9ac149258f55b59ccd98fa640800f032a08ea94f0bd8db1e3acd468da188d0c",
+      "migrated": true
+    },
+    {
+      "name": "Se11.wav",
+      "source": "Se11.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se11.wav",
+      "sha256": "37355d74214c7f63d5a11b094e0dd4b08f9892d7ce09ec1c59e7a60e406aba2c",
+      "migrated": true
+    },
+    {
+      "name": "Se12.wav",
+      "source": "Se12.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se12.wav",
+      "sha256": "6b6a91a45a363ec31a67a8506ab4cff53eae4214d0476c923bd4ab697a3e704d",
+      "migrated": true
+    },
+    {
+      "name": "Se13.wav",
+      "source": "Se13.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se13.wav",
+      "sha256": "167709d2abd9b919859da0f9ebe47ed2c484db3e50e6636a92878f2bdd215b15",
+      "migrated": true
+    },
+    {
+      "name": "Se14.wav",
+      "source": "Se14.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se14.wav",
+      "sha256": "11b275b8b65f006b11445ddaad4515e19ddb7467c485a53ae563e7158e5e9edf",
+      "migrated": true
+    },
+    {
+      "name": "Se15.wav",
+      "source": "Se15.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se15.wav",
+      "sha256": "799326ff277402a8dc164ecc2d3babe8c728547ed5d84566b43451e5c13a8344",
+      "migrated": true
+    },
+    {
+      "name": "Se16.wav",
+      "source": "Se16.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se16.wav",
+      "sha256": "20265ec06df01cc8fed0178782599e7f595841cbb13cf5067d2e63ceece46999",
+      "migrated": true
+    },
+    {
+      "name": "Se17.wav",
+      "source": "Se17.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se17.wav",
+      "sha256": "68744157dabf00522ff67a607e9bc63e2fe7b8e4ff8417256f8c5a5689be1ea6",
+      "migrated": true
+    },
+    {
+      "name": "Se18.wav",
+      "source": "Se18.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se18.wav",
+      "sha256": "79100ccb207d1a102daf819bd6e8239fe4e4ca7eeb62e5ca839a78836c0c3abe",
+      "migrated": true
+    },
+    {
+      "name": "Se19.wav",
+      "source": "Se19.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se19.wav",
+      "sha256": "14da76f8fb62ed6d0e2ed1484b15da6a4aac278598979b4d442b9d6af054b3c0",
+      "migrated": true
+    },
+    {
+      "name": "Se20.wav",
+      "source": "Se20.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se20.wav",
+      "sha256": "3e8650e71a29feff5ffb1e2e03cdfe50c1a9b63a83b66373fe02401e4cd97ed3",
+      "migrated": true
+    },
+    {
+      "name": "Se21.wav",
+      "source": "Se21.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se21.wav",
+      "sha256": "7fb0491148a6229e80fc7d7b2671a84d99c57dbaaa5cd9f71d6c41d5f767dca2",
+      "migrated": true
+    },
+    {
+      "name": "Se22.wav",
+      "source": "Se22.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se22.wav",
+      "sha256": "09adbf33b9cbfd5da888ee27ecfe7fb6da4421ba32af8465d5a78bf1c5bfe87e",
+      "migrated": true
+    },
+    {
+      "name": "Se23.wav",
+      "source": "Se23.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se23.wav",
+      "sha256": "1a564a4a026793d3dfd8aab5ce168a0edcdea48546e232be39a06dc2b76081a9",
+      "migrated": true
+    },
+    {
+      "name": "Se24.wav",
+      "source": "Se24.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se24.wav",
+      "sha256": "ed8457ad2878dba2e9af1cdabae39de4beb6f53e36142ace97a548daaaf34723",
+      "migrated": true
+    },
+    {
+      "name": "Se25.wav",
+      "source": "Se25.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se25.wav",
+      "sha256": "f1389eb249542c01f02fe42c0be6e910cf7fd57bdd3f9cefd3cebf131740c412",
+      "migrated": true
+    },
+    {
+      "name": "Se26.wav",
+      "source": "Se26.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se26.wav",
+      "sha256": "44112ac62548f5826cb6555959bd8b17a7fc5d2f207072e29c082adcc5246ed0",
+      "migrated": true
+    },
+    {
+      "name": "Se27.wav",
+      "source": "Se27.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se27.wav",
+      "sha256": "0177bcfb38ad17dd9642dfe0239951dac55f90c2dad68db88f4d9090e18ae57c",
+      "migrated": true
+    },
+    {
+      "name": "Se28.wav",
+      "source": "Se28.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se28.wav",
+      "sha256": "1755f1aa7f1091d669352137dea7f0cd5dda40a3fd4390cd6e5f6172b7ef1948",
+      "migrated": true
+    },
+    {
+      "name": "Se29.wav",
+      "source": "Se29.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se29.wav",
+      "sha256": "ea4a4bcd8f2ad3434b7f0991a7bee028a97ee1918c2faa5f9605ef6c5acdb719",
+      "migrated": true
+    },
+    {
+      "name": "Se30.wav",
+      "source": "Se30.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se30.wav",
+      "sha256": "ceae45dd34e830d40aa103f860816b778e77070ef3a27a38ac1c4bf8c656619f",
+      "migrated": true
+    },
+    {
+      "name": "Se31.wav",
+      "source": "Se31.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se31.wav",
+      "sha256": "9f301912e112f4402d7514c7287c73a85b6c757c73e04fd897c4eae71e0f64bc",
+      "migrated": true
+    },
+    {
+      "name": "Se32.wav",
+      "source": "Se32.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se32.wav",
+      "sha256": "cdab975ed931a82fcf5ec22f793542311bc6646596f140f53aed63ec6263f360",
+      "migrated": true
+    },
+    {
+      "name": "Se33.wav",
+      "source": "Se33.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se33.wav",
+      "sha256": "b3a20d5c11bd34cef2c722d511d97e84a327a277ebb025a96217b6e45b6e7257",
+      "migrated": true
+    },
+    {
+      "name": "Se34.wav",
+      "source": "Se34.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se34.wav",
+      "sha256": "3a9e992dea999e8724bd920d0054fdbd0b41c19802ae8afedfe52c83bed800c8",
+      "migrated": true
+    },
+    {
+      "name": "Se35.wav",
+      "source": "Se35.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se35.wav",
+      "sha256": "d93af7c3bc3ec29d3ffe224bb625618a079f948067b0cc26157a30307af6e404",
+      "migrated": true
+    },
+    {
+      "name": "Se36.wav",
+      "source": "Se36.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se36.wav",
+      "sha256": "a8ecad98caca5e2a61099046bc1fd8c837feb32198f89df74a1cb84f2333c012",
+      "migrated": true
+    },
+    {
+      "name": "Se37.wav",
+      "source": "Se37.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se37.wav",
+      "sha256": "c7ee368742d9e2f452d4a91781e54d980c852616c32a927249c8a766e410d94d",
+      "migrated": true
+    },
+    {
+      "name": "Se38.wav",
+      "source": "Se38.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se38.wav",
+      "sha256": "7f4f61bd01237d67942011cd583c9c3ed9dbc6b26ce378f85cbf13e1abe57912",
+      "migrated": true
+    },
+    {
+      "name": "Se39.wav",
+      "source": "Se39.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se39.wav",
+      "sha256": "5395f14fd6df7591ac88578d945e2474b9dec6a7b770c680efacfdb410a7929a",
+      "migrated": true
+    },
+    {
+      "name": "Se40.wav",
+      "source": "Se40.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se40.wav",
+      "sha256": "046ce1c579a46884cc6d04ee7e234f64c2b27f93f0c0e68ef8ccc9dc1fe74a92",
+      "migrated": true
+    },
+    {
+      "name": "Se41.wav",
+      "source": "Se41.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se41.wav",
+      "sha256": "1e4bb3d0ac270d24178c032509ebfe64af895e5eee9878b4f93688256db73875",
+      "migrated": true
+    },
+    {
+      "name": "Se42.wav",
+      "source": "Se42.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se42.wav",
+      "sha256": "ca03e103595ff6213c72ef11e0352ee0480d67d91c5a8506c599192cc4de9dc2",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_00.wav",
+      "source": "Se_e_00.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_00.wav",
+      "sha256": "b4a0c99bd5eee77b67caa5550cb95ce9370a887fbc79ff33cb6280ba94eb5fab",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_01.wav",
+      "source": "Se_e_01.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_01.wav",
+      "sha256": "8ea53c76218ba0ec8f988696680c9e709384d3966694444483ebf444b7d7c2d7",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_02.wav",
+      "source": "Se_e_02.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_02.wav",
+      "sha256": "52f29547c44487895f36133b36ebea303ed7e50f0cb5fe2295dcc7acccd81f3f",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_03.wav",
+      "source": "Se_e_03.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_03.wav",
+      "sha256": "c1512134d3ae572ce6677eb3a4bfe64d725657fb52a445808de4c6f86b8e7b73",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_04.wav",
+      "source": "Se_e_04.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_04.wav",
+      "sha256": "d971daf097bb59440cd3f44cd9f5dcf363bb1e8f52a132c152eac5e5bc0a37fd",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_05.wav",
+      "source": "Se_e_05.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_05.wav",
+      "sha256": "d2f755bd332ac144635a1244a56eeb5fafbdc7de62fa8d649c1781101c9a1cbd",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_06.wav",
+      "source": "Se_e_06.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_06.wav",
+      "sha256": "e4b559ac19c2f690f25108530b216e246ce463e8f8c356c05bf97d07c35a2fe0",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_07.wav",
+      "source": "Se_e_07.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_07.wav",
+      "sha256": "62a3ec7340447ee40d8bcfbdb7eb03ebb79c8043e0d5cfbf679086dec51c9117",
+      "migrated": true
+    },
+    {
+      "name": "Se_e_08.wav",
+      "source": "Se_e_08.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_e_08.wav",
+      "sha256": "30d1d2a9e1dfaa866630ef8b512b09bdef109624d11a335396ad4b7a6614e15a",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_00.wav",
+      "source": "Se_m_00.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_00.wav",
+      "sha256": "14da76f8fb62ed6d0e2ed1484b15da6a4aac278598979b4d442b9d6af054b3c0",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_01.wav",
+      "source": "Se_m_01.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_01.wav",
+      "sha256": "8e0cfc9ff417f5c6d022beab41eaea39fa5ac510f337fbefe91e41ac259b0e8e",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_02.wav",
+      "source": "Se_m_02.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_02.wav",
+      "sha256": "549c557f7832c83038ac5e50a47bc1869902dd2b75a055cb7f3e42071b2b1d48",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_03.wav",
+      "source": "Se_m_03.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_03.wav",
+      "sha256": "0df6a005db8c26647625337e6fa730f3f160ed508bd16fda9c0c3c41a0619ab0",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_04.wav",
+      "source": "Se_m_04.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_04.wav",
+      "sha256": "1736e7a93bb986ff152880b97a3b6397f2ce9565f731eb820a497d4e2ca3e5ef",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_05.wav",
+      "source": "Se_m_05.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_05.wav",
+      "sha256": "23e96c10ecc49ca5446fc7be79b33ba22c67d4c08c51932bd964bf898e59e73e",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_06.wav",
+      "source": "Se_m_06.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_06.wav",
+      "sha256": "3f1dd051885f0dd9de6ffaa079b8ef73da537d34d9c06e8818c0a678aa56b8ae",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_07.wav",
+      "source": "Se_m_07.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_07.wav",
+      "sha256": "13425cc2a9b9266591d06fd19253d6e77bc962802f06e2b051bea6be336fb9af",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_08.wav",
+      "source": "Se_m_08.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_08.wav",
+      "sha256": "28fb84ac6f71ec17fffd56b3290649097c90574632b72ff7573fef3c44404bff",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_09.wav",
+      "source": "Se_m_09.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_09.wav",
+      "sha256": "8e226daff08216cb3f456cd75031a5e4a97c927799860c190bd84935ce9ba3b3",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_10.wav",
+      "source": "Se_m_10.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_10.wav",
+      "sha256": "37c90136c9081b1cea41b0dc038a2dd02cba2702398a330987467bee3743018f",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_11.wav",
+      "source": "Se_m_11.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_11.wav",
+      "sha256": "42f61339cfaac0911efa12cbb320f84c26ef816c02085124c370590f9093467c",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_12.wav",
+      "source": "Se_m_12.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_12.wav",
+      "sha256": "ec76f19ab5442eddabdc8e9b287e7a1f930accb7d6fad1f0d5a6cfde64203fc2",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_13.wav",
+      "source": "Se_m_13.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_13.wav",
+      "sha256": "b55b2d882ef52b25dd323f31db12581d6bc9a9765f29bf2a577099c447125ef7",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_14.wav",
+      "source": "Se_m_14.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_14.wav",
+      "sha256": "33dbcbcf25fef311a144a4c4d4d9d7504b145a8ea9c2d732e66fd0cf98bdd4cc",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_15.wav",
+      "source": "Se_m_15.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_15.wav",
+      "sha256": "258fb65ddd7edea31ba232bd6488b337e24bf8db2f2b6d1098e6688e9075daf5",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_16.wav",
+      "source": "Se_m_16.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_16.wav",
+      "sha256": "7af6c6d035ba5ab5590554add5ed2d7b2fc9c9cb486a449675a48a6b56638fdd",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_17.wav",
+      "source": "Se_m_17.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_17.wav",
+      "sha256": "2435bdd7a593cc7c0086e0b095be473e527f67c5da7683d7e4fcd1897e810d46",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_18.wav",
+      "source": "Se_m_18.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_18.wav",
+      "sha256": "c41a0e345c58b06e4fa800438fb0768cf68d4060c86808a0faf111789128964b",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_19.wav",
+      "source": "Se_m_19.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_19.wav",
+      "sha256": "6f9c83f21109186085d3f6b4eec99d49a85f7bd179db9418d7e64dec6fa87e14",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_20.wav",
+      "source": "Se_m_20.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_20.wav",
+      "sha256": "2265b43f1d38eb4c9dfe95e903de831f2657ecef22a652e34b2cf255c5857abb",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_21.wav",
+      "source": "Se_m_21.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_21.wav",
+      "sha256": "ee814fbf74c753768b8771b4179cdc900f78d1506ad07489ba317f2f3a61c00f",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_22.wav",
+      "source": "Se_m_22.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_22.wav",
+      "sha256": "3cfa6d0166ab7d1ad429e487ad44592158fab91161408ad1642b028d811d099d",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_23.wav",
+      "source": "Se_m_23.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_23.wav",
+      "sha256": "b148be640f0904bdbb09b75e57e3811f17022f03d4c369eb58f8c814b36da211",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_24.wav",
+      "source": "Se_m_24.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_24.wav",
+      "sha256": "5830939b105ef59430ae47b55e8a9f8ebe41a5c5ebdd6a4ae5b1c35e8af497e9",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_25.wav",
+      "source": "Se_m_25.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_25.wav",
+      "sha256": "158675e1cd3021730f1b4d7399b989253e94354cd18add45c6b862e4b52d7193",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_26.wav",
+      "source": "Se_m_26.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_26.wav",
+      "sha256": "b17f2a3a38be6977b5b039ea906029d12e79d22f08b319e1280577e60f1c1ab7",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_27.wav",
+      "source": "Se_m_27.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_27.wav",
+      "sha256": "763b00f1c8500a8a3b80f4c93e31e16367d87d44f88b9f7ef7d03ab570a2b617",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_28.wav",
+      "source": "Se_m_28.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_28.wav",
+      "sha256": "6985daad8239f3b5b064f34b44bb7ccdc4912fe225e8a2b22181fc01a8b1e53e",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_29.wav",
+      "source": "Se_m_29.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_29.wav",
+      "sha256": "689c0558fe1395da45c1c5d2facc0968b6eb771670db56d4815311e6d1868676",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_30.wav",
+      "source": "Se_m_30.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_30.wav",
+      "sha256": "58ce65962e38144ae48bb2aea8be550668ba916f561870e7f78198800535bd91",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_31.wav",
+      "source": "Se_m_31.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_31.wav",
+      "sha256": "b3d63250a1ca39c0f102e08d6b8ea24c6cd0922d6b2a8ed2e4988d415cca2afa",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_32.wav",
+      "source": "Se_m_32.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_32.wav",
+      "sha256": "545450a4603c3e5d36c71e03279dcac7eafece93974c403e35dde6dc9cb6f2e7",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_33.wav",
+      "source": "Se_m_33.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_33.wav",
+      "sha256": "e8d6344d00301f32b19f8e4820ae6d4a01cf342a69743e20e215974c2b6135ff",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_34.wav",
+      "source": "Se_m_34.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_34.wav",
+      "sha256": "db19dcf98ca4d60aded7e7a45c4555e7ee0140149741b6a5e05873875da28fa2",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_35.wav",
+      "source": "Se_m_35.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_35.wav",
+      "sha256": "efcbce38cf9d1273fe3f13de248f3b25ceebe89fd8a7138bc6190e961ac0f734",
+      "migrated": true
+    },
+    {
+      "name": "Se_m_36.wav",
+      "source": "Se_m_36.wav",
+      "destination": "public/assets/native-extracted/runtime-game/Se_m_36.wav",
+      "sha256": "0a0d25c2aa0843e25f6bb3c5f3e6b4d7461794ee6634b9abf05d52183176e3a2",
+      "migrated": true
+    },
+    {
+      "name": "Smlmap.e5",
+      "source": "Smlmap.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Smlmap.e5",
+      "sha256": "3bd42077c6b722edf2b6a39e5b315e7428ad99a5ba1ea12d8daca73d4b2a1fb5",
+      "migrated": true
+    },
+    {
+      "name": "Spalet.e5",
+      "source": "Spalet.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Spalet.e5",
+      "sha256": "66a4b76da031242039f4814854f6bf8bf66a546477f8c5829d7bd54f9117e954",
+      "migrated": true
+    },
+    {
+      "name": "Sv00d.e5s",
+      "source": "Sv00d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv00d.e5s",
+      "sha256": "69be9ac7619539d4f52a482b766dcd3a4a2eb1775969362a4be454613b9590a5",
+      "migrated": true
+    },
+    {
+      "name": "Sv00e.e5s",
+      "source": "Sv00e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv00e.e5s",
+      "sha256": "e5818b1f38bdfcca271831d7553b95198ec45f4df898c827b3caaf70fca1656a",
+      "migrated": true
+    },
+    {
+      "name": "Sv00s.e5s",
+      "source": "Sv00s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv00s.e5s",
+      "sha256": "c58701b1dc09b0853ad32a83684c321a3f2bf363bb68acc99bbc48e87fc57d90",
+      "migrated": true
+    },
+    {
+      "name": "Sv01d.e5s",
+      "source": "Sv01d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv01d.e5s",
+      "sha256": "19283d58bb86decd386fc03e1389397587c4bdc53aedca114d1f789e37954efa",
+      "migrated": true
+    },
+    {
+      "name": "Sv01e.e5s",
+      "source": "Sv01e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv01e.e5s",
+      "sha256": "88f8ee2901b444fe207f70c4d10b463f66d8e36be7a81c7790d5640f58a81cf2",
+      "migrated": true
+    },
+    {
+      "name": "Sv01s.e5s",
+      "source": "Sv01s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv01s.e5s",
+      "sha256": "b82066787fdcc5ea80d8e944b6d295398b64082cdd55d1950a630dc1cd675c3b",
+      "migrated": true
+    },
+    {
+      "name": "Sv02d.e5s",
+      "source": "Sv02d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv02d.e5s",
+      "sha256": "412a5a90d5ac14568d891de7f98fd4012c5bac673a9f6da9725b8fc7cca28168",
+      "migrated": true
+    },
+    {
+      "name": "Sv02e.e5s",
+      "source": "Sv02e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv02e.e5s",
+      "sha256": "5202a46549712acac1c745ac3aa1698a3ebe04d867231458019fb19f5f11ca5b",
+      "migrated": true
+    },
+    {
+      "name": "Sv02s.e5s",
+      "source": "Sv02s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv02s.e5s",
+      "sha256": "cf776d6408d0d4f37c5129ee756cafaa512240dfb7f26e2b3dd40ee4837b8d61",
+      "migrated": true
+    },
+    {
+      "name": "Sv03d.e5s",
+      "source": "Sv03d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv03d.e5s",
+      "sha256": "1e90fe616fd8cdd5c317b3062ca21412711c991004aa5ae31ead73efb50fed4d",
+      "migrated": true
+    },
+    {
+      "name": "Sv03e.e5s",
+      "source": "Sv03e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv03e.e5s",
+      "sha256": "806d257fb84402ea10a16782ad9269df25c44b67bc1a21f113daa1edd990feaa",
+      "migrated": true
+    },
+    {
+      "name": "Sv03s.e5s",
+      "source": "Sv03s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv03s.e5s",
+      "sha256": "e52e87968bd1b0e71682e524332c8e3598a8d79d166cf82b723115d113b74b60",
+      "migrated": true
+    },
+    {
+      "name": "Sv04d.e5s",
+      "source": "Sv04d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv04d.e5s",
+      "sha256": "027ac072a2b96dc37e65457eaacd4bfd68f31f8d8cf21373d15846224c616623",
+      "migrated": true
+    },
+    {
+      "name": "Sv04e.e5s",
+      "source": "Sv04e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv04e.e5s",
+      "sha256": "17027df3dcc033e4dbe31e85305b3e8544bebdafc0a4f89734f805583d4936f5",
+      "migrated": true
+    },
+    {
+      "name": "Sv04s.e5s",
+      "source": "Sv04s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv04s.e5s",
+      "sha256": "50e2d1da706c934b354ecd9f0ca9971ec2a692800de932f3a43b4b8563bbabbb",
+      "migrated": true
+    },
+    {
+      "name": "Sv05d.e5s",
+      "source": "Sv05d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv05d.e5s",
+      "sha256": "31507a91f2197895c8d2e2c40dca4b1fc4105421aed680b2ee927b066be89436",
+      "migrated": true
+    },
+    {
+      "name": "Sv05e.e5s",
+      "source": "Sv05e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv05e.e5s",
+      "sha256": "1dee4d05ee093853c86b9ef9a47041f2d904b3dfa85b93caef43ee767623e3d9",
+      "migrated": true
+    },
+    {
+      "name": "Sv05s.e5s",
+      "source": "Sv05s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv05s.e5s",
+      "sha256": "40589358ce44b725a58dc71315404465e7f005c9cd7e253e8e5b67bbc98f9d5f",
+      "migrated": true
+    },
+    {
+      "name": "Sv06d.e5s",
+      "source": "Sv06d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv06d.e5s",
+      "sha256": "5ec55240790f3c55be977a853da8a779862efb3311b3171e242fda21275abfe3",
+      "migrated": true
+    },
+    {
+      "name": "Sv06e.e5s",
+      "source": "Sv06e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv06e.e5s",
+      "sha256": "35f6c4bdb916d36eb32a37cd2afd529abb5fbebb4e0a4f3848a60b28e591f3bc",
+      "migrated": true
+    },
+    {
+      "name": "Sv06s.e5s",
+      "source": "Sv06s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv06s.e5s",
+      "sha256": "d5323e4faf2318bb1928c0b9bc055d209a05c86c4cd6a60f9dcc51aba50b1c20",
+      "migrated": true
+    },
+    {
+      "name": "Sv07d.e5s",
+      "source": "Sv07d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv07d.e5s",
+      "sha256": "88fb7b2fe3e2221e87febff0ca0fcbd704f509dec1fcbc62f4d65d30352bbc98",
+      "migrated": true
+    },
+    {
+      "name": "Sv07e.e5s",
+      "source": "Sv07e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv07e.e5s",
+      "sha256": "7f8ef3bcc042856cb71a24ab7112a736652f7a62d464d9a26e27c6743de533c9",
+      "migrated": true
+    },
+    {
+      "name": "Sv07s.e5s",
+      "source": "Sv07s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv07s.e5s",
+      "sha256": "f666680945866ed1b7dc484e17faaf31ea711202aeaa5e59432040d9585671aa",
+      "migrated": true
+    },
+    {
+      "name": "Sv08d.e5s",
+      "source": "Sv08d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv08d.e5s",
+      "sha256": "87f8dbdb45d2a2f9add23ec2645fdd2728ecbfbd4254871aef2b703de51e3b3b",
+      "migrated": true
+    },
+    {
+      "name": "Sv08e.e5s",
+      "source": "Sv08e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv08e.e5s",
+      "sha256": "a6e9dc44ec0a6b17da7e67845c431527aa15788aa87dbe6cadabc3720c3f62cf",
+      "migrated": true
+    },
+    {
+      "name": "Sv08s.e5s",
+      "source": "Sv08s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv08s.e5s",
+      "sha256": "6dc5279833f87034d15e55b2afacd2587d064bdb62455a204513cc16330e76e9",
+      "migrated": true
+    },
+    {
+      "name": "Sv09d.e5s",
+      "source": "Sv09d.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv09d.e5s",
+      "sha256": "185fbb900854d7cc9e8c8f8fc46efcd3c7ea6df13410b3ca8968a395f2bc2977",
+      "migrated": true
+    },
+    {
+      "name": "Sv09e.e5s",
+      "source": "Sv09e.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv09e.e5s",
+      "sha256": "59b8eec8d8bd7dbc130a03df0442a401058116f21b0d137b1579e725de6804ba",
+      "migrated": true
+    },
+    {
+      "name": "Sv09s.e5s",
+      "source": "Sv09s.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Sv09s.e5s",
+      "sha256": "c3d71ad314ddfbacc7653520e470a7e1335f745ead2c410a76d56ece46d1777d",
+      "migrated": true
+    },
+    {
+      "name": "Svcmn.e5s",
+      "source": "Svcmn.e5s",
+      "destination": "public/assets/native-extracted/runtime-game/Svcmn.e5s",
+      "sha256": "04d6070fe21f98906592f4ea6e8489ff783eca702e78cb1808c6e83b985609fd",
+      "migrated": true
+    },
+    {
+      "name": "U_select.e5",
+      "source": "U_select.e5",
+      "destination": "public/assets/native-extracted/runtime-game/U_select.e5",
+      "sha256": "a6f946f0441ce35416ba9e499caf1f3740fdc1f843d4e93971e86ef88ea8f165",
+      "migrated": true
+    },
+    {
+      "name": "Unit_atk.e5",
+      "source": "Unit_atk.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Unit_atk.e5",
+      "sha256": "1896a0f0d534b04b709b493272f64ea6120db51fd73a527158c0afa993213304",
+      "migrated": true
+    },
+    {
+      "name": "Unit_mov.e5",
+      "source": "Unit_mov.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Unit_mov.e5",
+      "sha256": "49c39e610ddeedd991f6ac40219504b2c760f0d6f08b0efda2874acd2d37abc1",
+      "migrated": true
+    },
+    {
+      "name": "Unit_spc.e5",
+      "source": "Unit_spc.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Unit_spc.e5",
+      "sha256": "3e21bb4b5d68e42f6c81d0ee709c96dfb916bb8a9bac145836e09eb78e838995",
+      "migrated": true
+    },
+    {
+      "name": "Weather.e5",
+      "source": "Weather.e5",
+      "destination": "public/assets/native-extracted/runtime-game/Weather.e5",
+      "sha256": "3ffb15d87c68525412ee92b8261a7a18382078ee178473b4ea286a4415e604d5",
+      "migrated": true
+    },
+    {
+      "name": "mp3serv.dat",
+      "source": "mp3serv.dat",
+      "destination": "public/assets/native-extracted/runtime-game/mp3serv.dat",
+      "sha256": "513d7943642a205054c25df2c4b9cdb944a2c464e34f5b149ba05dd7b54bc9c6",
+      "migrated": true
+    }
+  ]
+}
