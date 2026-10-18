@@ -22,3 +22,9 @@ export function nativeArmorExperienceAward(attackerLevel:number,defenderLevel:nu
   const base=hpDamage===0&&mpDamage===0?1:attackerLevel<defenderLevel?3:4;
   return Math.floor(base*multiplier/10);
 }
+
+export interface ExperienceTotals {unit:number;weapon:number;armorByTarget:Record<string,number>;}
+/** Native 0x405E03 action reward aggregation for multi-target actions. */
+export function aggregateNativeExperience(totals:ExperienceTotals,targetId:string,unit:number,weapon:number,armor:number):ExperienceTotals{
+  return {unit:Math.max(totals.unit,unit),weapon:Math.max(totals.weapon,weapon),armorByTarget:{...totals.armorByTarget,[targetId]:armor}};
+}
