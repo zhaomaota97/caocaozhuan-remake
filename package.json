@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "test": "playwright test tests/s00-smoke.spec.ts"
+    "test": "playwright test tests/s00-smoke.spec.ts",
+    "verify:independent": "node tools/verify-independent.mjs"
   },
   "dependencies": {
     "phaser": "^3.80.1"

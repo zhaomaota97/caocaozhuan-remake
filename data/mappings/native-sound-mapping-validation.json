@@ -1,10 +1,10 @@
-[
+﻿[
   {
     "id": 0,
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE00.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE00.WAV",
         "flags": 3
       }
     ],
@@ -17,7 +17,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE01.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE01.WAV",
         "flags": 3
       }
     ],
@@ -30,7 +30,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE02.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE02.WAV",
         "flags": 3
       }
     ],
@@ -43,7 +43,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE03.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE03.WAV",
         "flags": 3
       }
     ],
@@ -56,7 +56,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE04.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE04.WAV",
         "flags": 3
       }
     ],
@@ -69,7 +69,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE05.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE05.WAV",
         "flags": 3
       }
     ],
@@ -82,7 +82,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE06.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE06.WAV",
         "flags": 3
       }
     ],
@@ -95,7 +95,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE07.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE07.WAV",
         "flags": 3
       }
     ],
@@ -108,7 +108,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE08.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE08.WAV",
         "flags": 3
       }
     ],
@@ -121,7 +121,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE09.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE09.WAV",
         "flags": 3
       }
     ],
@@ -134,7 +134,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE10.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE10.WAV",
         "flags": 3
       }
     ],
@@ -147,7 +147,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE11.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE11.WAV",
         "flags": 3
       }
     ],
@@ -160,7 +160,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE12.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE12.WAV",
         "flags": 3
       }
     ],
@@ -173,7 +173,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE13.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE13.WAV",
         "flags": 3
       }
     ],
@@ -186,7 +186,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE14.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE14.WAV",
         "flags": 3
       }
     ],
@@ -199,7 +199,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE15.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE15.WAV",
         "flags": 3
       }
     ],
@@ -212,7 +212,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE16.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE16.WAV",
         "flags": 3
       }
     ],
@@ -225,7 +225,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE17.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE17.WAV",
         "flags": 3
       }
     ],
@@ -238,7 +238,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE18.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE18.WAV",
         "flags": 3
       }
     ],
@@ -251,7 +251,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE19.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE19.WAV",
         "flags": 3
       }
     ],
@@ -264,7 +264,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE20.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE20.WAV",
         "flags": 3
       }
     ],
@@ -277,7 +277,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE21.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE21.WAV",
         "flags": 3
       }
     ],
@@ -290,7 +290,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE22.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE22.WAV",
         "flags": 3
       }
     ],
@@ -303,7 +303,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE23.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE23.WAV",
         "flags": 3
       }
     ],
@@ -316,7 +316,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE24.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE24.WAV",
         "flags": 3
       }
     ],
@@ -329,7 +329,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE25.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE25.WAV",
         "flags": 3
       }
     ],
@@ -342,7 +342,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE26.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE26.WAV",
         "flags": 3
       }
     ],
@@ -355,7 +355,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE27.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE27.WAV",
         "flags": 3
       }
     ],
@@ -368,7 +368,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE28.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE28.WAV",
         "flags": 3
       }
     ],
@@ -381,7 +381,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE29.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE29.WAV",
         "flags": 3
       }
     ],
@@ -394,7 +394,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE30.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE30.WAV",
         "flags": 3
       }
     ],
@@ -407,7 +407,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE31.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE31.WAV",
         "flags": 3
       }
     ],
@@ -420,7 +420,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE32.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE32.WAV",
         "flags": 3
       }
     ],
@@ -433,7 +433,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE33.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE33.WAV",
         "flags": 3
       }
     ],
@@ -446,7 +446,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE34.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE34.WAV",
         "flags": 3
       }
     ],
@@ -459,7 +459,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE35.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE35.WAV",
         "flags": 3
       }
     ],
@@ -472,7 +472,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE36.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE36.WAV",
         "flags": 3
       }
     ],
@@ -485,7 +485,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE37.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE37.WAV",
         "flags": 3
       }
     ],
@@ -498,7 +498,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE38.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE38.WAV",
         "flags": 3
       }
     ],
@@ -511,7 +511,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE39.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE39.WAV",
         "flags": 3
       }
     ],
@@ -524,7 +524,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE40.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE40.WAV",
         "flags": 3
       }
     ],
@@ -537,7 +537,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE41.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE41.WAV",
         "flags": 3
       }
     ],
@@ -550,7 +550,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE42.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE42.WAV",
         "flags": 3
       }
     ],
@@ -905,7 +905,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_00.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_00.WAV",
         "flags": 3
       }
     ],
@@ -918,7 +918,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_01.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_01.WAV",
         "flags": 3
       }
     ],
@@ -931,7 +931,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_02.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_02.WAV",
         "flags": 3
       }
     ],
@@ -944,7 +944,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_03.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_03.WAV",
         "flags": 3
       }
     ],
@@ -957,7 +957,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_04.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_04.WAV",
         "flags": 3
       }
     ],
@@ -970,7 +970,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_05.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_05.WAV",
         "flags": 3
       }
     ],
@@ -983,7 +983,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_06.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_06.WAV",
         "flags": 3
       }
     ],
@@ -996,7 +996,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_07.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_07.WAV",
         "flags": 3
       }
     ],
@@ -1009,7 +1009,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_08.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_08.WAV",
         "flags": 3
       }
     ],
@@ -1022,7 +1022,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_09.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_09.WAV",
         "flags": 3
       }
     ],
@@ -1035,7 +1035,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_10.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_10.WAV",
         "flags": 3
       }
     ],
@@ -1048,7 +1048,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_11.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_11.WAV",
         "flags": 3
       }
     ],
@@ -1061,7 +1061,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_12.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_12.WAV",
         "flags": 3
       }
     ],
@@ -1074,7 +1074,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_13.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_13.WAV",
         "flags": 3
       }
     ],
@@ -1087,7 +1087,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_14.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_14.WAV",
         "flags": 3
       }
     ],
@@ -1100,7 +1100,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_15.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_15.WAV",
         "flags": 3
       }
     ],
@@ -1113,7 +1113,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_16.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_16.WAV",
         "flags": 3
       }
     ],
@@ -1126,7 +1126,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_17.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_17.WAV",
         "flags": 3
       }
     ],
@@ -1139,7 +1139,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_18.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_18.WAV",
         "flags": 3
       }
     ],
@@ -1152,7 +1152,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_19.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_19.WAV",
         "flags": 3
       }
     ],
@@ -1165,7 +1165,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_20.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_20.WAV",
         "flags": 3
       }
     ],
@@ -1178,7 +1178,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_21.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_21.WAV",
         "flags": 3
       }
     ],
@@ -1191,7 +1191,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_22.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_22.WAV",
         "flags": 3
       }
     ],
@@ -1204,7 +1204,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_23.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_23.WAV",
         "flags": 3
       }
     ],
@@ -1217,7 +1217,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_24.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_24.WAV",
         "flags": 3
       }
     ],
@@ -1230,7 +1230,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_25.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_25.WAV",
         "flags": 3
       }
     ],
@@ -1243,7 +1243,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_26.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_26.WAV",
         "flags": 3
       }
     ],
@@ -1256,7 +1256,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_27.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_27.WAV",
         "flags": 3
       }
     ],
@@ -1269,7 +1269,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_28.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_28.WAV",
         "flags": 3
       }
     ],
@@ -1282,7 +1282,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_29.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_29.WAV",
         "flags": 3
       }
     ],
@@ -1295,7 +1295,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_30.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_30.WAV",
         "flags": 3
       }
     ],
@@ -1308,7 +1308,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_31.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_31.WAV",
         "flags": 3
       }
     ],
@@ -1321,7 +1321,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_32.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_32.WAV",
         "flags": 3
       }
     ],
@@ -1334,7 +1334,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_33.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_33.WAV",
         "flags": 3
       }
     ],
@@ -1347,7 +1347,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_34.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_34.WAV",
         "flags": 3
       }
     ],
@@ -1360,7 +1360,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_35.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_35.WAV",
         "flags": 3
       }
     ],
@@ -1373,7 +1373,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_M_36.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_M_36.WAV",
         "flags": 3
       }
     ],
@@ -1764,7 +1764,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_00.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_00.WAV",
         "flags": 3
       }
     ],
@@ -1777,7 +1777,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_01.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_01.WAV",
         "flags": 3
       }
     ],
@@ -1790,7 +1790,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_02.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_02.WAV",
         "flags": 3
       }
     ],
@@ -1803,7 +1803,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_03.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_03.WAV",
         "flags": 3
       }
     ],
@@ -1816,7 +1816,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_04.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_04.WAV",
         "flags": 3
       }
     ],
@@ -1829,7 +1829,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_05.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_05.WAV",
         "flags": 3
       }
     ],
@@ -1842,7 +1842,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_06.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_06.WAV",
         "flags": 3
       }
     ],
@@ -1855,7 +1855,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_07.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_07.WAV",
         "flags": 3
       }
     ],
@@ -1868,7 +1868,7 @@
     "returned": 1,
     "paths": [
       {
-        "path": "C:\\Users\\40902\\Desktop\\sanguozhi\\analysis\\runtime-game\\SE_E_08.WAV",
+        "path": "/assets/native-extracted/runtime-game/SE_E_08.WAV",
         "flags": 3
       }
     ],
