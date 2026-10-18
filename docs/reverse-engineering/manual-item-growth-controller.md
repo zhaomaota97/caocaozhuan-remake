@@ -12,6 +12,17 @@ Native dispatcher `0x41DC43` routes manual item categories as follows:
   corresponding actor field. The five branches use distinct native fields and
   resource markers (`0x22` through `0x25` in the presentation path).
 
+The static getter/setter pairs make the five target fields explicit:
+
+| category | unit record field | actor attribute index |
+|---:|---:|---:|
+| `0x46` | `unit + 0x15` | `0` |
+| `0x47` | `unit + 0x17` | `2` |
+| `0x48` | `unit + 0x16` | `1` |
+| `0x49` | `unit + 0x18` | `3` |
+| `0x4A` | `unit + 0x19` | `4` |
+
+The ordering is native field order, not an assumed display label ordering.
 This is enough to distinguish the stat-fruit family from equipment and from
 HP/MP consumables. It is not enough to implement an exact Web result yet:
 the field-to-attribute mapping, level/maximum clamps, inventory decrement
