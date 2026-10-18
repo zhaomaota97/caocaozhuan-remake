@@ -206,7 +206,7 @@ export class BattleScene extends Phaser.Scene {
         art:native.art??record.animationLink?.index??0,side:group==='enemy-slot-group'?'enemy':'player',
         x:hidden?0:(initialPosition?.[0]??(placement.position?.[0]===255?record.coordinateBytes[0]:(placement.position?.[0]??record.coordinateBytes[0]))),y:hidden?0:(initialPosition?.[1]??(placement.position?.[1]===255?record.coordinateBytes[1]:(placement.position?.[1]??record.coordinateBytes[1]))),
         hp:native.hp??1,maxHp:native.maxHp??1,mp:native.mp??0,move:6,acted:false,
-        direction:native.facing??2,actorFlags:native.actorFlags??0,statusFlags:0,injuredPose:false,
+        direction:native.facing??2,actorFlags:native.actorFlags??0,statusFlags:0,portraitFlags:0,portraitPhase:0,injuredPose:false,
         nativeMovementCosts:[],nativeEquipment:(native.equipment??[]).map((row:number[],index:number)=>({slot:index,itemId:row[0],byte1:row[1]??255,byte2:row[2]??255})),nativePortraitCharacterId:portraitCharacterId,nativePortraitStoredIndex:portraitStoredIndex,nativeHidden:hidden,nativeClassId:native.classId};
     });
   }
@@ -241,7 +241,7 @@ export class BattleScene extends Phaser.Scene {
         group.add(this.add.rectangle(0,0,width,height,0xc0c0c0).setOrigin(0).setStrokeStyle(1,0x808080));
         const unit=this.units.find(row=>Number(row.id.replace('s00-slot-',''))===({32:15,3:16,33:17} as Record<number,number>)[Number(line.speaker)]);
         group.add(this.add.text(12,8,unit?.name??`角色 ${line.speaker}`,{fontFamily:'SimSun',fontSize:'15px',color:'#000000'}));
-        if(unit){const portrait=this.createNativePortrait(unit,unit.actorFlags??0,0);if(portrait)group.add(this.add.image(12,28,portrait).setOrigin(0).setDisplaySize(96,120));}
+        if(unit){const portrait=this.createNativePortrait(unit,unit.portraitFlags??0,unit.portraitPhase??0);if(portrait)group.add(this.add.image(12,28,portrait).setOrigin(0).setDisplaySize(96,120));}
         group.add(this.add.text(120,38,String(line.text),{fontFamily:'SimSun',fontSize:'14px',color:'#000000',wordWrap:{width:width-134},lineSpacing:4}));
         const close=()=>{group.destroy();this.modal=undefined;resolve();};
         nativeButton(this,group,[width-104,height-32,86,24],'确定',1,close);
