@@ -241,7 +241,7 @@ export class BattleScene extends Phaser.Scene {
         group.add(this.add.rectangle(0,0,width,height,0xc0c0c0).setOrigin(0).setStrokeStyle(1,0x808080));
         const unit=this.units.find(row=>Number(row.id.replace('s00-slot-',''))===({32:15,3:16,33:17} as Record<number,number>)[Number(line.speaker)]);
         group.add(this.add.text(12,8,unit?.name??`角色 ${line.speaker}`,{fontFamily:'SimSun',fontSize:'15px',color:'#000000'}));
-        if(unit){const portrait=this.createNativePortrait(unit,0,0);if(portrait)group.add(this.add.image(12,28,portrait).setOrigin(0).setDisplaySize(96,120));}
+        if(unit){const portrait=this.createNativePortrait(unit,unit.actorFlags??0,0);if(portrait)group.add(this.add.image(12,28,portrait).setOrigin(0).setDisplaySize(96,120));}
         group.add(this.add.text(120,38,String(line.text),{fontFamily:'SimSun',fontSize:'14px',color:'#000000',wordWrap:{width:width-134},lineSpacing:4}));
         const close=()=>{group.destroy();this.modal=undefined;resolve();};
         nativeButton(this,group,[width-104,height-32,86,24],'确定',1,close);
