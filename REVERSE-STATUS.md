@@ -46,6 +46,9 @@ its use.
   intentionally last and is not claimed complete.
 - Experience award and growth calculators are implemented as pure rules, but
   the full battle reward callback is not yet wired to mutate Web roster state.
+- Equipment experience level/XP writeback is implemented as a pure rule with
+  native validation evidence; notification rendering and battle callback
+  integration remain separate.
 
 ## Known fidelity boundaries
 
