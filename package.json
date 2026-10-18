@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "test": "playwright test tests/s00-smoke.spec.ts",
-    "verify:independent": "node tools/verify-independent.mjs"
+    "verify:independent": "node tools/verify-independent.mjs",
+    "manifest:resources": "node tools/build-resource-manifest.mjs"
   },
   "dependencies": {
     "phaser": "^3.80.1"
