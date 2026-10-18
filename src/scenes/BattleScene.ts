@@ -35,6 +35,7 @@ import s00Terrain from '../../data/scenarios/S_00-terrain.json';
 import s00LiuTrace from '../../data/scenarios/S_00-liu-event-trace.json';
 import portraitBank from '../../public/assets/portraits/bank.json';
 import { portraitIndex, portraitRgba } from '../rules/portraitIndex';
+import { nativeCameraSteps, clampNativeCamera } from '../rules/nativeCamera';
 
 export class BattleScene extends Phaser.Scene {
   private mapId=0;
@@ -854,7 +855,20 @@ export class BattleScene extends Phaser.Scene {
       }
       }finally{setRngState(this.battleRng.state);this.animating=false;this.finishAction();if(this.mapId===0&&this.units.filter(unit=>unit.side==='enemy'&&unit.hp>0).length===0)this.openS00Victory();}
   }
+  private async moveNativeCameraToActor(unit:Unit){
+    const viewport={width:Math.max(1,Math.floor(this.cameras.main.width/this.size)),height:Math.max(1,Math.floor(this.cameras.main.height/this.size))};
+    const target=clampNativeCamera({x:unit.x,y:unit.y},{width:this.map.width,height:this.map.height},viewport);
+    const from={x:Math.round(this.cameras.main.scrollX/this.size),y:Math.round(Math.max(0,this.cameras.main.scrollY-this.oy)/this.size)};
+    for(const step of nativeCameraSteps(from,target)){
+      this.cameras.main.scrollX=step.x*this.size;
+      const maxScroll=Math.max(0,this.map.height*this.size+this.oy-this.cameras.main.height);
+      this.cameras.main.scrollY=Phaser.Math.Clamp(step.y*this.size+this.oy,0,maxScroll);
+      this.refreshMinimap();
+      await new Promise<void>(resolve=>this.time.delayedCall(16,resolve));
+    }
+  }
   private async playAttackStrike(attacker:Unit,defender:Unit,strike:ExchangeStrike){
+    await this.moveNativeCameraToActor(defender);
     this.presentationUnits.add(attacker);this.presentationUnits.add(defender);
     const av=this.unitSprites.find(entry=>entry.unit===attacker)!.sprite,dv=this.unitSprites.find(entry=>entry.unit===defender)!.sprite;
     const dx=defender.x-attacker.x,dy=defender.y-attacker.y;
