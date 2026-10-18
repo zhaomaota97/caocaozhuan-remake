@@ -8,3 +8,12 @@ export function nativeEquipmentExperience(input:EquipmentExperienceInput):Equipm
   while(total>=100&&level<cap){level++;total-=100;levels++;}
   return {level,experience:level>=cap?255:total,levelsGained:levels,updated:true};
 }
+
+export interface NativeEquipmentSlot {slot:number;itemId:number;categoryByte:number;level:number;experience:number;[key:string]:unknown;}
+export function updateNativeEquipmentSlots(slots:NativeEquipmentSlot[],slot:number,gain:number):NativeEquipmentSlot[]{
+  return slots.map(entry=>{
+    if(entry.slot!==slot)return {...entry};
+    const result=nativeEquipmentExperience({...entry,gain});
+    return {...entry,level:result.level,experience:result.experience};
+  });
+}
