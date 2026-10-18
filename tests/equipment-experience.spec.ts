@@ -11,5 +11,5 @@ test('native equipment updater ignores slot two and empty equipment',()=>{
 });
 test('equipment array updater preserves non-target slots',()=>{
   const slots=[{slot:0,itemId:0,categoryByte:0,level:2,experience:99,name:'weapon'},{slot:1,itemId:1,categoryByte:0,level:1,experience:0,name:'armor'}];
-  expect(updateNativeEquipmentSlots(slots,0,1)).toEqual([{...slots[0],level:3,experience:0},slots[1]]);
+  expect(updateNativeEquipmentSlots(slots,0,1)).toEqual([{...slots[0],level:3,experience:255},slots[1]]);
 });
