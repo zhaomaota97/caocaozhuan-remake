@@ -35,6 +35,7 @@ import s00Terrain from '../../data/scenarios/S_00-terrain.json';
 import s00LiuTrace from '../../data/scenarios/S_00-liu-event-trace.json';
 import s01Units from '../../data/scenarios/S_01-units-native.json';
 import {scenarioUnits} from '../data/scenarioUnits';
+import nativeTerrainIndex from '../../data/scenarios/native-terrain-index.json';
 import portraitBank from '../../public/assets/portraits/bank.json';
 import { portraitIndex, portraitRgba } from '../rules/portraitIndex';
 import { nativeCameraSteps, clampNativeCamera } from '../rules/nativeCamera';
@@ -190,10 +191,13 @@ export class BattleScene extends Phaser.Scene {
       cell.on('pointerdown',(pointer:Phaser.Input.Pointer)=>{if(pointer.button===0)this.moveSelectedTo(key);});
     }
   }
+  private ensureNativeTerrain(mapId:number){const terrain=(nativeTerrainIndex as any)[String(mapId)];if(terrain){this.map.width=terrain.width;this.map.height=terrain.height;this.map.terrain=Array.isArray(terrain.terrain)?terrain.terrain:terrain.terrain.value;}}
   private createS01Units():Unit[]{
+    this.ensureNativeTerrain(1);
     return (s01Units.units as Array<any>).map(record=>({id:`s01-slot-${record.slot}`,name:`角色 ${record.unitId}`,art:record.art,side:record.slot<35?'player':'enemy',x:record.position[0],y:record.position[1],hp:record.hp,maxHp:record.maxHp,mp:record.mp,move:6,acted:false,direction:record.facing,actorFlags:record.actorFlags,statusFlags:0,nativeClassId:record.classId,nativeEquipment:(record.equipment??[]).map((row:number[],slot:number)=>({slot,itemId:row[0],byte1:row[1]??255,byte2:row[2]??255}))}));
   }
   private createNativeScenarioUnits(mapId:number):Unit[]{
+    this.ensureNativeTerrain(mapId);
     const source=scenarioUnits[mapId] as {units?:Array<any>}|undefined;
     return (source?.units??[]).map(record=>({id:`s${String(mapId).padStart(2,'0')}-slot-${record.slot}`,name:`角色 ${record.unitId}`,art:record.art,side:record.slot<35?'player':'enemy',x:record.position[0],y:record.position[1],hp:record.hp,maxHp:record.maxHp,mp:record.mp,move:6,acted:false,direction:record.facing,actorFlags:record.actorFlags,statusFlags:0,nativeClassId:record.classId,nativeEquipment:(record.equipment??[]).map((row:number[],slot:number)=>({slot,itemId:row[0],byte1:row[1]??255,byte2:row[2]??255}))}));
   }

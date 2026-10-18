@@ -5,7 +5,7 @@ test('indexed native scenario data loads for S_02',async({page})=>{
   await page.goto('http://127.0.0.1:5173/');
   await page.evaluate(()=>{const scene=(window as any).battleGame.scene.getScene('default');scene.scene.restart({mapId:2});});
   await expect.poll(()=>page.evaluate(()=>{
-    const scene=(window as any).battleGame.scene.getScene('default');return {mapId:scene.mapId,count:scene.units.length};
-  })).toEqual({mapId:2,count:33});
+    const scene=(window as any).battleGame.scene.getScene('default');return {mapId:scene.mapId,count:scene.units.length,width:scene.map.width,height:scene.map.height,terrain:scene.map.terrain.length};
+  })).toEqual({mapId:2,count:33,width:20,height:20,terrain:400});
   expect(errors).toEqual([]);
 });
