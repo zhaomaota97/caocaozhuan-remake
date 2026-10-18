@@ -46,6 +46,10 @@ its use.
   intentionally last and is not claimed complete.
 - Experience award and growth calculators are implemented as pure rules, but
   the full battle reward callback is not yet wired to mutate Web roster state.
+- The legacy slot-08 `attack-interaction.spec.ts` is retained separately; it
+  assumes a 32-unit slot-08 entry while the default runtime is S_00, so it is
+  not included in the consolidated reverse-rule suite until rewritten for the
+  current native S_00 entry.
 - Equipment experience level/XP writeback is implemented as a pure rule with
   native validation evidence; notification rendering and battle callback
   integration remain separate.
