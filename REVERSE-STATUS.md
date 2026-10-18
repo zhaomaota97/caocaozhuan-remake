@@ -44,6 +44,8 @@ its use.
   palette timing still require native presentation validation.
 - Save/load serialization evidence is present; the Web save feature remains
   intentionally last and is not claimed complete.
+- Experience award and growth calculators are implemented as pure rules, but
+  the full battle reward callback is not yet wired to mutate Web roster state.
 
 ## Known fidelity boundaries
 
