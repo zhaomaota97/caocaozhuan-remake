@@ -16,7 +16,7 @@ test('S_00 battle shell loads and supports native viewport interactions', async 
   await page.setViewportSize({width: 1120, height: 640});
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('http://127.0.0.1:5174/');
+  await page.goto('http://127.0.0.1:5173/');
   await advanceOpening(page);
 
   await expect.poll(() => page.evaluate(() => {
@@ -39,7 +39,7 @@ test('S_00 enemy turn completes and advances the round', async ({ page }) => {
   await page.setViewportSize({width: 1120, height: 640});
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('http://127.0.0.1:5174/');
+  await page.goto('http://127.0.0.1:5173/');
   await advanceOpening(page);
   const beforeTurn = await page.evaluate(() => (window as any).battleGame.scene.getScene('default').currentTurn);
   await page.evaluate(() => (window as any).battleGame.scene.getScene('default').finishTurn());
@@ -52,7 +52,7 @@ test('S_00 victory state locks battlefield input', async ({ page }) => {
   await page.setViewportSize({width: 1120, height: 640});
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('http://127.0.0.1:5174/');
+  await page.goto('http://127.0.0.1:5173/');
   await advanceOpening(page);
   const result = await page.evaluate(() => {
     const scene = (window as any).battleGame.scene.getScene('default');
@@ -69,7 +69,7 @@ test('S_00 defeat state opens failure modal', async ({ page }) => {
   await page.setViewportSize({width: 1120, height: 640});
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('http://127.0.0.1:5174/');
+  await page.goto('http://127.0.0.1:5173/');
   await advanceOpening(page);
   const result = await page.evaluate(() => {
     const scene = (window as any).battleGame.scene.getScene('default');
@@ -84,7 +84,7 @@ test('S_00 information panels use current level data', async ({ page }) => {
   await page.setViewportSize({width: 1120, height: 640});
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('http://127.0.0.1:5174/');
+  await page.goto('http://127.0.0.1:5173/');
   await advanceOpening(page);
   const result = await page.evaluate(() => {
     const scene = (window as any).battleGame.scene.getScene('default');
@@ -100,7 +100,7 @@ test('S_00 context menu remains hittable after scrolling', async ({ page }) => {
   await page.setViewportSize({width: 1120, height: 640});
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
-  await page.goto('http://127.0.0.1:5174/');
+  await page.goto('http://127.0.0.1:5173/');
   await advanceOpening(page);
   await page.mouse.wheel(0, 500);
   await page.evaluate(() => {

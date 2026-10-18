@@ -33,6 +33,8 @@ import battleResources from '../../data/mappings/battle-resource-links.json';
 import s00Units from '../../data/scenarios/S_00-units-native.json';
 import s00Terrain from '../../data/scenarios/S_00-terrain.json';
 import s00LiuTrace from '../../data/scenarios/S_00-liu-event-trace.json';
+import portraitBank from '../../public/assets/portraits/bank.json';
+import { portraitIndex, portraitRgba } from '../rules/portraitIndex';
 
 export class BattleScene extends Phaser.Scene {
   private mapId=0;
@@ -238,12 +240,30 @@ export class BattleScene extends Phaser.Scene {
         group.add(this.add.rectangle(0,0,width,height,0xc0c0c0).setOrigin(0).setStrokeStyle(1,0x808080));
         const unit=this.units.find(row=>Number(row.id.replace('s00-slot-',''))===({32:15,3:16,33:17} as Record<number,number>)[Number(line.speaker)]);
         group.add(this.add.text(12,8,unit?.name??`角色 ${line.speaker}`,{fontFamily:'SimSun',fontSize:'15px',color:'#000000'}));
-        group.add(this.add.text(14,38,String(line.text),{fontFamily:'SimSun',fontSize:'14px',color:'#000000',wordWrap:{width:width-28},lineSpacing:4}));
+        if(unit){const portrait=this.createNativePortrait(unit,0,0);if(portrait)group.add(this.add.image(12,28,portrait).setOrigin(0).setDisplaySize(96,120));}
+        group.add(this.add.text(120,38,String(line.text),{fontFamily:'SimSun',fontSize:'14px',color:'#000000',wordWrap:{width:width-134},lineSpacing:4}));
         const close=()=>{group.destroy();this.modal=undefined;resolve();};
         nativeButton(this,group,[width-104,height-32,86,24],'确定',1,close);
         group.setData('nativeHitRegions',[{x:width-104,y:height-32,width:86,height:24,command:close}]);this.modal=group;
       });
     }
+  }
+  private createNativePortrait(unit:Unit,flags:number,phase:number):string|undefined{
+    const characterId=unit.nativePortraitCharacterId,storedIndex=unit.nativePortraitStoredIndex;
+    if(characterId===undefined||storedIndex===undefined)return undefined;
+    const index=portraitIndex(characterId,storedIndex,flags,phase);
+    const face=(portraitBank.faces as Array<{index:number;pixelsBase64:string}>).find(row=>row.index===index);
+    const palette=(portraitBank.palettes as Array<{nativeBgrBase64:string}>)[0];
+    if(!face||!palette)return undefined;
+    const bytes=(input:string)=>Uint8Array.from(atob(input),char=>char.charCodeAt(0));
+    const rgba=portraitRgba(bytes(face.pixelsBase64),bytes(palette.nativeBgrBase64));
+    const key=`native-portrait-${index}`;
+    if(!this.textures.exists(key)){
+      const canvas=this.textures.createCanvas(key,portraitBank.width,portraitBank.height);
+      if(!canvas)return undefined;
+      canvas.context.putImageData(new ImageData(rgba as unknown as Uint8ClampedArray<ArrayBuffer>,portraitBank.width,portraitBank.height),0,0);canvas.refresh();
+    }
+    return key;
   }
   private fixInterfaceToViewport(){
     for(const object of [...this.children.list]){
