@@ -1,0 +1,638 @@
+[
+  {
+    "name": "end-0",
+    "status": 3,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "end-1",
+    "status": 4,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "status-6",
+    "status": 6,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "unknown",
+    "status": 5,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "skip-string",
+    "status": 1,
+    "consumed": 7,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "wrong-string-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "choice-equal",
+    "status": 1,
+    "consumed": 8,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "choice-different",
+    "status": 0,
+    "consumed": 8,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "choice-wrong-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "status-8",
+    "status": 8,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flags-empty",
+    "status": 1,
+    "consumed": 10,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flags-true",
+    "status": 1,
+    "consumed": 14,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flags-required-missing",
+    "status": 0,
+    "consumed": 14,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flags-forbidden-set",
+    "status": 0,
+    "consumed": 14,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flags-wrong-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flags-clear-256",
+    "status": 1,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flag-set-normalizes",
+    "status": 1,
+    "consumed": 12,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flag-clear-one",
+    "status": 1,
+    "consumed": 12,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flag-invalid-index-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "flag-invalid-value-tag",
+    "status": 5,
+    "consumed": 10,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "music-first-track",
+    "status": 1,
+    "consumed": 6,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "music",
+        2
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "music-track-offset",
+    "status": 1,
+    "consumed": 6,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "music",
+        22
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "music-stop",
+    "status": 1,
+    "consumed": 6,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "stop"
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "music-wrong-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "sound-command",
+    "status": 1,
+    "consumed": 12,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "sound",
+        207,
+        3
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "sound-wrong-mode-tag",
+    "status": 5,
+    "consumed": 8,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "state-203c",
+    "status": 1,
+    "consumed": 6,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "state-203c-wrong-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "event-latch-empty",
+    "status": 0,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "event-latch-set",
+    "status": 1,
+    "consumed": 2,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "event-config-0-0",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-reset"
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-0-1",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-reset"
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-0-256",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-reset"
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-0-65535",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-reset"
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-0-305419896",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-reset"
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-1-0",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-1-1",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-1-256",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-1-65535",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-1-305419896",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-2-0",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-2-1",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-2-256",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-2-65535",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-2-305419896",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-65535-0",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-65535-1",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-65535-256",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-65535-65535",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-config-65535-305419896",
+    "status": 1,
+    "consumed": 52,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [
+      [
+        "event-configure",
+        0
+      ]
+    ],
+    "match": true
+  },
+  {
+    "name": "event-wrong-first-tag",
+    "status": 5,
+    "consumed": 4,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "event-wrong-interval-tag",
+    "status": 5,
+    "consumed": 8,
+    "flagsMatch": true,
+    "stateMatch": true,
+    "audio": [],
+    "match": true
+  },
+  {
+    "name": "skip-block-0",
+    "status": 0,
+    "consumed": 2,
+    "counter": 2,
+    "match": true
+  },
+  {
+    "name": "skip-block-2",
+    "status": 0,
+    "consumed": 4,
+    "counter": 4,
+    "match": true
+  },
+  {
+    "name": "skip-block-257",
+    "status": 0,
+    "consumed": 259,
+    "counter": 259,
+    "match": true
+  },
+  {
+    "name": "conditional-2",
+    "status": 0,
+    "consumed": 28,
+    "thenFlag": 1,
+    "elseFlag": 0,
+    "match": true
+  },
+  {
+    "name": "conditional-opcode3-rejected-2",
+    "status": 1,
+    "consumed": 28,
+    "thenFlag": 1,
+    "elseFlag": 0,
+    "match": true
+  },
+  {
+    "name": "conditional-3",
+    "status": 0,
+    "consumed": 28,
+    "thenFlag": 0,
+    "elseFlag": 0,
+    "match": true
+  },
+  {
+    "name": "conditional-opcode3-rejected-3",
+    "status": 1,
+    "consumed": 28,
+    "thenFlag": 0,
+    "elseFlag": 0,
+    "match": true
+  }
+]

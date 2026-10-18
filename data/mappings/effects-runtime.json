@@ -1,0 +1,659 @@
+﻿[
+    {
+        "effectId":  0,
+        "name":  "灼热",
+        "dispatchCode":  0,
+        "resource":  "Meff.e5",
+        "entry":  0,
+        "sound":  "Se_m_00.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  1,
+        "name":  "烈火",
+        "dispatchCode":  1,
+        "resource":  "Meff.e5",
+        "entry":  1,
+        "sound":  "Se_m_01.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  2,
+        "name":  "火阵",
+        "dispatchCode":  0,
+        "resource":  "Meff.e5",
+        "entry":  0,
+        "sound":  "Se_m_00.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  3,
+        "name":  "火龙",
+        "dispatchCode":  100,
+        "resource":  "Mcall00.e5",
+        "entry":  0,
+        "sound":  "Se_m_16.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  4,
+        "name":  "爆焰",
+        "dispatchCode":  57,
+        "resource":  "Meff.e5",
+        "entry":  57,
+        "sound":  "Se_m_01.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  5,
+        "name":  "浊流",
+        "dispatchCode":  2,
+        "resource":  "Meff.e5",
+        "entry":  2,
+        "sound":  "Se_m_02.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  6,
+        "name":  "激流",
+        "dispatchCode":  3,
+        "resource":  "Meff.e5",
+        "entry":  3,
+        "sound":  "Se_m_03.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  7,
+        "name":  "水阵",
+        "dispatchCode":  2,
+        "resource":  "Meff.e5",
+        "entry":  2,
+        "sound":  "Se_m_02.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  8,
+        "name":  "水龙",
+        "dispatchCode":  101,
+        "resource":  "Mcall01.e5",
+        "entry":  0,
+        "sound":  "Se_m_16.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  9,
+        "name":  "海啸",
+        "dispatchCode":  3,
+        "resource":  "Meff.e5",
+        "entry":  3,
+        "sound":  "Se_m_03.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  10,
+        "name":  "旋风",
+        "dispatchCode":  4,
+        "resource":  "Meff.e5",
+        "entry":  4,
+        "sound":  "Se_m_04.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  11,
+        "name":  "龙卷",
+        "dispatchCode":  5,
+        "resource":  "Meff.e5",
+        "entry":  5,
+        "sound":  "Se_m_05.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  12,
+        "name":  "风阵",
+        "dispatchCode":  4,
+        "resource":  "Meff.e5",
+        "entry":  4,
+        "sound":  "Se_m_04.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  13,
+        "name":  "风龙",
+        "dispatchCode":  102,
+        "resource":  "Mcall02.e5",
+        "entry":  0,
+        "sound":  "Se_m_16.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  14,
+        "name":  "砂暴",
+        "dispatchCode":  4,
+        "resource":  "Meff.e5",
+        "entry":  4,
+        "sound":  "Se_m_04.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  15,
+        "name":  "落石",
+        "dispatchCode":  6,
+        "resource":  "Meff.e5",
+        "entry":  6,
+        "sound":  "Se_m_06.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  16,
+        "name":  "山岚",
+        "dispatchCode":  7,
+        "resource":  "Meff.e5",
+        "entry":  7,
+        "sound":  "Se_m_07.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  17,
+        "name":  "地阵",
+        "dispatchCode":  6,
+        "resource":  "Meff.e5",
+        "entry":  6,
+        "sound":  "Se_m_06.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  18,
+        "name":  "地龙",
+        "dispatchCode":  103,
+        "resource":  "Mcall03.e5",
+        "entry":  0,
+        "sound":  "Se_m_16.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  19,
+        "name":  "巨岩",
+        "dispatchCode":  8,
+        "resource":  "Meff.e5",
+        "entry":  8,
+        "sound":  "Se_m_08.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  20,
+        "name":  "诱惑",
+        "dispatchCode":  31,
+        "resource":  "Meff.e5",
+        "entry":  31,
+        "sound":  "Se_m_23.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  21,
+        "name":  "晕眩",
+        "dispatchCode":  24,
+        "resource":  "Meff.e5",
+        "entry":  24,
+        "sound":  "Se_m_19.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  22,
+        "name":  "谍报",
+        "dispatchCode":  32,
+        "resource":  "Meff.e5",
+        "entry":  32,
+        "sound":  "Se_m_23.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  23,
+        "name":  "钝兵",
+        "dispatchCode":  20,
+        "resource":  "Meff.e5",
+        "entry":  20,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  24,
+        "name":  "钝队",
+        "dispatchCode":  20,
+        "resource":  "Meff.e5",
+        "entry":  20,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  25,
+        "name":  "虚脱",
+        "dispatchCode":  21,
+        "resource":  "Meff.e5",
+        "entry":  21,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  26,
+        "name":  "厌战",
+        "dispatchCode":  21,
+        "resource":  "Meff.e5",
+        "entry":  21,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  27,
+        "name":  "压迫",
+        "dispatchCode":  18,
+        "resource":  "Meff.e5",
+        "entry":  18,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  28,
+        "name":  "威吓",
+        "dispatchCode":  18,
+        "resource":  "Meff.e5",
+        "entry":  18,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  29,
+        "name":  "咒骂",
+        "dispatchCode":  19,
+        "resource":  "Meff.e5",
+        "entry":  19,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  30,
+        "name":  "挑拨",
+        "dispatchCode":  19,
+        "resource":  "Meff.e5",
+        "entry":  19,
+        "sound":  "Se_m_22.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  31,
+        "name":  "谎报",
+        "dispatchCode":  25,
+        "resource":  "Meff.e5",
+        "entry":  25,
+        "sound":  "Se_m_20.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  32,
+        "name":  "谎言",
+        "dispatchCode":  25,
+        "resource":  "Meff.e5",
+        "entry":  25,
+        "sound":  "Se_m_20.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  33,
+        "name":  "毒烟",
+        "dispatchCode":  23,
+        "resource":  "Meff.e5",
+        "entry":  23,
+        "sound":  "Se_m_19.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  34,
+        "name":  "毒雾",
+        "dispatchCode":  23,
+        "resource":  "Meff.e5",
+        "entry":  23,
+        "sound":  "Se_m_19.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  35,
+        "name":  "定身",
+        "dispatchCode":  26,
+        "resource":  "Meff.e5",
+        "entry":  26,
+        "sound":  "Se_m_21.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  36,
+        "name":  "定军",
+        "dispatchCode":  26,
+        "resource":  "Meff.e5",
+        "entry":  26,
+        "sound":  "Se_m_21.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  37,
+        "name":  "封咒",
+        "dispatchCode":  27,
+        "resource":  "Meff.e5",
+        "entry":  27,
+        "sound":  "Se_m_21.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  38,
+        "name":  "八阵图",
+        "dispatchCode":  104,
+        "resource":  "Mcall04.e5",
+        "entry":  0,
+        "sound":  "Se_m_17.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  39,
+        "name":  "小补给",
+        "dispatchCode":  9,
+        "resource":  "Meff.e5",
+        "entry":  9,
+        "sound":  "Se_m_25.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  40,
+        "name":  "大补给",
+        "dispatchCode":  10,
+        "resource":  "Meff.e5",
+        "entry":  10,
+        "sound":  "Se_m_26.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  41,
+        "name":  "援队",
+        "dispatchCode":  9,
+        "resource":  "Meff.e5",
+        "entry":  9,
+        "sound":  "Se_m_25.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  42,
+        "name":  "援军",
+        "dispatchCode":  10,
+        "resource":  "Meff.e5",
+        "entry":  10,
+        "sound":  "Se_m_26.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  43,
+        "name":  "输送",
+        "dispatchCode":  10,
+        "resource":  "Meff.e5",
+        "entry":  10,
+        "sound":  "Se_m_26.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  44,
+        "name":  "建言",
+        "dispatchCode":  11,
+        "resource":  "Meff.e5",
+        "entry":  11,
+        "sound":  "Se_m_25.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  45,
+        "name":  "献策",
+        "dispatchCode":  12,
+        "resource":  "Meff.e5",
+        "entry":  12,
+        "sound":  "Se_m_26.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  46,
+        "name":  "觉醒",
+        "dispatchCode":  28,
+        "resource":  "Meff.e5",
+        "entry":  28,
+        "sound":  "Se_m_27.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  47,
+        "name":  "大觉醒",
+        "dispatchCode":  28,
+        "resource":  "Meff.e5",
+        "entry":  28,
+        "sound":  "Se_m_27.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  48,
+        "name":  "强行",
+        "dispatchCode":  30,
+        "resource":  "Meff.e5",
+        "entry":  30,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  49,
+        "name":  "练兵",
+        "dispatchCode":  15,
+        "resource":  "Meff.e5",
+        "entry":  15,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  50,
+        "name":  "练队",
+        "dispatchCode":  15,
+        "resource":  "Meff.e5",
+        "entry":  15,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  51,
+        "name":  "昂扬",
+        "dispatchCode":  16,
+        "resource":  "Meff.e5",
+        "entry":  16,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  52,
+        "name":  "欢声",
+        "dispatchCode":  16,
+        "resource":  "Meff.e5",
+        "entry":  16,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  53,
+        "name":  "奋起",
+        "dispatchCode":  13,
+        "resource":  "Meff.e5",
+        "entry":  13,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  54,
+        "name":  "鼓舞",
+        "dispatchCode":  13,
+        "resource":  "Meff.e5",
+        "entry":  13,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  55,
+        "name":  "坚固",
+        "dispatchCode":  14,
+        "resource":  "Meff.e5",
+        "entry":  14,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  56,
+        "name":  "强阵",
+        "dispatchCode":  14,
+        "resource":  "Meff.e5",
+        "entry":  14,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  57,
+        "name":  "回归",
+        "dispatchCode":  29,
+        "resource":  "Meff.e5",
+        "entry":  29,
+        "sound":  "Se_m_27.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  58,
+        "name":  "豪雨",
+        "dispatchCode":  255,
+        "resource":  "none",
+        "entry":  0,
+        "sound":  "",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  59,
+        "name":  "晴明",
+        "dispatchCode":  255,
+        "resource":  "none",
+        "entry":  0,
+        "sound":  "",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  60,
+        "name":  "昙天",
+        "dispatchCode":  255,
+        "resource":  "none",
+        "entry":  0,
+        "sound":  "",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  61,
+        "name":  "气合",
+        "dispatchCode":  13,
+        "resource":  "Meff.e5",
+        "entry":  13,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  62,
+        "name":  "冥想",
+        "dispatchCode":  31,
+        "resource":  "Meff.e5",
+        "entry":  31,
+        "sound":  "Se_m_23.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  63,
+        "name":  "霸气",
+        "dispatchCode":  17,
+        "resource":  "Meff.e5",
+        "entry":  17,
+        "sound":  "Se_m_28.wav",
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  64,
+        "name":  "青龙",
+        "dispatchCode":  106,
+        "resource":  "Mcall06.e5",
+        "entry":  0,
+        "sound":  "Se_m_13.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  65,
+        "name":  "朱雀",
+        "dispatchCode":  105,
+        "resource":  "Mcall05.e5",
+        "entry":  0,
+        "sound":  "Se_m_12.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  66,
+        "name":  "玄武",
+        "dispatchCode":  107,
+        "resource":  "Mcall07.e5",
+        "entry":  0,
+        "sound":  "Se_m_14.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  67,
+        "name":  "白虎",
+        "dispatchCode":  108,
+        "resource":  "Mcall08.e5",
+        "entry":  0,
+        "sound":  "Se_m_15.wav",
+        "timelineFrames":  1
+    },
+    {
+        "effectId":  68,
+        "name":  "空白１",
+        "dispatchCode":  0,
+        "resource":  null,
+        "entry":  0,
+        "sound":  null,
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  69,
+        "name":  "空白２",
+        "dispatchCode":  0,
+        "resource":  null,
+        "entry":  0,
+        "sound":  null,
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  70,
+        "name":  "空白３",
+        "dispatchCode":  0,
+        "resource":  null,
+        "entry":  0,
+        "sound":  null,
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  71,
+        "name":  "空白４",
+        "dispatchCode":  0,
+        "resource":  null,
+        "entry":  0,
+        "sound":  null,
+        "timelineFrames":  0
+    },
+    {
+        "effectId":  72,
+        "name":  "空白５",
+        "dispatchCode":  0,
+        "resource":  null,
+        "entry":  0,
+        "sound":  null,
+        "timelineFrames":  0
+    }
+]

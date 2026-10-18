@@ -1,0 +1,967 @@
+{
+  "function": "0x43F8BE",
+  "total": 32,
+  "matched": 32,
+  "rows": [
+    {
+      "slot": 0,
+      "classId": 1,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 23,
+          "byte1": 7,
+          "byte2": 60
+        },
+        {
+          "slot": 1,
+          "itemId": 45,
+          "byte1": 8,
+          "byte2": 42
+        },
+        {
+          "slot": 2,
+          "itemId": 73,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 195,
+      "nativeDefense": 215,
+      "terrainAdaptation": 9,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 3,
+      "classId": 31,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 36,
+          "byte1": 6,
+          "byte2": 82
+        },
+        {
+          "slot": 1,
+          "itemId": 52,
+          "byte1": 5,
+          "byte2": 11
+        },
+        {
+          "slot": 2,
+          "itemId": 78,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 49,
+      "nativeDefense": 128,
+      "terrainAdaptation": 9,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 4,
+      "classId": 22,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 24,
+          "byte1": 8,
+          "byte2": 65
+        },
+        {
+          "slot": 1,
+          "itemId": 49,
+          "byte1": 7,
+          "byte2": 93
+        },
+        {
+          "slot": 2,
+          "itemId": 72,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 6,
+      "nativeAttack": 246,
+      "nativeDefense": 200,
+      "terrainAdaptation": 8,
+      "expectedRange": 6,
+      "match": true
+    },
+    {
+      "slot": 6,
+      "classId": 25,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 34,
+          "byte1": 6,
+          "byte2": 65
+        },
+        {
+          "slot": 1,
+          "itemId": 50,
+          "byte1": 7,
+          "byte2": 0
+        },
+        {
+          "slot": 2,
+          "itemId": 79,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 79,
+      "nativeDefense": 161,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 8,
+      "classId": 37,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 10,
+          "byte1": 2,
+          "byte2": 73
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 2,
+          "byte2": 42
+        },
+        {
+          "slot": 2,
+          "itemId": 75,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 162,
+      "nativeDefense": 130,
+      "terrainAdaptation": 9,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 10,
+      "classId": 13,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 28,
+          "byte1": 5,
+          "byte2": 73
+        },
+        {
+          "slot": 1,
+          "itemId": 45,
+          "byte1": 8,
+          "byte2": 50
+        },
+        {
+          "slot": 2,
+          "itemId": 74,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 2,
+      "nativeAttack": 189,
+      "nativeDefense": 167,
+      "terrainAdaptation": 10,
+      "expectedRange": 2,
+      "match": true
+    },
+    {
+      "slot": 12,
+      "classId": 28,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 19,
+          "byte1": 2,
+          "byte2": 34
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 2,
+          "itemId": 77,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 45,
+      "nativeDefense": 102,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 35,
+      "classId": 25,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 17,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 1,
+          "itemId": 43,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 2,
+          "itemId": 54,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 95,
+      "nativeDefense": 178,
+      "terrainAdaptation": 12,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 36,
+      "classId": 39,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 5,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 1,
+          "itemId": 40,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 214,
+      "nativeDefense": 243,
+      "terrainAdaptation": 11,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 37,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 2,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 1,
+          "itemId": 40,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 2,
+          "itemId": 66,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 216,
+      "nativeDefense": 246,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 39,
+      "classId": 39,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 4,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 171,
+      "nativeDefense": 168,
+      "terrainAdaptation": 11,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 40,
+      "classId": 39,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 4,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 171,
+      "nativeDefense": 168,
+      "terrainAdaptation": 11,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 41,
+      "classId": 39,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 4,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 171,
+      "nativeDefense": 168,
+      "terrainAdaptation": 11,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 42,
+      "classId": 39,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 4,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 171,
+      "nativeDefense": 168,
+      "terrainAdaptation": 11,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 43,
+      "classId": 28,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 19,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 41,
+      "nativeDefense": 101,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 44,
+      "classId": 43,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 10,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 160,
+      "nativeDefense": 158,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 45,
+      "classId": 43,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 10,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 160,
+      "nativeDefense": 158,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 46,
+      "classId": 43,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 10,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 160,
+      "nativeDefense": 158,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 47,
+      "classId": 43,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 10,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 0,
+      "nativeAttack": 160,
+      "nativeDefense": 158,
+      "terrainAdaptation": 10,
+      "expectedRange": 0,
+      "match": true
+    },
+    {
+      "slot": 48,
+      "classId": 7,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 7,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 3,
+      "nativeAttack": 158,
+      "nativeDefense": 137,
+      "terrainAdaptation": 10,
+      "expectedRange": 3,
+      "match": true
+    },
+    {
+      "slot": 49,
+      "classId": 7,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 7,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 3,
+      "nativeAttack": 158,
+      "nativeDefense": 137,
+      "terrainAdaptation": 10,
+      "expectedRange": 3,
+      "match": true
+    },
+    {
+      "slot": 50,
+      "classId": 7,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 7,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 3,
+      "nativeAttack": 158,
+      "nativeDefense": 137,
+      "terrainAdaptation": 10,
+      "expectedRange": 3,
+      "match": true
+    },
+    {
+      "slot": 51,
+      "classId": 7,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 7,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 3,
+      "nativeAttack": 158,
+      "nativeDefense": 137,
+      "terrainAdaptation": 10,
+      "expectedRange": 3,
+      "match": true
+    },
+    {
+      "slot": 52,
+      "classId": 39,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 5,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 1,
+          "itemId": 40,
+          "byte1": 2,
+          "byte2": 0
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 245,
+      "nativeDefense": 214,
+      "terrainAdaptation": 11,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 53,
+      "classId": 16,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 13,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 7,
+      "nativeAttack": 168,
+      "nativeDefense": 158,
+      "terrainAdaptation": 10,
+      "expectedRange": 7,
+      "match": true
+    },
+    {
+      "slot": 54,
+      "classId": 16,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 13,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 42,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 7,
+      "nativeAttack": 168,
+      "nativeDefense": 158,
+      "terrainAdaptation": 10,
+      "expectedRange": 7,
+      "match": true
+    },
+    {
+      "slot": 55,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 1,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 137,
+      "nativeDefense": 168,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 56,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 1,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 137,
+      "nativeDefense": 168,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 57,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 1,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 137,
+      "nativeDefense": 168,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 58,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 1,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 137,
+      "nativeDefense": 168,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 59,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 1,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 137,
+      "nativeDefense": 168,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    },
+    {
+      "slot": 60,
+      "classId": 4,
+      "equipmentSlots": [
+        {
+          "slot": 0,
+          "itemId": 1,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 1,
+          "itemId": 39,
+          "byte1": 3,
+          "byte2": 255
+        },
+        {
+          "slot": 2,
+          "itemId": 255,
+          "byte1": 255,
+          "byte2": 255
+        }
+      ],
+      "nativeRange": 1,
+      "nativeAttack": 137,
+      "nativeDefense": 168,
+      "terrainAdaptation": 10,
+      "expectedRange": 1,
+      "match": true
+    }
+  ]
+}

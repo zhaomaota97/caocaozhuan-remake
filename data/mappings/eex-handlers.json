@@ -1,0 +1,1025 @@
+[
+  {
+    "opcode": 0,
+    "handler": null,
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 1,
+    "handler": null,
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 2,
+    "handler": "00411fdc",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 3,
+    "handler": "004112df",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 4,
+    "handler": "00411748",
+    "parameter_tag_calls_in_source_order": [
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 5,
+    "handler": "004117a1",
+    "parameter_tag_calls_in_source_order": [
+      53,
+      1,
+      53,
+      1
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 6,
+    "handler": "00415b45",
+    "parameter_tag_calls_in_source_order": [
+      46,
+      4,
+      56,
+      57
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 7,
+    "handler": "00415c46",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 8,
+    "handler": "0041431e",
+    "parameter_tag_calls_in_source_order": [
+      46
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 9,
+    "handler": "00415b0f",
+    "parameter_tag_calls_in_source_order": [
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 10,
+    "handler": "00415ad7",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 11,
+    "handler": "004142b2",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      39
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 12,
+    "handler": "004143a4",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 13,
+    "handler": "004143ae",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 14,
+    "handler": "00415890",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 15,
+    "handler": "004158af",
+    "parameter_tag_calls_in_source_order": [
+      18
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 16,
+    "handler": "0041590d",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 17,
+    "handler": "00415c67",
+    "parameter_tag_calls_in_source_order": [
+      55
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 18,
+    "handler": "00411db9",
+    "parameter_tag_calls_in_source_order": [
+      5,
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 19,
+    "handler": "00411fa5",
+    "parameter_tag_calls_in_source_order": [
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 20,
+    "handler": "00413661",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 21,
+    "handler": "00413911",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      2,
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 22,
+    "handler": "00413a5a",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 23,
+    "handler": "00413ab4",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 24,
+    "handler": "00413b07",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 25,
+    "handler": "00413bd1",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 26,
+    "handler": "00413c0e",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 27,
+    "handler": "00413c56",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      39
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 28,
+    "handler": "00413ebd",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 29,
+    "handler": "00413ee2",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 30,
+    "handler": "00413ef1",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 31,
+    "handler": "00414257",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 32,
+    "handler": "00416fd8",
+    "parameter_tag_calls_in_source_order": [
+      74
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 33,
+    "handler": "00413efb",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      4,
+      16,
+      38,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 34,
+    "handler": "004121ed",
+    "parameter_tag_calls_in_source_order": [
+      27
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 35,
+    "handler": "004157b4",
+    "parameter_tag_calls_in_source_order": [
+      30,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 36,
+    "handler": "0041581c",
+    "parameter_tag_calls_in_source_order": [
+      9
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 37,
+    "handler": "00411b50",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 38,
+    "handler": "00411c36",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      4,
+      4,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 39,
+    "handler": "00413d13",
+    "parameter_tag_calls_in_source_order": [
+      45,
+      12,
+      26,
+      28,
+      21
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 40,
+    "handler": "00414361",
+    "parameter_tag_calls_in_source_order": [
+      54
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 41,
+    "handler": "00417143",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 42,
+    "handler": "004171ff",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 43,
+    "handler": "004172bb",
+    "parameter_tag_calls_in_source_order": [
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 44,
+    "handler": "00417315",
+    "parameter_tag_calls_in_source_order": [
+      5,
+      38,
+      38,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 45,
+    "handler": "004119e7",
+    "parameter_tag_calls_in_source_order": [
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 46,
+    "handler": "00411a54",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      2,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 47,
+    "handler": "00413652",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 48,
+    "handler": "00413010",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      4,
+      4,
+      43,
+      13
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 49,
+    "handler": "0041311c",
+    "parameter_tag_calls_in_source_order": [
+      44,
+      2,
+      4,
+      4,
+      4,
+      4,
+      3
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 50,
+    "handler": "004132d4",
+    "parameter_tag_calls_in_source_order": [
+      64,
+      2,
+      4,
+      4,
+      4,
+      43
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 51,
+    "handler": "004134c9",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      13,
+      43
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 52,
+    "handler": "00413567",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      13
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 53,
+    "handler": "004135de",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      19
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 54,
+    "handler": "004112e9",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      35,
+      4,
+      36
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 55,
+    "handler": "004118d4",
+    "parameter_tag_calls_in_source_order": [
+      40,
+      4,
+      36
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 56,
+    "handler": "00412006",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      35,
+      52,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 57,
+    "handler": "00414b62",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 58,
+    "handler": "004149f7",
+    "parameter_tag_calls_in_source_order": [
+      40,
+      52,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 59,
+    "handler": "004148fe",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      14,
+      62
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 60,
+    "handler": "00415cbf",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      14,
+      58
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 61,
+    "handler": "004143c2",
+    "parameter_tag_calls_in_source_order": [
+      23,
+      73,
+      38,
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 62,
+    "handler": "00416319",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      59,
+      73,
+      60,
+      73,
+      61
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 63,
+    "handler": "00411652",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      36
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 64,
+    "handler": "004116ee",
+    "parameter_tag_calls_in_source_order": [
+      72
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 65,
+    "handler": "0041149d",
+    "parameter_tag_calls_in_source_order": [
+      3,
+      4,
+      36,
+      63,
+      4,
+      4,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 66,
+    "handler": "00411d63",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 67,
+    "handler": "00411d8e",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 68,
+    "handler": "00412230",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 69,
+    "handler": "004122f1",
+    "parameter_tag_calls_in_source_order": [
+      38,
+      38,
+      4,
+      62,
+      50,
+      2,
+      50,
+      2,
+      71,
+      34
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 70,
+    "handler": "004125c5",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      38,
+      4,
+      4,
+      43,
+      62,
+      69,
+      7,
+      2,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 71,
+    "handler": "004129a4",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      38,
+      38,
+      4,
+      4,
+      43,
+      62,
+      69,
+      7,
+      2,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 72,
+    "handler": "00412dd6",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      59,
+      73,
+      60,
+      73,
+      61
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 73,
+    "handler": "00415795",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 74,
+    "handler": "00415d92",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      56,
+      57
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 75,
+    "handler": "00415e31",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      4,
+      4,
+      43,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 76,
+    "handler": "00414f42",
+    "parameter_tag_calls_in_source_order": [
+      64,
+      2,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 77,
+    "handler": "004150e7",
+    "parameter_tag_calls_in_source_order": [
+      65,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3,
+      47,
+      24,
+      48,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 78,
+    "handler": "004146d4",
+    "parameter_tag_calls_in_source_order": [
+      44,
+      2,
+      4,
+      4,
+      4,
+      4,
+      3,
+      7,
+      2,
+      4,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 79,
+    "handler": "00415f65",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      2,
+      43,
+      38,
+      38,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 80,
+    "handler": "00416129",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      70,
+      38,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 81,
+    "handler": "0041626a",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 82,
+    "handler": "00414d15",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      3
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 83,
+    "handler": "0041557b",
+    "parameter_tag_calls_in_source_order": [
+      44,
+      2,
+      4,
+      4,
+      4,
+      4,
+      3,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 84,
+    "handler": "00415771",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 85,
+    "handler": "0041591c",
+    "parameter_tag_calls_in_source_order": [
+      64,
+      2,
+      4,
+      4,
+      4,
+      43
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 86,
+    "handler": "00414f03",
+    "parameter_tag_calls_in_source_order": [
+      71
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 87,
+    "handler": "00414ec4",
+    "parameter_tag_calls_in_source_order": [
+      34
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 88,
+    "handler": "004166eb",
+    "parameter_tag_calls_in_source_order": [
+      66,
+      67,
+      68,
+      4,
+      4,
+      38,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 89,
+    "handler": "0041688b",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      23,
+      73,
+      23,
+      73,
+      23,
+      73,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 90,
+    "handler": "00416c97",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 91,
+    "handler": "00416cbb",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      4,
+      4,
+      4,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 92,
+    "handler": "00416e17",
+    "parameter_tag_calls_in_source_order": [
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 93,
+    "handler": "00417068",
+    "parameter_tag_calls_in_source_order": [
+      52,
+      4
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 94,
+    "handler": "004174a2",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 95,
+    "handler": "004175e8",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 96,
+    "handler": "004175fc",
+    "parameter_tag_calls_in_source_order": [
+      38,
+      5,
+      76
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 97,
+    "handler": "004176a8",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 98,
+    "handler": "004176bc",
+    "parameter_tag_calls_in_source_order": [
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 99,
+    "handler": "00417701",
+    "parameter_tag_calls_in_source_order": [
+      38,
+      5,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 100,
+    "handler": "004177b6",
+    "parameter_tag_calls_in_source_order": [
+      38,
+      76
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 101,
+    "handler": "00417826",
+    "parameter_tag_calls_in_source_order": [
+      38,
+      77,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 102,
+    "handler": "004178c6",
+    "parameter_tag_calls_in_source_order": [
+      38,
+      78,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 103,
+    "handler": "00413b3d",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 104,
+    "handler": "00417535",
+    "parameter_tag_calls_in_source_order": [
+      2,
+      2
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 105,
+    "handler": "00413a05",
+    "parameter_tag_calls_in_source_order": [
+      5
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 106,
+    "handler": "00416dfa",
+    "parameter_tag_calls_in_source_order": [],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  },
+  {
+    "opcode": 107,
+    "handler": "0041405b",
+    "parameter_tag_calls_in_source_order": [
+      4,
+      4,
+      75,
+      38
+    ],
+    "warning": "tag calls are static observations; branches and loops may change runtime order"
+  }
+]

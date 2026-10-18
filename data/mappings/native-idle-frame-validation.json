@@ -1,0 +1,6402 @@
+[
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 2,
+    "actual": 2,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 3,
+    "actual": 3,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 7,
+    "actual": 7,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 0,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 1,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 0,
+    "actual": 0,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 1,
+    "actual": 1,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 6,
+    "actual": 6,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 2,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 4,
+    "actual": 4,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 0,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 5,
+    "actual": 5,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 2,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 4,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 6,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 8,
+    "actual": 8,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 1,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 3,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 4,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 6,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 0,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 0,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 1,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 2,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 19,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 3,
+    "health": 20,
+    "expected": 9,
+    "actual": 9,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 4,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 5,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 6,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 19,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  },
+  {
+    "direction": 3,
+    "flags": 32,
+    "status": 2,
+    "phase": 7,
+    "health": 20,
+    "expected": 10,
+    "actual": 10,
+    "match": true
+  }
+]

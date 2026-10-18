@@ -1,0 +1,5127 @@
+{
+  "scope": "Original 0x43e572; direction/health predicates stubbed, phase and flag reads original",
+  "cases": 512,
+  "matched": 512,
+  "rows": [
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 2,
+      "expected": 2,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 3,
+      "expected": 3,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 0,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 1,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 2,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 4,
+      "expected": 4,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 5,
+      "expected": 5,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 0,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 1,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 3,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 0,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 4,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 5,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 6,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 0,
+      "status": 2,
+      "phase": 7,
+      "tile": 10,
+      "expected": 10,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 2,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 4,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 0,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 0,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 1,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 2,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 3,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 4,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 5,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 6,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "direction": 3,
+      "injured": 1,
+      "flags": 6,
+      "status": 2,
+      "phase": 7,
+      "tile": 9,
+      "expected": 9,
+      "match": true
+    }
+  ]
+}

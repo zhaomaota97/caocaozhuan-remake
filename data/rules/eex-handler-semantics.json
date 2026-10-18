@@ -1,0 +1,1864 @@
+[
+  {
+    "opcode": 0,
+    "handler": "",
+    "classification": "reserved/terminal",
+    "parameter_tags": "",
+    "pseudocode_exists": false,
+    "called_functions": [],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 1,
+    "handler": "",
+    "classification": "reserved/terminal",
+    "parameter_tags": "",
+    "pseudocode_exists": false,
+    "called_functions": [],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 2,
+    "handler": "00411fdc",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00411fdc",
+      "004183f7"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 3,
+    "handler": "004112df",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004112df"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 4,
+    "handler": "00411748",
+    "classification": "parameterized",
+    "parameter_tags": "38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00411748",
+      "004183f7",
+      "0042f699"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 5,
+    "handler": "004117a1",
+    "classification": "parameterized",
+    "parameter_tags": "53 1 53 1",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004117a1",
+      "004183f7",
+      "004184b2"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 6,
+    "handler": "00415b45",
+    "classification": "parameterized",
+    "parameter_tags": "46 4 56 57",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415b45",
+      "004183f7",
+      "00419d22",
+      "00419fe2"
+    ],
+    "global_tokens": [
+      "00496f38",
+      "004b09ec",
+      "004b09f0",
+      "004b0a04"
+    ],
+    "suspected_global_writes": [
+      "004b09ec"
+    ]
+  },
+  {
+    "opcode": 7,
+    "handler": "00415c46",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415c46"
+    ],
+    "global_tokens": [
+      "004ae4c0"
+    ],
+    "suspected_global_writes": [
+      "004ae4c0"
+    ]
+  },
+  {
+    "opcode": 8,
+    "handler": "0041431e",
+    "classification": "parameterized",
+    "parameter_tags": "46",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041431e",
+      "004183f7",
+      "0042c858"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 9,
+    "handler": "00415b0f",
+    "classification": "parameterized",
+    "parameter_tags": "4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415b0f",
+      "004183f7",
+      "0042c522"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 10,
+    "handler": "00415ad7",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415ad7",
+      "004184d1"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 11,
+    "handler": "004142b2",
+    "classification": "parameterized",
+    "parameter_tags": "4 39",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004142b2",
+      "004183f7",
+      "004184d1"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 12,
+    "handler": "004143a4",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004143a4"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 13,
+    "handler": "004143ae",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004143ae",
+      "0042c858"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 14,
+    "handler": "00415890",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00415890",
+      "00455ffd"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 15,
+    "handler": "004158af",
+    "classification": "parameterized",
+    "parameter_tags": "18",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004158af",
+      "004183f7",
+      "0041a1b0",
+      "0042b7c6"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 16,
+    "handler": "0041590d",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041590d",
+      "00433359"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 17,
+    "handler": "00415c67",
+    "classification": "parameterized",
+    "parameter_tags": "55",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415c67",
+      "004183f7",
+      "00418d60",
+      "00426bd5"
+    ],
+    "global_tokens": [
+      "004b0770"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 18,
+    "handler": "00411db9",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5 2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00411db9",
+      "004179a5",
+      "004183f7",
+      "004184eb",
+      "0042de12",
+      "00449d96"
+    ],
+    "global_tokens": [
+      "004b5fd8",
+      "004b6a68"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 19,
+    "handler": "00411fa5",
+    "classification": "parameterized",
+    "parameter_tags": "4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00411fa5",
+      "004183f7",
+      "00418504"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 20,
+    "handler": "00413661",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00413661",
+      "004179a5",
+      "004183f7",
+      "00418c90",
+      "0041eec0",
+      "0042d5f1",
+      "0045602b",
+      "0045965d",
+      "0045f670",
+      "0047fb4c"
+    ],
+    "global_tokens": [
+      "004b2c50",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 21,
+    "handler": "00413911",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "2 2 5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00413911",
+      "004179a5",
+      "004183f7",
+      "00459777"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 22,
+    "handler": "00413a5a",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413a5a",
+      "004179a5",
+      "004183f7",
+      "0042d5f1"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 23,
+    "handler": "00413ab4",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040bb78",
+      "00413ab4",
+      "004179a5",
+      "004183f7"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 24,
+    "handler": "00413b07",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040bb48",
+      "00413b07",
+      "004183f7"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 25,
+    "handler": "00413bd1",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413bd1",
+      "004179a5",
+      "004183f7"
+    ],
+    "global_tokens": [
+      "00496ca0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 26,
+    "handler": "00413c0e",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00413c0e",
+      "004183f7",
+      "0044bd27"
+    ],
+    "global_tokens": [
+      "004b3d08"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 27,
+    "handler": "00413c56",
+    "classification": "parameterized",
+    "parameter_tags": "2 39",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00413c56",
+      "004183f7",
+      "00418cb0",
+      "00477adc"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b2c50"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 28,
+    "handler": "00413ebd",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b913",
+      "00413ebd",
+      "0041e405",
+      "00428b11"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 29,
+    "handler": "00413ee2",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413ee2",
+      "0041e5c2"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 30,
+    "handler": "00413ef1",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413ef1"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 31,
+    "handler": "00414257",
+    "classification": "parameterized",
+    "parameter_tags": "4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00414257",
+      "004183f7",
+      "0045503f"
+    ],
+    "global_tokens": [
+      "004b4250"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 32,
+    "handler": "00416fd8",
+    "classification": "parameterized",
+    "parameter_tags": "74",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00409540",
+      "00416fd8",
+      "004183f7",
+      "00418d40"
+    ],
+    "global_tokens": [
+      "004b0770"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 33,
+    "handler": "00413efb",
+    "classification": "parameterized",
+    "parameter_tags": "4 4 16 38 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00413efb",
+      "004183f7",
+      "00456140",
+      "004567c1"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 34,
+    "handler": "004121ed",
+    "classification": "parameterized",
+    "parameter_tags": "27",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004121ed",
+      "004183f7",
+      "0042f754"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 35,
+    "handler": "004157b4",
+    "classification": "parameterized",
+    "parameter_tags": "30 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004157b4",
+      "004183f7",
+      "00474a07"
+    ],
+    "global_tokens": [
+      "004b69b0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 36,
+    "handler": "0041581c",
+    "classification": "parameterized",
+    "parameter_tags": "9",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041581c",
+      "004183f7",
+      "00418d20",
+      "004745fe",
+      "00474619"
+    ],
+    "global_tokens": [
+      "004b0770",
+      "004b69b8"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 37,
+    "handler": "00411b50",
+    "classification": "parameterized",
+    "parameter_tags": "2 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00411b50",
+      "004183f7",
+      "0045b371"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 38,
+    "handler": "00411c36",
+    "classification": "parameterized",
+    "parameter_tags": "2 4 4 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00411c36",
+      "004183f7",
+      "0045b4a5"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 39,
+    "handler": "00413d13",
+    "classification": "parameterized",
+    "parameter_tags": "45 12 26 28 21",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040bbd0",
+      "00413d13",
+      "004183f7"
+    ],
+    "global_tokens": [
+      "004abf9c",
+      "004b3d08"
+    ],
+    "suspected_global_writes": [
+      "004abf9c",
+      "004b3d08"
+    ]
+  },
+  {
+    "opcode": 40,
+    "handler": "00414361",
+    "classification": "parameterized",
+    "parameter_tags": "54",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00414361",
+      "004183f7",
+      "00418518"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 41,
+    "handler": "00417143",
+    "classification": "parameterized",
+    "parameter_tags": "2 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00417143",
+      "004183f7",
+      "004331be"
+    ],
+    "global_tokens": [
+      "004b2b98"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 42,
+    "handler": "004171ff",
+    "classification": "parameterized",
+    "parameter_tags": "2 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004171ff",
+      "004183f7",
+      "00432af4"
+    ],
+    "global_tokens": [
+      "004b2b98"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 43,
+    "handler": "004172bb",
+    "classification": "parameterized",
+    "parameter_tags": "2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004172bb",
+      "004183f7",
+      "00433070"
+    ],
+    "global_tokens": [
+      "004b2b98"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 44,
+    "handler": "00417315",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5 38 38 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00417315",
+      "004179a5",
+      "004183f7",
+      "004327ef"
+    ],
+    "global_tokens": [
+      "004b2b98"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 45,
+    "handler": "004119e7",
+    "classification": "parameterized",
+    "parameter_tags": "2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041004d",
+      "004119e7",
+      "004183f7",
+      "0042a910"
+    ],
+    "global_tokens": [
+      "004b0770"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 46,
+    "handler": "00411a54",
+    "classification": "parameterized",
+    "parameter_tags": "2 2 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00411a54",
+      "004183f7",
+      "0045afca"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 47,
+    "handler": "00413652",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413652",
+      "00426bd5"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 48,
+    "handler": "00413010",
+    "classification": "parameterized",
+    "parameter_tags": "2 4 4 43 13",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00413010",
+      "004183f7",
+      "0042909d",
+      "004570ee"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 49,
+    "handler": "0041311c",
+    "classification": "parameterized",
+    "parameter_tags": "44 2 4 4 4 4 3",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "0041311c",
+      "004183f7",
+      "00428b22",
+      "0045602b",
+      "0045a7b7",
+      "0045a80f"
+    ],
+    "global_tokens": [
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 50,
+    "handler": "004132d4",
+    "classification": "parameterized",
+    "parameter_tags": "64 2 4 4 4 43",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "004132d4",
+      "004183f7",
+      "00418c00",
+      "00418c90",
+      "00418dd0",
+      "00429159",
+      "0042c858",
+      "00459487"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "004b2c50"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 51,
+    "handler": "004134c9",
+    "classification": "parameterized",
+    "parameter_tags": "2 13 43",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004134c9",
+      "004183f7",
+      "00428b87"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 52,
+    "handler": "00413567",
+    "classification": "parameterized",
+    "parameter_tags": "2 13",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413567",
+      "004183f7",
+      "00428b87"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 53,
+    "handler": "004135de",
+    "classification": "parameterized",
+    "parameter_tags": "2 19",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004135de",
+      "004183f7",
+      "00418c50"
+    ],
+    "global_tokens": [
+      "004a1b68"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 54,
+    "handler": "004112e9",
+    "classification": "parameterized",
+    "parameter_tags": "2 35 4 36",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00406d87",
+      "0040b922",
+      "004112e9",
+      "004183f7",
+      "0045602b",
+      "00472c90",
+      "00477adc"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b2c50",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 55,
+    "handler": "004118d4",
+    "classification": "parameterized",
+    "parameter_tags": "40 4 36",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040d28f",
+      "0040e1d0",
+      "004118d4",
+      "004183f7",
+      "00418c30"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 56,
+    "handler": "00412006",
+    "classification": "parameterized",
+    "parameter_tags": "2 35 52 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00406d87",
+      "00406e17",
+      "00406f54",
+      "0040b922",
+      "00412006",
+      "004183f7",
+      "0045602b",
+      "00479a01",
+      "0047fa9e"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 57,
+    "handler": "00414b62",
+    "classification": "parameterized",
+    "parameter_tags": "2 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040721b",
+      "0040724a",
+      "004073b8",
+      "0040b922",
+      "00414b62",
+      "004183f7",
+      "0043f6cd",
+      "0043f70e",
+      "0045602b",
+      "00472c90",
+      "00477adc",
+      "00479a01"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b2c50",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 58,
+    "handler": "004149f7",
+    "classification": "parameterized",
+    "parameter_tags": "40 52 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040d2a9",
+      "0040d3ae",
+      "0040dbed",
+      "0040dc23",
+      "0040e1a0",
+      "004149f7",
+      "004183f7",
+      "00418c70",
+      "00418d00"
+    ],
+    "global_tokens": [
+      "004b0770"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 59,
+    "handler": "004148fe",
+    "classification": "parameterized",
+    "parameter_tags": "2 14 62",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "0040c28c",
+      "004148fe",
+      "004183f7"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 60,
+    "handler": "00415cbf",
+    "classification": "parameterized",
+    "parameter_tags": "2 14 58",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415cbf",
+      "004183f7",
+      "00418d80"
+    ],
+    "global_tokens": [
+      "004a1b68"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 61,
+    "handler": "004143c2",
+    "classification": "parameterized",
+    "parameter_tags": "23 73 38 2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00409600",
+      "0040b922",
+      "0040beb8",
+      "0040c14f",
+      "0040c6ea",
+      "0040c74c",
+      "0040c76e",
+      "0040d79c",
+      "0040da45",
+      "004143c2",
+      "004183f7",
+      "0041a1b0",
+      "0042f699",
+      "0045991b"
+    ],
+    "global_tokens": [
+      "004a1140",
+      "004b0770",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 62,
+    "handler": "00416319",
+    "classification": "parameterized",
+    "parameter_tags": "2 59 73 60 73 61",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00407dc4",
+      "00407dec",
+      "0040b922",
+      "00416319",
+      "004183f7",
+      "00418c90",
+      "004429f9",
+      "0045f670"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b2c50"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 63,
+    "handler": "00411652",
+    "classification": "parameterized",
+    "parameter_tags": "4 36",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00411652",
+      "004183f7"
+    ],
+    "global_tokens": [
+      "004b3d0a"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 64,
+    "handler": "004116ee",
+    "classification": "parameterized",
+    "parameter_tags": "72",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "004116ee",
+      "004183f7",
+      "0041c330"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 65,
+    "handler": "0041149d",
+    "classification": "parameterized",
+    "parameter_tags": "3 4 36 63 4 4 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041149d",
+      "004183f7",
+      "0044c8e6"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 66,
+    "handler": "00411d63",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041004d",
+      "00411d63",
+      "0044c658"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 67,
+    "handler": "00411d8e",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0041004d",
+      "00411d8e",
+      "0044c74d"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 68,
+    "handler": "00412230",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00412230",
+      "004184d1",
+      "00418dd0",
+      "00426c32"
+    ],
+    "global_tokens": [
+      "0048b350",
+      "00492f90"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 69,
+    "handler": "004122f1",
+    "classification": "parameterized",
+    "parameter_tags": "38 38 4 62 50 2 50 2 71 34",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004122f1",
+      "004183f7",
+      "00418df0"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "00494fd0",
+      "00496c94",
+      "00496c96",
+      "00496c98",
+      "00496c9a",
+      "00496c9f",
+      "00496e21",
+      "00496e22",
+      "00496e23"
+    ],
+    "suspected_global_writes": [
+      "00494fd0",
+      "00496c94",
+      "00496c96",
+      "00496c98",
+      "00496c9a",
+      "00496c9f",
+      "00496e21",
+      "00496e22",
+      "00496e23"
+    ]
+  },
+  {
+    "opcode": 70,
+    "handler": "004125c5",
+    "classification": "parameterized",
+    "parameter_tags": "2 38 4 4 43 62 69 7 2 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004125c5",
+      "004183f7",
+      "0041885a",
+      "00418dd0",
+      "00449b27",
+      "0047fab5",
+      "0047fad0"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "00496e23"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 71,
+    "handler": "004129a4",
+    "classification": "parameterized",
+    "parameter_tags": "2 38 38 4 4 43 62 69 7 2 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004129a4",
+      "004183f7",
+      "0041885a",
+      "00418dd0",
+      "00449b27",
+      "0047fab5",
+      "0047fad0"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "00496e23"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 72,
+    "handler": "00412dd6",
+    "classification": "parameterized",
+    "parameter_tags": "2 59 73 60 73 61",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00412dd6",
+      "004183f7",
+      "00418dd0"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "00494fd4"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 73,
+    "handler": "00415795",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00415795",
+      "00455ffd"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 74,
+    "handler": "00415d92",
+    "classification": "parameterized",
+    "parameter_tags": "4 56 57",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415d92",
+      "004183f7",
+      "0041856a"
+    ],
+    "global_tokens": [
+      "004b09f0",
+      "004b0a04"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 75,
+    "handler": "00415e31",
+    "classification": "parameterized",
+    "parameter_tags": "4 4 4 43 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415e31",
+      "004183f7",
+      "00418dd0",
+      "00449b27"
+    ],
+    "global_tokens": [
+      "00492f90"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 76,
+    "handler": "00414f42",
+    "classification": "parameterized",
+    "parameter_tags": "64 2 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00403340",
+      "0040b922",
+      "00414f42",
+      "004183f7",
+      "00418c90",
+      "00418dd0",
+      "0042c4e0",
+      "0043fcc9",
+      "00442b03",
+      "0044a88a",
+      "0045503f",
+      "004570ee",
+      "0047467a"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "004b1b18",
+      "004b2c50",
+      "004b4250",
+      "004b69b0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 77,
+    "handler": "004150e7",
+    "classification": "parameterized",
+    "parameter_tags": "65 2 4 4 4 4 4 3 47 24 48 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "004150e7",
+      "004183f7",
+      "00418c90",
+      "0045602b",
+      "0045aa5c",
+      "0045ade5",
+      "0045f670",
+      "00479a01"
+    ],
+    "global_tokens": [
+      "004b2c50",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 78,
+    "handler": "004146d4",
+    "classification": "parameterized",
+    "parameter_tags": "44 2 4 4 4 4 3 7 2 4 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "004146d4",
+      "004183f7",
+      "00459d8b",
+      "00459e79"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 79,
+    "handler": "00415f65",
+    "classification": "parameterized",
+    "parameter_tags": "2 2 43 38 38 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00415f65",
+      "004183f7",
+      "00457428"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 80,
+    "handler": "00416129",
+    "classification": "parameterized",
+    "parameter_tags": "2 70 38 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00416129",
+      "004183f7",
+      "0045778f"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 81,
+    "handler": "0041626a",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00406690",
+      "0040721b",
+      "0041626a",
+      "00418c90",
+      "00418da0",
+      "0043f6cd",
+      "0044a88a",
+      "00453b13",
+      "0045f670"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b2c50",
+      "004b4250"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 82,
+    "handler": "00414d15",
+    "classification": "parameterized",
+    "parameter_tags": "2 3",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00407907",
+      "00407dc4",
+      "0040b922",
+      "0040dff0",
+      "0040e030",
+      "00414d15",
+      "004183f7",
+      "0043fcc9",
+      "0043fe2c",
+      "0045602b",
+      "00477adc",
+      "00479a01"
+    ],
+    "global_tokens": [
+      "004a1b68",
+      "004b2c50",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 83,
+    "handler": "0041557b",
+    "classification": "parameterized",
+    "parameter_tags": "44 2 4 4 4 4 3 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "0041557b",
+      "004183f7",
+      "0045602b",
+      "0045a7b7",
+      "0045a80f"
+    ],
+    "global_tokens": [
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 84,
+    "handler": "00415771",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00415771",
+      "0044cc03"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 85,
+    "handler": "0041591c",
+    "classification": "parameterized",
+    "parameter_tags": "64 2 4 4 4 43",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "0041591c",
+      "004183f7",
+      "00418c90",
+      "00418dd0",
+      "004591a1"
+    ],
+    "global_tokens": [
+      "00492f90",
+      "004b2c50"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 86,
+    "handler": "00414f03",
+    "classification": "parameterized",
+    "parameter_tags": "71",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00414f03",
+      "004183f7",
+      "00418d40"
+    ],
+    "global_tokens": [
+      "004b3d08"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 87,
+    "handler": "00414ec4",
+    "classification": "parameterized",
+    "parameter_tags": "34",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00414ec4",
+      "004183f7",
+      "00418d20"
+    ],
+    "global_tokens": [
+      "004b3d08"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 88,
+    "handler": "004166eb",
+    "classification": "parameterized",
+    "parameter_tags": "66 67 68 4 4 38 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004166eb",
+      "004183f7",
+      "00456140",
+      "004567c1"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 89,
+    "handler": "0041688b",
+    "classification": "parameterized",
+    "parameter_tags": "4 23 73 23 73 23 73 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004065d0",
+      "00409600",
+      "0040c74c",
+      "0040c76e",
+      "0040dbed",
+      "0041688b",
+      "004183f7",
+      "0041a1b0",
+      "0044b5a8",
+      "0045991b"
+    ],
+    "global_tokens": [
+      "004a1140",
+      "004b0770",
+      "004b5df0"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 90,
+    "handler": "00416c97",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00416c97",
+      "0044bac2"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 91,
+    "handler": "00416cbb",
+    "classification": "parameterized",
+    "parameter_tags": "4 4 4 4 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00416cbb",
+      "004183f7",
+      "0045a0ce"
+    ],
+    "global_tokens": [
+      "004b3d10",
+      "004b3d14",
+      "004b3d15",
+      "004b3d16",
+      "004b3d17"
+    ],
+    "suspected_global_writes": [
+      "004b3d10",
+      "004b3d14",
+      "004b3d15",
+      "004b3d16",
+      "004b3d17"
+    ]
+  },
+  {
+    "opcode": 92,
+    "handler": "00416e17",
+    "classification": "parameterized",
+    "parameter_tags": "2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00403340",
+      "00403360",
+      "0040b922",
+      "00416e17",
+      "004183f7",
+      "00418c90",
+      "0042c4e0",
+      "0043fcc9",
+      "0044049e",
+      "00453a40",
+      "00453e32",
+      "0045503f",
+      "0045f670"
+    ],
+    "global_tokens": [
+      "004b1b18",
+      "004b2c50",
+      "004b4250"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 93,
+    "handler": "00417068",
+    "classification": "parameterized",
+    "parameter_tags": "52 4",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00417068",
+      "004183f7",
+      "00449eca"
+    ],
+    "global_tokens": [
+      "004b3d0a",
+      "004b3d0b"
+    ],
+    "suspected_global_writes": [
+      "004b3d0b"
+    ]
+  },
+  {
+    "opcode": 94,
+    "handler": "004174a2",
+    "classification": "parameterized",
+    "parameter_tags": "2 2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004174a2",
+      "004183f7"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 95,
+    "handler": "004175e8",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004175e8",
+      "004498e0"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 96,
+    "handler": "004175fc",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "38 5 76",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004175fc",
+      "004179a5",
+      "004183f7",
+      "00449480"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 97,
+    "handler": "004176a8",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004176a8",
+      "00448ff5"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 98,
+    "handler": "004176bc",
+    "classification": "parameterized",
+    "parameter_tags": "38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004176bc",
+      "004183f7",
+      "004490da"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 99,
+    "handler": "00417701",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "38 5 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00417701",
+      "004179a5",
+      "004183f7",
+      "004431af"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 100,
+    "handler": "004177b6",
+    "classification": "parameterized",
+    "parameter_tags": "38 76",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004177b6",
+      "004183f7",
+      "00448524"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 101,
+    "handler": "00417826",
+    "classification": "parameterized",
+    "parameter_tags": "38 77 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00417826",
+      "004183f7",
+      "00448394"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 102,
+    "handler": "004178c6",
+    "classification": "parameterized",
+    "parameter_tags": "38 78 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004178c6",
+      "004183f7",
+      "0044847b"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 103,
+    "handler": "00413b3d",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "4 5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b940",
+      "00413b3d",
+      "004179a5",
+      "004183f7",
+      "00418c70",
+      "0047fad0"
+    ],
+    "global_tokens": [
+      "004b0770"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 104,
+    "handler": "00417535",
+    "classification": "parameterized",
+    "parameter_tags": "2 2",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00417535",
+      "004183f7",
+      "0044999f"
+    ],
+    "global_tokens": [
+      "004b3c80"
+    ],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 105,
+    "handler": "00413a05",
+    "classification": "string-capable (tag 5 observed)",
+    "parameter_tags": "5",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "00413a05",
+      "004179a5",
+      "004183f7",
+      "0042f699"
+    ],
+    "global_tokens": [],
+    "suspected_global_writes": []
+  },
+  {
+    "opcode": 106,
+    "handler": "00416dfa",
+    "classification": "no parameter-reader call observed",
+    "parameter_tags": "",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "0040b922",
+      "00416dfa"
+    ],
+    "global_tokens": [
+      "004b3d10"
+    ],
+    "suspected_global_writes": [
+      "004b3d10"
+    ]
+  },
+  {
+    "opcode": 107,
+    "handler": "0041405b",
+    "classification": "parameterized",
+    "parameter_tags": "4 4 75 38",
+    "pseudocode_exists": true,
+    "called_functions": [
+      "004014f8",
+      "004016ab",
+      "004019a4",
+      "00401e5c",
+      "0041405b",
+      "004183f7",
+      "00418cd0",
+      "004217ff",
+      "00421879",
+      "0044fa7e",
+      "0045503f",
+      "00455e44",
+      "00455e6b",
+      "0047fa40"
+    ],
+    "global_tokens": [
+      "MEFF_E5",
+      "0048bbf8",
+      "004917b0",
+      "00497af8",
+      "004ae4c8",
+      "004b4250"
+    ],
+    "suspected_global_writes": []
+  }
+]

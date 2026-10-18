@@ -1,0 +1,960 @@
+{
+  "script": "S_00.eex",
+  "segment": 1,
+  "branch": 9,
+  "source_body_offsets": [
+    13169,
+    14333
+  ],
+  "evidence_scope": "original branch9 interpreter, removal/dialogue/reward/flags plus real0x459487,0x438308,0x437E2E,0x43A956 paths; AI prepass replaced by controlled native search, pixel/audio/UI/orient suppressed; supplied death flags/active allies fixture, not battle playthrough",
+  "observations": [
+    {
+      "kind": "orient",
+      "actor": 0,
+      "target": 32,
+      "direction": 255,
+      "options": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "kind": "orient",
+      "actor": 32,
+      "target": 0,
+      "direction": 255,
+      "options": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 0,
+      "text": "刘备先生只有义军之名，未免可惜。\n不如和我一起共事吧？"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 32,
+      "text": "如今尚有许多地方战火未熄，"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 32,
+      "text": "因此虽然承蒙好意相邀，\n我们还是必须前往讨贼……。"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 0,
+      "text": "是吗，那么我也不便勉强。\n我还有别的任务，\n那就后会有期，改日相见了。"
+    },
+    {
+      "kind": "native-path",
+      "actor": 210,
+      "search": 1,
+      "target": [
+        8,
+        15
+      ],
+      "position": [
+        8,
+        15
+      ],
+      "steps": [
+        {
+          "actor": 210,
+          "from": [
+            10,
+            17
+          ],
+          "direction": 0
+        },
+        {
+          "actor": 210,
+          "from": [
+            10,
+            16
+          ],
+          "direction": 0
+        },
+        {
+          "actor": 210,
+          "from": [
+            10,
+            15
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 210,
+          "from": [
+            9,
+            15
+          ],
+          "direction": 3
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 211,
+      "search": 1,
+      "target": [
+        8,
+        16
+      ],
+      "position": [
+        8,
+        16
+      ],
+      "steps": [
+        {
+          "actor": 211,
+          "from": [
+            9,
+            18
+          ],
+          "direction": 0
+        },
+        {
+          "actor": 211,
+          "from": [
+            9,
+            17
+          ],
+          "direction": 0
+        },
+        {
+          "actor": 211,
+          "from": [
+            9,
+            16
+          ],
+          "direction": 3
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 234,
+      "search": 1,
+      "target": [
+        8,
+        17
+      ],
+      "position": [
+        8,
+        17
+      ],
+      "steps": [
+        {
+          "actor": 234,
+          "from": [
+            12,
+            17
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 234,
+          "from": [
+            11,
+            17
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 234,
+          "from": [
+            10,
+            17
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 234,
+          "from": [
+            9,
+            17
+          ],
+          "direction": 3
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 258,
+      "search": 1,
+      "target": [
+        8,
+        18
+      ],
+      "position": [
+        8,
+        18
+      ],
+      "steps": [
+        {
+          "actor": 258,
+          "from": [
+            6,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 258,
+          "from": [
+            7,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            0
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            1
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            2
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            3
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            4
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            5
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            6
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            7
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            7
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            8
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            9
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            10
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            11
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            12
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            12
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            13
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            14
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            9,
+            15
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            15
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            16
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 258,
+          "from": [
+            8,
+            17
+          ],
+          "direction": 2
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 259,
+      "search": 1,
+      "target": [
+        8,
+        19
+      ],
+      "position": [
+        8,
+        19
+      ],
+      "steps": [
+        {
+          "actor": 259,
+          "from": [
+            5,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 259,
+          "from": [
+            6,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 259,
+          "from": [
+            7,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            0
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            1
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            2
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            3
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            4
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            5
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            6
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            7
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            7
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            8
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            9
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            10
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            11
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            12
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            12
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            13
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            14
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            9,
+            15
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            15
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            16
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            17
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 259,
+          "from": [
+            8,
+            18
+          ],
+          "direction": 2
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 0,
+      "search": 1,
+      "target": [
+        10,
+        19
+      ],
+      "position": [
+        10,
+        19
+      ],
+      "steps": [
+        {
+          "actor": 0,
+          "from": [
+            7,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 0,
+          "from": [
+            8,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 0,
+          "from": [
+            9,
+            0
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            0
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            1
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            2
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            3
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            4
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            5
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            6
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            7
+          ],
+          "direction": 1
+        },
+        {
+          "actor": 0,
+          "from": [
+            11,
+            7
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            11,
+            8
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            11,
+            9
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            11,
+            10
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            11,
+            11
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            11,
+            12
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            12
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            13
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            14
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            15
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            16
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            17
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 0,
+          "from": [
+            10,
+            18
+          ],
+          "direction": 2
+        }
+      ]
+    },
+    {
+      "kind": "orient",
+      "actor": 32,
+      "target": 3,
+      "direction": 255,
+      "options": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "kind": "orient",
+      "actor": 3,
+      "target": 32,
+      "direction": 255,
+      "options": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 32,
+      "text": "此人和以往所见官军不同。\n叫做曹操是吗……？"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 3,
+      "text": "乱世之势不可预测，或许日后还会再见。"
+    },
+    {
+      "kind": "orient",
+      "actor": 32,
+      "target": 33,
+      "direction": 255,
+      "options": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "kind": "orient",
+      "actor": 33,
+      "target": 32,
+      "direction": 255,
+      "options": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 32,
+      "text": "好，我们一面收拾黄巾军的余孽，\n一面前往公孙瓒的阵营，\n到那之后再考虑将来吧。"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 33,
+      "text": "好，怎么都行，能吃饱饭就行了，\n哈哈哈哈！"
+    },
+    {
+      "kind": "orient",
+      "actor": 0,
+      "target": 32,
+      "direction": 255,
+      "options": [
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 0,
+      "text": "（刘玄德…\n再见面时不知是敌是友…\n一切也只有上苍知道了。）"
+    },
+    {
+      "kind": "reward-display",
+      "money": 800,
+      "items": [
+        255,
+        255,
+        255
+      ],
+      "mode": 0
+    }
+  ],
+  "path_checks": [
+    {
+      "actor": 210,
+      "steps": 4,
+      "continuous": true,
+      "match": true
+    },
+    {
+      "actor": 211,
+      "steps": 3,
+      "continuous": true,
+      "match": true
+    },
+    {
+      "actor": 234,
+      "steps": 4,
+      "continuous": true,
+      "match": true
+    },
+    {
+      "actor": 258,
+      "steps": 24,
+      "continuous": true,
+      "match": true
+    },
+    {
+      "actor": 259,
+      "steps": 26,
+      "continuous": true,
+      "match": true
+    },
+    {
+      "actor": 0,
+      "steps": 24,
+      "continuous": true,
+      "match": true
+    }
+  ],
+  "flag11_after": 0,
+  "completion_flags": [
+    1,
+    1,
+    1
+  ],
+  "money_after": 800,
+  "note": "Observed fixture, not an executable replacement script or complete battle state"
+}

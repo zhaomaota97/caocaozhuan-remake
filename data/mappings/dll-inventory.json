@@ -1,0 +1,5561 @@
+[
+  {
+    "file": "AutoDLL.dll",
+    "sha256": "25816a4a462a713c380a94f5a2e6105f3ccec7a6eb4745b2f91be2374237c83b",
+    "entry_rva": 5324,
+    "sections": [
+      {
+        "name": ".text",
+        "size": 24576,
+        "executable": true
+      },
+      {
+        "name": ".rdata",
+        "size": 8192,
+        "executable": false
+      },
+      {
+        "name": ".data",
+        "size": 4096,
+        "executable": false
+      },
+      {
+        "name": ".rsrc",
+        "size": 4096,
+        "executable": false
+      },
+      {
+        "name": ".reloc",
+        "size": 4096,
+        "executable": false
+      }
+    ],
+    "imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "symbols": [
+          "GetPrivateProfileIntA",
+          "GetModuleFileNameA",
+          "ExitThread",
+          "Sleep",
+          "CloseHandle",
+          "CreateThread",
+          "GetCurrentThreadId",
+          "GetSystemInfo",
+          "VirtualProtect",
+          "GetCommandLineA",
+          "GetVersionExA",
+          "ExitProcess",
+          "GetProcAddress",
+          "GetModuleHandleA",
+          "TerminateProcess",
+          "GetCurrentProcess",
+          "TlsAlloc",
+          "SetLastError",
+          "GetLastError",
+          "TlsFree",
+          "TlsSetValue",
+          "TlsGetValue",
+          "HeapFree",
+          "HeapAlloc",
+          "SetHandleCount",
+          "GetStdHandle",
+          "GetFileType",
+          "GetStartupInfoA",
+          "DeleteCriticalSection",
+          "FreeEnvironmentStringsA",
+          "GetEnvironmentStrings",
+          "FreeEnvironmentStringsW",
+          "WideCharToMultiByte",
+          "GetEnvironmentStringsW",
+          "HeapDestroy",
+          "HeapCreate",
+          "VirtualFree",
+          "UnhandledExceptionFilter",
+          "WriteFile",
+          "LeaveCriticalSection",
+          "EnterCriticalSection",
+          "GetACP",
+          "GetOEMCP",
+          "GetCPInfo",
+          "VirtualAlloc",
+          "HeapReAlloc",
+          "InitializeCriticalSection",
+          "RtlUnwind",
+          "InterlockedExchange",
+          "VirtualQuery",
+          "LoadLibraryA",
+          "HeapSize",
+          "GetLocaleInfoA",
+          "GetStringTypeA",
+          "MultiByteToWideChar",
+          "GetStringTypeW",
+          "LCMapStringA",
+          "LCMapStringW",
+          "QueryPerformanceCounter",
+          "GetTickCount",
+          "GetCurrentProcessId",
+          "GetSystemTimeAsFileTime"
+        ]
+      },
+      {
+        "dll": "USER32.dll",
+        "symbols": [
+          "SetWindowsHookExA",
+          "FindWindowA",
+          "PostMessageA",
+          "CallNextHookEx",
+          "UnhookWindowsHookEx"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "path": [
+          16,
+          1,
+          2052
+        ],
+        "rva": 45152,
+        "size": 764,
+        "extracted": "analysis\\dll-resources\\AutoDLL\\0000.bin",
+        "sha256": "55cd0a2309f04906b3ea0958c5035077f40ad69158778f4b1daac3cc01d8a1f2"
+      }
+    ],
+    "exports": [
+      {
+        "name": "ASave",
+        "rva": 4784
+      },
+      {
+        "name": "dummy",
+        "rva": 4768
+      }
+    ]
+  },
+  {
+    "file": "Cmdicon.dll",
+    "sha256": "353bd6e96af0c3afc611bd65ce2c81ddb85487cc4a267a32183f6449481b335d",
+    "entry_rva": 4464,
+    "sections": [
+      {
+        "name": ".text",
+        "size": 11264,
+        "executable": true
+      },
+      {
+        "name": ".rdata",
+        "size": 1024,
+        "executable": false
+      },
+      {
+        "name": ".data",
+        "size": 4608,
+        "executable": false
+      },
+      {
+        "name": ".idata",
+        "size": 1536,
+        "executable": false
+      },
+      {
+        "name": ".rsrc",
+        "size": 5632,
+        "executable": false
+      },
+      {
+        "name": ".reloc",
+        "size": 1536,
+        "executable": false
+      }
+    ],
+    "imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "symbols": [
+          "GetCPInfo",
+          "GetProcAddress",
+          "GetModuleHandleA",
+          "GetVersion",
+          "ExitProcess",
+          "TerminateProcess",
+          "GetCurrentProcess",
+          "GetCurrentThreadId",
+          "TlsSetValue",
+          "TlsAlloc",
+          "TlsFree",
+          "SetLastError",
+          "TlsGetValue",
+          "GetLastError",
+          "HeapDestroy",
+          "HeapCreate",
+          "VirtualFree",
+          "SetHandleCount",
+          "GetFileType",
+          "GetStdHandle",
+          "GetStartupInfoA",
+          "DeleteCriticalSection",
+          "GetModuleFileNameA",
+          "GetCommandLineA",
+          "GetACP",
+          "GetOEMCP",
+          "FreeEnvironmentStringsA",
+          "GetEnvironmentStrings",
+          "FreeEnvironmentStringsW",
+          "GetEnvironmentStringsW",
+          "WideCharToMultiByte",
+          "WriteFile",
+          "InitializeCriticalSection",
+          "EnterCriticalSection",
+          "LeaveCriticalSection",
+          "HeapAlloc",
+          "HeapFree",
+          "VirtualAlloc",
+          "LoadLibraryA",
+          "FlushFileBuffers",
+          "CloseHandle",
+          "SetStdHandle",
+          "SetFilePointer"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "path": [
+          2,
+          100,
+          1041
+        ],
+        "rva": 37104,
+        "size": 1320,
+        "extracted": "analysis\\dll-resources\\Cmdicon\\0000.bin",
+        "sha256": "64537d9da408987bd63bd9613931a2598c4544041e3796e18612ec6ce1e34316",
+        "image": {
+          "path": "analysis\\dll-resources\\Cmdicon\\0000.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          101,
+          1041
+        ],
+        "rva": 38424,
+        "size": 1320,
+        "extracted": "analysis\\dll-resources\\Cmdicon\\0001.bin",
+        "sha256": "53bdefbcfd1299e15d534bb3b619ca8f93baa0184a39bb10ec6760b7d5d83fab",
+        "image": {
+          "path": "analysis\\dll-resources\\Cmdicon\\0001.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          102,
+          1041
+        ],
+        "rva": 39744,
+        "size": 1320,
+        "extracted": "analysis\\dll-resources\\Cmdicon\\0002.bin",
+        "sha256": "d93466c734af0ba25db396eac8816c725b245732fb1d181c33891c9a217e9f44",
+        "image": {
+          "path": "analysis\\dll-resources\\Cmdicon\\0002.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          103,
+          1041
+        ],
+        "rva": 41064,
+        "size": 1320,
+        "extracted": "analysis\\dll-resources\\Cmdicon\\0003.bin",
+        "sha256": "966df524ea2a5e98d08c86ac89aa9e07eff891ec398f040f75b26fb4ac1bf74f",
+        "image": {
+          "path": "analysis\\dll-resources\\Cmdicon\\0003.png",
+          "width": 16,
+          "height": 16
+        }
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "Itemicon.dll",
+    "sha256": "7ce1d150f6d57d16efccd6abf9cd0dc00270b72081e6d8e89a80590de904328d",
+    "entry_rva": 4464,
+    "sections": [
+      {
+        "name": ".text",
+        "size": 11264,
+        "executable": true
+      },
+      {
+        "name": ".rdata",
+        "size": 1024,
+        "executable": false
+      },
+      {
+        "name": ".data",
+        "size": 4608,
+        "executable": false
+      },
+      {
+        "name": ".idata",
+        "size": 1536,
+        "executable": false
+      },
+      {
+        "name": ".rsrc",
+        "size": 369152,
+        "executable": false
+      },
+      {
+        "name": ".reloc",
+        "size": 2048,
+        "executable": false
+      }
+    ],
+    "imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "symbols": [
+          "GetCPInfo",
+          "GetProcAddress",
+          "GetModuleHandleA",
+          "GetVersion",
+          "ExitProcess",
+          "TerminateProcess",
+          "GetCurrentProcess",
+          "GetCurrentThreadId",
+          "TlsSetValue",
+          "TlsAlloc",
+          "TlsFree",
+          "SetLastError",
+          "TlsGetValue",
+          "GetLastError",
+          "HeapDestroy",
+          "HeapCreate",
+          "VirtualFree",
+          "SetHandleCount",
+          "GetFileType",
+          "GetStdHandle",
+          "GetStartupInfoA",
+          "DeleteCriticalSection",
+          "GetModuleFileNameA",
+          "GetCommandLineA",
+          "GetACP",
+          "GetOEMCP",
+          "FreeEnvironmentStringsA",
+          "GetEnvironmentStrings",
+          "FreeEnvironmentStringsW",
+          "GetEnvironmentStringsW",
+          "WideCharToMultiByte",
+          "WriteFile",
+          "InitializeCriticalSection",
+          "EnterCriticalSection",
+          "LeaveCriticalSection",
+          "HeapAlloc",
+          "HeapFree",
+          "VirtualAlloc",
+          "LoadLibraryA",
+          "FlushFileBuffers",
+          "CloseHandle",
+          "SetStdHandle",
+          "SetFilePointer"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "path": [
+          2,
+          100,
+          1041
+        ],
+        "rva": 46992,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0000.bin",
+        "sha256": "e4c29fcb31ce0fe166d58e52fcc60721275e449f565b131b351e2a63d8868144",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0000.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          101,
+          1041
+        ],
+        "rva": 48316,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0001.bin",
+        "sha256": "af515d422a16eabb3075403818bcb2e789b684f208d2a4724c86ec9b53fd5099",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0001.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          102,
+          1041
+        ],
+        "rva": 50408,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0002.bin",
+        "sha256": "08cb521aec755aa31f6253c80000620e455347bcad9d76fce81711e54dbae5d7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0002.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          103,
+          1041
+        ],
+        "rva": 51732,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0003.bin",
+        "sha256": "fbc8751f9b41f74cbfc71a2583d1c8d8b485b8d96fda64085123627b74ca73e0",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0003.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          104,
+          1041
+        ],
+        "rva": 53824,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0004.bin",
+        "sha256": "bd0d9689bbc62264062e089a003cf013c7aaab76c07dca81574ab87730c9a6f6",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0004.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          105,
+          1041
+        ],
+        "rva": 55148,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0005.bin",
+        "sha256": "a106125116c627166397d8ef754b625bb718b5a45d7c0b70d956177f6a47edf2",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0005.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          106,
+          1041
+        ],
+        "rva": 57240,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0006.bin",
+        "sha256": "b7adb9893578a3df79cb82b55dfe9706c912c5c7cebe7d2b8b8d8760eaa64e23",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0006.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          107,
+          1041
+        ],
+        "rva": 58564,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0007.bin",
+        "sha256": "c2d2726220c0afa415e266285528f416d32fc634c28fe2a8d9fd0d98554a5bad",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0007.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          108,
+          1041
+        ],
+        "rva": 60656,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0008.bin",
+        "sha256": "e858d9ed353cd809892b9d6c5e548958ed87c6f19e36ad88c1a55224285d28c6",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0008.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          109,
+          1041
+        ],
+        "rva": 61980,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0009.bin",
+        "sha256": "dd9d50091c84d68d4a9e8e0655a6ebc5fb03e42af16fd81e93833865f13a09c6",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0009.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          110,
+          1041
+        ],
+        "rva": 64072,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0010.bin",
+        "sha256": "4142af2762a94bc578ceb0e7e80b4c8e6a0bfc4c7f9bb28f6ca4717005a19548",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0010.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          111,
+          1041
+        ],
+        "rva": 65396,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0011.bin",
+        "sha256": "286631a8619a98e0d04ce85ca5d5646e90b5e1f958f21401df3ec6a7d95e227d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0011.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          112,
+          1041
+        ],
+        "rva": 67488,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0012.bin",
+        "sha256": "1e114742e7586d771f3fef302f901901973918b8fde1939b63c36aad04d18bdf",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0012.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          113,
+          1041
+        ],
+        "rva": 68812,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0013.bin",
+        "sha256": "b899140ab172f3eb8588f4f3ca7922e84e873f114004396f423a2cf0521b7738",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0013.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          114,
+          1041
+        ],
+        "rva": 70904,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0014.bin",
+        "sha256": "c2f58f85fd4d32c4db2a47f4c3d267ff7eb14204851f3ab7f688d2784b9895cf",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0014.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          115,
+          1041
+        ],
+        "rva": 72228,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0015.bin",
+        "sha256": "f3c8a426c76be5cd261250242e1cb3278fda1ce2854c3101b4140824fc6bf89f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0015.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          116,
+          1041
+        ],
+        "rva": 74320,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0016.bin",
+        "sha256": "9d48bf69ec64a430103503bd8996d53e9e4ef362577d0b3ddb8a6b4f17a4cb6f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0016.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          117,
+          1041
+        ],
+        "rva": 75644,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0017.bin",
+        "sha256": "62344999394e5444d99dcb1241284d7ffd67b1e90ff9cf3c1a63ac4b33e1200f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0017.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          118,
+          1041
+        ],
+        "rva": 77736,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0018.bin",
+        "sha256": "618f5a6f37175c1f0d1e5692c3f2de2129af142e3ff472837f425b88cf6d0f54",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0018.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          119,
+          1041
+        ],
+        "rva": 79060,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0019.bin",
+        "sha256": "6e51f57252992c3770895fbb52c0893f28ba7aaf388b0bd3ab7c0a811e53abe5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0019.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          120,
+          1041
+        ],
+        "rva": 81152,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0020.bin",
+        "sha256": "c6cc7487e5c0105d97b17db52e631702369f1a4532e144f5514b401fdd935654",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0020.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          121,
+          1041
+        ],
+        "rva": 82476,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0021.bin",
+        "sha256": "254f20080e85bc516e142c0eb6c97e838476d7fbbbe05faa4f18543f575856e8",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0021.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          122,
+          1041
+        ],
+        "rva": 84568,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0022.bin",
+        "sha256": "c167af01f17c132281df5b1ad0c7929e1d9924e71898695f31ed9e8c3c47e098",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0022.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          123,
+          1041
+        ],
+        "rva": 85892,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0023.bin",
+        "sha256": "e5fedf79b83878bfa767c7288652d13ac15f43d22e9c9b35632d2d42294a5bbe",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0023.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          124,
+          1041
+        ],
+        "rva": 87984,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0024.bin",
+        "sha256": "308bf1516f540945c26310f79c959fb1f79d97b2aba1b4e7b762ee79c2e1fb3f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0024.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          125,
+          1041
+        ],
+        "rva": 89308,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0025.bin",
+        "sha256": "1364e3bef166daaf81b99747419f3e71e50ae7e067292037f274f5d785752ebd",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0025.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          126,
+          1041
+        ],
+        "rva": 91400,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0026.bin",
+        "sha256": "60576e9985607058b0b0aeab93050dda2c7607c5045b96fd114eaae2198efc2a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0026.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          127,
+          1041
+        ],
+        "rva": 92724,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0027.bin",
+        "sha256": "d62f55d0d33c09647b1b4cbf9fa557610a9097dd5426e33f443db5d4f6ad9688",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0027.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          128,
+          1041
+        ],
+        "rva": 94816,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0028.bin",
+        "sha256": "17d693a1615831d606a974245fc1ed89f942ef2a2cacded2cdfa74bb4e5f61a5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0028.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          129,
+          1041
+        ],
+        "rva": 96140,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0029.bin",
+        "sha256": "9628759159eab82c9f38ec8893411e794c0215c1a5621cabb5eaaa08f46bb72c",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0029.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          130,
+          1041
+        ],
+        "rva": 98232,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0030.bin",
+        "sha256": "32e67abaffa55df1367852967bc17a094fc7b8f4e80f210a3be7ad43da62aa88",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0030.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          131,
+          1041
+        ],
+        "rva": 99556,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0031.bin",
+        "sha256": "b6a03536c0dcc149186d36fb50f6ba87c2e0e0acf2d5b829383c223fd205373f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0031.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          132,
+          1041
+        ],
+        "rva": 101648,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0032.bin",
+        "sha256": "10f47b29e1068925a23844155963d9ee8f8d7f6c5280421af78d4ec7f2ec125a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0032.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          133,
+          1041
+        ],
+        "rva": 102972,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0033.bin",
+        "sha256": "a59cbf17d362b05d44c03c82b08cc30ef5383567b6feaea278402643b1a73130",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0033.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          134,
+          1041
+        ],
+        "rva": 105064,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0034.bin",
+        "sha256": "956b134829d9ff81d1e117b40d768680d73f799d3946d3544af690eb0c90a56d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0034.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          135,
+          1041
+        ],
+        "rva": 106388,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0035.bin",
+        "sha256": "992ede441f4b07abe741b59878fa04e9c793b197b555218dc3db42c4748ff533",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0035.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          136,
+          1041
+        ],
+        "rva": 108480,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0036.bin",
+        "sha256": "c79101f69b0e2b2e7acbf30ba9f75d49f79d2dd87ca437ecf9b5e9c65ea45602",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0036.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          137,
+          1041
+        ],
+        "rva": 109804,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0037.bin",
+        "sha256": "b5c6e1e16a6518e5f6d7779a32ca103eea76ffe6b1482bb705a20c7eef3f52a8",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0037.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          138,
+          1041
+        ],
+        "rva": 111896,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0038.bin",
+        "sha256": "6d130ef5000b49b7266ce0423d8d120571cac598b078344501adb7d82e1c2d16",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0038.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          139,
+          1041
+        ],
+        "rva": 113220,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0039.bin",
+        "sha256": "b8fcaaf7c206c48479919b5e6c0c862555b3f23e91c438162647316b0bc2ddf4",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0039.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          140,
+          1041
+        ],
+        "rva": 115312,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0040.bin",
+        "sha256": "ea2c25629076bf9c0abed6c12403fbcfb2f2127201ea685fb1bea8b4d8a575e2",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0040.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          141,
+          1041
+        ],
+        "rva": 116636,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0041.bin",
+        "sha256": "55ca7c36ab6346beb0f63384904bccc4ec6b6e3c715f6cb7220231f8c3cfd461",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0041.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          142,
+          1041
+        ],
+        "rva": 118728,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0042.bin",
+        "sha256": "4d23df65b2dd560952c9524c7aa0a20669650106750f4df475e8f8714b3ae1e7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0042.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          143,
+          1041
+        ],
+        "rva": 120052,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0043.bin",
+        "sha256": "f373aad320eb98037114c778b32558cb3bea25c51fa4bf3c0a9ea179bf01e924",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0043.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          144,
+          1041
+        ],
+        "rva": 122144,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0044.bin",
+        "sha256": "9d898bdeda64e856065168772270f5d68fdc61ff40c402a55739195e7b63e583",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0044.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          145,
+          1041
+        ],
+        "rva": 123468,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0045.bin",
+        "sha256": "81b48cd5d14f32c9c353c4432a06f8a436def7edbc0ce8afc3657942d133d752",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0045.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          146,
+          1041
+        ],
+        "rva": 125560,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0046.bin",
+        "sha256": "4761295258a323c7315fdd51620f8fc00a61ee58402f2f6e72755c58c757f766",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0046.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          147,
+          1041
+        ],
+        "rva": 126884,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0047.bin",
+        "sha256": "fb6269ded335942a6fff3753aa377227a583ad9efcc9ddb1fe92a712145f74d6",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0047.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          148,
+          1041
+        ],
+        "rva": 128976,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0048.bin",
+        "sha256": "94fb01002e3b919aec52e9d2203f7a68fc60edfdde673e4cb17c085dbd9227e2",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0048.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          149,
+          1041
+        ],
+        "rva": 130300,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0049.bin",
+        "sha256": "7129bcba74c7e1d2efa80b31307920b1eddc69e563af27692cd415934cd73103",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0049.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          150,
+          1041
+        ],
+        "rva": 132392,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0050.bin",
+        "sha256": "533c861097b320ad292462ad4310dd57a3b8b365e6b9b08c586f2f6314e6c546",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0050.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          151,
+          1041
+        ],
+        "rva": 133716,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0051.bin",
+        "sha256": "141dc5e15a15c932626d690fefba8314f52832ca81d917430744a00faf5b4401",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0051.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          152,
+          1041
+        ],
+        "rva": 135808,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0052.bin",
+        "sha256": "6c79552da8040527e5b8d0ac4c1518c2c92358fbfd1f5be143bc589c923aae84",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0052.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          153,
+          1041
+        ],
+        "rva": 137132,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0053.bin",
+        "sha256": "910e73777779b2027ef8fec5dcbe48715c8d585ed5ab3027299ac9d1aaece572",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0053.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          154,
+          1041
+        ],
+        "rva": 139224,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0054.bin",
+        "sha256": "aaa89bc3bace6b62a4729cf00703993ce5c47a002983513a39fe648ae164d5dd",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0054.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          155,
+          1041
+        ],
+        "rva": 140548,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0055.bin",
+        "sha256": "77999acf909c9e0a3e27faf60b25c8aab87bbbdc8125f14c6127ec74f0da38f1",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0055.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          156,
+          1041
+        ],
+        "rva": 142640,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0056.bin",
+        "sha256": "7453f2b7a07d53461c98f822aaafbb2ba375b759e39917df1f13ddd5f06a0036",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0056.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          157,
+          1041
+        ],
+        "rva": 143964,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0057.bin",
+        "sha256": "4a4980e2fe8243e7ff40415daf769c9861ad4e48dac61832c2e301cf7bd31e09",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0057.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          158,
+          1041
+        ],
+        "rva": 146056,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0058.bin",
+        "sha256": "9ff566e8293929d9bba80475b0e067499e060d8cf8b9ab568c611b4e4c869b32",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0058.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          159,
+          1041
+        ],
+        "rva": 147380,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0059.bin",
+        "sha256": "0fda42a3d8c7cc5510a20f6bebad4f842a7fb1a81ab024c4acf011fe6e4743d5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0059.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          160,
+          1041
+        ],
+        "rva": 149472,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0060.bin",
+        "sha256": "9e13c4589429e9fbf32b6666118b29947f06a9372cb0110079855332acb3d143",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0060.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          161,
+          1041
+        ],
+        "rva": 150796,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0061.bin",
+        "sha256": "960992c90cfe546ae1f76a7eb1a0407fa5dd242b36dafc879bc07b92bf9e9040",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0061.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          162,
+          1041
+        ],
+        "rva": 152888,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0062.bin",
+        "sha256": "a1f37dca1aa09f0f9f1d21db5d136a597820c390019fc7bc4e579474821935d4",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0062.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          163,
+          1041
+        ],
+        "rva": 154212,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0063.bin",
+        "sha256": "e8dd0b930e26a5028e7449c7b8c4888b8d6f6b5d4e65b2ae937259602bdc3dd3",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0063.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          164,
+          1041
+        ],
+        "rva": 156304,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0064.bin",
+        "sha256": "682f18dc50ea35df61b9a8ad832bea8b894374fa07fe2503a1cc3424cbf0a832",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0064.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          165,
+          1041
+        ],
+        "rva": 157628,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0065.bin",
+        "sha256": "c11067a047943743a101c256d2ae1dd53bea98a7e7c47f499862bb93f0e9f81f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0065.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          166,
+          1041
+        ],
+        "rva": 159720,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0066.bin",
+        "sha256": "e9b02eff2ac91e7c0aad9a33a279e2c77f56ce446e15f47379d6ff821ad9af16",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0066.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          167,
+          1041
+        ],
+        "rva": 161044,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0067.bin",
+        "sha256": "dccc64bad8c77f36c212b7f8452347cc9eaa938760b49157f0493990799cdcfd",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0067.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          168,
+          1041
+        ],
+        "rva": 163136,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0068.bin",
+        "sha256": "330ec51af5da8e96da4d9febb52bb4bdf00be89c9d7b112c078fe94b7b8424ea",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0068.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          169,
+          1041
+        ],
+        "rva": 164460,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0069.bin",
+        "sha256": "aac6acce18906fb9616b1397b8e91c2e723241d8816e2a5617ccd724555673cb",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0069.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          170,
+          1041
+        ],
+        "rva": 166552,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0070.bin",
+        "sha256": "185581cbe7cf3887d0472cb90b4dfe618bd774604f6268df03afc7cd556fc763",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0070.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          171,
+          1041
+        ],
+        "rva": 167876,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0071.bin",
+        "sha256": "3cda43fe147e7189beff8dca59a07f9a269a75347374617bda44a44129e673c7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0071.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          172,
+          1041
+        ],
+        "rva": 169968,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0072.bin",
+        "sha256": "6c76f3f5b0662989d102f660c33c75d9a65bf5380642eaeeffdbc93806e74d96",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0072.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          173,
+          1041
+        ],
+        "rva": 171292,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0073.bin",
+        "sha256": "d83ceb2a1823e45a80ac5e464ca9b704e597b5e881dc6e808841445ae18a7443",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0073.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          174,
+          1041
+        ],
+        "rva": 173384,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0074.bin",
+        "sha256": "7cefc1c8a7e56f34ec6eb71ca801baa6334db988ebc1b8bcb4142e974f043e9a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0074.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          175,
+          1041
+        ],
+        "rva": 174708,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0075.bin",
+        "sha256": "b08e4c1d3c39d534c37bd08ccf3047f9fda528c638e6d0f39a50da4f51290695",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0075.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          176,
+          1041
+        ],
+        "rva": 176800,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0076.bin",
+        "sha256": "61ac4714f1c7a5c7627dc0a313bb0748b59f039f245ca3006942120bde6fdbac",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0076.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          177,
+          1041
+        ],
+        "rva": 178124,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0077.bin",
+        "sha256": "b878dad7f15e42cb64804dbb30c37b69021671ac4d187bfbd66a38637dd12713",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0077.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          178,
+          1041
+        ],
+        "rva": 180216,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0078.bin",
+        "sha256": "1eba9a350dbec6113bbffa8615d7441a4b2fc65b80413d7efa94781ac1a24b61",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0078.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          179,
+          1041
+        ],
+        "rva": 181540,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0079.bin",
+        "sha256": "3685860b1ff17d0566011887ba52f4d2e5a614493e4cc8195682670972530363",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0079.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          180,
+          1041
+        ],
+        "rva": 183632,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0080.bin",
+        "sha256": "874fa65bcb7c5c9b220f0f844038d07c0e6cde25dcb2980c59bf653c266755a0",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0080.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          181,
+          1041
+        ],
+        "rva": 184956,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0081.bin",
+        "sha256": "7086dd9879d79bceabff5fa7b0097253e0a4589299e564786e087c4c33164d2b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0081.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          182,
+          1041
+        ],
+        "rva": 187048,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0082.bin",
+        "sha256": "f23fda3c79bf8b8ef628e9aba6a5990445e94a4529e3d0f1dca18957420a6693",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0082.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          183,
+          1041
+        ],
+        "rva": 188372,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0083.bin",
+        "sha256": "8118490d597e32282913ba32985021a75fadb99d58f6546e016721ecd6b5386b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0083.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          184,
+          1041
+        ],
+        "rva": 190464,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0084.bin",
+        "sha256": "57cfa1a3dca8808ea7153b45291a1090d0c122a1c8f5d478727d136675f45f11",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0084.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          185,
+          1041
+        ],
+        "rva": 191788,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0085.bin",
+        "sha256": "c170235f02e71433813b38631036f2e0d216608bb4d135c5a6600c470b5ea016",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0085.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          186,
+          1041
+        ],
+        "rva": 193880,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0086.bin",
+        "sha256": "785a0ddf7f4dac0deaaca8e5e6a6d334bfbf10ca79a73384858602450227f844",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0086.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          187,
+          1041
+        ],
+        "rva": 195204,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0087.bin",
+        "sha256": "be994004d67687ea1e6e46e78f0bab30db5da1e19f66b830d4ca6e60a4030342",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0087.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          188,
+          1041
+        ],
+        "rva": 197296,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0088.bin",
+        "sha256": "04849b6d3620be9dedd662c84b8d2212ac33e4587981149adad64a5420b29677",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0088.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          189,
+          1041
+        ],
+        "rva": 198620,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0089.bin",
+        "sha256": "a4c602676e0191db21c4ff47dede58a97c18b9b89fc8fdbae61734c9ce1da2b8",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0089.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          190,
+          1041
+        ],
+        "rva": 200712,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0090.bin",
+        "sha256": "250de0bfb9f5cdf959b6f755b63fc39f501642675a084f6ae44355daf6f43607",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0090.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          191,
+          1041
+        ],
+        "rva": 202036,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0091.bin",
+        "sha256": "c834ae1fad75188a2cf8db0c6d026fa8b889bcc9a1801f0ee8d111b5eb8e9a2b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0091.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          192,
+          1041
+        ],
+        "rva": 204128,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0092.bin",
+        "sha256": "a0186de35e654cbd005627aee9cef7985d750e883c99e50bb1a40e01671e1e14",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0092.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          193,
+          1041
+        ],
+        "rva": 205452,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0093.bin",
+        "sha256": "5f9b654b254e03ec6ef562e80c02a3a39fc0760f44b54dd8af548ae35917c457",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0093.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          194,
+          1041
+        ],
+        "rva": 207544,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0094.bin",
+        "sha256": "bf7d688600aa8b68651501c0db5872977c4da9943b1a839d471a87f6d9bef679",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0094.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          195,
+          1041
+        ],
+        "rva": 208868,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0095.bin",
+        "sha256": "4e19ba2a245ed0e89dd27a6f195a88cacccca355ada9b0bad9bdd75a0805cf88",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0095.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          196,
+          1041
+        ],
+        "rva": 210960,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0096.bin",
+        "sha256": "3c8c52fb09812324900765da8f5bf223ff34927699d21856471179b805a345a7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0096.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          197,
+          1041
+        ],
+        "rva": 212284,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0097.bin",
+        "sha256": "5ffeda462525c6aefedcadab4c5a50590f9ab8730314876e1786eb6caf53841a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0097.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          198,
+          1041
+        ],
+        "rva": 214376,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0098.bin",
+        "sha256": "529aaf38568b6004dd9c43f4aa3f37b067557ae1ebfdbfda541d066d89bc18ac",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0098.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          199,
+          1041
+        ],
+        "rva": 215700,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0099.bin",
+        "sha256": "c0b2a02fe965892ba1f533a33bc39a8430358f775be23847d19bc037a4410a9e",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0099.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          200,
+          1041
+        ],
+        "rva": 217792,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0100.bin",
+        "sha256": "f02d61cab9bb8b12236cc66c88bb4770b5c27e4aaa9ffdf3da2bc4913bc37556",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0100.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          201,
+          1041
+        ],
+        "rva": 219116,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0101.bin",
+        "sha256": "27249575fc87a4b4a00a94894bd82119bba17c4cdb05e1b9b1bfd4a9fbf791e4",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0101.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          202,
+          1041
+        ],
+        "rva": 221208,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0102.bin",
+        "sha256": "9b02e477331642b1ac187707275961510461aaf7be6bd8ed500f2e80d3311d25",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0102.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          203,
+          1041
+        ],
+        "rva": 222532,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0103.bin",
+        "sha256": "90bdce6f33e44a1e374aaf4d08e8e08c12507b5bc9ebcd9fd1020b91346e83a0",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0103.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          204,
+          1041
+        ],
+        "rva": 224624,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0104.bin",
+        "sha256": "b975f9571a68cc1724412e2713c8841b24673d8d9bd16f7c26bfb99903325241",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0104.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          205,
+          1041
+        ],
+        "rva": 225948,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0105.bin",
+        "sha256": "2f67c009971eca6fa4e8412687d23a573d2525204ac1be5d2d81b1023b1c80a3",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0105.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          206,
+          1041
+        ],
+        "rva": 228040,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0106.bin",
+        "sha256": "2615f723f59023accc2a09cf941857b735d241a46bd1a66ad516cc135ff769ff",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0106.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          207,
+          1041
+        ],
+        "rva": 229364,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0107.bin",
+        "sha256": "fc0ce4b7725d5acaac53b26db9d8c24d67811122922153f39771cede8dfd63d4",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0107.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          208,
+          1041
+        ],
+        "rva": 231456,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0108.bin",
+        "sha256": "f31235b1d8993c77e9a54a91666fb1d21b5fc944396af519fce99ef6388ce7de",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0108.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          209,
+          1041
+        ],
+        "rva": 232780,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0109.bin",
+        "sha256": "8c79dcf8d6cefb1acb0eb2ddde893208d314721c0ee53c6c0dc93d1da47f528c",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0109.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          210,
+          1041
+        ],
+        "rva": 234872,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0110.bin",
+        "sha256": "375a954d144ca6082ca98b6e0fd1be117ac5bb9fa379745b212ab4554ffa83b9",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0110.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          211,
+          1041
+        ],
+        "rva": 236196,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0111.bin",
+        "sha256": "5cbf5286cd763bfbfb7ded5f4184e9e269e817cf5897e5ef70c92079d3eee6ed",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0111.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          212,
+          1041
+        ],
+        "rva": 238288,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0112.bin",
+        "sha256": "8419d77f701ccfc2e57ae967c9de9f5a092a7c10467e9aaa07a51bc5f44ef8d3",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0112.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          213,
+          1041
+        ],
+        "rva": 239612,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0113.bin",
+        "sha256": "bf55dad69d4b96142ce5d35b73429f55ea0621a2624afa6d6ee0be2c4313c628",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0113.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          214,
+          1041
+        ],
+        "rva": 241704,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0114.bin",
+        "sha256": "0c3e0c32ce73605c713f16f9bf49375df2b7cee786bdb628ce6b10c93479bd2a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0114.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          215,
+          1041
+        ],
+        "rva": 243028,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0115.bin",
+        "sha256": "51c0f88e14e5f1ec84c5de0c03f82c3d393121084f86e8df684f38c5153c63f8",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0115.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          216,
+          1041
+        ],
+        "rva": 245120,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0116.bin",
+        "sha256": "17c862c2678b649c4e64760730854bf115dece7d93b734018fa849a68db40a5f",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0116.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          217,
+          1041
+        ],
+        "rva": 246444,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0117.bin",
+        "sha256": "75b89fc05acbb8e64f580907a370223d4a7e819872e3eb190ccd31a2895b4e6d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0117.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          218,
+          1041
+        ],
+        "rva": 248536,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0118.bin",
+        "sha256": "bcf309b366671367c9721e848d71c0ff5f91526292b357f93f26d5bf5a902a87",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0118.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          219,
+          1041
+        ],
+        "rva": 249860,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0119.bin",
+        "sha256": "a6f38c3e1254d9de6e44eba0beb13ab46c5086bcc3a3d2409f831ba9d82076d5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0119.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          220,
+          1041
+        ],
+        "rva": 251952,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0120.bin",
+        "sha256": "7c02bebd56d312695b055bc3276983ac360b7b71c4e2ab19267deb0f270bdbb7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0120.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          221,
+          1041
+        ],
+        "rva": 253276,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0121.bin",
+        "sha256": "c2902444ed992cefac5826909566a05084fd613ba14cf3836f9b6c51df8b8bbe",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0121.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          222,
+          1041
+        ],
+        "rva": 255368,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0122.bin",
+        "sha256": "b573a951b7bf4c34e5ce848df0496e7aa420e05d0e03525223296ec6a97c9e74",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0122.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          223,
+          1041
+        ],
+        "rva": 256692,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0123.bin",
+        "sha256": "20da01c236511e1ea058ba5c2fcf6fdaafdf70ba7356fe2d991efb3bae607cb5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0123.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          224,
+          1041
+        ],
+        "rva": 258784,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0124.bin",
+        "sha256": "e5c99b63b93d4635d0fa095d5043eca53db2b5f11fb20b008c269eafd274579d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0124.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          225,
+          1041
+        ],
+        "rva": 260108,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0125.bin",
+        "sha256": "02c6100fc1e1275604dbc4f3a8623225157091903b2ed3e8569c1cad16042980",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0125.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          226,
+          1041
+        ],
+        "rva": 262200,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0126.bin",
+        "sha256": "215d389ca7bf272e1ebe52c5e4b0fd10869ddb9184f4b857ca3980a8bd565d81",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0126.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          227,
+          1041
+        ],
+        "rva": 263524,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0127.bin",
+        "sha256": "468a87606ab35f6bde918f23d9c9be4f38f4e6dec4e6c8b850ab131eac8d8481",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0127.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          228,
+          1041
+        ],
+        "rva": 265616,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0128.bin",
+        "sha256": "b54cc726f101ad1383e1f173528a08d8657c4ebdc0d3549bc0877d023eba4400",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0128.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          229,
+          1041
+        ],
+        "rva": 266940,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0129.bin",
+        "sha256": "3e762046d35d43eabfe449192a0f3b5ee72782388ee62a5778a34c99628fc6f5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0129.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          230,
+          1041
+        ],
+        "rva": 269032,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0130.bin",
+        "sha256": "fbd6fe15f696d3d15852cef4605cf0e9e1462469d693a1b17819fccc5c3dc0bf",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0130.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          231,
+          1041
+        ],
+        "rva": 270356,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0131.bin",
+        "sha256": "36f45b27a2d9153a7010f2979aae43d8498af0600d2543f30b38d3f0bbb732ce",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0131.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          232,
+          1041
+        ],
+        "rva": 272448,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0132.bin",
+        "sha256": "c8004d013db6910e6b45915712d549ead8904f5155c1eafef9d13a42265b1f34",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0132.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          233,
+          1041
+        ],
+        "rva": 273772,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0133.bin",
+        "sha256": "443a6edee97f73ae6560770018edabcfc0f71dc8b75a0c7ba2db6f5f7f531df2",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0133.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          234,
+          1041
+        ],
+        "rva": 275864,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0134.bin",
+        "sha256": "0f003e38bf967f567351b6beb0ec15e10018377078c800361e7afff026e79ad4",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0134.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          235,
+          1041
+        ],
+        "rva": 277188,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0135.bin",
+        "sha256": "41dfd92c76c2a02bffa71371be104eda60518514eeb24ac4d4e898fd7f3eade9",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0135.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          236,
+          1041
+        ],
+        "rva": 279280,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0136.bin",
+        "sha256": "1694be4ec789d76e009d68514c75db1b7d75615f28ca63424690f231feacfecd",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0136.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          237,
+          1041
+        ],
+        "rva": 280604,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0137.bin",
+        "sha256": "e6bd91180481d9bc3f0dd4dfa8c1cb3d63fbee085debda063c30e9df249850da",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0137.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          238,
+          1041
+        ],
+        "rva": 282696,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0138.bin",
+        "sha256": "3c2a1d9bb803554716c39f63a7a355f776c28987de74822310bed28ce677ecdf",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0138.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          239,
+          1041
+        ],
+        "rva": 284020,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0139.bin",
+        "sha256": "bd0e938488a14c7a916dd1823cd4d99b9b5e9ea90d927dfe86284b05a7d30413",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0139.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          240,
+          1041
+        ],
+        "rva": 286112,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0140.bin",
+        "sha256": "81e8546e0d1901903f58dfc2be2aab0f94f3fea7a476d7040f362ce0703b10a6",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0140.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          241,
+          1041
+        ],
+        "rva": 287436,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0141.bin",
+        "sha256": "0af59c3ff66f1ddcd8e997e8a0c009816fcb3ff145a651c4603fec18e5d9412d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0141.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          242,
+          1041
+        ],
+        "rva": 289528,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0142.bin",
+        "sha256": "b1fb4418d01b3c64644152096a8fe1fccd45d16f91ed0eb39067990d554a74cc",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0142.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          243,
+          1041
+        ],
+        "rva": 290852,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0143.bin",
+        "sha256": "5f42a2833d6e35d53e739578760b330ce8c6decc970b09f96d83b7cac6d58b16",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0143.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          244,
+          1041
+        ],
+        "rva": 292944,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0144.bin",
+        "sha256": "ada7708638126c4d87d56091823d5df8ae6ffd3c0a426a7cae8a966264b88987",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0144.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          245,
+          1041
+        ],
+        "rva": 294268,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0145.bin",
+        "sha256": "aaf1f160d15a52441ec4f0cc5691441e4db29318be92b9e93a407746fad7abf3",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0145.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          246,
+          1041
+        ],
+        "rva": 296360,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0146.bin",
+        "sha256": "f5b5b26988f55d87479064c6b1e270aa886892b08372c85fba698a2faca627cb",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0146.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          247,
+          1041
+        ],
+        "rva": 297684,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0147.bin",
+        "sha256": "6da6f12933ed018f41cec8df733f8f131281c0ce4dfc248afb80c09a9db21ada",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0147.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          248,
+          1041
+        ],
+        "rva": 299776,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0148.bin",
+        "sha256": "5c01dfb1944ca984aedefd0a43db787d474011d3db7d2bd631c3cc5f85b4a5e5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0148.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          249,
+          1041
+        ],
+        "rva": 301100,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0149.bin",
+        "sha256": "136085a1b11b9bb2ceb11dde2a4b4c4f762a88ae47fed2a1c1a1d7471c376f67",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0149.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          250,
+          1041
+        ],
+        "rva": 303192,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0150.bin",
+        "sha256": "8bd019824090f0ff84e3ed366a103fa29789a370c32004e7879148c026743d3d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0150.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          251,
+          1041
+        ],
+        "rva": 304516,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0151.bin",
+        "sha256": "1d1cacd22659379a58a5d20d5ba1ba9674f1f7a664dbb0984282eb55e161b7ac",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0151.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          252,
+          1041
+        ],
+        "rva": 306608,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0152.bin",
+        "sha256": "e9d9f699d26d3ba0b8f8dff1fe87e47bb01be79d7b8d337283e442165ffb7827",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0152.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          253,
+          1041
+        ],
+        "rva": 307932,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0153.bin",
+        "sha256": "8d5e50eec0b609d87357f1a634c61ea53499e961204131655e4bb8adf57606a5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0153.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          254,
+          1041
+        ],
+        "rva": 310024,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0154.bin",
+        "sha256": "313a66ee28343cbde19365bbdb6d92b90adea540bda182626b838c83268f8507",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0154.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          255,
+          1041
+        ],
+        "rva": 311348,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0155.bin",
+        "sha256": "8486ae60b748c4b2a83270f79ceb9cd57091f195b67da5a72186357141daf774",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0155.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          256,
+          1041
+        ],
+        "rva": 313440,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0156.bin",
+        "sha256": "546a0654d27f6a0c5dc19c2a2d21b20391d24602fcb002dd235f48fb460427ad",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0156.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          257,
+          1041
+        ],
+        "rva": 314764,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0157.bin",
+        "sha256": "190f7be610b3877921e289c028426eb896cadae6cb02d8632666f35e454184a2",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0157.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          258,
+          1041
+        ],
+        "rva": 316856,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0158.bin",
+        "sha256": "8b0d192f90d751f9505a289724926e2d58b70b25f652aef5ec483d7c53d27516",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0158.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          259,
+          1041
+        ],
+        "rva": 318180,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0159.bin",
+        "sha256": "962d6d9bb9a31b54f042854f669af67cf281a78471518014766361830059009d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0159.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          260,
+          1041
+        ],
+        "rva": 320272,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0160.bin",
+        "sha256": "7b4f7150cb42bc8a8ffe120998cce6e2c8ee7aef6b4a262e4870296398f30fb8",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0160.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          261,
+          1041
+        ],
+        "rva": 321596,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0161.bin",
+        "sha256": "51e9bfc92e73cb84bdda2628882bcdf4a449e9d350a00e843a3f86e376550d2d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0161.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          262,
+          1041
+        ],
+        "rva": 323688,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0162.bin",
+        "sha256": "2e9f6e1991f09e8dc1ad1bc2cb52d5b2c9ac9fa48e322b89ab71caf7ac9f77b7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0162.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          263,
+          1041
+        ],
+        "rva": 325012,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0163.bin",
+        "sha256": "a879e7196ed86a9ff75ecd4e1b691a3a5430a51f6c4cf982d3ef6d25e50b83af",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0163.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          264,
+          1041
+        ],
+        "rva": 327104,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0164.bin",
+        "sha256": "4aaf635aa3458381e8ee35cb6779e339b38388ffe80ce3d75a3f960b33231e09",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0164.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          265,
+          1041
+        ],
+        "rva": 328428,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0165.bin",
+        "sha256": "2ced065bf7817b1b77be47a19ff4755cf885dede495b7a2149092b1d8b49838e",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0165.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          266,
+          1041
+        ],
+        "rva": 330520,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0166.bin",
+        "sha256": "0fbda266e188020c09309edeca40341e74ab951889ea0e74b4d190b0071661c1",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0166.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          267,
+          1041
+        ],
+        "rva": 331844,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0167.bin",
+        "sha256": "2a0ddfe0eff4b9bc8e54130576c2fa246d2b9402e9c657712a3c69a082341826",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0167.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          268,
+          1041
+        ],
+        "rva": 333936,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0168.bin",
+        "sha256": "e56dc5bd4c2e8e8d6018675cad8ebbb51cb4667424b0ce9a1c2f0cba51cfad82",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0168.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          269,
+          1041
+        ],
+        "rva": 335260,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0169.bin",
+        "sha256": "e86b3948caf8fd19fd644b7462306437c85f869c7d004c5435eb6c212234ab79",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0169.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          270,
+          1041
+        ],
+        "rva": 337352,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0170.bin",
+        "sha256": "be235245c963d91b3b25d782ca54f66995d3c357e47e7c6915f5a7b0a93bfa8e",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0170.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          271,
+          1041
+        ],
+        "rva": 338676,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0171.bin",
+        "sha256": "019aa7ce87ab7f253d6017eb923bf1ef042f75fdf6431dea66f551eaa7fd0f19",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0171.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          272,
+          1041
+        ],
+        "rva": 340768,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0172.bin",
+        "sha256": "8a85ef437e34775d3bfccabd5e4ceea1b598e58bbf67b34366e2ee5fe1d6aaf1",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0172.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          273,
+          1041
+        ],
+        "rva": 342092,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0173.bin",
+        "sha256": "e420799e21de00576d37738ead506150caaaafdeb3aadc1d6cae225bfa619b41",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0173.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          274,
+          1041
+        ],
+        "rva": 344184,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0174.bin",
+        "sha256": "7eaf57e8b8bdbd50792831cab3d816843118e97a95e43f114f47091f2025985e",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0174.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          275,
+          1041
+        ],
+        "rva": 345508,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0175.bin",
+        "sha256": "9e9252976afbde3f72ed4b4354c84b0c39c9829f6e543aadf6a371eb4041fe95",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0175.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          276,
+          1041
+        ],
+        "rva": 347600,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0176.bin",
+        "sha256": "1eca69a3f3c3d9db40ed60dae000426888c995e09dbee514aa47f4f0fd222afc",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0176.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          277,
+          1041
+        ],
+        "rva": 348924,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0177.bin",
+        "sha256": "81724faa65742b5feee6e1974566e2584403683cb362282c8a5092fbb7c86d79",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0177.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          278,
+          1041
+        ],
+        "rva": 351016,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0178.bin",
+        "sha256": "d2c1fcaef2455bac2608b4cc5d8228ad938ed98a02bd70e61a3f6d643155c7d7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0178.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          279,
+          1041
+        ],
+        "rva": 352340,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0179.bin",
+        "sha256": "f8fa7602d5c8456050e642173fb6dca9e7f3ab6ac8a88d6629b220180781e066",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0179.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          280,
+          1041
+        ],
+        "rva": 354432,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0180.bin",
+        "sha256": "134e2d361b210a0f665ff74d82bd5f761338779b25f7a42217162ab42a8947ad",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0180.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          281,
+          1041
+        ],
+        "rva": 355756,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0181.bin",
+        "sha256": "ae5b6fcd0ce349836d0c365163c864d1697002078f34a45af69235ba35308284",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0181.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          282,
+          1041
+        ],
+        "rva": 357848,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0182.bin",
+        "sha256": "1be4b704831387ea8e9a38c9bfc0e2e72a6b8e273b664ce35f8d276e2f5e0fcd",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0182.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          283,
+          1041
+        ],
+        "rva": 359172,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0183.bin",
+        "sha256": "163b07789f8f9af4f26d02dfa772773682f27a59fe075d80ac924b2c2fff9f9b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0183.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          284,
+          1041
+        ],
+        "rva": 361264,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0184.bin",
+        "sha256": "845e4a6e55561976097d593141d5f0cb8635f7da12863797c7b885fb0d6d3296",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0184.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          285,
+          1041
+        ],
+        "rva": 362588,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0185.bin",
+        "sha256": "dd5ff8de0129f65f614ce9f9e6cc256ab1fded4592bed7ff54af22ae13e5532a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0185.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          286,
+          1041
+        ],
+        "rva": 364680,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0186.bin",
+        "sha256": "7d6ed4a197fa22e0e2201ed981c4c74e4be40ed9991e49531a50ea7049f7610b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0186.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          287,
+          1041
+        ],
+        "rva": 366004,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0187.bin",
+        "sha256": "c77fb0362c882fbad436b34e9beb79e61fc4122086dee3b40f29321e816a170a",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0187.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          288,
+          1041
+        ],
+        "rva": 368096,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0188.bin",
+        "sha256": "0df784529e02bffd784f9c7a37c36d8df7972c80e427842f4deb373e8a1de0a1",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0188.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          289,
+          1041
+        ],
+        "rva": 369420,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0189.bin",
+        "sha256": "e339afb1dafdf1979b929e8016eb7ae1fd0a4d3d24d318ed0657c4669a38d3ea",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0189.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          290,
+          1041
+        ],
+        "rva": 371512,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0190.bin",
+        "sha256": "b5fc68b5dea73db3fa1cac4b5a0bdb86e90c4f6e5ceea756a787291984b023c2",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0190.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          291,
+          1041
+        ],
+        "rva": 372836,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0191.bin",
+        "sha256": "b7400d4bbb188a20d9ec6ee696c6cb3430d9f7ff1f34cd5cb4258e92089a3b7e",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0191.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          292,
+          1041
+        ],
+        "rva": 374928,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0192.bin",
+        "sha256": "c0280a32bf6631e6b5fb7a5aebc41e1f5a13d1e28643c6fff2fbe515af1112d6",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0192.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          293,
+          1041
+        ],
+        "rva": 376252,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0193.bin",
+        "sha256": "d52d9b28129df97efb2a239c25abfc6bc561f35b039c051b7eb20427a574c06d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0193.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          294,
+          1041
+        ],
+        "rva": 378344,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0194.bin",
+        "sha256": "bf3728d6c49a2763759df594402c5b3b91bac57b6669d513e31fe5588ffef885",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0194.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          295,
+          1041
+        ],
+        "rva": 379668,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0195.bin",
+        "sha256": "dc6d75f1ef2e85fa6d5fa3d2caa2d841fa5f20989986428c77f1cdc4051a7175",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0195.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          296,
+          1041
+        ],
+        "rva": 381760,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0196.bin",
+        "sha256": "c42700e0c7fdddc9a13f4a647bc5ec64ad470bae4a99bb6e5684e5911dcd72e7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0196.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          297,
+          1041
+        ],
+        "rva": 383084,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0197.bin",
+        "sha256": "cb598c429297492cf595df7bf834de39c79d57ed3632254c2c89b2e414b155a8",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0197.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          298,
+          1041
+        ],
+        "rva": 385176,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0198.bin",
+        "sha256": "11c1257ceb6d50aadd2ca3b68ff70c2901bcc293e9d72b1f389c1bc3b209416b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0198.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          299,
+          1041
+        ],
+        "rva": 386500,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0199.bin",
+        "sha256": "455e6e1fcb3e7c4e794d90c854e554644e7af02d0fcfdffe988aeac99d71ded4",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0199.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          300,
+          1041
+        ],
+        "rva": 388592,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0200.bin",
+        "sha256": "15d3396be34ca379f3c5792c1c107617fa55f44c60173494ec2d40da989aaacb",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0200.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          301,
+          1041
+        ],
+        "rva": 389916,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0201.bin",
+        "sha256": "6ce9edbfc519cd9240f56a9c7dc3f4f8cff46459fa94827ec4731009795a132d",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0201.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          302,
+          1041
+        ],
+        "rva": 392008,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0202.bin",
+        "sha256": "2414829789e8d429b068c0b1bb25b77b141a2773ef2eb804a24f786113353117",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0202.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          303,
+          1041
+        ],
+        "rva": 393332,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0203.bin",
+        "sha256": "2c4f3f5392da58b4e71b5b60e7b50be6beb4f5dc7b184b66607a2de89f05f8b7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0203.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          304,
+          1041
+        ],
+        "rva": 395424,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0204.bin",
+        "sha256": "a65ddefe937b8089fcd6e63cd518e04b6f77d8167f601f40a82e9f1dea627dec",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0204.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          305,
+          1041
+        ],
+        "rva": 396748,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0205.bin",
+        "sha256": "fe1950ca4070db1739a8fb2629a7adffe9ecff251fa0ef1d99c7ef832e3f5f3b",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0205.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          306,
+          1041
+        ],
+        "rva": 398840,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0206.bin",
+        "sha256": "90236a95a5a6074353cfabc58b0de691043281fedbe019a1179b8f32f9b61176",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0206.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          307,
+          1041
+        ],
+        "rva": 400164,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0207.bin",
+        "sha256": "e38185e2d142e8fc932767a7e0ce3ba510ce3f742b8b1e1a2f88325d36df9bc7",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0207.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          308,
+          1041
+        ],
+        "rva": 402256,
+        "size": 1320,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0208.bin",
+        "sha256": "e90aff42f3f17147e159a62b7227eb1ab84d7a80c6441bca662ab31811e770e5",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0208.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          309,
+          1041
+        ],
+        "rva": 403576,
+        "size": 2088,
+        "extracted": "analysis\\dll-resources\\Itemicon\\0209.bin",
+        "sha256": "19970f074f8c8f2ecef5c73cdccb142783c86f0e6d4e7c5b794315cfde2cb418",
+        "image": {
+          "path": "analysis\\dll-resources\\Itemicon\\0209.png",
+          "width": 32,
+          "height": 32
+        }
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "Koeicda.dll",
+    "sha256": "623ed0d19dff5f3675c70bde1cd19e3411bb613e321b4f37058d5fd688052e62",
+    "entry_rva": 4871,
+    "sections": [
+      {
+        "name": ".text",
+        "size": 20480,
+        "executable": true
+      },
+      {
+        "name": ".rdata",
+        "size": 8192,
+        "executable": false
+      },
+      {
+        "name": ".data",
+        "size": 4096,
+        "executable": false
+      },
+      {
+        "name": ".rsrc",
+        "size": 4096,
+        "executable": false
+      },
+      {
+        "name": ".reloc",
+        "size": 4096,
+        "executable": false
+      }
+    ],
+    "imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "symbols": [
+          "CloseHandle",
+          "CreateProcessA",
+          "GetStartupInfoA",
+          "GetSystemInfo",
+          "GetCurrentThreadId",
+          "GetCommandLineA",
+          "GetVersionExA",
+          "ExitProcess",
+          "GetProcAddress",
+          "GetModuleHandleA",
+          "TerminateProcess",
+          "GetCurrentProcess",
+          "TlsAlloc",
+          "SetLastError",
+          "GetLastError",
+          "TlsFree",
+          "TlsSetValue",
+          "TlsGetValue",
+          "HeapFree",
+          "HeapAlloc",
+          "SetHandleCount",
+          "GetStdHandle",
+          "GetFileType",
+          "DeleteCriticalSection",
+          "GetModuleFileNameA",
+          "FreeEnvironmentStringsA",
+          "GetEnvironmentStrings",
+          "FreeEnvironmentStringsW",
+          "WideCharToMultiByte",
+          "GetEnvironmentStringsW",
+          "HeapDestroy",
+          "HeapCreate",
+          "VirtualFree",
+          "UnhandledExceptionFilter",
+          "WriteFile",
+          "LeaveCriticalSection",
+          "EnterCriticalSection",
+          "GetACP",
+          "GetOEMCP",
+          "GetCPInfo",
+          "VirtualAlloc",
+          "HeapReAlloc",
+          "InitializeCriticalSection",
+          "RtlUnwind",
+          "InterlockedExchange",
+          "VirtualQuery",
+          "LoadLibraryA",
+          "HeapSize",
+          "GetLocaleInfoA",
+          "GetStringTypeA",
+          "MultiByteToWideChar",
+          "GetStringTypeW",
+          "LCMapStringA",
+          "LCMapStringW",
+          "QueryPerformanceCounter",
+          "GetTickCount",
+          "GetCurrentProcessId",
+          "GetSystemTimeAsFileTime",
+          "VirtualProtect"
+        ]
+      },
+      {
+        "dll": "USER32.dll",
+        "symbols": [
+          "FindWindowA",
+          "WaitForInputIdle",
+          "PostMessageA"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "path": [
+          16,
+          1,
+          2052
+        ],
+        "rva": 41056,
+        "size": 792,
+        "extracted": "analysis\\dll-resources\\Koeicda\\0000.bin",
+        "sha256": "7df7820036407f7ab17dfc4b660f83f74c5245b26e5a1e5b4a1e5e934a9e7296"
+      }
+    ],
+    "exports": [
+      {
+        "name": "CDAudioClose",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioEjectMedia",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioGetDriveLetter",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioGetNumDrives",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioGetNumTracks",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioGetPlayingPos",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioGetStartPos",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioGetTrackLength",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioInitialize",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioIsInserted",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioIsPlaying",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioNextPlay",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioNextPlayTrack",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioOpen",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioPause",
+        "rva": 4336
+      },
+      {
+        "name": "CDAudioPlay",
+        "rva": 4480
+      },
+      {
+        "name": "CDAudioPlayTrack",
+        "rva": 4368
+      },
+      {
+        "name": "CDAudioResume",
+        "rva": 4416
+      },
+      {
+        "name": "CDAudioStop",
+        "rva": 4448
+      },
+      {
+        "name": "CDAudioTerminate",
+        "rva": 4480
+      }
+    ]
+  },
+  {
+    "file": "Mapatr.dll",
+    "sha256": "a0400358ad6cecd9c7af7adb2a67c83da939fb69f9e2e7797ec1ab3c0aeb01dc",
+    "entry_rva": 4464,
+    "sections": [
+      {
+        "name": ".text",
+        "size": 11264,
+        "executable": true
+      },
+      {
+        "name": ".rdata",
+        "size": 1024,
+        "executable": false
+      },
+      {
+        "name": ".data",
+        "size": 4608,
+        "executable": false
+      },
+      {
+        "name": ".idata",
+        "size": 1536,
+        "executable": false
+      },
+      {
+        "name": ".rsrc",
+        "size": 87552,
+        "executable": false
+      },
+      {
+        "name": ".reloc",
+        "size": 1536,
+        "executable": false
+      }
+    ],
+    "imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "symbols": [
+          "GetCPInfo",
+          "GetProcAddress",
+          "GetModuleHandleA",
+          "GetVersion",
+          "ExitProcess",
+          "TerminateProcess",
+          "GetCurrentProcess",
+          "GetCurrentThreadId",
+          "TlsSetValue",
+          "TlsAlloc",
+          "TlsFree",
+          "SetLastError",
+          "TlsGetValue",
+          "GetLastError",
+          "HeapDestroy",
+          "HeapCreate",
+          "VirtualFree",
+          "SetHandleCount",
+          "GetFileType",
+          "GetStdHandle",
+          "GetStartupInfoA",
+          "DeleteCriticalSection",
+          "GetModuleFileNameA",
+          "GetCommandLineA",
+          "GetACP",
+          "GetOEMCP",
+          "FreeEnvironmentStringsA",
+          "GetEnvironmentStrings",
+          "FreeEnvironmentStringsW",
+          "GetEnvironmentStringsW",
+          "WideCharToMultiByte",
+          "WriteFile",
+          "InitializeCriticalSection",
+          "EnterCriticalSection",
+          "LeaveCriticalSection",
+          "HeapAlloc",
+          "HeapFree",
+          "VirtualAlloc",
+          "LoadLibraryA",
+          "FlushFileBuffers",
+          "CloseHandle",
+          "SetStdHandle",
+          "SetFilePointer"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "path": [
+          2,
+          100,
+          1041
+        ],
+        "rva": 38256,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0000.bin",
+        "sha256": "b4776cfb29ee0a68345674aad0171a97849628c2f9ae20b13c6c87be5354f066",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0000.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          101,
+          1041
+        ],
+        "rva": 41316,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0001.bin",
+        "sha256": "6b27ddc6208c89006c2f068268c12144e1f387c0408a4b51b79e08793a5c438a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0001.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          102,
+          1041
+        ],
+        "rva": 44376,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0002.bin",
+        "sha256": "5ae3bf48babf0b91df62bd166409752c140f0b0e716796428364c09379be5cd2",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0002.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          103,
+          1041
+        ],
+        "rva": 47436,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0003.bin",
+        "sha256": "94c955b825d93deaa0b22f67f09ed02f37d5d3d06e1a370619277e2d67d0c13e",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0003.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          104,
+          1041
+        ],
+        "rva": 50496,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0004.bin",
+        "sha256": "95fae2944c9d7f943bb65d329655dba57e51fda9d1ff6f90194a87cdc5256d2b",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0004.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          105,
+          1041
+        ],
+        "rva": 53556,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0005.bin",
+        "sha256": "092ba06d4a3b49b8fbf5ef5823a068a39770fc1e7e42342d1ba92dbc8d7a3890",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0005.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          106,
+          1041
+        ],
+        "rva": 56616,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0006.bin",
+        "sha256": "d63ef83aeeb5424463e08f971cf575aa0fadef0106db37ae74ea383b7bbcf537",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0006.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          107,
+          1041
+        ],
+        "rva": 59676,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0007.bin",
+        "sha256": "63411f47d8f757423c662d3c3ccd2ccd2fc9b2a1aa963aa3c1592bc1720a8220",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0007.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          108,
+          1041
+        ],
+        "rva": 62736,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0008.bin",
+        "sha256": "67f7edabce75d8e15493380772f21ea2c6c3f34662c3ec6827cef6bcc8e44769",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0008.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          109,
+          1041
+        ],
+        "rva": 65796,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0009.bin",
+        "sha256": "5dff61994f519f54cc78e5d6f6661528d2c491500ccff5e59366bf2ba5e757a4",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0009.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          110,
+          1041
+        ],
+        "rva": 68856,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0010.bin",
+        "sha256": "e6c7c24d5a09339cd8c17b6fd4bbbdd32907f7b77ff5a86f2f9ea5febc18e9ac",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0010.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          111,
+          1041
+        ],
+        "rva": 71916,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0011.bin",
+        "sha256": "0edc6ff2fa383fcb39aa6f5b2bfee3610338bc670cbc75c76abf62eb1a1c6ca4",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0011.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          112,
+          1041
+        ],
+        "rva": 74976,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0012.bin",
+        "sha256": "01f78a134fe7bece0f3f962f9267a3a1a8336913aa4f7f3f3dc51f6ba121d0da",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0012.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          113,
+          1041
+        ],
+        "rva": 78036,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0013.bin",
+        "sha256": "657d51af6e2b304e202ef6ffa165d56cd89f21dec15db6adffb70a96401558b1",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0013.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          114,
+          1041
+        ],
+        "rva": 81096,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0014.bin",
+        "sha256": "8639a331fa2b70c371de73cb321deeb179ebb5f478bb70a1d2cdb95aa8a8744f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0014.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          115,
+          1041
+        ],
+        "rva": 84156,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0015.bin",
+        "sha256": "391f9a7be839587350a31aeefd2b5b0b6a667a36d05b9874509ae0717fbe8b4e",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0015.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          116,
+          1041
+        ],
+        "rva": 87216,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0016.bin",
+        "sha256": "c6d61725c9199ea0d6974f203e9ef296965a1aa8d07f9301456b9626dfce053f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0016.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          117,
+          1041
+        ],
+        "rva": 90276,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0017.bin",
+        "sha256": "fe8e9617f52492ab3aaff8b79ac611ac9b9cd35677fe123c3550a0d7af18bd4d",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0017.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          118,
+          1041
+        ],
+        "rva": 93336,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0018.bin",
+        "sha256": "126ef6d60f3969f90679bd4d03a4151e8bb2ccab6f908b8a5d17cccd08e50ae2",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0018.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          119,
+          1041
+        ],
+        "rva": 96396,
+        "size": 3062,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0019.bin",
+        "sha256": "0f9c6a568fd343693aeace58932460e3018fce30f44ddf6df0e4b6fbff6a7ba1",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0019.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          120,
+          1041
+        ],
+        "rva": 99460,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0020.bin",
+        "sha256": "b7c9f7e9d84c69f902a4db9439e9b3a6077c4d3f88188a724c9b9ffab68a67d7",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0020.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          121,
+          1041
+        ],
+        "rva": 102520,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0021.bin",
+        "sha256": "fabae4627ebb2363a5381eaa1e85e02a28af0bbd929b54f902d26ac14f8e982a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0021.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          122,
+          1041
+        ],
+        "rva": 105580,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0022.bin",
+        "sha256": "76c139182536e630951d0a324eb8835e46c74e91f8b50c55e203ef6c6f7f4e3f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0022.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          123,
+          1041
+        ],
+        "rva": 108640,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0023.bin",
+        "sha256": "f328fc08a76828f81ce1022979822c44874358ea17a53753b7e2d76c4efd1a80",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0023.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          124,
+          1041
+        ],
+        "rva": 111700,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0024.bin",
+        "sha256": "62c41b5f2fa460aad5d57b2174a940424497b23341384357f56593186b8668a9",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0024.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          125,
+          1041
+        ],
+        "rva": 114760,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0025.bin",
+        "sha256": "5f844c88b50a60750cabf4b2011b2d3c36a3be81199c292aa5795625f7bde6fd",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0025.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          126,
+          1041
+        ],
+        "rva": 117820,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0026.bin",
+        "sha256": "63f5f0029cc731ce7ce5c978e785b882fd23698e5ffaec1cf8b2c7bcf77319fa",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0026.png",
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "path": [
+          2,
+          127,
+          1041
+        ],
+        "rva": 120880,
+        "size": 3060,
+        "extracted": "analysis\\dll-resources\\Mapatr\\0027.bin",
+        "sha256": "250fd992785b424672fea3b1f33d4e7e0885d3dfa3eab6ee4802a0c478fa80f4",
+        "image": {
+          "path": "analysis\\dll-resources\\Mapatr\\0027.png",
+          "width": 48,
+          "height": 48
+        }
+      }
+    ],
+    "exports": []
+  },
+  {
+    "file": "Mgcicon.dll",
+    "sha256": "692c937524a93531786b26176fc0147807d5d3d511003012979001cf22f86490",
+    "entry_rva": 4464,
+    "sections": [
+      {
+        "name": ".text",
+        "size": 11264,
+        "executable": true
+      },
+      {
+        "name": ".rdata",
+        "size": 1024,
+        "executable": false
+      },
+      {
+        "name": ".data",
+        "size": 4608,
+        "executable": false
+      },
+      {
+        "name": ".idata",
+        "size": 1536,
+        "executable": false
+      },
+      {
+        "name": ".rsrc",
+        "size": 109056,
+        "executable": false
+      },
+      {
+        "name": ".reloc",
+        "size": 1536,
+        "executable": false
+      }
+    ],
+    "imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "symbols": [
+          "GetCPInfo",
+          "GetProcAddress",
+          "GetModuleHandleA",
+          "GetVersion",
+          "ExitProcess",
+          "TerminateProcess",
+          "GetCurrentProcess",
+          "GetCurrentThreadId",
+          "TlsSetValue",
+          "TlsAlloc",
+          "TlsFree",
+          "SetLastError",
+          "TlsGetValue",
+          "GetLastError",
+          "HeapDestroy",
+          "HeapCreate",
+          "VirtualFree",
+          "SetHandleCount",
+          "GetFileType",
+          "GetStdHandle",
+          "GetStartupInfoA",
+          "DeleteCriticalSection",
+          "GetModuleFileNameA",
+          "GetCommandLineA",
+          "GetACP",
+          "GetOEMCP",
+          "FreeEnvironmentStringsA",
+          "GetEnvironmentStrings",
+          "FreeEnvironmentStringsW",
+          "GetEnvironmentStringsW",
+          "WideCharToMultiByte",
+          "WriteFile",
+          "InitializeCriticalSection",
+          "EnterCriticalSection",
+          "LeaveCriticalSection",
+          "HeapAlloc",
+          "HeapFree",
+          "VirtualAlloc",
+          "LoadLibraryA",
+          "FlushFileBuffers",
+          "CloseHandle",
+          "SetStdHandle",
+          "SetFilePointer"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "path": [
+          2,
+          100,
+          1041
+        ],
+        "rva": 39888,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0000.bin",
+        "sha256": "a1536a9e599e28684d14fced22d5ed47e89df9836e3abdd77b1650eccfc3ef8b",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0000.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          101,
+          1041
+        ],
+        "rva": 41212,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0001.bin",
+        "sha256": "cb349644eccd49199740bab9da2c750e8b96bc77df182386d217477f08b65b27",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0001.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          102,
+          1041
+        ],
+        "rva": 43304,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0002.bin",
+        "sha256": "40cefd4a0bfba6b404627ee416d5b26fbcdf27c43c908af274141dcb12a6fc28",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0002.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          103,
+          1041
+        ],
+        "rva": 44628,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0003.bin",
+        "sha256": "5519e9ad74c64919254ac0f43e2a80142a8cacc074c8393ad3f703f27506a21a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0003.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          104,
+          1041
+        ],
+        "rva": 46720,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0004.bin",
+        "sha256": "cabf97cf5c9a77411663b154ebdaf4032446df5991369f0653f48dd7f45fefc6",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0004.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          105,
+          1041
+        ],
+        "rva": 48044,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0005.bin",
+        "sha256": "89c12c8b8e60df297d614de47b289376ea816483ae8c6ea34d64b586849d0583",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0005.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          106,
+          1041
+        ],
+        "rva": 50136,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0006.bin",
+        "sha256": "10b283790b1f817954707f5ce073d2d352a78863ccb69fdb0d17e77deece2dd6",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0006.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          107,
+          1041
+        ],
+        "rva": 51460,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0007.bin",
+        "sha256": "6425d461882840351a6aeaddc3a3cde6b712244e98b49fd8f49374c5e71d75ff",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0007.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          108,
+          1041
+        ],
+        "rva": 53552,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0008.bin",
+        "sha256": "85cd6e8bca28090814008e4f2bbe28defcbfc44c30f7017043472b508c54e88d",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0008.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          109,
+          1041
+        ],
+        "rva": 54876,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0009.bin",
+        "sha256": "71a963307d494f61cc76ec74d6c3d07fe39b3edffdda0583bbdc035b733ce3fc",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0009.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          110,
+          1041
+        ],
+        "rva": 56968,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0010.bin",
+        "sha256": "ededf336c43d1cde6d644e5814f7833ee5b99d5ffab6ed2a427ff9ee916049a4",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0010.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          111,
+          1041
+        ],
+        "rva": 58292,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0011.bin",
+        "sha256": "c068b0c9c02887dc9d671ee493286b1aa091d093cf115a92012e1c9dc4f3eeb1",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0011.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          112,
+          1041
+        ],
+        "rva": 60384,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0012.bin",
+        "sha256": "d5c063cf62b22494da27e01784ddfd47bdb07daf53d1c3173f1a11cad1385ed1",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0012.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          113,
+          1041
+        ],
+        "rva": 61708,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0013.bin",
+        "sha256": "52867211bbbe1cb8c0e39009404cfa64486b8b67de6a747e9341c874bf890897",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0013.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          114,
+          1041
+        ],
+        "rva": 63800,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0014.bin",
+        "sha256": "6cdb53f2be0f7aced4f928dc7c9c4249363753714eb66f835a296b51377db2f2",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0014.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          115,
+          1041
+        ],
+        "rva": 65124,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0015.bin",
+        "sha256": "348bb86036511b2b903028a393b56b99db1751d7440f09b2d1b06615da0c0b05",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0015.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          116,
+          1041
+        ],
+        "rva": 67216,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0016.bin",
+        "sha256": "5fedeb398bf906bd837d67058c9b41a68b7c12be7478f82617c07fd5013b512a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0016.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          117,
+          1041
+        ],
+        "rva": 68540,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0017.bin",
+        "sha256": "d1213ea395a69692d7d030c1fa0323a8cdfd0736dd9c5eea1d75a4bf6a219ebc",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0017.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          118,
+          1041
+        ],
+        "rva": 70632,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0018.bin",
+        "sha256": "63816cf0463cf10f52a1c318d65b45963135624a18eccdfa206ad49a38f4967e",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0018.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          119,
+          1041
+        ],
+        "rva": 71956,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0019.bin",
+        "sha256": "5b8b2e412800aa3509cf711d201cf17b8c9df629f0c096d819af82561d7fe1a2",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0019.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          120,
+          1041
+        ],
+        "rva": 74048,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0020.bin",
+        "sha256": "b564958356aa4e69b6223c2385ce7ba0d7bfb2524e766c7934a6f8f04b98ff28",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0020.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          121,
+          1041
+        ],
+        "rva": 75372,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0021.bin",
+        "sha256": "995ade4e3e6a7bba8157bb2397e6fdec81811e438358b6da6197c0df9dfb79e3",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0021.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          122,
+          1041
+        ],
+        "rva": 77464,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0022.bin",
+        "sha256": "01f4ae94bfd17254e1e728e597c0c921c69333f70eb08a0c90be4980a0a49544",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0022.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          123,
+          1041
+        ],
+        "rva": 78788,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0023.bin",
+        "sha256": "ba6812a75d78b75661d58af2eb0a9598013c862d56ff720725c5a77e6ca0693a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0023.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          124,
+          1041
+        ],
+        "rva": 80880,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0024.bin",
+        "sha256": "6b2940d4bb060b84c91148a0d29f20cff0eeca96d291db4ec69ec271905c3d87",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0024.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          125,
+          1041
+        ],
+        "rva": 82204,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0025.bin",
+        "sha256": "dadc6b6d0a2817d07c5d7464fdf0d7d38d0fe52b743d389e4942834b134279f1",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0025.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          126,
+          1041
+        ],
+        "rva": 84296,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0026.bin",
+        "sha256": "8471819e03dd9c28f9cb9d6143190c47135582335703d88ebb002adb2d509480",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0026.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          127,
+          1041
+        ],
+        "rva": 85620,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0027.bin",
+        "sha256": "187cad1294bae80e14bea9996b3f16101142f71d9941f7f53b6fc6e4f9c1dab8",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0027.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          128,
+          1041
+        ],
+        "rva": 87712,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0028.bin",
+        "sha256": "a79b141646b410cbd82cdc8ed3a24ecde9018729a665998df9d96687ab3e60b4",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0028.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          129,
+          1041
+        ],
+        "rva": 89036,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0029.bin",
+        "sha256": "0daba3dbefc4566123488386fe9d791a88266a69def4fd50c636e460018c4597",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0029.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          130,
+          1041
+        ],
+        "rva": 91128,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0030.bin",
+        "sha256": "fcff0a4b83d97b43e039bba3c1504e67d0530bb34708b721e987b57ed0844c19",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0030.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          131,
+          1041
+        ],
+        "rva": 92452,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0031.bin",
+        "sha256": "6d34a108d32daf5797e701c6e79fdccde9b64a7cb000a708bbbb7543501b6af4",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0031.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          132,
+          1041
+        ],
+        "rva": 94544,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0032.bin",
+        "sha256": "3d2571c65ac74f0386bef5d5b0355b80a8f21f5447d3c6b13858450e143a3b53",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0032.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          133,
+          1041
+        ],
+        "rva": 95868,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0033.bin",
+        "sha256": "971e6d265c184760a776ec39f196433bd5d2d94062678f2a1e771b7b246db73f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0033.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          134,
+          1041
+        ],
+        "rva": 97960,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0034.bin",
+        "sha256": "f024923679497013b0db9221cab6f21dc8a51ba2a7e6eb138a7ac389df0d7243",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0034.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          135,
+          1041
+        ],
+        "rva": 99284,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0035.bin",
+        "sha256": "089e6fa43427902e35be090ac24968311b659d25f15fc0a560b98a779b91707f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0035.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          136,
+          1041
+        ],
+        "rva": 101376,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0036.bin",
+        "sha256": "2234fb2708094ad609e77ac69b12f0bfb35d5aa709c512a3cd8e6acdcef96eb6",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0036.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          137,
+          1041
+        ],
+        "rva": 102700,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0037.bin",
+        "sha256": "88e3dd8982f9ea4f23307c4f86a6a5e8c74040451958a508f74e0154ef09a33a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0037.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          138,
+          1041
+        ],
+        "rva": 104792,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0038.bin",
+        "sha256": "0a915481d0a35222c4eb1f067eef54cf9d4a61af1d28de2c03189421d40d5267",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0038.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          139,
+          1041
+        ],
+        "rva": 106116,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0039.bin",
+        "sha256": "05d770898816494859c45fed9ae839778a07cb20b39dc66fd248db5d453766aa",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0039.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          140,
+          1041
+        ],
+        "rva": 108208,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0040.bin",
+        "sha256": "2c3e9d46d1c0cb603900e60f5341544fca31365b1ba34117f73cbafb3e06bf17",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0040.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          141,
+          1041
+        ],
+        "rva": 109532,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0041.bin",
+        "sha256": "b895dff2665e630fc9d9a109c288e5e278446aaea0af88ad14b0cf12917c05e9",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0041.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          142,
+          1041
+        ],
+        "rva": 111624,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0042.bin",
+        "sha256": "b9d0e00cd8d279c9438ce39ed82fe75b33f35a2b09470b823770e0772ace140e",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0042.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          143,
+          1041
+        ],
+        "rva": 112948,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0043.bin",
+        "sha256": "72cc0c60d014558090997b2925a40e8baed51b5ef01bd578c112afef1ae740db",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0043.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          144,
+          1041
+        ],
+        "rva": 115040,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0044.bin",
+        "sha256": "cff21d811243668f38f7bf9249544498c9571d29c8129f1466d0108edd627c6f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0044.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          145,
+          1041
+        ],
+        "rva": 116364,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0045.bin",
+        "sha256": "6983b767baf6ad98a3c45f9b22743fbae52a2d2187f688abfc7cccb97ff72d73",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0045.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          146,
+          1041
+        ],
+        "rva": 118456,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0046.bin",
+        "sha256": "255169bf97d11a367800fab52344a7146d8131e1860fb994528fd1452ae6d2a1",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0046.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          147,
+          1041
+        ],
+        "rva": 119780,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0047.bin",
+        "sha256": "0cfd4c9f46c55e4524a2a022ed047fb48797cf2673e493589f7f236a0edf186c",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0047.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          148,
+          1041
+        ],
+        "rva": 121872,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0048.bin",
+        "sha256": "1b6f805eb3fe14ddda880ab42cf2ee44462d802cf044c6cfed84742ff1fdf7eb",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0048.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          149,
+          1041
+        ],
+        "rva": 123196,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0049.bin",
+        "sha256": "72a562db48aeebb4ceca4bc56a2c3a65d5de5cd4cd62c22eb988c63e7b9b17ed",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0049.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          150,
+          1041
+        ],
+        "rva": 125288,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0050.bin",
+        "sha256": "cdaa2acc5ce2a61e74bde6e3a4813b1fbe92bc50e05b1c9287aaa178ead37f4b",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0050.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          151,
+          1041
+        ],
+        "rva": 126612,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0051.bin",
+        "sha256": "c468d4b64c302f5125107cf9228acfcf5c0dec3ada8052064d6267fffdd33670",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0051.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          152,
+          1041
+        ],
+        "rva": 128704,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0052.bin",
+        "sha256": "5158e9f963db03d962db77b2b81ffbe1b28b59fa1839c99458f8910ea7dc1792",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0052.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          153,
+          1041
+        ],
+        "rva": 130028,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0053.bin",
+        "sha256": "f8d83a40a8323a01d9808bd9cf69aa54ee8410aaaf2f5d4a1194ee55eac5adb9",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0053.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          154,
+          1041
+        ],
+        "rva": 132120,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0054.bin",
+        "sha256": "671a01ebda79b6d33cfd7350d2d641bdff268fa677f4b57d0d31f46dec5e2a5a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0054.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          155,
+          1041
+        ],
+        "rva": 133444,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0055.bin",
+        "sha256": "bbd4444e99b91771190fc070a41f92ddeb8909c4d6d0bb5b0f88c9c9d097effb",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0055.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          156,
+          1041
+        ],
+        "rva": 135536,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0056.bin",
+        "sha256": "8118537aad69b3859573bdc03233b57d886d630ef2c353914cb79334e960a1a2",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0056.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          157,
+          1041
+        ],
+        "rva": 136860,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0057.bin",
+        "sha256": "905f7b692881e198279492da4aba86cb61385267c07255d1f1709455862a7bfc",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0057.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          158,
+          1041
+        ],
+        "rva": 138952,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0058.bin",
+        "sha256": "fe9d8452c145c9fda9da5f3eda0aaa2a89ba6326ea721248e7ba61f8c96d484a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0058.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          159,
+          1041
+        ],
+        "rva": 140276,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0059.bin",
+        "sha256": "996d437c004fca6327e9b83b628d56b8bbf611195cd91676e93fcb901399bd1f",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0059.png",
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "path": [
+          2,
+          160,
+          1041
+        ],
+        "rva": 142368,
+        "size": 1322,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0060.bin",
+        "sha256": "2de7809311135e126c92fe908018788c3f7659078e4382593ee9747926e64367",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0060.png",
+          "width": 16,
+          "height": 16
+        }
+      },
+      {
+        "path": [
+          2,
+          161,
+          1041
+        ],
+        "rva": 143692,
+        "size": 2090,
+        "extracted": "analysis\\dll-resources\\Mgcicon\\0061.bin",
+        "sha256": "816cb4eb288d2f5e688b790d154e1d99b402a5287e287eb6a32e29df881ed22a",
+        "image": {
+          "path": "analysis\\dll-resources\\Mgcicon\\0061.png",
+          "width": 32,
+          "height": 32
+        }
+      }
+    ],
+    "exports": []
+  }
+]

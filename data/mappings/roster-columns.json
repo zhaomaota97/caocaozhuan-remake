@@ -1,0 +1,64 @@
+{
+  "dialogResource": 186,
+  "listControlId": 1026,
+  "populate": "0x47A3CC",
+  "sort": "0x479F91",
+  "factionSwitch": "0x47AE51",
+  "columns": [
+    {
+      "id": 0,
+      "label": "武将名",
+      "sourceAddress": "0x486ab0"
+    },
+    {
+      "id": 1,
+      "label": "部队属性",
+      "sourceAddress": "0x486ab8"
+    },
+    {
+      "id": 2,
+      "label": "Lv",
+      "sourceAddress": "0x486ac4"
+    },
+    {
+      "id": 3,
+      "label": "Exp",
+      "sourceAddress": "0x486ad0"
+    },
+    {
+      "id": 4,
+      "label": "HP",
+      "sourceAddress": "0x486ad8"
+    },
+    {
+      "id": 5,
+      "label": "MP",
+      "sourceAddress": "0x486adc"
+    },
+    {
+      "id": 6,
+      "label": "攻击",
+      "sourceAddress": "0x486ae8"
+    },
+    {
+      "id": 7,
+      "label": "精神",
+      "sourceAddress": "0x486af8"
+    },
+    {
+      "id": 8,
+      "label": "防御",
+      "sourceAddress": "0x486b08"
+    },
+    {
+      "id": 9,
+      "label": "爆发",
+      "sourceAddress": "0x486b18"
+    },
+    {
+      "id": 10,
+      "label": "士气",
+      "sourceAddress": "0x486b20"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "scripts": 58,
+  "passed": 58,
+  "rows": [
+    {
+      "script": "S_00.eex",
+      "mapId": 0,
+      "records": 26,
+      "hidden": 7,
+      "passed": true
+    },
+    {
+      "script": "S_01.eex",
+      "mapId": 1,
+      "records": 29,
+      "hidden": 6,
+      "passed": true
+    },
+    {
+      "script": "S_02.eex",
+      "mapId": 2,
+      "records": 33,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_03.eex",
+      "mapId": 3,
+      "records": 28,
+      "hidden": 18,
+      "passed": true
+    },
+    {
+      "script": "S_04.eex",
+      "mapId": 4,
+      "records": 28,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_05.eex",
+      "mapId": 5,
+      "records": 36,
+      "hidden": 4,
+      "passed": true
+    },
+    {
+      "script": "S_06.eex",
+      "mapId": 6,
+      "records": 41,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_07.eex",
+      "mapId": 7,
+      "records": 35,
+      "hidden": 16,
+      "passed": true
+    },
+    {
+      "script": "S_08.eex",
+      "mapId": 8,
+      "records": 31,
+      "hidden": 1,
+      "passed": true
+    },
+    {
+      "script": "S_09.eex",
+      "mapId": 9,
+      "records": 19,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_10.eex",
+      "mapId": 10,
+      "records": 20,
+      "hidden": 1,
+      "passed": true
+    },
+    {
+      "script": "S_11.eex",
+      "mapId": 11,
+      "records": 40,
+      "hidden": 1,
+      "passed": true
+    },
+    {
+      "script": "S_12.eex",
+      "mapId": 12,
+      "records": 42,
+      "hidden": 31,
+      "passed": true
+    },
+    {
+      "script": "S_13.eex",
+      "mapId": 13,
+      "records": 32,
+      "hidden": 4,
+      "passed": true
+    },
+    {
+      "script": "S_14.eex",
+      "mapId": 14,
+      "records": 33,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_15.eex",
+      "mapId": 15,
+      "records": 29,
+      "hidden": 6,
+      "passed": true
+    },
+    {
+      "script": "S_16.eex",
+      "mapId": 16,
+      "records": 24,
+      "hidden": 1,
+      "passed": true
+    },
+    {
+      "script": "S_17.eex",
+      "mapId": 17,
+      "records": 33,
+      "hidden": 4,
+      "passed": true
+    },
+    {
+      "script": "S_18.eex",
+      "mapId": 18,
+      "records": 43,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_19.eex",
+      "mapId": 19,
+      "records": 25,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_20.eex",
+      "mapId": 20,
+      "records": 28,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_21.eex",
+      "mapId": 21,
+      "records": 71,
+      "hidden": 26,
+      "passed": true
+    },
+    {
+      "script": "S_22.eex",
+      "mapId": 22,
+      "records": 44,
+      "hidden": 14,
+      "passed": true
+    },
+    {
+      "script": "S_23.eex",
+      "mapId": 23,
+      "records": 38,
+      "hidden": 8,
+      "passed": true
+    },
+    {
+      "script": "S_24.eex",
+      "mapId": 24,
+      "records": 35,
+      "hidden": 22,
+      "passed": true
+    },
+    {
+      "script": "S_25.eex",
+      "mapId": 25,
+      "records": 27,
+      "hidden": 16,
+      "passed": true
+    },
+    {
+      "script": "S_26.eex",
+      "mapId": 26,
+      "records": 40,
+      "hidden": 21,
+      "passed": true
+    },
+    {
+      "script": "S_27.eex",
+      "mapId": 27,
+      "records": 45,
+      "hidden": 20,
+      "passed": true
+    },
+    {
+      "script": "S_28.eex",
+      "mapId": 28,
+      "records": 45,
+      "hidden": 20,
+      "passed": true
+    },
+    {
+      "script": "S_29.eex",
+      "mapId": 29,
+      "records": 37,
+      "hidden": 37,
+      "passed": true
+    },
+    {
+      "script": "S_30.eex",
+      "mapId": 30,
+      "records": 23,
+      "hidden": 2,
+      "passed": true
+    },
+    {
+      "script": "S_31.eex",
+      "mapId": 31,
+      "records": 28,
+      "hidden": 2,
+      "passed": true
+    },
+    {
+      "script": "S_32.eex",
+      "mapId": 32,
+      "records": 39,
+      "hidden": 7,
+      "passed": true
+    },
+    {
+      "script": "S_33.eex",
+      "mapId": 33,
+      "records": 25,
+      "hidden": 8,
+      "passed": true
+    },
+    {
+      "script": "S_34.eex",
+      "mapId": 34,
+      "records": 45,
+      "hidden": 19,
+      "passed": true
+    },
+    {
+      "script": "S_35.eex",
+      "mapId": 35,
+      "records": 62,
+      "hidden": 27,
+      "passed": true
+    },
+    {
+      "script": "S_36.eex",
+      "mapId": 36,
+      "records": 39,
+      "hidden": 3,
+      "passed": true
+    },
+    {
+      "script": "S_37.eex",
+      "mapId": 37,
+      "records": 37,
+      "hidden": 26,
+      "passed": true
+    },
+    {
+      "script": "S_38.eex",
+      "mapId": 38,
+      "records": 42,
+      "hidden": 6,
+      "passed": true
+    },
+    {
+      "script": "S_39.eex",
+      "mapId": 39,
+      "records": 49,
+      "hidden": 20,
+      "passed": true
+    },
+    {
+      "script": "S_40.eex",
+      "mapId": 40,
+      "records": 67,
+      "hidden": 24,
+      "passed": true
+    },
+    {
+      "script": "S_41.eex",
+      "mapId": 41,
+      "records": 81,
+      "hidden": 44,
+      "passed": true
+    },
+    {
+      "script": "S_42.eex",
+      "mapId": 42,
+      "records": 47,
+      "hidden": 10,
+      "passed": true
+    },
+    {
+      "script": "S_43.eex",
+      "mapId": 43,
+      "records": 49,
+      "hidden": 16,
+      "passed": true
+    },
+    {
+      "script": "S_44.eex",
+      "mapId": 44,
+      "records": 46,
+      "hidden": 24,
+      "passed": true
+    },
+    {
+      "script": "S_45.eex",
+      "mapId": 45,
+      "records": 71,
+      "hidden": 22,
+      "passed": true
+    },
+    {
+      "script": "S_46.eex",
+      "mapId": 46,
+      "records": 65,
+      "hidden": 23,
+      "passed": true
+    },
+    {
+      "script": "S_47.eex",
+      "mapId": 47,
+      "records": 46,
+      "hidden": 2,
+      "passed": true
+    },
+    {
+      "script": "S_48.eex",
+      "mapId": 48,
+      "records": 31,
+      "hidden": 17,
+      "passed": true
+    },
+    {
+      "script": "S_49.eex",
+      "mapId": 49,
+      "records": 68,
+      "hidden": 0,
+      "passed": true
+    },
+    {
+      "script": "S_50.eex",
+      "mapId": 50,
+      "records": 63,
+      "hidden": 28,
+      "passed": true
+    },
+    {
+      "script": "S_51.eex",
+      "mapId": 51,
+      "records": 75,
+      "hidden": 6,
+      "passed": true
+    },
+    {
+      "script": "S_52.eex",
+      "mapId": 52,
+      "records": 22,
+      "hidden": 21,
+      "passed": true
+    },
+    {
+      "script": "S_53.eex",
+      "mapId": 53,
+      "records": 42,
+      "hidden": 4,
+      "passed": true
+    },
+    {
+      "script": "S_54.eex",
+      "mapId": 54,
+      "records": 61,
+      "hidden": 36,
+      "passed": true
+    },
+    {
+      "script": "S_55.eex",
+      "mapId": 55,
+      "records": 63,
+      "hidden": 26,
+      "passed": true
+    },
+    {
+      "script": "S_56.eex",
+      "mapId": 56,
+      "records": 79,
+      "hidden": 22,
+      "passed": true
+    },
+    {
+      "script": "S_57.eex",
+      "mapId": 57,
+      "records": 34,
+      "hidden": 18,
+      "passed": true
+    }
+  ],
+  "fixture": "party=[0], character table and campaign state zeroed; campaign-independent presets cannot stand in for actual player army"
+}

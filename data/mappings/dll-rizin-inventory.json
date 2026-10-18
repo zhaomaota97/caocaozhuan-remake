@@ -1,0 +1,2619 @@
+[
+  {
+    "file": "AutoDLL.dll",
+    "function_count": 108,
+    "functions": [
+      {
+        "address": 268439552,
+        "name": "fcn.10001000",
+        "size": 296
+      },
+      {
+        "address": 268440064,
+        "name": "fcn.10001200",
+        "size": 77
+      },
+      {
+        "address": 268440144,
+        "name": "fcn.10001250",
+        "size": 79
+      },
+      {
+        "address": 268440224,
+        "name": "sym.AutoDLL.dll_dummy",
+        "size": 1
+      },
+      {
+        "address": 268440240,
+        "name": "sym.AutoDLL.dll_ASave",
+        "size": 155
+      },
+      {
+        "address": 268440395,
+        "name": "fcn.1000134b",
+        "size": 385
+      },
+      {
+        "address": 268440780,
+        "name": "entry0",
+        "size": 228
+      },
+      {
+        "address": 268441008,
+        "name": "fcn.100015b0",
+        "size": 51
+      },
+      {
+        "address": 268441059,
+        "name": "fcn.100015e3",
+        "size": 47
+      },
+      {
+        "address": 268441107,
+        "name": "fcn.10001613",
+        "size": 9
+      },
+      {
+        "address": 268441116,
+        "name": "fcn.1000161c",
+        "size": 9
+      },
+      {
+        "address": 268441125,
+        "name": "fcn.10001625",
+        "size": 24
+      },
+      {
+        "address": 268441149,
+        "name": "fcn.1000163d",
+        "size": 106
+      },
+      {
+        "address": 268441255,
+        "name": "fcn.100016a7",
+        "size": 195
+      },
+      {
+        "address": 268441450,
+        "name": "fcn.1000176a",
+        "size": 17
+      },
+      {
+        "address": 268441467,
+        "name": "fcn.1000177b",
+        "size": 15
+      },
+      {
+        "address": 268441491,
+        "name": "fcn.10001793",
+        "size": 4428
+      },
+      {
+        "address": 268441520,
+        "name": "fcn.100017b0",
+        "size": 19
+      },
+      {
+        "address": 268441539,
+        "name": "fcn.100017c3",
+        "size": 113
+      },
+      {
+        "address": 268441652,
+        "name": "fcn.10001834",
+        "size": 301
+      },
+      {
+        "address": 268441958,
+        "name": "fcn.10001966",
+        "size": 9
+      },
+      {
+        "address": 268441970,
+        "name": "fcn.10001972",
+        "size": 9
+      },
+      {
+        "address": 268441979,
+        "name": "fcn.1000197b",
+        "size": 47
+      },
+      {
+        "address": 268442026,
+        "name": "fcn.100019aa",
+        "size": 239
+      },
+      {
+        "address": 268442265,
+        "name": "fcn.10001a99",
+        "size": 113
+      },
+      {
+        "address": 268442348,
+        "name": "fcn.10001aec",
+        "size": 9
+      },
+      {
+        "address": 268442378,
+        "name": "fcn.10001b0a",
+        "size": 187
+      },
+      {
+        "address": 268442548,
+        "name": "fcn.10001bb4",
+        "size": 9
+      },
+      {
+        "address": 268442565,
+        "name": "fcn.10001bc5",
+        "size": 510
+      },
+      {
+        "address": 268443075,
+        "name": "fcn.10001dc3",
+        "size": 76
+      },
+      {
+        "address": 268443151,
+        "name": "fcn.10001e0f",
+        "size": 199
+      },
+      {
+        "address": 268443350,
+        "name": "fcn.10001ed6",
+        "size": 364
+      },
+      {
+        "address": 268443714,
+        "name": "fcn.10002042",
+        "size": 162
+      },
+      {
+        "address": 268443876,
+        "name": "fcn.100020e4",
+        "size": 290
+      },
+      {
+        "address": 268444166,
+        "name": "fcn.10002206",
+        "size": 68
+      },
+      {
+        "address": 268444302,
+        "name": "fcn.1000228e",
+        "size": 26
+      },
+      {
+        "address": 268444328,
+        "name": "fcn.100022a8",
+        "size": 81
+      },
+      {
+        "address": 268444409,
+        "name": "fcn.100022f9",
+        "size": 127
+      },
+      {
+        "address": 268444544,
+        "name": "fcn.10002380",
+        "size": 61
+      },
+      {
+        "address": 268444605,
+        "name": "fcn.100023bd",
+        "size": 356
+      },
+      {
+        "address": 268444961,
+        "name": "fcn.10002521",
+        "size": 27
+      },
+      {
+        "address": 268444988,
+        "name": "fcn.1000253c",
+        "size": 59
+      },
+      {
+        "address": 268445047,
+        "name": "fcn.10002577",
+        "size": 17
+      },
+      {
+        "address": 268445329,
+        "name": "fcn.10002691",
+        "size": 375
+      },
+      {
+        "address": 268445704,
+        "name": "fcn.10002808",
+        "size": 57
+      },
+      {
+        "address": 268445761,
+        "name": "fcn.10002841",
+        "size": 73
+      },
+      {
+        "address": 268445919,
+        "name": "fcn.100028df",
+        "size": 21
+      },
+      {
+        "address": 268445940,
+        "name": "fcn.100028f4",
+        "size": 151
+      },
+      {
+        "address": 268446091,
+        "name": "fcn.1000298b",
+        "size": 9
+      },
+      {
+        "address": 268446100,
+        "name": "fcn.10002994",
+        "size": 49
+      },
+      {
+        "address": 268446149,
+        "name": "fcn.100029c5",
+        "size": 128
+      },
+      {
+        "address": 268446317,
+        "name": "fcn.10002a6d",
+        "size": 50
+      },
+      {
+        "address": 268446367,
+        "name": "fcn.10002a9f",
+        "size": 6
+      },
+      {
+        "address": 268446373,
+        "name": "fcn.10002aa5",
+        "size": 18
+      },
+      {
+        "address": 268446391,
+        "name": "fcn.10002ab7",
+        "size": 208
+      },
+      {
+        "address": 268446599,
+        "name": "fcn.10002b87",
+        "size": 193
+      },
+      {
+        "address": 268446792,
+        "name": "fcn.10002c48",
+        "size": 50
+      },
+      {
+        "address": 268446842,
+        "name": "fcn.10002c7a",
+        "size": 9
+      },
+      {
+        "address": 268446851,
+        "name": "fcn.10002c83",
+        "size": 47
+      },
+      {
+        "address": 268446898,
+        "name": "fcn.10002cb2",
+        "size": 41
+      },
+      {
+        "address": 268446939,
+        "name": "fcn.10002cdb",
+        "size": 396
+      },
+      {
+        "address": 268447335,
+        "name": "fcn.10002e67",
+        "size": 400
+      },
+      {
+        "address": 268447735,
+        "name": "fcn.10002ff7",
+        "size": 327
+      },
+      {
+        "address": 268448062,
+        "name": "fcn.1000313e",
+        "size": 9
+      },
+      {
+        "address": 268448071,
+        "name": "fcn.10003147",
+        "size": 30
+      },
+      {
+        "address": 268448101,
+        "name": "fcn.10003165",
+        "size": 72
+      },
+      {
+        "address": 268448173,
+        "name": "fcn.100031ad",
+        "size": 43
+      },
+      {
+        "address": 268448216,
+        "name": "fcn.100031d8",
+        "size": 792
+      },
+      {
+        "address": 268449008,
+        "name": "fcn.100034f0",
+        "size": 183
+      },
+      {
+        "address": 268449191,
+        "name": "fcn.100035a7",
+        "size": 262
+      },
+      {
+        "address": 268449453,
+        "name": "fcn.100036ad",
+        "size": 735
+      },
+      {
+        "address": 268450188,
+        "name": "fcn.1000398c",
+        "size": 764
+      },
+      {
+        "address": 268450952,
+        "name": "fcn.10003c88",
+        "size": 27
+      },
+      {
+        "address": 268450992,
+        "name": "fcn.10003cb0",
+        "size": 96
+      },
+      {
+        "address": 268451104,
+        "name": "fcn.10003d20",
+        "size": 139
+      },
+      {
+        "address": 268451243,
+        "name": "fcn.10003dab",
+        "size": 111
+      },
+      {
+        "address": 268451357,
+        "name": "fcn.10003e1d",
+        "size": 9
+      },
+      {
+        "address": 268451366,
+        "name": "fcn.10003e26",
+        "size": 44
+      },
+      {
+        "address": 268451410,
+        "name": "fcn.10003e52",
+        "size": 18
+      },
+      {
+        "address": 268451440,
+        "name": "fcn.10003e70",
+        "size": 248
+      },
+      {
+        "address": 268451456,
+        "name": "fcn.10003e80",
+        "size": 101
+      },
+      {
+        "address": 268451696,
+        "name": "fcn.10003f70",
+        "size": 139
+      },
+      {
+        "address": 268451840,
+        "name": "fcn.10004000",
+        "size": 829
+      },
+      {
+        "address": 268452672,
+        "name": "fcn.10004340",
+        "size": 32
+      },
+      {
+        "address": 268452738,
+        "name": "fcn.10004382",
+        "size": 104
+      },
+      {
+        "address": 268452886,
+        "name": "fcn.10004416",
+        "size": 24
+      },
+      {
+        "address": 268452910,
+        "name": "fcn.1000442e",
+        "size": 553
+      },
+      {
+        "address": 268453463,
+        "name": "fcn.10004657",
+        "size": 249
+      },
+      {
+        "address": 268453712,
+        "name": "fcn.10004750",
+        "size": 292
+      },
+      {
+        "address": 268454053,
+        "name": "fcn.100048a5",
+        "size": 63
+      },
+      {
+        "address": 268454067,
+        "name": "fcn.100048b3",
+        "size": 9
+      },
+      {
+        "address": 268454076,
+        "name": "fcn.100048bc",
+        "size": 429
+      },
+      {
+        "address": 268454436,
+        "name": "fcn.10004a24",
+        "size": 9
+      },
+      {
+        "address": 268454505,
+        "name": "fcn.10004a69",
+        "size": 106
+      },
+      {
+        "address": 268454614,
+        "name": "fcn.10004ad6",
+        "size": 9
+      },
+      {
+        "address": 268454623,
+        "name": "fcn.10004adf",
+        "size": 400
+      },
+      {
+        "address": 268455023,
+        "name": "fcn.10004c6f",
+        "size": 95
+      },
+      {
+        "address": 268455118,
+        "name": "fcn.10004cce",
+        "size": 217
+      },
+      {
+        "address": 268455752,
+        "name": "fcn.10004f48",
+        "size": 442
+      },
+      {
+        "address": 268456336,
+        "name": "fcn.10005190",
+        "size": 956
+      },
+      {
+        "address": 268457296,
+        "name": "fcn.10005550",
+        "size": 829
+      },
+      {
+        "address": 268458227,
+        "name": "fcn.100058f3",
+        "size": 328
+      },
+      {
+        "address": 268458638,
+        "name": "fcn.10005a8e",
+        "size": 227
+      },
+      {
+        "address": 268458865,
+        "name": "fcn.10005b71",
+        "size": 136
+      },
+      {
+        "address": 268459001,
+        "name": "fcn.10005bf9",
+        "size": 67
+      },
+      {
+        "address": 268459068,
+        "name": "fcn.10005c3c",
+        "size": 457
+      },
+      {
+        "address": 268459525,
+        "name": "fcn.10005e05",
+        "size": 119
+      },
+      {
+        "address": 268460190,
+        "name": "sub.KERNEL32.dll_RtlUnwind",
+        "size": 6
+      }
+    ],
+    "stderr_tail": "\u001b[2K\n"
+  },
+  {
+    "file": "Cmdicon.dll",
+    "function_count": 74,
+    "functions": [
+      {
+        "address": 268439552,
+        "name": "fcn.10001000",
+        "size": 8
+      },
+      {
+        "address": 268439568,
+        "name": "fcn.10001010",
+        "size": 347
+      },
+      {
+        "address": 268439920,
+        "name": "entry0",
+        "size": 191
+      },
+      {
+        "address": 268440112,
+        "name": "fcn.10001230",
+        "size": 56
+      },
+      {
+        "address": 268440176,
+        "name": "fcn.10001270",
+        "size": 48
+      },
+      {
+        "address": 268440256,
+        "name": "fcn.100012c0",
+        "size": 15
+      },
+      {
+        "address": 268440272,
+        "name": "fcn.100012d0",
+        "size": 173
+      },
+      {
+        "address": 268440464,
+        "name": "fcn.10001390",
+        "size": 11
+      },
+      {
+        "address": 268440480,
+        "name": "fcn.100013a0",
+        "size": 11
+      },
+      {
+        "address": 268440496,
+        "name": "fcn.100013b0",
+        "size": 32
+      },
+      {
+        "address": 268440528,
+        "name": "fcn.100013d0",
+        "size": 96
+      },
+      {
+        "address": 268440624,
+        "name": "fcn.10001430",
+        "size": 33
+      },
+      {
+        "address": 268440672,
+        "name": "fcn.10001460",
+        "size": 19
+      },
+      {
+        "address": 268440704,
+        "name": "fcn.10001480",
+        "size": 111
+      },
+      {
+        "address": 268440816,
+        "name": "fcn.100014f0",
+        "size": 161
+      },
+      {
+        "address": 268440992,
+        "name": "fcn.100015a0",
+        "size": 57
+      },
+      {
+        "address": 268441056,
+        "name": "fcn.100015e0",
+        "size": 58
+      },
+      {
+        "address": 268441120,
+        "name": "fcn.10001620",
+        "size": 480
+      },
+      {
+        "address": 268441600,
+        "name": "fcn.10001800",
+        "size": 85
+      },
+      {
+        "address": 268441696,
+        "name": "fcn.10001860",
+        "size": 229
+      },
+      {
+        "address": 268441936,
+        "name": "fcn.10001950",
+        "size": 155
+      },
+      {
+        "address": 268442096,
+        "name": "fcn.100019f0",
+        "size": 464
+      },
+      {
+        "address": 268442560,
+        "name": "fcn.10001bc0",
+        "size": 547
+      },
+      {
+        "address": 268443120,
+        "name": "fcn.10001df0",
+        "size": 77
+      },
+      {
+        "address": 268443200,
+        "name": "fcn.10001e40",
+        "size": 56
+      },
+      {
+        "address": 268443296,
+        "name": "fcn.10001ea0",
+        "size": 44
+      },
+      {
+        "address": 268443344,
+        "name": "fcn.10001ed0",
+        "size": 11
+      },
+      {
+        "address": 268443360,
+        "name": "fcn.10001ee0",
+        "size": 396
+      },
+      {
+        "address": 268443760,
+        "name": "fcn.10002070",
+        "size": 10
+      },
+      {
+        "address": 268443776,
+        "name": "fcn.10002080",
+        "size": 61
+      },
+      {
+        "address": 268443840,
+        "name": "fcn.100020c0",
+        "size": 502
+      },
+      {
+        "address": 268444352,
+        "name": "fcn.100022c0",
+        "size": 42
+      },
+      {
+        "address": 268444400,
+        "name": "fcn.100022f0",
+        "size": 100
+      },
+      {
+        "address": 268444512,
+        "name": "fcn.10002360",
+        "size": 104
+      },
+      {
+        "address": 268444624,
+        "name": "fcn.100023d0",
+        "size": 23
+      },
+      {
+        "address": 268444656,
+        "name": "fcn.100023f0",
+        "size": 54
+      },
+      {
+        "address": 268444720,
+        "name": "fcn.10002430",
+        "size": 40
+      },
+      {
+        "address": 268444768,
+        "name": "fcn.10002460",
+        "size": 54
+      },
+      {
+        "address": 268444832,
+        "name": "fcn.100024a0",
+        "size": 40
+      },
+      {
+        "address": 268444880,
+        "name": "fcn.100024d0",
+        "size": 171
+      },
+      {
+        "address": 268445056,
+        "name": "fcn.10002580",
+        "size": 109
+      },
+      {
+        "address": 268445168,
+        "name": "fcn.100025f0",
+        "size": 368
+      },
+      {
+        "address": 268445536,
+        "name": "fcn.10002760",
+        "size": 94
+      },
+      {
+        "address": 268445632,
+        "name": "fcn.100027c0",
+        "size": 215
+      },
+      {
+        "address": 268445856,
+        "name": "fcn.100028a0",
+        "size": 81
+      },
+      {
+        "address": 268445952,
+        "name": "fcn.10002900",
+        "size": 70
+      },
+      {
+        "address": 268446032,
+        "name": "fcn.10002950",
+        "size": 634
+      },
+      {
+        "address": 268446672,
+        "name": "fcn.10002bd0",
+        "size": 380
+      },
+      {
+        "address": 268447056,
+        "name": "fcn.10002d50",
+        "size": 20
+      },
+      {
+        "address": 268447088,
+        "name": "fcn.10002d70",
+        "size": 74
+      },
+      {
+        "address": 268447168,
+        "name": "fcn.10002dc0",
+        "size": 83
+      },
+      {
+        "address": 268447264,
+        "name": "fcn.10002e20",
+        "size": 146
+      },
+      {
+        "address": 268447424,
+        "name": "fcn.10002ec0",
+        "size": 254
+      },
+      {
+        "address": 268447920,
+        "name": "fcn.100030b0",
+        "size": 62
+      },
+      {
+        "address": 268448144,
+        "name": "fcn.10003190",
+        "size": 60
+      },
+      {
+        "address": 268448208,
+        "name": "fcn.100031d0",
+        "size": 100
+      },
+      {
+        "address": 268448320,
+        "name": "fcn.10003240",
+        "size": 11
+      },
+      {
+        "address": 268448336,
+        "name": "fcn.10003250",
+        "size": 203
+      },
+      {
+        "address": 268448544,
+        "name": "fcn.10003320",
+        "size": 63
+      },
+      {
+        "address": 268448608,
+        "name": "fcn.10003360",
+        "size": 95
+      },
+      {
+        "address": 268448704,
+        "name": "fcn.100033c0",
+        "size": 162
+      },
+      {
+        "address": 268448880,
+        "name": "fcn.10003470",
+        "size": 120
+      },
+      {
+        "address": 268449008,
+        "name": "fcn.100034f0",
+        "size": 507
+      },
+      {
+        "address": 268449520,
+        "name": "fcn.100036f0",
+        "size": 110
+      },
+      {
+        "address": 268449632,
+        "name": "fcn.10003760",
+        "size": 137
+      },
+      {
+        "address": 268449776,
+        "name": "fcn.100037f0",
+        "size": 57
+      },
+      {
+        "address": 268449840,
+        "name": "fcn.10003830",
+        "size": 115
+      },
+      {
+        "address": 268449968,
+        "name": "fcn.100038b0",
+        "size": 9
+      },
+      {
+        "address": 268449984,
+        "name": "fcn.100038c0",
+        "size": 9
+      },
+      {
+        "address": 268450000,
+        "name": "fcn.100038d0",
+        "size": 145
+      },
+      {
+        "address": 268450160,
+        "name": "fcn.10003970",
+        "size": 74
+      },
+      {
+        "address": 268450240,
+        "name": "fcn.100039c0",
+        "size": 97
+      },
+      {
+        "address": 268450352,
+        "name": "fcn.10003a30",
+        "size": 40
+      },
+      {
+        "address": 268450400,
+        "name": "fcn.10003a60",
+        "size": 130
+      }
+    ],
+    "stderr_tail": "\u001b[2K\n"
+  },
+  {
+    "file": "Itemicon.dll",
+    "function_count": 74,
+    "functions": [
+      {
+        "address": 268439552,
+        "name": "fcn.10001000",
+        "size": 8
+      },
+      {
+        "address": 268439568,
+        "name": "fcn.10001010",
+        "size": 347
+      },
+      {
+        "address": 268439920,
+        "name": "entry0",
+        "size": 191
+      },
+      {
+        "address": 268440112,
+        "name": "fcn.10001230",
+        "size": 56
+      },
+      {
+        "address": 268440176,
+        "name": "fcn.10001270",
+        "size": 48
+      },
+      {
+        "address": 268440256,
+        "name": "fcn.100012c0",
+        "size": 15
+      },
+      {
+        "address": 268440272,
+        "name": "fcn.100012d0",
+        "size": 173
+      },
+      {
+        "address": 268440464,
+        "name": "fcn.10001390",
+        "size": 11
+      },
+      {
+        "address": 268440480,
+        "name": "fcn.100013a0",
+        "size": 11
+      },
+      {
+        "address": 268440496,
+        "name": "fcn.100013b0",
+        "size": 32
+      },
+      {
+        "address": 268440528,
+        "name": "fcn.100013d0",
+        "size": 96
+      },
+      {
+        "address": 268440624,
+        "name": "fcn.10001430",
+        "size": 33
+      },
+      {
+        "address": 268440672,
+        "name": "fcn.10001460",
+        "size": 19
+      },
+      {
+        "address": 268440704,
+        "name": "fcn.10001480",
+        "size": 111
+      },
+      {
+        "address": 268440816,
+        "name": "fcn.100014f0",
+        "size": 161
+      },
+      {
+        "address": 268440992,
+        "name": "fcn.100015a0",
+        "size": 57
+      },
+      {
+        "address": 268441056,
+        "name": "fcn.100015e0",
+        "size": 58
+      },
+      {
+        "address": 268441120,
+        "name": "fcn.10001620",
+        "size": 480
+      },
+      {
+        "address": 268441600,
+        "name": "fcn.10001800",
+        "size": 85
+      },
+      {
+        "address": 268441696,
+        "name": "fcn.10001860",
+        "size": 229
+      },
+      {
+        "address": 268441936,
+        "name": "fcn.10001950",
+        "size": 155
+      },
+      {
+        "address": 268442096,
+        "name": "fcn.100019f0",
+        "size": 464
+      },
+      {
+        "address": 268442560,
+        "name": "fcn.10001bc0",
+        "size": 547
+      },
+      {
+        "address": 268443120,
+        "name": "fcn.10001df0",
+        "size": 77
+      },
+      {
+        "address": 268443200,
+        "name": "fcn.10001e40",
+        "size": 56
+      },
+      {
+        "address": 268443296,
+        "name": "fcn.10001ea0",
+        "size": 44
+      },
+      {
+        "address": 268443344,
+        "name": "fcn.10001ed0",
+        "size": 11
+      },
+      {
+        "address": 268443360,
+        "name": "fcn.10001ee0",
+        "size": 396
+      },
+      {
+        "address": 268443760,
+        "name": "fcn.10002070",
+        "size": 10
+      },
+      {
+        "address": 268443776,
+        "name": "fcn.10002080",
+        "size": 61
+      },
+      {
+        "address": 268443840,
+        "name": "fcn.100020c0",
+        "size": 502
+      },
+      {
+        "address": 268444352,
+        "name": "fcn.100022c0",
+        "size": 42
+      },
+      {
+        "address": 268444400,
+        "name": "fcn.100022f0",
+        "size": 100
+      },
+      {
+        "address": 268444512,
+        "name": "fcn.10002360",
+        "size": 104
+      },
+      {
+        "address": 268444624,
+        "name": "fcn.100023d0",
+        "size": 23
+      },
+      {
+        "address": 268444656,
+        "name": "fcn.100023f0",
+        "size": 54
+      },
+      {
+        "address": 268444720,
+        "name": "fcn.10002430",
+        "size": 40
+      },
+      {
+        "address": 268444768,
+        "name": "fcn.10002460",
+        "size": 54
+      },
+      {
+        "address": 268444832,
+        "name": "fcn.100024a0",
+        "size": 40
+      },
+      {
+        "address": 268444880,
+        "name": "fcn.100024d0",
+        "size": 171
+      },
+      {
+        "address": 268445056,
+        "name": "fcn.10002580",
+        "size": 109
+      },
+      {
+        "address": 268445168,
+        "name": "fcn.100025f0",
+        "size": 368
+      },
+      {
+        "address": 268445536,
+        "name": "fcn.10002760",
+        "size": 94
+      },
+      {
+        "address": 268445632,
+        "name": "fcn.100027c0",
+        "size": 215
+      },
+      {
+        "address": 268445856,
+        "name": "fcn.100028a0",
+        "size": 81
+      },
+      {
+        "address": 268445952,
+        "name": "fcn.10002900",
+        "size": 70
+      },
+      {
+        "address": 268446032,
+        "name": "fcn.10002950",
+        "size": 634
+      },
+      {
+        "address": 268446672,
+        "name": "fcn.10002bd0",
+        "size": 380
+      },
+      {
+        "address": 268447056,
+        "name": "fcn.10002d50",
+        "size": 20
+      },
+      {
+        "address": 268447088,
+        "name": "fcn.10002d70",
+        "size": 74
+      },
+      {
+        "address": 268447168,
+        "name": "fcn.10002dc0",
+        "size": 83
+      },
+      {
+        "address": 268447264,
+        "name": "fcn.10002e20",
+        "size": 146
+      },
+      {
+        "address": 268447424,
+        "name": "fcn.10002ec0",
+        "size": 254
+      },
+      {
+        "address": 268447920,
+        "name": "fcn.100030b0",
+        "size": 62
+      },
+      {
+        "address": 268448144,
+        "name": "fcn.10003190",
+        "size": 60
+      },
+      {
+        "address": 268448208,
+        "name": "fcn.100031d0",
+        "size": 100
+      },
+      {
+        "address": 268448320,
+        "name": "fcn.10003240",
+        "size": 11
+      },
+      {
+        "address": 268448336,
+        "name": "fcn.10003250",
+        "size": 203
+      },
+      {
+        "address": 268448544,
+        "name": "fcn.10003320",
+        "size": 63
+      },
+      {
+        "address": 268448608,
+        "name": "fcn.10003360",
+        "size": 95
+      },
+      {
+        "address": 268448704,
+        "name": "fcn.100033c0",
+        "size": 162
+      },
+      {
+        "address": 268448880,
+        "name": "fcn.10003470",
+        "size": 120
+      },
+      {
+        "address": 268449008,
+        "name": "fcn.100034f0",
+        "size": 507
+      },
+      {
+        "address": 268449520,
+        "name": "fcn.100036f0",
+        "size": 110
+      },
+      {
+        "address": 268449632,
+        "name": "fcn.10003760",
+        "size": 137
+      },
+      {
+        "address": 268449776,
+        "name": "fcn.100037f0",
+        "size": 57
+      },
+      {
+        "address": 268449840,
+        "name": "fcn.10003830",
+        "size": 115
+      },
+      {
+        "address": 268449968,
+        "name": "fcn.100038b0",
+        "size": 9
+      },
+      {
+        "address": 268449984,
+        "name": "fcn.100038c0",
+        "size": 9
+      },
+      {
+        "address": 268450000,
+        "name": "fcn.100038d0",
+        "size": 145
+      },
+      {
+        "address": 268450160,
+        "name": "fcn.10003970",
+        "size": 74
+      },
+      {
+        "address": 268450240,
+        "name": "fcn.100039c0",
+        "size": 97
+      },
+      {
+        "address": 268450352,
+        "name": "fcn.10003a30",
+        "size": 40
+      },
+      {
+        "address": 268450400,
+        "name": "fcn.10003a60",
+        "size": 130
+      }
+    ],
+    "stderr_tail": "\u001b[2K\n"
+  },
+  {
+    "file": "Koeicda.dll",
+    "function_count": 111,
+    "functions": [
+      {
+        "address": 268439552,
+        "name": "fcn.10001000",
+        "size": 8
+      },
+      {
+        "address": 268439568,
+        "name": "fcn.10001010",
+        "size": 108
+      },
+      {
+        "address": 268439680,
+        "name": "fcn.10001080",
+        "size": 108
+      },
+      {
+        "address": 268439792,
+        "name": "sym.KOEICDA.dll_CDAudioPause",
+        "size": 31
+      },
+      {
+        "address": 268439824,
+        "name": "sym.KOEICDA.dll_CDAudioPlayTrack",
+        "size": 34
+      },
+      {
+        "address": 268439872,
+        "name": "sym.KOEICDA.dll_CDAudioResume",
+        "size": 31
+      },
+      {
+        "address": 268439904,
+        "name": "sym.KOEICDA.dll_CDAudioStop",
+        "size": 31
+      },
+      {
+        "address": 268439936,
+        "name": "sym.KOEICDA.dll_CDAudioClose",
+        "size": 6
+      },
+      {
+        "address": 268439942,
+        "name": "fcn.10001186",
+        "size": 385
+      },
+      {
+        "address": 268440327,
+        "name": "entry0",
+        "size": 228
+      },
+      {
+        "address": 268440555,
+        "name": "fcn.100013eb",
+        "size": 51
+      },
+      {
+        "address": 268440606,
+        "name": "fcn.1000141e",
+        "size": 47
+      },
+      {
+        "address": 268440654,
+        "name": "fcn.1000144e",
+        "size": 9
+      },
+      {
+        "address": 268440663,
+        "name": "fcn.10001457",
+        "size": 9
+      },
+      {
+        "address": 268440672,
+        "name": "fcn.10001460",
+        "size": 24
+      },
+      {
+        "address": 268440696,
+        "name": "fcn.10001478",
+        "size": 106
+      },
+      {
+        "address": 268440802,
+        "name": "fcn.100014e2",
+        "size": 195
+      },
+      {
+        "address": 268440997,
+        "name": "fcn.100015a5",
+        "size": 17
+      },
+      {
+        "address": 268441014,
+        "name": "fcn.100015b6",
+        "size": 15
+      },
+      {
+        "address": 268441038,
+        "name": "fcn.100015ce",
+        "size": 4433
+      },
+      {
+        "address": 268441067,
+        "name": "fcn.100015eb",
+        "size": 19
+      },
+      {
+        "address": 268441086,
+        "name": "fcn.100015fe",
+        "size": 113
+      },
+      {
+        "address": 268441199,
+        "name": "fcn.1000166f",
+        "size": 301
+      },
+      {
+        "address": 268441505,
+        "name": "fcn.100017a1",
+        "size": 9
+      },
+      {
+        "address": 268441517,
+        "name": "fcn.100017ad",
+        "size": 9
+      },
+      {
+        "address": 268441526,
+        "name": "fcn.100017b6",
+        "size": 47
+      },
+      {
+        "address": 268441573,
+        "name": "fcn.100017e5",
+        "size": 239
+      },
+      {
+        "address": 268441812,
+        "name": "fcn.100018d4",
+        "size": 113
+      },
+      {
+        "address": 268441895,
+        "name": "fcn.10001927",
+        "size": 9
+      },
+      {
+        "address": 268441925,
+        "name": "fcn.10001945",
+        "size": 187
+      },
+      {
+        "address": 268442095,
+        "name": "fcn.100019ef",
+        "size": 9
+      },
+      {
+        "address": 268442112,
+        "name": "fcn.10001a00",
+        "size": 510
+      },
+      {
+        "address": 268442622,
+        "name": "fcn.10001bfe",
+        "size": 76
+      },
+      {
+        "address": 268442698,
+        "name": "fcn.10001c4a",
+        "size": 199
+      },
+      {
+        "address": 268442897,
+        "name": "fcn.10001d11",
+        "size": 364
+      },
+      {
+        "address": 268443261,
+        "name": "fcn.10001e7d",
+        "size": 162
+      },
+      {
+        "address": 268443423,
+        "name": "fcn.10001f1f",
+        "size": 290
+      },
+      {
+        "address": 268443713,
+        "name": "fcn.10002041",
+        "size": 68
+      },
+      {
+        "address": 268443849,
+        "name": "fcn.100020c9",
+        "size": 26
+      },
+      {
+        "address": 268443875,
+        "name": "fcn.100020e3",
+        "size": 81
+      },
+      {
+        "address": 268443956,
+        "name": "fcn.10002134",
+        "size": 127
+      },
+      {
+        "address": 268444096,
+        "name": "fcn.100021c0",
+        "size": 61
+      },
+      {
+        "address": 268444157,
+        "name": "fcn.100021fd",
+        "size": 356
+      },
+      {
+        "address": 268444513,
+        "name": "fcn.10002361",
+        "size": 27
+      },
+      {
+        "address": 268444540,
+        "name": "fcn.1000237c",
+        "size": 59
+      },
+      {
+        "address": 268444599,
+        "name": "fcn.100023b7",
+        "size": 17
+      },
+      {
+        "address": 268444881,
+        "name": "fcn.100024d1",
+        "size": 375
+      },
+      {
+        "address": 268445256,
+        "name": "fcn.10002648",
+        "size": 57
+      },
+      {
+        "address": 268445313,
+        "name": "fcn.10002681",
+        "size": 73
+      },
+      {
+        "address": 268445471,
+        "name": "fcn.1000271f",
+        "size": 21
+      },
+      {
+        "address": 268445492,
+        "name": "fcn.10002734",
+        "size": 151
+      },
+      {
+        "address": 268445643,
+        "name": "fcn.100027cb",
+        "size": 9
+      },
+      {
+        "address": 268445652,
+        "name": "fcn.100027d4",
+        "size": 49
+      },
+      {
+        "address": 268445701,
+        "name": "fcn.10002805",
+        "size": 128
+      },
+      {
+        "address": 268445869,
+        "name": "fcn.100028ad",
+        "size": 50
+      },
+      {
+        "address": 268445919,
+        "name": "fcn.100028df",
+        "size": 6
+      },
+      {
+        "address": 268445925,
+        "name": "fcn.100028e5",
+        "size": 18
+      },
+      {
+        "address": 268445943,
+        "name": "fcn.100028f7",
+        "size": 208
+      },
+      {
+        "address": 268446151,
+        "name": "fcn.100029c7",
+        "size": 193
+      },
+      {
+        "address": 268446344,
+        "name": "fcn.10002a88",
+        "size": 50
+      },
+      {
+        "address": 268446394,
+        "name": "fcn.10002aba",
+        "size": 9
+      },
+      {
+        "address": 268446403,
+        "name": "fcn.10002ac3",
+        "size": 47
+      },
+      {
+        "address": 268446450,
+        "name": "fcn.10002af2",
+        "size": 41
+      },
+      {
+        "address": 268446491,
+        "name": "fcn.10002b1b",
+        "size": 396
+      },
+      {
+        "address": 268446887,
+        "name": "fcn.10002ca7",
+        "size": 400
+      },
+      {
+        "address": 268447287,
+        "name": "fcn.10002e37",
+        "size": 327
+      },
+      {
+        "address": 268447614,
+        "name": "fcn.10002f7e",
+        "size": 9
+      },
+      {
+        "address": 268447623,
+        "name": "fcn.10002f87",
+        "size": 30
+      },
+      {
+        "address": 268447653,
+        "name": "fcn.10002fa5",
+        "size": 72
+      },
+      {
+        "address": 268447725,
+        "name": "fcn.10002fed",
+        "size": 43
+      },
+      {
+        "address": 268447768,
+        "name": "fcn.10003018",
+        "size": 792
+      },
+      {
+        "address": 268448560,
+        "name": "fcn.10003330",
+        "size": 183
+      },
+      {
+        "address": 268448743,
+        "name": "fcn.100033e7",
+        "size": 262
+      },
+      {
+        "address": 268449005,
+        "name": "fcn.100034ed",
+        "size": 735
+      },
+      {
+        "address": 268449740,
+        "name": "fcn.100037cc",
+        "size": 764
+      },
+      {
+        "address": 268450504,
+        "name": "fcn.10003ac8",
+        "size": 27
+      },
+      {
+        "address": 268450544,
+        "name": "fcn.10003af0",
+        "size": 96
+      },
+      {
+        "address": 268450656,
+        "name": "fcn.10003b60",
+        "size": 139
+      },
+      {
+        "address": 268450795,
+        "name": "fcn.10003beb",
+        "size": 111
+      },
+      {
+        "address": 268450909,
+        "name": "fcn.10003c5d",
+        "size": 9
+      },
+      {
+        "address": 268450918,
+        "name": "fcn.10003c66",
+        "size": 44
+      },
+      {
+        "address": 268450962,
+        "name": "fcn.10003c92",
+        "size": 18
+      },
+      {
+        "address": 268450992,
+        "name": "fcn.10003cb0",
+        "size": 248
+      },
+      {
+        "address": 268451008,
+        "name": "fcn.10003cc0",
+        "size": 101
+      },
+      {
+        "address": 268451248,
+        "name": "fcn.10003db0",
+        "size": 139
+      },
+      {
+        "address": 268451392,
+        "name": "fcn.10003e40",
+        "size": 829
+      },
+      {
+        "address": 268452224,
+        "name": "fcn.10004180",
+        "size": 32
+      },
+      {
+        "address": 268452290,
+        "name": "fcn.100041c2",
+        "size": 104
+      },
+      {
+        "address": 268452438,
+        "name": "fcn.10004256",
+        "size": 24
+      },
+      {
+        "address": 268452462,
+        "name": "fcn.1000426e",
+        "size": 553
+      },
+      {
+        "address": 268453015,
+        "name": "fcn.10004497",
+        "size": 249
+      },
+      {
+        "address": 268453264,
+        "name": "fcn.10004590",
+        "size": 292
+      },
+      {
+        "address": 268453605,
+        "name": "fcn.100046e5",
+        "size": 63
+      },
+      {
+        "address": 268453619,
+        "name": "fcn.100046f3",
+        "size": 9
+      },
+      {
+        "address": 268453628,
+        "name": "fcn.100046fc",
+        "size": 429
+      },
+      {
+        "address": 268453988,
+        "name": "fcn.10004864",
+        "size": 9
+      },
+      {
+        "address": 268454057,
+        "name": "fcn.100048a9",
+        "size": 106
+      },
+      {
+        "address": 268454166,
+        "name": "fcn.10004916",
+        "size": 9
+      },
+      {
+        "address": 268454175,
+        "name": "fcn.1000491f",
+        "size": 400
+      },
+      {
+        "address": 268454575,
+        "name": "fcn.10004aaf",
+        "size": 95
+      },
+      {
+        "address": 268454670,
+        "name": "fcn.10004b0e",
+        "size": 217
+      },
+      {
+        "address": 268455304,
+        "name": "fcn.10004d88",
+        "size": 442
+      },
+      {
+        "address": 268455888,
+        "name": "fcn.10004fd0",
+        "size": 956
+      },
+      {
+        "address": 268456848,
+        "name": "fcn.10005390",
+        "size": 829
+      },
+      {
+        "address": 268457779,
+        "name": "fcn.10005733",
+        "size": 328
+      },
+      {
+        "address": 268458190,
+        "name": "fcn.100058ce",
+        "size": 227
+      },
+      {
+        "address": 268458417,
+        "name": "fcn.100059b1",
+        "size": 136
+      },
+      {
+        "address": 268458553,
+        "name": "fcn.10005a39",
+        "size": 67
+      },
+      {
+        "address": 268458620,
+        "name": "fcn.10005a7c",
+        "size": 457
+      },
+      {
+        "address": 268459077,
+        "name": "fcn.10005c45",
+        "size": 119
+      },
+      {
+        "address": 268459742,
+        "name": "sub.KERNEL32.dll_RtlUnwind",
+        "size": 6
+      }
+    ],
+    "stderr_tail": "\u001b[2K\n"
+  },
+  {
+    "file": "Mapatr.dll",
+    "function_count": 74,
+    "functions": [
+      {
+        "address": 268439552,
+        "name": "fcn.10001000",
+        "size": 8
+      },
+      {
+        "address": 268439568,
+        "name": "fcn.10001010",
+        "size": 347
+      },
+      {
+        "address": 268439920,
+        "name": "entry0",
+        "size": 191
+      },
+      {
+        "address": 268440112,
+        "name": "fcn.10001230",
+        "size": 56
+      },
+      {
+        "address": 268440176,
+        "name": "fcn.10001270",
+        "size": 48
+      },
+      {
+        "address": 268440256,
+        "name": "fcn.100012c0",
+        "size": 15
+      },
+      {
+        "address": 268440272,
+        "name": "fcn.100012d0",
+        "size": 173
+      },
+      {
+        "address": 268440464,
+        "name": "fcn.10001390",
+        "size": 11
+      },
+      {
+        "address": 268440480,
+        "name": "fcn.100013a0",
+        "size": 11
+      },
+      {
+        "address": 268440496,
+        "name": "fcn.100013b0",
+        "size": 32
+      },
+      {
+        "address": 268440528,
+        "name": "fcn.100013d0",
+        "size": 96
+      },
+      {
+        "address": 268440624,
+        "name": "fcn.10001430",
+        "size": 33
+      },
+      {
+        "address": 268440672,
+        "name": "fcn.10001460",
+        "size": 19
+      },
+      {
+        "address": 268440704,
+        "name": "fcn.10001480",
+        "size": 111
+      },
+      {
+        "address": 268440816,
+        "name": "fcn.100014f0",
+        "size": 161
+      },
+      {
+        "address": 268440992,
+        "name": "fcn.100015a0",
+        "size": 57
+      },
+      {
+        "address": 268441056,
+        "name": "fcn.100015e0",
+        "size": 58
+      },
+      {
+        "address": 268441120,
+        "name": "fcn.10001620",
+        "size": 480
+      },
+      {
+        "address": 268441600,
+        "name": "fcn.10001800",
+        "size": 85
+      },
+      {
+        "address": 268441696,
+        "name": "fcn.10001860",
+        "size": 229
+      },
+      {
+        "address": 268441936,
+        "name": "fcn.10001950",
+        "size": 155
+      },
+      {
+        "address": 268442096,
+        "name": "fcn.100019f0",
+        "size": 464
+      },
+      {
+        "address": 268442560,
+        "name": "fcn.10001bc0",
+        "size": 547
+      },
+      {
+        "address": 268443120,
+        "name": "fcn.10001df0",
+        "size": 77
+      },
+      {
+        "address": 268443200,
+        "name": "fcn.10001e40",
+        "size": 56
+      },
+      {
+        "address": 268443296,
+        "name": "fcn.10001ea0",
+        "size": 44
+      },
+      {
+        "address": 268443344,
+        "name": "fcn.10001ed0",
+        "size": 11
+      },
+      {
+        "address": 268443360,
+        "name": "fcn.10001ee0",
+        "size": 396
+      },
+      {
+        "address": 268443760,
+        "name": "fcn.10002070",
+        "size": 10
+      },
+      {
+        "address": 268443776,
+        "name": "fcn.10002080",
+        "size": 61
+      },
+      {
+        "address": 268443840,
+        "name": "fcn.100020c0",
+        "size": 502
+      },
+      {
+        "address": 268444352,
+        "name": "fcn.100022c0",
+        "size": 42
+      },
+      {
+        "address": 268444400,
+        "name": "fcn.100022f0",
+        "size": 100
+      },
+      {
+        "address": 268444512,
+        "name": "fcn.10002360",
+        "size": 104
+      },
+      {
+        "address": 268444624,
+        "name": "fcn.100023d0",
+        "size": 23
+      },
+      {
+        "address": 268444656,
+        "name": "fcn.100023f0",
+        "size": 54
+      },
+      {
+        "address": 268444720,
+        "name": "fcn.10002430",
+        "size": 40
+      },
+      {
+        "address": 268444768,
+        "name": "fcn.10002460",
+        "size": 54
+      },
+      {
+        "address": 268444832,
+        "name": "fcn.100024a0",
+        "size": 40
+      },
+      {
+        "address": 268444880,
+        "name": "fcn.100024d0",
+        "size": 171
+      },
+      {
+        "address": 268445056,
+        "name": "fcn.10002580",
+        "size": 109
+      },
+      {
+        "address": 268445168,
+        "name": "fcn.100025f0",
+        "size": 368
+      },
+      {
+        "address": 268445536,
+        "name": "fcn.10002760",
+        "size": 94
+      },
+      {
+        "address": 268445632,
+        "name": "fcn.100027c0",
+        "size": 215
+      },
+      {
+        "address": 268445856,
+        "name": "fcn.100028a0",
+        "size": 81
+      },
+      {
+        "address": 268445952,
+        "name": "fcn.10002900",
+        "size": 70
+      },
+      {
+        "address": 268446032,
+        "name": "fcn.10002950",
+        "size": 634
+      },
+      {
+        "address": 268446672,
+        "name": "fcn.10002bd0",
+        "size": 380
+      },
+      {
+        "address": 268447056,
+        "name": "fcn.10002d50",
+        "size": 20
+      },
+      {
+        "address": 268447088,
+        "name": "fcn.10002d70",
+        "size": 74
+      },
+      {
+        "address": 268447168,
+        "name": "fcn.10002dc0",
+        "size": 83
+      },
+      {
+        "address": 268447264,
+        "name": "fcn.10002e20",
+        "size": 146
+      },
+      {
+        "address": 268447424,
+        "name": "fcn.10002ec0",
+        "size": 254
+      },
+      {
+        "address": 268447920,
+        "name": "fcn.100030b0",
+        "size": 62
+      },
+      {
+        "address": 268448144,
+        "name": "fcn.10003190",
+        "size": 60
+      },
+      {
+        "address": 268448208,
+        "name": "fcn.100031d0",
+        "size": 100
+      },
+      {
+        "address": 268448320,
+        "name": "fcn.10003240",
+        "size": 11
+      },
+      {
+        "address": 268448336,
+        "name": "fcn.10003250",
+        "size": 203
+      },
+      {
+        "address": 268448544,
+        "name": "fcn.10003320",
+        "size": 63
+      },
+      {
+        "address": 268448608,
+        "name": "fcn.10003360",
+        "size": 95
+      },
+      {
+        "address": 268448704,
+        "name": "fcn.100033c0",
+        "size": 162
+      },
+      {
+        "address": 268448880,
+        "name": "fcn.10003470",
+        "size": 120
+      },
+      {
+        "address": 268449008,
+        "name": "fcn.100034f0",
+        "size": 507
+      },
+      {
+        "address": 268449520,
+        "name": "fcn.100036f0",
+        "size": 110
+      },
+      {
+        "address": 268449632,
+        "name": "fcn.10003760",
+        "size": 137
+      },
+      {
+        "address": 268449776,
+        "name": "fcn.100037f0",
+        "size": 57
+      },
+      {
+        "address": 268449840,
+        "name": "fcn.10003830",
+        "size": 115
+      },
+      {
+        "address": 268449968,
+        "name": "fcn.100038b0",
+        "size": 9
+      },
+      {
+        "address": 268449984,
+        "name": "fcn.100038c0",
+        "size": 9
+      },
+      {
+        "address": 268450000,
+        "name": "fcn.100038d0",
+        "size": 145
+      },
+      {
+        "address": 268450160,
+        "name": "fcn.10003970",
+        "size": 74
+      },
+      {
+        "address": 268450240,
+        "name": "fcn.100039c0",
+        "size": 97
+      },
+      {
+        "address": 268450352,
+        "name": "fcn.10003a30",
+        "size": 40
+      },
+      {
+        "address": 268450400,
+        "name": "fcn.10003a60",
+        "size": 130
+      }
+    ],
+    "stderr_tail": "\u001b[2K\n"
+  },
+  {
+    "file": "Mgcicon.dll",
+    "function_count": 74,
+    "functions": [
+      {
+        "address": 268439552,
+        "name": "fcn.10001000",
+        "size": 8
+      },
+      {
+        "address": 268439568,
+        "name": "fcn.10001010",
+        "size": 347
+      },
+      {
+        "address": 268439920,
+        "name": "entry0",
+        "size": 191
+      },
+      {
+        "address": 268440112,
+        "name": "fcn.10001230",
+        "size": 56
+      },
+      {
+        "address": 268440176,
+        "name": "fcn.10001270",
+        "size": 48
+      },
+      {
+        "address": 268440256,
+        "name": "fcn.100012c0",
+        "size": 15
+      },
+      {
+        "address": 268440272,
+        "name": "fcn.100012d0",
+        "size": 173
+      },
+      {
+        "address": 268440464,
+        "name": "fcn.10001390",
+        "size": 11
+      },
+      {
+        "address": 268440480,
+        "name": "fcn.100013a0",
+        "size": 11
+      },
+      {
+        "address": 268440496,
+        "name": "fcn.100013b0",
+        "size": 32
+      },
+      {
+        "address": 268440528,
+        "name": "fcn.100013d0",
+        "size": 96
+      },
+      {
+        "address": 268440624,
+        "name": "fcn.10001430",
+        "size": 33
+      },
+      {
+        "address": 268440672,
+        "name": "fcn.10001460",
+        "size": 19
+      },
+      {
+        "address": 268440704,
+        "name": "fcn.10001480",
+        "size": 111
+      },
+      {
+        "address": 268440816,
+        "name": "fcn.100014f0",
+        "size": 161
+      },
+      {
+        "address": 268440992,
+        "name": "fcn.100015a0",
+        "size": 57
+      },
+      {
+        "address": 268441056,
+        "name": "fcn.100015e0",
+        "size": 58
+      },
+      {
+        "address": 268441120,
+        "name": "fcn.10001620",
+        "size": 480
+      },
+      {
+        "address": 268441600,
+        "name": "fcn.10001800",
+        "size": 85
+      },
+      {
+        "address": 268441696,
+        "name": "fcn.10001860",
+        "size": 229
+      },
+      {
+        "address": 268441936,
+        "name": "fcn.10001950",
+        "size": 155
+      },
+      {
+        "address": 268442096,
+        "name": "fcn.100019f0",
+        "size": 464
+      },
+      {
+        "address": 268442560,
+        "name": "fcn.10001bc0",
+        "size": 547
+      },
+      {
+        "address": 268443120,
+        "name": "fcn.10001df0",
+        "size": 77
+      },
+      {
+        "address": 268443200,
+        "name": "fcn.10001e40",
+        "size": 56
+      },
+      {
+        "address": 268443296,
+        "name": "fcn.10001ea0",
+        "size": 44
+      },
+      {
+        "address": 268443344,
+        "name": "fcn.10001ed0",
+        "size": 11
+      },
+      {
+        "address": 268443360,
+        "name": "fcn.10001ee0",
+        "size": 396
+      },
+      {
+        "address": 268443760,
+        "name": "fcn.10002070",
+        "size": 10
+      },
+      {
+        "address": 268443776,
+        "name": "fcn.10002080",
+        "size": 61
+      },
+      {
+        "address": 268443840,
+        "name": "fcn.100020c0",
+        "size": 502
+      },
+      {
+        "address": 268444352,
+        "name": "fcn.100022c0",
+        "size": 42
+      },
+      {
+        "address": 268444400,
+        "name": "fcn.100022f0",
+        "size": 100
+      },
+      {
+        "address": 268444512,
+        "name": "fcn.10002360",
+        "size": 104
+      },
+      {
+        "address": 268444624,
+        "name": "fcn.100023d0",
+        "size": 23
+      },
+      {
+        "address": 268444656,
+        "name": "fcn.100023f0",
+        "size": 54
+      },
+      {
+        "address": 268444720,
+        "name": "fcn.10002430",
+        "size": 40
+      },
+      {
+        "address": 268444768,
+        "name": "fcn.10002460",
+        "size": 54
+      },
+      {
+        "address": 268444832,
+        "name": "fcn.100024a0",
+        "size": 40
+      },
+      {
+        "address": 268444880,
+        "name": "fcn.100024d0",
+        "size": 171
+      },
+      {
+        "address": 268445056,
+        "name": "fcn.10002580",
+        "size": 109
+      },
+      {
+        "address": 268445168,
+        "name": "fcn.100025f0",
+        "size": 368
+      },
+      {
+        "address": 268445536,
+        "name": "fcn.10002760",
+        "size": 94
+      },
+      {
+        "address": 268445632,
+        "name": "fcn.100027c0",
+        "size": 215
+      },
+      {
+        "address": 268445856,
+        "name": "fcn.100028a0",
+        "size": 81
+      },
+      {
+        "address": 268445952,
+        "name": "fcn.10002900",
+        "size": 70
+      },
+      {
+        "address": 268446032,
+        "name": "fcn.10002950",
+        "size": 634
+      },
+      {
+        "address": 268446672,
+        "name": "fcn.10002bd0",
+        "size": 380
+      },
+      {
+        "address": 268447056,
+        "name": "fcn.10002d50",
+        "size": 20
+      },
+      {
+        "address": 268447088,
+        "name": "fcn.10002d70",
+        "size": 74
+      },
+      {
+        "address": 268447168,
+        "name": "fcn.10002dc0",
+        "size": 83
+      },
+      {
+        "address": 268447264,
+        "name": "fcn.10002e20",
+        "size": 146
+      },
+      {
+        "address": 268447424,
+        "name": "fcn.10002ec0",
+        "size": 254
+      },
+      {
+        "address": 268447920,
+        "name": "fcn.100030b0",
+        "size": 62
+      },
+      {
+        "address": 268448144,
+        "name": "fcn.10003190",
+        "size": 60
+      },
+      {
+        "address": 268448208,
+        "name": "fcn.100031d0",
+        "size": 100
+      },
+      {
+        "address": 268448320,
+        "name": "fcn.10003240",
+        "size": 11
+      },
+      {
+        "address": 268448336,
+        "name": "fcn.10003250",
+        "size": 203
+      },
+      {
+        "address": 268448544,
+        "name": "fcn.10003320",
+        "size": 63
+      },
+      {
+        "address": 268448608,
+        "name": "fcn.10003360",
+        "size": 95
+      },
+      {
+        "address": 268448704,
+        "name": "fcn.100033c0",
+        "size": 162
+      },
+      {
+        "address": 268448880,
+        "name": "fcn.10003470",
+        "size": 120
+      },
+      {
+        "address": 268449008,
+        "name": "fcn.100034f0",
+        "size": 507
+      },
+      {
+        "address": 268449520,
+        "name": "fcn.100036f0",
+        "size": 110
+      },
+      {
+        "address": 268449632,
+        "name": "fcn.10003760",
+        "size": 137
+      },
+      {
+        "address": 268449776,
+        "name": "fcn.100037f0",
+        "size": 57
+      },
+      {
+        "address": 268449840,
+        "name": "fcn.10003830",
+        "size": 115
+      },
+      {
+        "address": 268449968,
+        "name": "fcn.100038b0",
+        "size": 9
+      },
+      {
+        "address": 268449984,
+        "name": "fcn.100038c0",
+        "size": 9
+      },
+      {
+        "address": 268450000,
+        "name": "fcn.100038d0",
+        "size": 145
+      },
+      {
+        "address": 268450160,
+        "name": "fcn.10003970",
+        "size": 74
+      },
+      {
+        "address": 268450240,
+        "name": "fcn.100039c0",
+        "size": 97
+      },
+      {
+        "address": 268450352,
+        "name": "fcn.10003a30",
+        "size": 40
+      },
+      {
+        "address": 268450400,
+        "name": "fcn.10003a60",
+        "size": 130
+      }
+    ],
+    "stderr_tail": "\u001b[2K\n"
+  }
+]

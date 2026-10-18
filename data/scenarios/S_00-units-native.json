@@ -1,0 +1,2688 @@
+{
+  "script": "S_00.eex",
+  "source_opcode": 72,
+  "source_offset": 6116,
+  "snapshot_scope": "after setup opcode72, before scene transition; suspended-process replay, not a full campaign initialized battlefield",
+  "state_base": "0x492F90+0x2044",
+  "record_size": 64,
+  "count": 26,
+  "units": [
+    {
+      "slot": 0,
+      "unitId16": 0,
+      "rawU32Id": 0,
+      "coordinateBytes": [
+        7,
+        0
+      ],
+      "controlByte3": 0,
+      "flagsU32": 12,
+      "classOrLevelByte17": 0,
+      "recordHex": "00000000070000000c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "曹操",
+      "characterRecordHex": "b2dcb2d900000000000000000000000000ff29312e282a66001e0001000026ff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "0",
+        "side": "0",
+        "index": "108",
+        "class_id": "0",
+        "base_sprite": "40",
+        "expected": "108",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "primary-slot-group",
+      "nativeBattleSlot": 0,
+      "flagsLow2": 0,
+      "controlledNativeExpansion": {
+        "slot": 0,
+        "unitId": 0,
+        "slotNumber": 0,
+        "variant": 0,
+        "type": 1,
+        "facing": 1,
+        "classId": 0,
+        "level": 1,
+        "hp": 102,
+        "mp": 30,
+        "maxHp": 102,
+        "maxMp": 30,
+        "art": 108,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0010000000000000b2dcb2d900000000000000000029312e282a0000660000001e29312e282a00000000ff000100000100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 0,
+        "unitId": 0,
+        "slotNumber": 0,
+        "variant": 0,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 1,
+        "classId": 0,
+        "level": 1,
+        "hp": 102,
+        "mp": 30,
+        "maxHp": 102,
+        "maxMp": 30,
+        "art": 108,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0010000000000000b2dcb2d900000000000000000029312e282a0000660000001e29312e282a00000000ff000100000100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 15,
+      "unitId16": 32,
+      "rawU32Id": 32,
+      "coordinateBytes": [
+        14,
+        1
+      ],
+      "controlByte3": 0,
+      "flagsU32": 22,
+      "classOrLevelByte17": 7,
+      "recordHex": "200000000e0100001600000001000000020700000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "刘备",
+      "characterRecordHex": "c1f5b1b800000000000000000020002008ff272426253264001e000100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "32",
+        "side": "0",
+        "index": "144",
+        "class_id": "0",
+        "base_sprite": "76",
+        "expected": "144",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 15,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 15,
+        "unitId": 32,
+        "slotNumber": 15,
+        "variant": 1,
+        "type": 1,
+        "facing": 3,
+        "classId": 0,
+        "level": 7,
+        "hp": 130,
+        "mp": 36,
+        "maxHp": 130,
+        "maxMp": 36,
+        "art": 144,
+        "equipment": [
+          [
+            0,
+            2,
+            0
+          ],
+          [
+            38,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "2010200020000000c1f5b1b8000000000000000000393638374400008200000024272426253208000000ff000700000200260200ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 15,
+        "unitId": 32,
+        "slotNumber": 15,
+        "variant": 1,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 3,
+        "classId": 0,
+        "level": 7,
+        "hp": 130,
+        "mp": 36,
+        "maxHp": 130,
+        "maxMp": 36,
+        "art": 144,
+        "equipment": [
+          [
+            0,
+            2,
+            0
+          ],
+          [
+            38,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "2010200020000000c1f5b1b8000000000000000000393638374400008200000024272426253208000000ff000700000200260200ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 16,
+      "unitId16": 3,
+      "rawU32Id": 3,
+      "coordinateBytes": [
+        13,
+        2
+      ],
+      "controlByte3": 0,
+      "flagsU32": 22,
+      "classOrLevelByte17": 7,
+      "recordHex": "030000000d0200001600000001000000020700000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "关羽",
+      "characterRecordHex": "b9d8d3f000000000000000000006000600ff30312d221f6b000c0901000326ff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "3",
+        "side": "0",
+        "index": "125",
+        "class_id": "9",
+        "base_sprite": "57",
+        "expected": "125",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 16,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 16,
+        "unitId": 3,
+        "slotNumber": 16,
+        "variant": 1,
+        "type": 1,
+        "facing": 3,
+        "classId": 9,
+        "level": 7,
+        "hp": 137,
+        "mp": 18,
+        "maxHp": 137,
+        "maxMp": 18,
+        "art": 125,
+        "equipment": [
+          [
+            3,
+            2,
+            0
+          ],
+          [
+            38,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0310060006000000b9d8d3f000000000000000000048433f2e2b0000890000001230312d221f00000000ff090700030200260200ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 16,
+        "unitId": 3,
+        "slotNumber": 16,
+        "variant": 1,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 3,
+        "classId": 9,
+        "level": 7,
+        "hp": 137,
+        "mp": 18,
+        "maxHp": 137,
+        "maxMp": 18,
+        "art": 125,
+        "equipment": [
+          [
+            3,
+            2,
+            0
+          ],
+          [
+            38,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0310060006000000b9d8d3f000000000000000000048433f2e2b0000890000001230312d221f00000000ff090700030200260200ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 17,
+      "unitId16": 33,
+      "rawU32Id": 33,
+      "coordinateBytes": [
+        13,
+        1
+      ],
+      "controlByte3": 0,
+      "flagsU32": 22,
+      "classOrLevelByte17": 7,
+      "recordHex": "210000000d0100001600000001000000020700000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "张飞",
+      "characterRecordHex": "d5c5b7c900000000000000000021002100ff322517242664000a090100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "33",
+        "side": "0",
+        "index": "126",
+        "class_id": "9",
+        "base_sprite": "58",
+        "expected": "126",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 17,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 17,
+        "unitId": 33,
+        "slotNumber": 17,
+        "variant": 1,
+        "type": 1,
+        "facing": 3,
+        "classId": 9,
+        "level": 7,
+        "hp": 130,
+        "mp": 16,
+        "maxHp": 130,
+        "maxMp": 16,
+        "art": 126,
+        "equipment": [
+          [
+            3,
+            2,
+            0
+          ],
+          [
+            38,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "2110210021000000d5c5b7c90000000000000000004a371d303200008200000010322517242600000000ff090700030200260200ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 17,
+        "unitId": 33,
+        "slotNumber": 17,
+        "variant": 1,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 3,
+        "classId": 9,
+        "level": 7,
+        "hp": 130,
+        "mp": 16,
+        "maxHp": 130,
+        "maxMp": 16,
+        "art": 126,
+        "equipment": [
+          [
+            3,
+            2,
+            0
+          ],
+          [
+            38,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "2110210021000000d5c5b7c90000000000000000004a371d303200008200000010322517242600000000ff090700030200260200ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 18,
+      "unitId16": 210,
+      "rawU32Id": 210,
+      "coordinateBytes": [
+        10,
+        17
+      ],
+      "controlByte3": 0,
+      "flagsU32": 34,
+      "classOrLevelByte17": 1,
+      "recordHex": "d20000000a1100002200000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "步兵1",
+      "characterRecordHex": "b2bdb1f8310000000000000000ac00aa00ff1e28231e1e6e000a030100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "210",
+        "side": "0",
+        "index": "0",
+        "class_id": "3",
+        "base_sprite": "0",
+        "expected": "0",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 18,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 18,
+        "unitId": 210,
+        "slotNumber": 18,
+        "variant": 1,
+        "type": 1,
+        "facing": 0,
+        "classId": 3,
+        "level": 1,
+        "hp": 110,
+        "mp": 10,
+        "maxHp": 110,
+        "maxMp": 10,
+        "art": 1,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "d210aa00ac000000b2bdb1f83100000000000000001e28231e1e00006e0000000a1e28231e1e00000000ff030100000100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 18,
+        "unitId": 210,
+        "slotNumber": 18,
+        "variant": 1,
+        "type": 2,
+        "position": [
+          10,
+          17
+        ],
+        "actorFlags": 0,
+        "facing": 0,
+        "classId": 3,
+        "level": 1,
+        "hp": 110,
+        "mp": 10,
+        "maxHp": 110,
+        "maxMp": 10,
+        "art": 1,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "d210aa00ac000000b2bdb1f83100000000000000001e28231e1e00006e0000000a1e28231e1e00000000ff030100000100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 19,
+      "unitId16": 211,
+      "rawU32Id": 211,
+      "coordinateBytes": [
+        9,
+        18
+      ],
+      "controlByte3": 0,
+      "flagsU32": 34,
+      "classOrLevelByte17": 1,
+      "recordHex": "d3000000091200002200000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "步兵2",
+      "characterRecordHex": "b2bdb1f8320000000000000000b200aa00ff1e28231e1e6e000a030100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "211",
+        "side": "0",
+        "index": "0",
+        "class_id": "3",
+        "base_sprite": "0",
+        "expected": "0",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 19,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 19,
+        "unitId": 211,
+        "slotNumber": 19,
+        "variant": 1,
+        "type": 1,
+        "facing": 0,
+        "classId": 3,
+        "level": 1,
+        "hp": 110,
+        "mp": 10,
+        "maxHp": 110,
+        "maxMp": 10,
+        "art": 1,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "d310aa00b2000000b2bdb1f83200000000000000001e28231e1e00006e0000000a1e28231e1e00000000ff030100000100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 19,
+        "unitId": 211,
+        "slotNumber": 19,
+        "variant": 1,
+        "type": 2,
+        "position": [
+          9,
+          18
+        ],
+        "actorFlags": 0,
+        "facing": 0,
+        "classId": 3,
+        "level": 1,
+        "hp": 110,
+        "mp": 10,
+        "maxHp": 110,
+        "maxMp": 10,
+        "art": 1,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "d310aa00b2000000b2bdb1f83200000000000000001e28231e1e00006e0000000a1e28231e1e00000000ff030100000100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 20,
+      "unitId16": 234,
+      "rawU32Id": 234,
+      "coordinateBytes": [
+        12,
+        17
+      ],
+      "controlByte3": 0,
+      "flagsU32": 34,
+      "classOrLevelByte17": 1,
+      "recordHex": "ea0000000c1100002200000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "弓兵1",
+      "characterRecordHex": "b9adb1f8310000000000000000aa00aa07ff231e1e1e285a000a060100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "234",
+        "side": "0",
+        "index": "18",
+        "class_id": "6",
+        "base_sprite": "6",
+        "expected": "18",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 20,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 20,
+        "unitId": 234,
+        "slotNumber": 20,
+        "variant": 1,
+        "type": 1,
+        "facing": 0,
+        "classId": 6,
+        "level": 1,
+        "hp": 90,
+        "mp": 10,
+        "maxHp": 90,
+        "maxMp": 10,
+        "art": 19,
+        "equipment": [
+          [
+            6,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "ea10aa00aa000000b9adb1f8310000000000000000231e1e1e2800005a0000000a231e1e1e2807000000ff060100060100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 20,
+        "unitId": 234,
+        "slotNumber": 20,
+        "variant": 1,
+        "type": 2,
+        "position": [
+          12,
+          17
+        ],
+        "actorFlags": 0,
+        "facing": 0,
+        "classId": 6,
+        "level": 1,
+        "hp": 90,
+        "mp": 10,
+        "maxHp": 90,
+        "maxMp": 10,
+        "art": 19,
+        "equipment": [
+          [
+            6,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "ea10aa00aa000000b9adb1f8310000000000000000231e1e1e2800005a0000000a231e1e1e2807000000ff060100060100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 21,
+      "unitId16": 258,
+      "rawU32Id": 258,
+      "coordinateBytes": [
+        6,
+        0
+      ],
+      "controlByte3": 0,
+      "flagsU32": 14,
+      "classOrLevelByte17": 1,
+      "recordHex": "02010000060000000e00000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "骑兵1",
+      "characterRecordHex": "c6efb1f8310000000000000000ad00aa02ff28231e1e1e64000a090100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "258",
+        "side": "0",
+        "index": "9",
+        "class_id": "9",
+        "base_sprite": "3",
+        "expected": "9",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 21,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 21,
+        "unitId": 258,
+        "slotNumber": 21,
+        "variant": 1,
+        "type": 1,
+        "facing": 1,
+        "classId": 9,
+        "level": 1,
+        "hp": 100,
+        "mp": 10,
+        "maxHp": 100,
+        "maxMp": 10,
+        "art": 10,
+        "equipment": [
+          [
+            3,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0211aa00ad000000c6efb1f831000000000000000028231e1e1e0000640000000a28231e1e1e02000000ff090100030100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 21,
+        "unitId": 258,
+        "slotNumber": 21,
+        "variant": 1,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 1,
+        "classId": 9,
+        "level": 1,
+        "hp": 100,
+        "mp": 10,
+        "maxHp": 100,
+        "maxMp": 10,
+        "art": 10,
+        "equipment": [
+          [
+            3,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0211aa00ad000000c6efb1f831000000000000000028231e1e1e0000640000000a28231e1e1e02000000ff090100030100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 22,
+      "unitId16": 259,
+      "rawU32Id": 259,
+      "coordinateBytes": [
+        5,
+        0
+      ],
+      "controlByte3": 0,
+      "flagsU32": 14,
+      "classOrLevelByte17": 1,
+      "recordHex": "03010000050000000e00000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "骑兵2",
+      "characterRecordHex": "c6efb1f8320000000000000000b100aa02ff28231e1e1e64000a090100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "259",
+        "side": "0",
+        "index": "9",
+        "class_id": "9",
+        "base_sprite": "3",
+        "expected": "9",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 22,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 22,
+        "unitId": 259,
+        "slotNumber": 22,
+        "variant": 1,
+        "type": 1,
+        "facing": 1,
+        "classId": 9,
+        "level": 1,
+        "hp": 100,
+        "mp": 10,
+        "maxHp": 100,
+        "maxMp": 10,
+        "art": 10,
+        "equipment": [
+          [
+            3,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0311aa00b1000000c6efb1f832000000000000000028231e1e1e0000640000000a28231e1e1e02000000ff090100030100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 22,
+        "unitId": 259,
+        "slotNumber": 22,
+        "variant": 1,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 1,
+        "classId": 9,
+        "level": 1,
+        "hp": 100,
+        "mp": 10,
+        "maxHp": 100,
+        "maxMp": 10,
+        "art": 10,
+        "equipment": [
+          [
+            3,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "0311aa00b1000000c6efb1f832000000000000000028231e1e1e0000640000000a28231e1e1e02000000ff090100030100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 23,
+      "unitId16": 235,
+      "rawU32Id": 235,
+      "coordinateBytes": [
+        7,
+        16
+      ],
+      "controlByte3": 0,
+      "flagsU32": 18,
+      "classOrLevelByte17": 1,
+      "recordHex": "eb000000071000001200000000000000000100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "弓兵2",
+      "characterRecordHex": "b9adb1f8320000000000000000ae00aa07ff231e1e1e285a000a060100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "235",
+        "side": "0",
+        "index": "18",
+        "class_id": "6",
+        "base_sprite": "6",
+        "expected": "18",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 23,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 23,
+        "unitId": 235,
+        "slotNumber": 23,
+        "variant": 1,
+        "type": 1,
+        "facing": 3,
+        "classId": 6,
+        "level": 1,
+        "hp": 90,
+        "mp": 10,
+        "maxHp": 90,
+        "maxMp": 10,
+        "art": 19,
+        "equipment": [
+          [
+            6,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "eb10aa00ae000000b9adb1f8320000000000000000231e1e1e2800005a0000000a231e1e1e2807000000ff060100060100260100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 23,
+        "unitId": 235,
+        "slotNumber": 23,
+        "variant": 1,
+        "type": 2,
+        "position": [
+          7,
+          16
+        ],
+        "actorFlags": 0,
+        "facing": 3,
+        "classId": 6,
+        "level": 1,
+        "hp": 90,
+        "mp": 10,
+        "maxHp": 90,
+        "maxMp": 10,
+        "art": 19,
+        "equipment": [
+          [
+            6,
+            1,
+            0
+          ],
+          [
+            38,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "eb10aa00ae000000b9adb1f8320000000000000000231e1e1e2800005a0000000a231e1e1e2807000000ff060100060100260100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 24,
+      "unitId16": 334,
+      "rawU32Id": 334,
+      "coordinateBytes": [
+        12,
+        16
+      ],
+      "controlByte3": 0,
+      "flagsU32": 34,
+      "classOrLevelByte17": 1,
+      "recordHex": "4e0100000c1000002200000000000000000100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "策士1",
+      "characterRecordHex": "b2dfcabf310000000000000000a800b407ff1e1e281e1e5a0028180100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "334",
+        "side": "0",
+        "index": "63",
+        "class_id": "24",
+        "base_sprite": "21",
+        "expected": "63",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 24,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 24,
+        "unitId": 334,
+        "slotNumber": 24,
+        "variant": 1,
+        "type": 1,
+        "facing": 0,
+        "classId": 24,
+        "level": 1,
+        "hp": 90,
+        "mp": 40,
+        "maxHp": 90,
+        "maxMp": 40,
+        "art": 64,
+        "equipment": [
+          [
+            15,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "4e11b400a8000000b2dfcabf3100000000000000001e1e281e1e00005a000000281e1e281e1e07000000ff1801000f0100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 24,
+        "unitId": 334,
+        "slotNumber": 24,
+        "variant": 1,
+        "type": 2,
+        "position": [
+          12,
+          16
+        ],
+        "actorFlags": 0,
+        "facing": 0,
+        "classId": 24,
+        "level": 1,
+        "hp": 90,
+        "mp": 40,
+        "maxHp": 90,
+        "maxMp": 40,
+        "art": 64,
+        "equipment": [
+          [
+            15,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "4e11b400a8000000b2dfcabf3100000000000000001e1e281e1e00005a000000281e1e281e1e07000000ff1801000f0100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 25,
+      "unitId16": 157,
+      "rawU32Id": 157,
+      "coordinateBytes": [
+        9,
+        0
+      ],
+      "controlByte3": 0,
+      "flagsU32": 70,
+      "classOrLevelByte17": 31,
+      "recordHex": "9d000000090000004600000000000000021f00000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "许子将",
+      "characterRecordHex": "d0edd7d3bdab00000000000000ce009d00ff1e1e1e1e1e6400641b0100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "157",
+        "side": "0",
+        "index": "72",
+        "class_id": "27",
+        "base_sprite": "24",
+        "expected": "72",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "auxiliary-slot-group",
+      "nativeBattleSlot": 25,
+      "flagsLow2": 2,
+      "controlledNativeExpansion": {
+        "slot": 25,
+        "unitId": 157,
+        "slotNumber": 25,
+        "variant": 1,
+        "type": 1,
+        "facing": 2,
+        "classId": 29,
+        "level": 31,
+        "hp": 190,
+        "mp": 160,
+        "maxHp": 190,
+        "maxMp": 160,
+        "art": 79,
+        "equipment": [
+          [
+            20,
+            2,
+            0
+          ],
+          [
+            43,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "9d109d00ce000000d0edd7d3bdab000000000000003c3c785a5a0000be000000a01e1e1e1e1e00000000ff1d1f001402002b0200ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 25,
+        "unitId": 157,
+        "slotNumber": 25,
+        "variant": 1,
+        "type": 1,
+        "position": [
+          255,
+          255
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 29,
+        "level": 31,
+        "hp": 190,
+        "mp": 160,
+        "maxHp": 190,
+        "maxMp": 160,
+        "art": 79,
+        "equipment": [
+          [
+            20,
+            2,
+            0
+          ],
+          [
+            43,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "9d109d00ce000000d0edd7d3bdab000000000000003c3c785a5a0000be000000a01e1e1e1e1e00000000ff1d1f001402002b0200ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 35,
+      "unitId16": 146,
+      "rawU32Id": 146,
+      "coordinateBytes": [
+        9,
+        11
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 5,
+      "recordHex": "92000000090b00004100000002000000020500000000000000000000190000000000000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "张宝",
+      "characterRecordHex": "d5c5b1a600000000000000000092009204ff151f28241f5000281e0100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "146",
+        "side": "0",
+        "index": "81",
+        "class_id": "30",
+        "base_sprite": "27",
+        "expected": "81",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 35,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 35,
+        "unitId": 146,
+        "slotNumber": 35,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 30,
+        "level": 5,
+        "hp": 92,
+        "mp": 48,
+        "maxHp": 92,
+        "maxMp": 48,
+        "art": 83,
+        "equipment": [
+          [
+            18,
+            2,
+            0
+          ],
+          [
+            41,
+            2,
+            0
+          ],
+          [
+            76,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "9210920092000000d5c5b1a6000000000000000000192734302700005c00000030151f28241f04000000ff1e05001202002902004cffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 35,
+        "unitId": 146,
+        "slotNumber": 35,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          9,
+          11
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 30,
+        "level": 5,
+        "hp": 92,
+        "mp": 48,
+        "maxHp": 92,
+        "maxMp": 48,
+        "art": 83,
+        "equipment": [
+          [
+            18,
+            2,
+            0
+          ],
+          [
+            41,
+            2,
+            0
+          ],
+          [
+            76,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "9210920092000000d5c5b1a6000000000000000000192734302700005c00000030151f28241f04000000ff1e05001202002902004cffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 36,
+      "unitId16": 147,
+      "rawU32Id": 147,
+      "coordinateBytes": [
+        10,
+        11
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 5,
+      "recordHex": "930000000a0b00004100000002000000020500000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "张梁",
+      "characterRecordHex": "d5c5c1ba00000000000000000093009303ff1c1a26251c5000281e0100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "147",
+        "side": "0",
+        "index": "81",
+        "class_id": "30",
+        "base_sprite": "27",
+        "expected": "81",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 36,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 36,
+        "unitId": 147,
+        "slotNumber": 36,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 30,
+        "level": 5,
+        "hp": 92,
+        "mp": 48,
+        "maxHp": 92,
+        "maxMp": 48,
+        "art": 83,
+        "equipment": [
+          [
+            18,
+            2,
+            0
+          ],
+          [
+            41,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "9310930093000000d5c5c1ba000000000000000000202232312400005c000000301c1a26251c03000000ff1e0500120200290200ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 36,
+        "unitId": 147,
+        "slotNumber": 36,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          10,
+          11
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 30,
+        "level": 5,
+        "hp": 92,
+        "mp": 48,
+        "maxHp": 92,
+        "maxMp": 48,
+        "art": 83,
+        "equipment": [
+          [
+            18,
+            2,
+            0
+          ],
+          [
+            41,
+            2,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "9310930093000000d5c5c1ba000000000000000000202232312400005c000000301c1a26251c03000000ff1e0500120200290200ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 37,
+      "unitId16": 474,
+      "rawU32Id": 474,
+      "coordinateBytes": [
+        6,
+        16
+      ],
+      "controlByte3": 0,
+      "flagsU32": 9,
+      "classOrLevelByte17": 1,
+      "recordHex": "da010000061000000900000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军1",
+      "characterRecordHex": "bbc6bdedbefc31000000000000ab00b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "474",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 37,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 37,
+        "unitId": 474,
+        "slotNumber": 37,
+        "variant": 2,
+        "type": 1,
+        "facing": 1,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "da11b400ab000000bbc6bdedbefc310000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 37,
+        "unitId": 474,
+        "slotNumber": 37,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          6,
+          16
+        ],
+        "actorFlags": 8,
+        "facing": 1,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "da11b400ab000000bbc6bdedbefc310000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 38,
+      "unitId16": 475,
+      "rawU32Id": 475,
+      "coordinateBytes": [
+        9,
+        15
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "db010000090f00004100000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军2",
+      "characterRecordHex": "bbc6bdedbefc32000000000000b800b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "475",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 38,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 38,
+        "unitId": 475,
+        "slotNumber": 38,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "db11b400b8000000bbc6bdedbefc320000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 38,
+        "unitId": 475,
+        "slotNumber": 38,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          9,
+          15
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "db11b400b8000000bbc6bdedbefc320000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 39,
+      "unitId16": 476,
+      "rawU32Id": 476,
+      "coordinateBytes": [
+        10,
+        15
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "dc0100000a0f00004100000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军3",
+      "characterRecordHex": "bbc6bdedbefc33000000000000ab00b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "476",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 39,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 39,
+        "unitId": 476,
+        "slotNumber": 39,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "dc11b400ab000000bbc6bdedbefc330000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 39,
+        "unitId": 476,
+        "slotNumber": 39,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          10,
+          15
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "dc11b400ab000000bbc6bdedbefc330000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 40,
+      "unitId16": 477,
+      "rawU32Id": 477,
+      "coordinateBytes": [
+        12,
+        15
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "dd0100000c0f00004100000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军4",
+      "characterRecordHex": "bbc6bdedbefc34000000000000b800b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "477",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 40,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 40,
+        "unitId": 477,
+        "slotNumber": 40,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "dd11b400b8000000bbc6bdedbefc340000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 40,
+        "unitId": 477,
+        "slotNumber": 40,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          12,
+          15
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "dd11b400b8000000bbc6bdedbefc340000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 41,
+      "unitId16": 478,
+      "rawU32Id": 478,
+      "coordinateBytes": [
+        9,
+        14
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "de010000090e00004100000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军5",
+      "characterRecordHex": "bbc6bdedbefc35000000000000ab00b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "478",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 41,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 41,
+        "unitId": 478,
+        "slotNumber": 41,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "de11b400ab000000bbc6bdedbefc350000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 41,
+        "unitId": 478,
+        "slotNumber": 41,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          9,
+          14
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "de11b400ab000000bbc6bdedbefc350000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 42,
+      "unitId16": 479,
+      "rawU32Id": 479,
+      "coordinateBytes": [
+        10,
+        14
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "df0100000a0e00004100000001000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军6",
+      "characterRecordHex": "bbc6bdedbefc36000000000000b800b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "479",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 42,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 42,
+        "unitId": 479,
+        "slotNumber": 42,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "df11b400b8000000bbc6bdedbefc360000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 42,
+        "unitId": 479,
+        "slotNumber": 42,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          10,
+          14
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "df11b400b8000000bbc6bdedbefc360000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 43,
+      "unitId16": 480,
+      "rawU32Id": 480,
+      "coordinateBytes": [
+        5,
+        10
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "e0010000050a00004100000000000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军7",
+      "characterRecordHex": "bbc6bdedbefc37000000000000ab00b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "480",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 43,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 43,
+        "unitId": 480,
+        "slotNumber": 43,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e011b400ab000000bbc6bdedbefc370000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 43,
+        "unitId": 480,
+        "slotNumber": 43,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          5,
+          10
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e011b400ab000000bbc6bdedbefc370000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 44,
+      "unitId16": 481,
+      "rawU32Id": 481,
+      "coordinateBytes": [
+        5,
+        11
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "e1010000050b00004100000000000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军8",
+      "characterRecordHex": "bbc6bdedbefc38000000000000b800b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "481",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 44,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 44,
+        "unitId": 481,
+        "slotNumber": 44,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e111b400b8000000bbc6bdedbefc380000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 44,
+        "unitId": 481,
+        "slotNumber": 44,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          5,
+          11
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e111b400b8000000bbc6bdedbefc380000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 45,
+      "unitId16": 482,
+      "rawU32Id": 482,
+      "coordinateBytes": [
+        7,
+        11
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "e2010000070b00004100000000000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军9",
+      "characterRecordHex": "bbc6bdedbefc39000000000000ab00b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "482",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 45,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 45,
+        "unitId": 482,
+        "slotNumber": 45,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e211b400ab000000bbc6bdedbefc390000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 45,
+        "unitId": 482,
+        "slotNumber": 45,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          7,
+          11
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e211b400ab000000bbc6bdedbefc390000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 46,
+      "unitId16": 483,
+      "rawU32Id": 483,
+      "coordinateBytes": [
+        8,
+        10
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "e3010000080a00004100000000000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军10",
+      "characterRecordHex": "bbc6bdedbefc31300000000000b800b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "483",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 46,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 46,
+        "unitId": 483,
+        "slotNumber": 46,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e311b400b8000000bbc6bdedbefc313000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 46,
+        "unitId": 483,
+        "slotNumber": 46,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          8,
+          10
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e311b400b8000000bbc6bdedbefc313000000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 47,
+      "unitId16": 484,
+      "rawU32Id": 484,
+      "coordinateBytes": [
+        12,
+        10
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "e40100000c0a00004100000000000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军11",
+      "characterRecordHex": "bbc6bdedbefc31310000000000ab00b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "484",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 47,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 47,
+        "unitId": 484,
+        "slotNumber": 47,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e411b400ab000000bbc6bdedbefc313100000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 47,
+        "unitId": 484,
+        "slotNumber": 47,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          12,
+          10
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e411b400ab000000bbc6bdedbefc313100000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    },
+    {
+      "slot": 48,
+      "unitId16": 485,
+      "rawU32Id": 485,
+      "coordinateBytes": [
+        12,
+        12
+      ],
+      "controlByte3": 0,
+      "flagsU32": 65,
+      "classOrLevelByte17": 1,
+      "recordHex": "e50100000c0c00004100000000000000020100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000",
+      "characterName": "黄巾军12",
+      "characterRecordHex": "bbc6bdedbefc31320000000000b800b403ff1e1e141e145a0005280100ffffff",
+      "characterTableMatch": true,
+      "animationLink": {
+        "uid": "485",
+        "side": "0",
+        "index": "102",
+        "class_id": "40",
+        "base_sprite": "34",
+        "expected": "102",
+        "match": "True"
+      },
+      "animationLinkSource": "unit-animation-links.csv; first side row only",
+      "nativeSlotGroup": "enemy-slot-group",
+      "nativeBattleSlot": 48,
+      "flagsLow2": 1,
+      "controlledNativeExpansion": {
+        "slot": 48,
+        "unitId": 485,
+        "slotNumber": 48,
+        "variant": 2,
+        "type": 1,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e511b400b8000000bbc6bdedbefc313200000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      },
+      "nativePlacement": {
+        "slot": 48,
+        "unitId": 485,
+        "slotNumber": 48,
+        "variant": 2,
+        "type": 2,
+        "position": [
+          12,
+          12
+        ],
+        "actorFlags": 0,
+        "facing": 2,
+        "classId": 40,
+        "level": 1,
+        "hp": 90,
+        "mp": 5,
+        "maxHp": 90,
+        "maxMp": 5,
+        "art": 102,
+        "equipment": [
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            41,
+            1,
+            0
+          ],
+          [
+            255,
+            255,
+            255
+          ]
+        ],
+        "unitHex": "e511b400b8000000bbc6bdedbefc313200000000001e1e141e1400005a000000051e1e141e1403000000ff280100000100290100ffffff0000000000000000000000000000000000"
+      }
+    }
+  ],
+  "field_labels": "Only offsets directly observed in 0x4125C5/0x4129A4 are exposed; semantic names remain conservative; characterName is a direct character-table ID match, not a semantic class inference",
+  "character_table": "analysis/characters.csv",
+  "animation_link_matches": 26,
+  "battle_slot_allocator": {
+    "function": "0x44CC85",
+    "rules": {
+      "flags&3==0": "slots begin at 0",
+      "flags&3==2": "slots begin at 15",
+      "otherwise": "slots begin at 35"
+    },
+    "note": "group names describe native slot ranges; they are not invented UI faction labels"
+  },
+  "controlled_expansion_scope": "real native DATA character/item/class loaders and0x44CC85, level/equipment/stat rules; coordinate entry0x442B03, UI refresh, AI script binding and file-load leaves intercepted; initial campaign progress not supplied",
+  "animation_first_side_differences": [
+    {
+      "unitId": 210,
+      "name": "步兵1",
+      "previousArt": 0,
+      "nativeArt": 1
+    },
+    {
+      "unitId": 211,
+      "name": "步兵2",
+      "previousArt": 0,
+      "nativeArt": 1
+    },
+    {
+      "unitId": 234,
+      "name": "弓兵1",
+      "previousArt": 18,
+      "nativeArt": 19
+    },
+    {
+      "unitId": 258,
+      "name": "骑兵1",
+      "previousArt": 9,
+      "nativeArt": 10
+    },
+    {
+      "unitId": 259,
+      "name": "骑兵2",
+      "previousArt": 9,
+      "nativeArt": 10
+    },
+    {
+      "unitId": 235,
+      "name": "弓兵2",
+      "previousArt": 18,
+      "nativeArt": 19
+    },
+    {
+      "unitId": 334,
+      "name": "策士1",
+      "previousArt": 63,
+      "nativeArt": 64
+    },
+    {
+      "unitId": 157,
+      "name": "许子将",
+      "previousArt": 72,
+      "nativeArt": 79
+    },
+    {
+      "unitId": 146,
+      "name": "张宝",
+      "previousArt": 81,
+      "nativeArt": 83
+    },
+    {
+      "unitId": 147,
+      "name": "张梁",
+      "previousArt": 81,
+      "nativeArt": 83
+    }
+  ],
+  "placement_scope": "native DATA loaders,0x44CC85 and0x442B03 coordinate entry with map0 terrain/occupancy; mirror pixels replaced while preserving native flag setters; UI/AI binding and file load intercepted; no campaign initialization/post-entry script",
+  "placed_count": 19
+}

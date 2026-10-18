@@ -1,0 +1,64 @@
+{
+  "calls": [
+    {
+      "file": "0040c28c.c",
+      "line": 82,
+      "entry_expr": "0"
+    },
+    {
+      "file": "0041b51e.c",
+      "line": 3,
+      "entry_expr": "int param_2"
+    },
+    {
+      "file": "0041b666.c",
+      "line": 10,
+      "entry_expr": "0"
+    },
+    {
+      "file": "0041b6cf.c",
+      "line": 10,
+      "entry_expr": "1"
+    },
+    {
+      "file": "0041b72f.c",
+      "line": 10,
+      "entry_expr": "3"
+    },
+    {
+      "file": "0041b78f.c",
+      "line": 10,
+      "entry_expr": "4"
+    },
+    {
+      "file": "0041b7ef.c",
+      "line": 10,
+      "entry_expr": "2"
+    },
+    {
+      "file": "0041b84f.c",
+      "line": 10,
+      "entry_expr": "5"
+    },
+    {
+      "file": "0044cc85.c",
+      "line": 30,
+      "entry_expr": "0"
+    }
+  ],
+  "literal_entries": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "nonliteral_entries": [
+    {
+      "file": "0041b51e.c",
+      "line": 3,
+      "entry_expr": "int param_2"
+    }
+  ]
+}

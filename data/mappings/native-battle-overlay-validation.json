@@ -1,0 +1,76 @@
+[
+  {
+    "file": "Sv00s.e5s",
+    "art": "4f2b412cb34cfee26ca6437f1fdec208c948900e4376581ff62d08c155d360b8",
+    "terrain": "76a12b7047daf687627b00a1105685007f0790b45926a4208fd3d411a54fee8d",
+    "markers": "7768672de27a9755e364c7c8ea71008aa757246c549663f06ff72b848f2cade5",
+    "requested": [],
+    "expected": {
+      "art": "4f2b412cb34cfee26ca6437f1fdec208c948900e4376581ff62d08c155d360b8",
+      "terrain": "76a12b7047daf687627b00a1105685007f0790b45926a4208fd3d411a54fee8d",
+      "markers": "7768672de27a9755e364c7c8ea71008aa757246c549663f06ff72b848f2cade5",
+      "requested": []
+    },
+    "match": true
+  },
+  {
+    "file": "Sv05s.e5s",
+    "art": "0ce57c4d2b1894967aaeed95590a47d6f25e6ebe9ec6a5e2bd9897495a86e859",
+    "terrain": "8afe2841e28255914d4c66174bc638365a959dd54f9f9116422bc245bf815967",
+    "markers": "eac3349c2bcfb43181c9c4487645d3bd386076fa7f517dc8c1e871fba4fc8ba5",
+    "requested": [
+      74,
+      76,
+      70,
+      72,
+      78,
+      80
+    ],
+    "expected": {
+      "art": "0ce57c4d2b1894967aaeed95590a47d6f25e6ebe9ec6a5e2bd9897495a86e859",
+      "terrain": "8afe2841e28255914d4c66174bc638365a959dd54f9f9116422bc245bf815967",
+      "markers": "eac3349c2bcfb43181c9c4487645d3bd386076fa7f517dc8c1e871fba4fc8ba5",
+      "requested": [
+        74,
+        76,
+        70,
+        72,
+        78,
+        80
+      ]
+    },
+    "match": true
+  },
+  {
+    "file": "Sv06s.e5s",
+    "art": "e204d5f8af87774852eccb5fedfb9bdd6f2b601d0935ad18e7ab0888cb882247",
+    "terrain": "620498acc6713f8af95d9852145f1becb033feba4856a408feee51e9fc697a88",
+    "markers": "eac3349c2bcfb43181c9c4487645d3bd386076fa7f517dc8c1e871fba4fc8ba5",
+    "requested": [
+      86,
+      86,
+      90,
+      92,
+      94,
+      96,
+      82,
+      84
+    ],
+    "expected": {
+      "art": "e204d5f8af87774852eccb5fedfb9bdd6f2b601d0935ad18e7ab0888cb882247",
+      "terrain": "620498acc6713f8af95d9852145f1becb033feba4856a408feee51e9fc697a88",
+      "markers": "eac3349c2bcfb43181c9c4487645d3bd386076fa7f517dc8c1e871fba4fc8ba5",
+      "requested": [
+        86,
+        86,
+        90,
+        92,
+        94,
+        96,
+        82,
+        84
+      ]
+    },
+    "match": true
+  }
+]

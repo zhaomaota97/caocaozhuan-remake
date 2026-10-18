@@ -1,0 +1,529 @@
+{
+  "levels": 58,
+  "passed": 58,
+  "rows": [
+    {
+      "script": "S_00.eex",
+      "mapId": 0,
+      "units": 26,
+      "placed": 19,
+      "hidden": 7,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_01.eex",
+      "mapId": 1,
+      "units": 29,
+      "placed": 23,
+      "hidden": 6,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_02.eex",
+      "mapId": 2,
+      "units": 33,
+      "placed": 33,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_03.eex",
+      "mapId": 3,
+      "units": 28,
+      "placed": 10,
+      "hidden": 18,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_04.eex",
+      "mapId": 4,
+      "units": 28,
+      "placed": 28,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_05.eex",
+      "mapId": 5,
+      "units": 36,
+      "placed": 32,
+      "hidden": 4,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_06.eex",
+      "mapId": 6,
+      "units": 41,
+      "placed": 41,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_07.eex",
+      "mapId": 7,
+      "units": 35,
+      "placed": 19,
+      "hidden": 16,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_08.eex",
+      "mapId": 8,
+      "units": 31,
+      "placed": 30,
+      "hidden": 1,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_09.eex",
+      "mapId": 9,
+      "units": 19,
+      "placed": 19,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_10.eex",
+      "mapId": 10,
+      "units": 20,
+      "placed": 19,
+      "hidden": 1,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_11.eex",
+      "mapId": 11,
+      "units": 40,
+      "placed": 39,
+      "hidden": 1,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_12.eex",
+      "mapId": 12,
+      "units": 42,
+      "placed": 11,
+      "hidden": 31,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_13.eex",
+      "mapId": 13,
+      "units": 32,
+      "placed": 28,
+      "hidden": 4,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_14.eex",
+      "mapId": 14,
+      "units": 33,
+      "placed": 33,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_15.eex",
+      "mapId": 15,
+      "units": 29,
+      "placed": 23,
+      "hidden": 6,
+      "relocated": 1,
+      "passed": true
+    },
+    {
+      "script": "S_16.eex",
+      "mapId": 16,
+      "units": 24,
+      "placed": 23,
+      "hidden": 1,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_17.eex",
+      "mapId": 17,
+      "units": 33,
+      "placed": 29,
+      "hidden": 4,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_18.eex",
+      "mapId": 18,
+      "units": 43,
+      "placed": 43,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_19.eex",
+      "mapId": 19,
+      "units": 25,
+      "placed": 25,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_20.eex",
+      "mapId": 20,
+      "units": 28,
+      "placed": 28,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_21.eex",
+      "mapId": 21,
+      "units": 71,
+      "placed": 45,
+      "hidden": 26,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_22.eex",
+      "mapId": 22,
+      "units": 44,
+      "placed": 30,
+      "hidden": 14,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_23.eex",
+      "mapId": 23,
+      "units": 38,
+      "placed": 30,
+      "hidden": 8,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_24.eex",
+      "mapId": 24,
+      "units": 35,
+      "placed": 13,
+      "hidden": 22,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_25.eex",
+      "mapId": 25,
+      "units": 27,
+      "placed": 11,
+      "hidden": 16,
+      "relocated": 1,
+      "passed": true
+    },
+    {
+      "script": "S_26.eex",
+      "mapId": 26,
+      "units": 40,
+      "placed": 19,
+      "hidden": 21,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_27.eex",
+      "mapId": 27,
+      "units": 45,
+      "placed": 25,
+      "hidden": 20,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_28.eex",
+      "mapId": 28,
+      "units": 45,
+      "placed": 25,
+      "hidden": 20,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_29.eex",
+      "mapId": 29,
+      "units": 37,
+      "placed": 0,
+      "hidden": 37,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_30.eex",
+      "mapId": 30,
+      "units": 23,
+      "placed": 21,
+      "hidden": 2,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_31.eex",
+      "mapId": 31,
+      "units": 28,
+      "placed": 26,
+      "hidden": 2,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_32.eex",
+      "mapId": 32,
+      "units": 39,
+      "placed": 32,
+      "hidden": 7,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_33.eex",
+      "mapId": 33,
+      "units": 25,
+      "placed": 17,
+      "hidden": 8,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_34.eex",
+      "mapId": 34,
+      "units": 45,
+      "placed": 26,
+      "hidden": 19,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_35.eex",
+      "mapId": 35,
+      "units": 62,
+      "placed": 35,
+      "hidden": 27,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_36.eex",
+      "mapId": 36,
+      "units": 39,
+      "placed": 36,
+      "hidden": 3,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_37.eex",
+      "mapId": 37,
+      "units": 37,
+      "placed": 11,
+      "hidden": 26,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_38.eex",
+      "mapId": 38,
+      "units": 42,
+      "placed": 36,
+      "hidden": 6,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_39.eex",
+      "mapId": 39,
+      "units": 49,
+      "placed": 29,
+      "hidden": 20,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_40.eex",
+      "mapId": 40,
+      "units": 67,
+      "placed": 43,
+      "hidden": 24,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_41.eex",
+      "mapId": 41,
+      "units": 81,
+      "placed": 37,
+      "hidden": 44,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_42.eex",
+      "mapId": 42,
+      "units": 47,
+      "placed": 37,
+      "hidden": 10,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_43.eex",
+      "mapId": 43,
+      "units": 49,
+      "placed": 33,
+      "hidden": 16,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_44.eex",
+      "mapId": 44,
+      "units": 46,
+      "placed": 22,
+      "hidden": 24,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_45.eex",
+      "mapId": 45,
+      "units": 71,
+      "placed": 49,
+      "hidden": 22,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_46.eex",
+      "mapId": 46,
+      "units": 65,
+      "placed": 42,
+      "hidden": 23,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_47.eex",
+      "mapId": 47,
+      "units": 46,
+      "placed": 44,
+      "hidden": 2,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_48.eex",
+      "mapId": 48,
+      "units": 31,
+      "placed": 14,
+      "hidden": 17,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_49.eex",
+      "mapId": 49,
+      "units": 68,
+      "placed": 68,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_50.eex",
+      "mapId": 50,
+      "units": 63,
+      "placed": 35,
+      "hidden": 28,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_51.eex",
+      "mapId": 51,
+      "units": 75,
+      "placed": 69,
+      "hidden": 6,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_52.eex",
+      "mapId": 52,
+      "units": 22,
+      "placed": 1,
+      "hidden": 21,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_53.eex",
+      "mapId": 53,
+      "units": 42,
+      "placed": 38,
+      "hidden": 4,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_54.eex",
+      "mapId": 54,
+      "units": 61,
+      "placed": 25,
+      "hidden": 36,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_55.eex",
+      "mapId": 55,
+      "units": 63,
+      "placed": 37,
+      "hidden": 26,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_56.eex",
+      "mapId": 56,
+      "units": 79,
+      "placed": 57,
+      "hidden": 22,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_57.eex",
+      "mapId": 57,
+      "units": 34,
+      "placed": 16,
+      "hidden": 18,
+      "relocated": 0,
+      "passed": true
+    }
+  ],
+  "scope": "controlled default-party native expansions, not complete playable levels"
+}

@@ -1,0 +1,422 @@
+{
+  "scope": "Native rectangle output; screen/context/pen/blit sinks replaced",
+  "matched": 32,
+  "rectangles": [
+    {
+      "left": 48,
+      "top": 48,
+      "right": 52,
+      "bottom": 52,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 48,
+      "top": 24,
+      "right": 52,
+      "bottom": 28,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 48,
+      "top": 30,
+      "right": 52,
+      "bottom": 34,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 48,
+      "top": 42,
+      "right": 52,
+      "bottom": 46,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 54,
+      "top": 54,
+      "right": 58,
+      "bottom": 58,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 42,
+      "top": 54,
+      "right": 46,
+      "bottom": 58,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 54,
+      "top": 48,
+      "right": 58,
+      "bottom": 52,
+      "mode": 0,
+      "colorIndex": 42,
+      "rgb": [
+        192,
+        0,
+        0
+      ]
+    },
+    {
+      "left": 42,
+      "top": 132,
+      "right": 46,
+      "bottom": 136,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 48,
+      "top": 126,
+      "right": 52,
+      "bottom": 130,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 36,
+      "top": 126,
+      "right": 40,
+      "bottom": 130,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 48,
+      "top": 120,
+      "right": 52,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 42,
+      "top": 120,
+      "right": 46,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 36,
+      "top": 120,
+      "right": 40,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 54,
+      "top": 120,
+      "right": 58,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 54,
+      "top": 126,
+      "right": 58,
+      "bottom": 130,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 12,
+      "top": 114,
+      "right": 16,
+      "bottom": 118,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 18,
+      "top": 114,
+      "right": 22,
+      "bottom": 118,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 72,
+      "top": 114,
+      "right": 76,
+      "bottom": 118,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 78,
+      "top": 114,
+      "right": 82,
+      "bottom": 118,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 12,
+      "top": 120,
+      "right": 16,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 18,
+      "top": 120,
+      "right": 22,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 72,
+      "top": 120,
+      "right": 76,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 78,
+      "top": 120,
+      "right": 82,
+      "bottom": 124,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 42,
+      "top": 126,
+      "right": 46,
+      "bottom": 130,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 48,
+      "top": 132,
+      "right": 52,
+      "bottom": 136,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 42,
+      "top": 138,
+      "right": 46,
+      "bottom": 142,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 30,
+      "top": 132,
+      "right": 34,
+      "bottom": 136,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 30,
+      "top": 138,
+      "right": 34,
+      "bottom": 142,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 42,
+      "top": 150,
+      "right": 46,
+      "bottom": 154,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 48,
+      "top": 150,
+      "right": 52,
+      "bottom": 154,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 60,
+      "top": 132,
+      "right": 64,
+      "bottom": 136,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    },
+    {
+      "left": 60,
+      "top": 138,
+      "right": 64,
+      "bottom": 142,
+      "mode": 0,
+      "colorIndex": 172,
+      "rgb": [
+        0,
+        16,
+        112
+      ]
+    }
+  ]
+}

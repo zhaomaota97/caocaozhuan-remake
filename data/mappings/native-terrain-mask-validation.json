@@ -1,0 +1,1520 @@
+[
+  {
+    "size": 48,
+    "terrain": 0,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 1,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "fbdffac0bda3825aa01036fead7c9521d6f126d359213e19aa82d40587564061"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "fbdffac0bda3825aa01036fead7c9521d6f126d359213e19aa82d40587564061",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 2,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2d28edd1b0d96d2997f36af6c6c12c3fece96cac71972211cb7ac335ba840331"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "2d28edd1b0d96d2997f36af6c6c12c3fece96cac71972211cb7ac335ba840331",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 3,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 4,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 5,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 6,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 7,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "e8ee4287a4cb6490bf7b702446bc89d13eb9a2b70d710bd0c39b890f8583426d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "e8ee4287a4cb6490bf7b702446bc89d13eb9a2b70d710bd0c39b890f8583426d",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 8,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 9,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "8ee5f4c9d197db6aaa565f4813d0140d1b083ec6559053aaa1bdde8988941482"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "8ee5f4c9d197db6aaa565f4813d0140d1b083ec6559053aaa1bdde8988941482",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 10,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "8ee5f4c9d197db6aaa565f4813d0140d1b083ec6559053aaa1bdde8988941482"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "8ee5f4c9d197db6aaa565f4813d0140d1b083ec6559053aaa1bdde8988941482",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 11,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 12,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 14,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 15,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 16,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 17,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 18,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 19,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 20,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 21,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 22,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 23,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 24,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 25,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 26,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 27,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 28,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 29,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "3694b9cc2f0722885d97e36d77107c5d9803693d1fb9354f685cfc6b66ab1e5e",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 0,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 1,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "7e38d02a92bffdcf97c7aec673a5e366687ff21b34e45daba592a5ac89f1c13e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "7e38d02a92bffdcf97c7aec673a5e366687ff21b34e45daba592a5ac89f1c13e",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 2,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "b82aa4b6e765c6cb7af3480d7c16a2ce2e78226234ae6ae8bc5154c0a9047d63"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "b82aa4b6e765c6cb7af3480d7c16a2ce2e78226234ae6ae8bc5154c0a9047d63",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 3,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 4,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 5,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 6,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 7,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "c4c6a111338f25f6c5c0195ce422fac0221167c6a6917a9c538a6794e4e15956"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "c4c6a111338f25f6c5c0195ce422fac0221167c6a6917a9c538a6794e4e15956",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 8,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 9,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "1d259f15818bc3484185f539fba36e55ab0c0508044a6eaf2b6a7b220d0c37cf"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "1d259f15818bc3484185f539fba36e55ab0c0508044a6eaf2b6a7b220d0c37cf",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 10,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "1d259f15818bc3484185f539fba36e55ab0c0508044a6eaf2b6a7b220d0c37cf"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "1d259f15818bc3484185f539fba36e55ab0c0508044a6eaf2b6a7b220d0c37cf",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 11,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 12,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 14,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 15,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 16,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 17,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 18,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 19,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 20,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 21,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 22,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 23,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 24,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 25,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 26,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 27,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 28,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 29,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ]
+    ],
+    "expected_sha256": "2c4b0631d2f0087ef49b8538eab6df0f232069920cc508eb238211a86359d18d",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+      "9ad225a1830a924d28149e36d7950555a8890543323fe22037380fef9874880e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 0,
+    "phase": 1,
+    "calls": [
+      "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+      "69cecdd0cc0b99dec77f96524c428e148858ff67b00e1a76004bcf6cf1465cb3"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 1,
+    "phase": 0,
+    "calls": [
+      "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+      "8cae2c8774f51cf1752c6bc075fe2aeefab08f440d35c7edd765641693dcc9bf"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 1,
+    "phase": 1,
+    "calls": [
+      "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+      "bfe03c46ac66fa1b1fcd71d3db7aa2fcc472649c54b5b544c7c9cfb8dbfc2b3b"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 2,
+    "phase": 0,
+    "calls": [
+      "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+      "d631118531d3e51a5ac55cba38d23867bbe807c36cd799b041964bd611728ef7"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 2,
+    "phase": 1,
+    "calls": [
+      "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+      "ba9b9bcc9ce4c6b9cef4cceb4832b8813c77f1d12c1fca8e304150705afdd2fd"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 3,
+    "phase": 0,
+    "calls": [
+      "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+      "a6ea862e6b81cfda4e5bc82481a229a6cf0305f500b4f83537839be6ec7d0d2b"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "6e67cb25c6078316ded84af2869268d448709b77ed3f5945b4468a40372873d7",
+    "match": true
+  },
+  {
+    "size": 48,
+    "terrain": 13,
+    "direction": 3,
+    "phase": 1,
+    "calls": [
+      "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+      "54fb99fdad8a3353f9dc8f6f8461e2fa6476ee8c7c30d878850f32100caf8173"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        48,
+        48
+      ],
+      [
+        0,
+        0,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "2a92f9ff075e424efd0acf91431f7a67b48e5a615a394fc40bc7582ff9df95a8",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 0,
+    "phase": 0,
+    "calls": [
+      "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+      "9ad225a1830a924d28149e36d7950555a8890543323fe22037380fef9874880e"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 0,
+    "phase": 1,
+    "calls": [
+      "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+      "69cecdd0cc0b99dec77f96524c428e148858ff67b00e1a76004bcf6cf1465cb3"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 1,
+    "phase": 0,
+    "calls": [
+      "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+      "8cae2c8774f51cf1752c6bc075fe2aeefab08f440d35c7edd765641693dcc9bf"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 1,
+    "phase": 1,
+    "calls": [
+      "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+      "bfe03c46ac66fa1b1fcd71d3db7aa2fcc472649c54b5b544c7c9cfb8dbfc2b3b"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 2,
+    "phase": 0,
+    "calls": [
+      "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+      "d631118531d3e51a5ac55cba38d23867bbe807c36cd799b041964bd611728ef7"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 2,
+    "phase": 1,
+    "calls": [
+      "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+      "ba9b9bcc9ce4c6b9cef4cceb4832b8813c77f1d12c1fca8e304150705afdd2fd"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 3,
+    "phase": 0,
+    "calls": [
+      "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+      "a6ea862e6b81cfda4e5bc82481a229a6cf0305f500b4f83537839be6ec7d0d2b"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "576a9a94eff9fbfcefec56a93a39260f894ab843b9c919ac08bc649fac46bf2d",
+    "match": true
+  },
+  {
+    "size": 64,
+    "terrain": 13,
+    "direction": 3,
+    "phase": 1,
+    "calls": [
+      "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+      "54fb99fdad8a3353f9dc8f6f8461e2fa6476ee8c7c30d878850f32100caf8173"
+    ],
+    "geometry": [
+      [
+        0,
+        0,
+        64,
+        64
+      ],
+      [
+        8,
+        8,
+        48,
+        48
+      ]
+    ],
+    "expected_sha256": "4d8c7b5e63dcd0e6b8441599e30b440174b2b4732768e383d3e585ab07c46fbf",
+    "match": true
+  }
+]

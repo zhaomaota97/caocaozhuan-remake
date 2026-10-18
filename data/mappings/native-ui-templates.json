@@ -1,0 +1,9323 @@
+{
+  "source": "Ekd5.exe",
+  "rectUnits": "Windows dialog units, not pixels",
+  "dialogs": [
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160593088,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        163,
+        219
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "环境设定",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            22,
+            196,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            44,
+            368,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            91,
+            196,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            182,
+            368,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            6,
+            144,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "请点击项目以设定。",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            19,
+            144,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "设定结束后请选择[确定]。",
+          "creationData": ""
+        },
+        {
+          "id": 1036,
+          "helpId": 0,
+          "style": 1342242819,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            34,
+            144,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "听背景音乐",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            64,
+            288,
+            26
+          ]
+        },
+        {
+          "id": 1037,
+          "helpId": 0,
+          "style": 1342242819,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            49,
+            144,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "听音效",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            92,
+            288,
+            26
+          ]
+        },
+        {
+          "id": 1038,
+          "helpId": 0,
+          "style": 1342242819,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            64,
+            144,
+            15
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "战斗时，窗口自动最大化",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            120,
+            288,
+            28
+          ]
+        },
+        {
+          "id": 1034,
+          "helpId": 0,
+          "style": 1342373897,
+          "exStyle": 32,
+          "rectDlu": [
+            29,
+            152,
+            32,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "快",
+          "creationData": "",
+          "nativeRectPixels": [
+            58,
+            285,
+            64,
+            15
+          ]
+        },
+        {
+          "id": 1044,
+          "helpId": 0,
+          "style": 1342242825,
+          "exStyle": 32,
+          "rectDlu": [
+            69,
+            152,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "普通",
+          "creationData": "",
+          "nativeRectPixels": [
+            138,
+            285,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 1040,
+          "helpId": 0,
+          "style": 1342242825,
+          "exStyle": 32,
+          "rectDlu": [
+            109,
+            152,
+            32,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "慢",
+          "creationData": "",
+          "nativeRectPixels": [
+            218,
+            285,
+            64,
+            15
+          ]
+        },
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342308359,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            142,
+            144,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "武将移动速度",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            266,
+            288,
+            41
+          ]
+        },
+        {
+          "id": 1033,
+          "helpId": 0,
+          "style": 1342373897,
+          "exStyle": 32,
+          "rectDlu": [
+            29,
+            123,
+            32,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "慢",
+          "creationData": "",
+          "nativeRectPixels": [
+            58,
+            231,
+            64,
+            15
+          ]
+        },
+        {
+          "id": 1043,
+          "helpId": 0,
+          "style": 1342242825,
+          "exStyle": 32,
+          "rectDlu": [
+            69,
+            123,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "普通",
+          "creationData": "",
+          "nativeRectPixels": [
+            138,
+            231,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 1035,
+          "helpId": 0,
+          "style": 1342242825,
+          "exStyle": 32,
+          "rectDlu": [
+            109,
+            123,
+            32,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "快",
+          "creationData": "",
+          "nativeRectPixels": [
+            218,
+            231,
+            64,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308359,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            113,
+            144,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "讯息显示速度",
+          "creationData": ""
+        },
+        {
+          "id": 1005,
+          "helpId": 0,
+          "style": 1342242819,
+          "exStyle": 32,
+          "rectDlu": [
+            9,
+            79,
+            144,
+            15
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "战斗时，自动显示战场缩小图",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            148,
+            288,
+            28
+          ]
+        },
+        {
+          "id": 1006,
+          "helpId": 0,
+          "style": 1342242819,
+          "exStyle": 0,
+          "rectDlu": [
+            9,
+            94,
+            144,
+            15
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "会话窗口不自动关闭",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            176,
+            288,
+            28
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            10,
+            176,
+            48,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "对话框花色",
+          "creationData": ""
+        },
+        {
+          "id": 1488,
+          "helpId": 0,
+          "style": 1344339971,
+          "exStyle": 0,
+          "rectDlu": [
+            61,
+            174,
+            61,
+            63
+          ],
+          "windowClass": {
+            "ordinal": 133
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            122,
+            326,
+            122,
+            23
+          ]
+        }
+      ],
+      "resourceBytes": 868,
+      "parsedBytes": 868,
+      "trailingHex": "",
+      "resourceId": null,
+      "resourceName": "KANKYOU",
+      "language": 2052,
+      "nativeClientPixels": [
+        326,
+        411
+      ],
+      "nativeWindowPixels": [
+        344,
+        458
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        360,
+        10,
+        186,
+        207
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "武将情报",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 32,
+          "rectDlu": [
+            114,
+            189,
+            45,
+            13
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            228,
+            354,
+            90,
+            24
+          ]
+        },
+        {
+          "id": 1027,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            189,
+            40,
+            13
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "上一武将",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            354,
+            80,
+            24
+          ]
+        },
+        {
+          "id": 1028,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            44,
+            189,
+            40,
+            13
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "下一武将",
+          "creationData": "",
+          "nativeRectPixels": [
+            88,
+            354,
+            80,
+            24
+          ]
+        },
+        {
+          "id": 1029,
+          "helpId": 0,
+          "style": 1342218752,
+          "exStyle": 0,
+          "rectDlu": [
+            83,
+            3,
+            100,
+            182
+          ],
+          "windowClass": "SysTabControl32",
+          "text": "Tab1",
+          "creationData": "",
+          "nativeRectPixels": [
+            166,
+            6,
+            200,
+            341
+          ]
+        },
+        {
+          "id": 1002,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            46,
+            9,
+            35,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Name",
+          "creationData": "",
+          "nativeRectPixels": [
+            92,
+            17,
+            70,
+            15
+          ]
+        },
+        {
+          "id": 1015,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            46,
+            21,
+            36,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Belong",
+          "creationData": "",
+          "nativeRectPixels": [
+            92,
+            39,
+            72,
+            15
+          ]
+        },
+        {
+          "id": 1076,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            3,
+            3,
+            38,
+            57
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            6,
+            6,
+            76,
+            107
+          ]
+        },
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            6,
+            76,
+            32,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Attribute",
+          "creationData": "",
+          "nativeRectPixels": [
+            12,
+            143,
+            64,
+            15
+          ]
+        },
+        {
+          "id": 1017,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            18,
+            89,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            36,
+            167,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            89,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": ""
+        },
+        {
+          "id": 1381,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            44,
+            89,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            88,
+            167,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            31,
+            89,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            62,
+            77,
+            41
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "部队属性",
+          "creationData": ""
+        },
+        {
+          "id": 1376,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            18,
+            118,
+            57,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            36,
+            221,
+            114,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            6,
+            118,
+            10,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "HP",
+          "creationData": ""
+        },
+        {
+          "id": 1380,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            18,
+            131,
+            57,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            36,
+            246,
+            114,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            6,
+            131,
+            10,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "MP",
+          "creationData": ""
+        },
+        {
+          "id": 1443,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            146,
+            67,
+            33
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Status",
+          "creationData": "",
+          "nativeRectPixels": [
+            14,
+            274,
+            134,
+            62
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            107,
+            77,
+            78
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "状态",
+          "creationData": ""
+        },
+        {
+          "id": 1323,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            46,
+            36,
+            34,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "现金",
+          "creationData": "",
+          "nativeRectPixels": [
+            92,
+            68,
+            68,
+            38
+          ]
+        },
+        {
+          "id": 1074,
+          "helpId": 0,
+          "style": 1342308354,
+          "exStyle": 0,
+          "rectDlu": [
+            49,
+            45,
+            27,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "65535",
+          "creationData": "",
+          "nativeRectPixels": [
+            98,
+            84,
+            54,
+            15
+          ]
+        },
+        {
+          "id": 1003,
+          "helpId": 0,
+          "style": 1073872896,
+          "exStyle": 0,
+          "rectDlu": [
+            44,
+            4,
+            35,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Rubi",
+          "creationData": "",
+          "nativeRectPixels": [
+            88,
+            8,
+            70,
+            15
+          ]
+        }
+      ],
+      "resourceBytes": 924,
+      "parsedBytes": 924,
+      "trailingHex": "",
+      "resourceId": 166,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        372,
+        388
+      ],
+      "nativeWindowPixels": [
+        390,
+        435
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2147484353,
+      "exStyle": 0,
+      "rectDlu": [
+        270,
+        400,
+        201,
+        145
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            40,
+            5,
+            64,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Item Name",
+          "creationData": "",
+          "nativeRectPixels": [
+            80,
+            9,
+            128,
+            15
+          ]
+        },
+        {
+          "id": 1452,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            57,
+            17,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            114,
+            32,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1451,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            46,
+            17,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            92,
+            32,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1381,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            87,
+            17,
+            40,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            174,
+            32,
+            80,
+            15
+          ]
+        },
+        {
+          "id": 1453,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            73,
+            17,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": "",
+          "nativeRectPixels": [
+            146,
+            32,
+            24,
+            15
+          ]
+        },
+        {
+          "id": 1045,
+          "helpId": 0,
+          "style": 1342183427,
+          "exStyle": 0,
+          "rectDlu": [
+            10,
+            5,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            20,
+            9,
+            40,
+            38
+          ]
+        },
+        {
+          "id": 1023,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            31,
+            38,
+            23,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Atr.",
+          "creationData": "",
+          "nativeRectPixels": [
+            62,
+            71,
+            46,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            38,
+            27,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "属性∶",
+          "creationData": ""
+        },
+        {
+          "id": 1018,
+          "helpId": 0,
+          "style": 1342308354,
+          "exStyle": 0,
+          "rectDlu": [
+            31,
+            50,
+            23,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "9999",
+          "creationData": "",
+          "nativeRectPixels": [
+            62,
+            94,
+            46,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            50,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "价格∶",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177298,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            32,
+            50,
+            31
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1025,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            66,
+            38,
+            70,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            132,
+            71,
+            140,
+            15
+          ]
+        },
+        {
+          "id": 1455,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            66,
+            50,
+            70,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Additional Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            132,
+            94,
+            140,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            62,
+            28,
+            76,
+            35
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "效果",
+          "creationData": ""
+        },
+        {
+          "id": 1070,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            68,
+            129,
+            56
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Description",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            128,
+            258,
+            105
+          ]
+        },
+        {
+          "id": 1472,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            16,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "君主类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            30,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1473,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            24,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "步兵类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            45,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1474,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            32,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "弓兵类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            60,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1475,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            40,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "骑兵类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            75,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1476,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            48,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "弓骑兵类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            90,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1477,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            56,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "炮车类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            105,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1478,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            64,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "武术家类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            120,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1479,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            72,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "贼兵类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            135,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1480,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            80,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "策士类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            150,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1481,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            88,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "风水士类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            165,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1482,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            96,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "道士类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            180,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1483,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            104,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "骑马策士类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            195,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 1484,
+          "helpId": 0,
+          "style": 1476526081,
+          "exStyle": 0,
+          "rectDlu": [
+            150,
+            112,
+            42,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "舞娘类",
+          "creationData": "",
+          "nativeRectPixels": [
+            300,
+            210,
+            84,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342178055,
+          "exStyle": 0,
+          "rectDlu": [
+            142,
+            5,
+            55,
+            119
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "可装备的部队",
+          "creationData": ""
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 32,
+          "rectDlu": [
+            152,
+            128,
+            45,
+            13
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确认",
+          "creationData": "",
+          "nativeRectPixels": [
+            304,
+            240,
+            90,
+            24
+          ]
+        },
+        {
+          "id": 1017,
+          "helpId": 0,
+          "style": 1073872896,
+          "exStyle": 0,
+          "rectDlu": [
+            40,
+            4,
+            64,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Rubi",
+          "creationData": "",
+          "nativeRectPixels": [
+            80,
+            8,
+            128,
+            15
+          ]
+        }
+      ],
+      "resourceBytes": 1312,
+      "parsedBytes": 1312,
+      "trailingHex": "",
+      "resourceId": 167,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        402,
+        272
+      ],
+      "nativeWindowPixels": [
+        408,
+        278
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 1073741888,
+      "exStyle": 0,
+      "rectDlu": [
+        1,
+        25,
+        96,
+        154
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1382,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            16,
+            15,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            5,
+            79,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "攻击力",
+          "creationData": ""
+        },
+        {
+          "id": 1383,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            16,
+            39,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            29,
+            79,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "精神力",
+          "creationData": ""
+        },
+        {
+          "id": 1384,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            16,
+            63,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            53,
+            79,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "防御力",
+          "creationData": ""
+        },
+        {
+          "id": 1385,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            16,
+            87,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            77,
+            79,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "爆发力",
+          "creationData": ""
+        },
+        {
+          "id": 1386,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            16,
+            111,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            101,
+            79,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "士气",
+          "creationData": ""
+        },
+        {
+          "id": 1008,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            42,
+            135,
+            35,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            125,
+            79,
+            22
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "移动力",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 396,
+      "parsedBytes": 396,
+      "trailingHex": "",
+      "resourceId": 178,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 1073741888,
+      "exStyle": 0,
+      "rectDlu": [
+        1,
+        25,
+        96,
+        154
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1412,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            115,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1411,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            65,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1410,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            15,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1391,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            4,
+            73,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Wepon:",
+          "creationData": ""
+        },
+        {
+          "id": 1392,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            52,
+            16,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": ""
+        },
+        {
+          "id": 1418,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            37,
+            16,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": ""
+        },
+        {
+          "id": 1422,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            52,
+            26,
+            33,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1419,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            37,
+            26,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": ""
+        },
+        {
+          "id": 1401,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            13,
+            39,
+            72,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": ""
+        },
+        {
+          "id": 1394,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            54,
+            73,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Armor:",
+          "creationData": ""
+        },
+        {
+          "id": 1395,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            52,
+            66,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": ""
+        },
+        {
+          "id": 1420,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            37,
+            66,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": ""
+        },
+        {
+          "id": 1423,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            52,
+            76,
+            33,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1421,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            37,
+            76,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": ""
+        },
+        {
+          "id": 1400,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            13,
+            90,
+            72,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": ""
+        },
+        {
+          "id": 1444,
+          "helpId": 0,
+          "style": 1342181383,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            49,
+            92,
+            1
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1445,
+          "helpId": 0,
+          "style": 1342181383,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            100,
+            92,
+            1
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1397,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            104,
+            73,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Sub Item:",
+          "creationData": ""
+        },
+        {
+          "id": 1402,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            12,
+            140,
+            73,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 662,
+      "parsedBytes": 662,
+      "trailingHex": "",
+      "resourceId": 179,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160593088,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        387,
+        177
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "部队情报一览",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 32,
+          "rectDlu": [
+            338,
+            160,
+            45,
+            13
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            676,
+            300,
+            90,
+            24
+          ]
+        },
+        {
+          "id": 1026,
+          "helpId": 0,
+          "style": 1350632453,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            2,
+            379,
+            153
+          ],
+          "windowClass": "SysListView32",
+          "text": "List2",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            4,
+            758,
+            287
+          ]
+        },
+        {
+          "id": 1033,
+          "helpId": 0,
+          "style": 1342308361,
+          "exStyle": 0,
+          "rectDlu": [
+            13,
+            164,
+            35,
+            9
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "我军",
+          "creationData": "",
+          "nativeRectPixels": [
+            26,
+            308,
+            70,
+            17
+          ]
+        },
+        {
+          "id": 1043,
+          "helpId": 0,
+          "style": 1342177289,
+          "exStyle": 0,
+          "rectDlu": [
+            53,
+            164,
+            30,
+            9
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "敌军",
+          "creationData": "",
+          "nativeRectPixels": [
+            106,
+            308,
+            60,
+            17
+          ]
+        }
+      ],
+      "resourceBytes": 232,
+      "parsedBytes": 232,
+      "trailingHex": "",
+      "resourceId": 186,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        774,
+        332
+      ],
+      "nativeWindowPixels": [
+        792,
+        379
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160068800,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        135,
+        95
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "三国志曹操传",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1027,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            7,
+            117,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "开始新游戏",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            13,
+            234,
+            38
+          ]
+        },
+        {
+          "id": 1028,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            27,
+            117,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "读取保存进度",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            51,
+            234,
+            38
+          ]
+        },
+        {
+          "id": 1058,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            47,
+            117,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "环境设定",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            88,
+            234,
+            38
+          ]
+        },
+        {
+          "id": 1059,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            67,
+            117,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "结束游戏",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            126,
+            234,
+            38
+          ]
+        }
+      ],
+      "resourceBytes": 190,
+      "parsedBytes": 190,
+      "trailingHex": "",
+      "resourceId": 193,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        270,
+        178
+      ],
+      "nativeWindowPixels": [
+        288,
+        225
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 1073741888,
+      "exStyle": 0,
+      "rectDlu": [
+        1,
+        25,
+        96,
+        154
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1313,
+          "helpId": 0,
+          "style": 1350566981,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            1,
+            79,
+            152
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 92,
+      "parsedBytes": 92,
+      "trailingHex": "",
+      "resourceId": 200,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 1073741888,
+      "exStyle": 0,
+      "rectDlu": [
+        1,
+        25,
+        96,
+        154
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1018,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            34,
+            14,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            15,
+            14,
+            17,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "武力",
+          "creationData": ""
+        },
+        {
+          "id": 1377,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            34,
+            25,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            15,
+            25,
+            17,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "智力",
+          "creationData": ""
+        },
+        {
+          "id": 1009,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            34,
+            36,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            15,
+            36,
+            17,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "统率力",
+          "creationData": ""
+        },
+        {
+          "id": 1378,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            70,
+            14,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            51,
+            14,
+            17,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "敏捷",
+          "creationData": ""
+        },
+        {
+          "id": 1379,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            70,
+            25,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            51,
+            25,
+            17,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "运气",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            4,
+            81,
+            45
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "基本能力",
+          "creationData": ""
+        },
+        {
+          "id": 1446,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            52,
+            81,
+            83
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1486,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            140,
+            81,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "??战 ??胜 ??败",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 554,
+      "parsedBytes": 554,
+      "trailingHex": "",
+      "resourceId": 205,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        399,
+        303
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "选择武将",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1,
+          "helpId": 0,
+          "style": 1476395008,
+          "exStyle": 0,
+          "rectDlu": [
+            276,
+            287,
+            57,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "决定",
+          "creationData": "",
+          "nativeRectPixels": [
+            552,
+            538,
+            114,
+            26
+          ]
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            337,
+            287,
+            57,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            674,
+            538,
+            114,
+            26
+          ]
+        },
+        {
+          "id": 1087,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            5,
+            266,
+            204
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            9,
+            532,
+            383
+          ]
+        },
+        {
+          "id": 1388,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            27,
+            210,
+            85,
+            9
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Count   ( 99 / 99 )",
+          "creationData": "",
+          "nativeRectPixels": [
+            54,
+            394,
+            170,
+            17
+          ]
+        },
+        {
+          "id": 1089,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            220,
+            266,
+            72
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            413,
+            532,
+            135
+          ]
+        },
+        {
+          "id": 1139,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            320,
+            13,
+            54,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Name",
+          "creationData": "",
+          "nativeRectPixels": [
+            640,
+            24,
+            108,
+            19
+          ]
+        },
+        {
+          "id": 1141,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            320,
+            24,
+            37,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Attribute",
+          "creationData": "",
+          "nativeRectPixels": [
+            640,
+            45,
+            74,
+            15
+          ]
+        },
+        {
+          "id": 1017,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            381,
+            24,
+            9,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            762,
+            45,
+            18,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            366,
+            24,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": ""
+        },
+        {
+          "id": 1076,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            12,
+            40,
+            57
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            554,
+            23,
+            80,
+            107
+          ]
+        },
+        {
+          "id": 1018,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            344,
+            38,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": "",
+          "nativeRectPixels": [
+            688,
+            71,
+            22,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            320,
+            38,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "武力",
+          "creationData": ""
+        },
+        {
+          "id": 1377,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            344,
+            49,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": "",
+          "nativeRectPixels": [
+            688,
+            92,
+            22,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            320,
+            49,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "智力",
+          "creationData": ""
+        },
+        {
+          "id": 1009,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            344,
+            60,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": "",
+          "nativeRectPixels": [
+            688,
+            113,
+            22,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            320,
+            60,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "统率力",
+          "creationData": ""
+        },
+        {
+          "id": 1378,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            381,
+            38,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": "",
+          "nativeRectPixels": [
+            762,
+            71,
+            22,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            358,
+            38,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "敏捷",
+          "creationData": ""
+        },
+        {
+          "id": 1379,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            381,
+            49,
+            11,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "100",
+          "creationData": "",
+          "nativeRectPixels": [
+            762,
+            92,
+            22,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            358,
+            49,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "运气",
+          "creationData": ""
+        },
+        {
+          "id": 1376,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            85,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            159,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1022,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            85,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            159,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            75,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "HP",
+          "creationData": ""
+        },
+        {
+          "id": 1380,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            108,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            203,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1011,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            108,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            203,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            98,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "MP",
+          "creationData": ""
+        },
+        {
+          "id": 1381,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            131,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            246,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1013,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            131,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            246,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            121,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "Exp",
+          "creationData": ""
+        },
+        {
+          "id": 1382,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            154,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            289,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1006,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            154,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            289,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            144,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "攻击力",
+          "creationData": ""
+        },
+        {
+          "id": 1383,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            177,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            332,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1023,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            177,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            332,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            167,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "精神力",
+          "creationData": ""
+        },
+        {
+          "id": 1384,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            200,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            375,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1024,
+          "helpId": 0,
+          "style": 1342308354,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            200,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            375,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            190,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "防御力",
+          "creationData": ""
+        },
+        {
+          "id": 1385,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            223,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            418,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1012,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            223,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            418,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            213,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "爆发力",
+          "creationData": ""
+        },
+        {
+          "id": 1386,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            281,
+            246,
+            87,
+            7
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            562,
+            461,
+            174,
+            13
+          ]
+        },
+        {
+          "id": 1007,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            246,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            461,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            236,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "士气",
+          "creationData": ""
+        },
+        {
+          "id": 1008,
+          "helpId": 0,
+          "style": 1342177282,
+          "exStyle": 0,
+          "rectDlu": [
+            372,
+            269,
+            18,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            504,
+            36,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            277,
+            259,
+            116,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "移动力",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            274,
+            0,
+            122,
+            285
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "武将情报",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 1840,
+      "parsedBytes": 1840,
+      "trailingHex": "",
+      "resourceId": 236,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        798,
+        568
+      ],
+      "nativeWindowPixels": [
+        816,
+        615
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2147483840,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        170,
+        181
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            118,
+            166,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            236,
+            311,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 1313,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            2,
+            168,
+            160
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            0,
+            4,
+            336,
+            300
+          ]
+        }
+      ],
+      "resourceBytes": 124,
+      "parsedBytes": 124,
+      "trailingHex": "",
+      "resourceId": 242,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        340,
+        339
+      ],
+      "nativeWindowPixels": [
+        346,
+        345
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2147483840,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        55,
+        77
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            63,
+            55,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            0,
+            118,
+            110,
+            26
+          ]
+        },
+        {
+          "id": 1287,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            1,
+            55,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "攻击",
+          "creationData": "",
+          "nativeRectPixels": [
+            0,
+            2,
+            110,
+            26
+          ]
+        },
+        {
+          "id": 1288,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            15,
+            55,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "策略",
+          "creationData": "",
+          "nativeRectPixels": [
+            0,
+            28,
+            110,
+            26
+          ]
+        },
+        {
+          "id": 1289,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            29,
+            55,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "道具",
+          "creationData": "",
+          "nativeRectPixels": [
+            0,
+            54,
+            110,
+            26
+          ]
+        },
+        {
+          "id": 1291,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            46,
+            55,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "待命",
+          "creationData": "",
+          "nativeRectPixels": [
+            0,
+            86,
+            110,
+            26
+          ]
+        }
+      ],
+      "resourceBytes": 190,
+      "parsedBytes": 190,
+      "trailingHex": "",
+      "resourceId": 279,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        110,
+        144
+      ],
+      "nativeWindowPixels": [
+        116,
+        150
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2147483840,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        161,
+        191
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            110,
+            176,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            220,
+            330,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 1380,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            50,
+            2,
+            57,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            100,
+            4,
+            114,
+            15
+          ]
+        },
+        {
+          "id": 1485,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            38,
+            2,
+            10,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "MP",
+          "creationData": "",
+          "nativeRectPixels": [
+            76,
+            4,
+            20,
+            15
+          ]
+        },
+        {
+          "id": 1002,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            3,
+            2,
+            28,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Name",
+          "creationData": "",
+          "nativeRectPixels": [
+            6,
+            4,
+            56,
+            15
+          ]
+        },
+        {
+          "id": 1313,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            1,
+            13,
+            159,
+            160
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            2,
+            24,
+            318,
+            300
+          ]
+        }
+      ],
+      "resourceBytes": 220,
+      "parsedBytes": 220,
+      "trailingHex": "",
+      "resourceId": 282,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        322,
+        358
+      ],
+      "nativeWindowPixels": [
+        328,
+        364
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 1073741888,
+      "exStyle": 0,
+      "rectDlu": [
+        1,
+        25,
+        96,
+        154
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1018,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            1,
+            28,
+            36
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            41,
+            3,
+            32,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Attribute",
+          "creationData": ""
+        },
+        {
+          "id": 1448,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            66,
+            15,
+            20,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Sword",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            41,
+            15,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "武器:",
+          "creationData": ""
+        },
+        {
+          "id": 1447,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            66,
+            25,
+            20,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Armor",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            41,
+            25,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "护具:",
+          "creationData": ""
+        },
+        {
+          "id": 1140,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            34,
+            40,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "A",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            40,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "攻击力",
+          "creationData": ""
+        },
+        {
+          "id": 1377,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            34,
+            50,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "A",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            50,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "精神力",
+          "creationData": ""
+        },
+        {
+          "id": 1009,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            34,
+            60,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "A",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            60,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "防御力",
+          "creationData": ""
+        },
+        {
+          "id": 1378,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            34,
+            70,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "A",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            70,
+            22,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "爆发力",
+          "creationData": ""
+        },
+        {
+          "id": 1379,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            34,
+            80,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "A",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            80,
+            22,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "士气",
+          "creationData": ""
+        },
+        {
+          "id": 1380,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            34,
+            90,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "A",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            90,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "移动力",
+          "creationData": ""
+        },
+        {
+          "id": 1449,
+          "helpId": 0,
+          "style": 1342183439,
+          "exStyle": 0,
+          "rectDlu": [
+            50,
+            51,
+            39,
+            45
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177281,
+          "exStyle": 0,
+          "rectDlu": [
+            48,
+            41,
+            36,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "攻击范围",
+          "creationData": ""
+        },
+        {
+          "id": 1446,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            102,
+            82,
+            50
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 690,
+      "parsedBytes": 690,
+      "trailingHex": "",
+      "resourceId": 284,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2147483841,
+      "exStyle": 0,
+      "rectDlu": [
+        270,
+        400,
+        175,
+        144
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1314,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            39,
+            12,
+            64,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Magic Name",
+          "creationData": "",
+          "nativeRectPixels": [
+            78,
+            23,
+            128,
+            15
+          ]
+        },
+        {
+          "id": 1318,
+          "helpId": 0,
+          "style": 1342177283,
+          "exStyle": 0,
+          "rectDlu": [
+            12,
+            6,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            24,
+            11,
+            40,
+            38
+          ]
+        },
+        {
+          "id": 1023,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 4096,
+          "rectDlu": [
+            48,
+            38,
+            35,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            96,
+            71,
+            70,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            10,
+            38,
+            28,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "效果",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177298,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            32,
+            89,
+            31
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1010,
+          "helpId": 0,
+          "style": 1342308354,
+          "exStyle": 0,
+          "rectDlu": [
+            71,
+            50,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            142,
+            94,
+            24,
+            15
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            10,
+            50,
+            33,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "消耗ＭＰ",
+          "creationData": ""
+        },
+        {
+          "id": 1319,
+          "helpId": 0,
+          "style": 1342183439,
+          "exStyle": 0,
+          "rectDlu": [
+            131,
+            14,
+            36,
+            43
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            262,
+            26,
+            72,
+            81
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            126,
+            4,
+            45,
+            58
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "可能范围",
+          "creationData": ""
+        },
+        {
+          "id": 1320,
+          "helpId": 0,
+          "style": 1342183439,
+          "exStyle": 0,
+          "rectDlu": [
+            131,
+            76,
+            36,
+            43
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            262,
+            143,
+            72,
+            81
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            126,
+            66,
+            45,
+            58
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "影响范围",
+          "creationData": ""
+        },
+        {
+          "id": 1317,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            68,
+            118,
+            56
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Description",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            128,
+            236,
+            105
+          ]
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 32,
+          "rectDlu": [
+            126,
+            127,
+            45,
+            13
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确认",
+          "creationData": "",
+          "nativeRectPixels": [
+            252,
+            238,
+            90,
+            24
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            41,
+            49,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": ":",
+          "creationData": ""
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            41,
+            38,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": ":",
+          "creationData": ""
+        },
+        {
+          "id": 1315,
+          "helpId": 0,
+          "style": 1073872896,
+          "exStyle": 0,
+          "rectDlu": [
+            39,
+            4,
+            64,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Rubi",
+          "creationData": "",
+          "nativeRectPixels": [
+            78,
+            8,
+            128,
+            15
+          ]
+        }
+      ],
+      "resourceBytes": 664,
+      "parsedBytes": 664,
+      "trailingHex": "",
+      "resourceId": 285,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        350,
+        270
+      ],
+      "nativeWindowPixels": [
+        356,
+        276
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 1082131008,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        53,
+        56
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1387,
+          "helpId": 0,
+          "style": 1342259328,
+          "exStyle": 0,
+          "rectDlu": [
+            0,
+            0,
+            53,
+            56
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 58,
+      "parsedBytes": 58,
+      "trailingHex": "",
+      "resourceId": 297,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160066752,
+      "exStyle": 0,
+      "rectDlu": [
+        110,
+        50,
+        140,
+        53
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "输入数值",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            15,
+            32,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "OK",
+          "creationData": "",
+          "nativeRectPixels": [
+            30,
+            60,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            73,
+            32,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            146,
+            60,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 1437,
+          "helpId": 0,
+          "style": 1350770694,
+          "exStyle": 135681,
+          "rectDlu": [
+            82,
+            7,
+            29,
+            16
+          ],
+          "windowClass": {
+            "ordinal": 129
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            164,
+            13,
+            58,
+            30
+          ]
+        },
+        {
+          "id": 1438,
+          "helpId": 0,
+          "style": 1342177330,
+          "exStyle": 0,
+          "rectDlu": [
+            112,
+            7,
+            14,
+            16
+          ],
+          "windowClass": "msctls_updown32",
+          "text": "Spin1",
+          "creationData": "",
+          "nativeRectPixels": [
+            224,
+            13,
+            21,
+            30
+          ]
+        },
+        {
+          "id": 1436,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            11,
+            11,
+            69,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Count ( 1- 99 )∶",
+          "creationData": "",
+          "nativeRectPixels": [
+            22,
+            21,
+            138,
+            15
+          ]
+        }
+      ],
+      "resourceBytes": 292,
+      "parsedBytes": 292,
+      "trailingHex": "",
+      "resourceId": 320,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        280,
+        99
+      ],
+      "nativeWindowPixels": [
+        298,
+        146
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        318,
+        209
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "道具一览",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            267,
+            193,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            534,
+            362,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 1457,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            15,
+            307,
+            173
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            4,
+            28,
+            614,
+            324
+          ]
+        },
+        {
+          "id": 1003,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            15,
+            253,
+            173
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            4,
+            28,
+            506,
+            324
+          ]
+        },
+        {
+          "id": 1029,
+          "helpId": 0,
+          "style": 1342283776,
+          "exStyle": 0,
+          "rectDlu": [
+            1,
+            1,
+            316,
+            190
+          ],
+          "windowClass": "SysTabControl32",
+          "text": "Tab1",
+          "creationData": "",
+          "nativeRectPixels": [
+            2,
+            2,
+            632,
+            356
+          ]
+        }
+      ],
+      "resourceBytes": 254,
+      "parsedBytes": 254,
+      "trailingHex": "",
+      "resourceId": 325,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        636,
+        392
+      ],
+      "nativeWindowPixels": [
+        654,
+        439
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        393,
+        227
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "买进",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342373888,
+          "exStyle": 0,
+          "rectDlu": [
+            191,
+            210,
+            41,
+            15
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "结束",
+          "creationData": "",
+          "nativeRectPixels": [
+            382,
+            394,
+            82,
+            28
+          ]
+        },
+        {
+          "id": 1141,
+          "helpId": 0,
+          "style": 1342312448,
+          "exStyle": 4096,
+          "rectDlu": [
+            155,
+            213,
+            27,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "999999",
+          "creationData": "",
+          "nativeRectPixels": [
+            310,
+            399,
+            54,
+            19
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            129,
+            214,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "现金",
+          "creationData": ""
+        },
+        {
+          "id": 1457,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            9,
+            27,
+            224,
+            173
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            51,
+            448,
+            324
+          ]
+        },
+        {
+          "id": 1003,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            9,
+            27,
+            224,
+            173
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            18,
+            51,
+            448,
+            324
+          ]
+        },
+        {
+          "id": 1389,
+          "helpId": 0,
+          "style": 1342283776,
+          "exStyle": 0,
+          "rectDlu": [
+            6,
+            12,
+            226,
+            192
+          ],
+          "windowClass": "SysTabControl32",
+          "text": "Tab1",
+          "creationData": "",
+          "nativeRectPixels": [
+            12,
+            23,
+            452,
+            360
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            3,
+            235,
+            204
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "商品列表",
+          "creationData": ""
+        },
+        {
+          "id": 1098,
+          "helpId": 0,
+          "style": 1344340003,
+          "exStyle": 512,
+          "rectDlu": [
+            253,
+            6,
+            100,
+            110
+          ],
+          "windowClass": {
+            "ordinal": 133
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            506,
+            11,
+            200,
+            28
+          ]
+        },
+        {
+          "id": 1137,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 4096,
+          "rectDlu": [
+            372,
+            8,
+            9,
+            9
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            744,
+            15,
+            18,
+            17
+          ]
+        },
+        {
+          "id": 1458,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            360,
+            8,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            720,
+            15,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1173,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            84,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            158,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            84,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            158,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1459,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            84,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "HP",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            158,
+            48,
+            15
+          ]
+        },
+        {
+          "id": 1174,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            99,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            186,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1017,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            99,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            186,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1460,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            99,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "MP",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            186,
+            48,
+            15
+          ]
+        },
+        {
+          "id": 1179,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            118,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            221,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1178,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            118,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            221,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1461,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            120,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "攻击力",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            225,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1181,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            133,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            249,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1176,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            133,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            249,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1462,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            135,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "精神力",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            253,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1180,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            147,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            276,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1177,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            147,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            276,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1463,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            149,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "防御力",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            279,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1159,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            161,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            302,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1019,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            161,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            302,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1464,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            163,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "爆发力",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            306,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1182,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            175,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            328,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1015,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            175,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            328,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1465,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            177,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "士气",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            332,
+            48,
+            15
+          ]
+        },
+        {
+          "id": 1183,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            275,
+            189,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            550,
+            354,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1018,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            295,
+            189,
+            17,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            590,
+            354,
+            34,
+            19
+          ]
+        },
+        {
+          "id": 1466,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            246,
+            191,
+            26,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "移动力",
+          "creationData": "",
+          "nativeRectPixels": [
+            492,
+            358,
+            52,
+            15
+          ]
+        },
+        {
+          "id": 1391,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            27,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Wepon:",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            51,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1410,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            39,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            73,
+            40,
+            38
+          ]
+        },
+        {
+          "id": 1392,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            356,
+            41,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            712,
+            77,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1418,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            342,
+            41,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            684,
+            77,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1422,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            355,
+            51,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            710,
+            96,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 1419,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            342,
+            51,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": "",
+          "nativeRectPixels": [
+            684,
+            96,
+            24,
+            15
+          ]
+        },
+        {
+          "id": 1401,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            65,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            122,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1416,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            75,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Additional Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            141,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1424,
+          "helpId": 0,
+          "style": 1342308370,
+          "exStyle": 0,
+          "rectDlu": [
+            315,
+            23,
+            75,
+            63
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            630,
+            43,
+            150,
+            118
+          ]
+        },
+        {
+          "id": 1394,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            319,
+            91,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Armor:",
+          "creationData": "",
+          "nativeRectPixels": [
+            638,
+            171,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1411,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            319,
+            103,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            638,
+            193,
+            40,
+            38
+          ]
+        },
+        {
+          "id": 1395,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            357,
+            105,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            714,
+            197,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1420,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            343,
+            105,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            686,
+            197,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1423,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            355,
+            115,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            710,
+            216,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 1421,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            343,
+            115,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": "",
+          "nativeRectPixels": [
+            686,
+            216,
+            24,
+            15
+          ]
+        },
+        {
+          "id": 1400,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            129,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            242,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1417,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            139,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Additional Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            261,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1425,
+          "helpId": 0,
+          "style": 1342308370,
+          "exStyle": 0,
+          "rectDlu": [
+            315,
+            87,
+            75,
+            63
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            630,
+            163,
+            150,
+            118
+          ]
+        },
+        {
+          "id": 1397,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            319,
+            155,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Sub Item:",
+          "creationData": "",
+          "nativeRectPixels": [
+            638,
+            291,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1412,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            319,
+            167,
+            20,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            638,
+            313,
+            40,
+            38
+          ]
+        },
+        {
+          "id": 1402,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            191,
+            63,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            358,
+            126,
+            15
+          ]
+        },
+        {
+          "id": 1426,
+          "helpId": 0,
+          "style": 1342308370,
+          "exStyle": 0,
+          "rectDlu": [
+            315,
+            151,
+            75,
+            53
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            630,
+            283,
+            150,
+            99
+          ]
+        },
+        {
+          "id": 1076,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            262,
+            22,
+            40,
+            57
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            524,
+            41,
+            80,
+            107
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177297,
+          "exStyle": 0,
+          "rectDlu": [
+            241,
+            2,
+            1,
+            223
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1027,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            252,
+            210,
+            40,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "上一武将",
+          "creationData": "",
+          "nativeRectPixels": [
+            504,
+            394,
+            80,
+            26
+          ]
+        },
+        {
+          "id": 1028,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            292,
+            210,
+            40,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "下一武将",
+          "creationData": "",
+          "nativeRectPixels": [
+            584,
+            394,
+            80,
+            26
+          ]
+        }
+      ],
+      "resourceBytes": 2492,
+      "parsedBytes": 2492,
+      "trailingHex": "",
+      "resourceId": 327,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        786,
+        426
+      ],
+      "nativeWindowPixels": [
+        804,
+        473
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        393,
+        225
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "装备",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1098,
+          "helpId": 0,
+          "style": 1344340003,
+          "exStyle": 512,
+          "rectDlu": [
+            254,
+            6,
+            100,
+            110
+          ],
+          "windowClass": {
+            "ordinal": 133
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            508,
+            11,
+            200,
+            28
+          ]
+        },
+        {
+          "id": 1137,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 4096,
+          "rectDlu": [
+            373,
+            8,
+            9,
+            9
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            746,
+            15,
+            18,
+            17
+          ]
+        },
+        {
+          "id": 1458,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            361,
+            8,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            722,
+            15,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1173,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            85,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            159,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            85,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            159,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1459,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            85,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "HP",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            159,
+            48,
+            15
+          ]
+        },
+        {
+          "id": 1174,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            99,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            186,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1017,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            99,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            186,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1460,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            99,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "MP",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            186,
+            48,
+            15
+          ]
+        },
+        {
+          "id": 1179,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            119,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            223,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1178,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            119,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            223,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1461,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            121,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "攻击力",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            227,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1181,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            133,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            249,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1176,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            133,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            249,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1462,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            135,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "精神力",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            253,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1180,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            147,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            276,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1177,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            147,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            276,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1463,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            149,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "防御力",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            279,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1159,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            161,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            302,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1019,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            161,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            302,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1464,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            163,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "爆发力",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            306,
+            50,
+            15
+          ]
+        },
+        {
+          "id": 1182,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            175,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            328,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1015,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            175,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            328,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1465,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            177,
+            24,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "士气",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            332,
+            48,
+            15
+          ]
+        },
+        {
+          "id": 1183,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            268,
+            189,
+            20,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "1000",
+          "creationData": "",
+          "nativeRectPixels": [
+            536,
+            354,
+            40,
+            19
+          ]
+        },
+        {
+          "id": 1018,
+          "helpId": 0,
+          "style": 1342181376,
+          "exStyle": 4096,
+          "rectDlu": [
+            290,
+            189,
+            18,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "+999",
+          "creationData": "",
+          "nativeRectPixels": [
+            580,
+            354,
+            36,
+            19
+          ]
+        },
+        {
+          "id": 1466,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            240,
+            191,
+            26,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "移动力",
+          "creationData": "",
+          "nativeRectPixels": [
+            480,
+            358,
+            52,
+            15
+          ]
+        },
+        {
+          "id": 1391,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            27,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Wepon:",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            51,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1410,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            39,
+            21,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            73,
+            42,
+            39
+          ]
+        },
+        {
+          "id": 1392,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            354,
+            41,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            708,
+            77,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1418,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            340,
+            41,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            680,
+            77,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1422,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            354,
+            51,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            708,
+            96,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 1419,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            340,
+            51,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": "",
+          "nativeRectPixels": [
+            680,
+            96,
+            24,
+            15
+          ]
+        },
+        {
+          "id": 1401,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            65,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            122,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1416,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            75,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Additional Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            141,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1424,
+          "helpId": 0,
+          "style": 1342308370,
+          "exStyle": 0,
+          "rectDlu": [
+            314,
+            23,
+            75,
+            63
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            628,
+            43,
+            150,
+            118
+          ]
+        },
+        {
+          "id": 1394,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            91,
+            69,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Armor",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            171,
+            138,
+            15
+          ]
+        },
+        {
+          "id": 1411,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            103,
+            21,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            193,
+            42,
+            39
+          ]
+        },
+        {
+          "id": 1395,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            356,
+            105,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "99",
+          "creationData": "",
+          "nativeRectPixels": [
+            712,
+            197,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1420,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            342,
+            105,
+            8,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Lv",
+          "creationData": "",
+          "nativeRectPixels": [
+            684,
+            197,
+            16,
+            15
+          ]
+        },
+        {
+          "id": 1423,
+          "helpId": 0,
+          "style": 1342181382,
+          "exStyle": 0,
+          "rectDlu": [
+            354,
+            115,
+            31,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            708,
+            216,
+            62,
+            15
+          ]
+        },
+        {
+          "id": 1421,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            342,
+            115,
+            12,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Exp",
+          "creationData": "",
+          "nativeRectPixels": [
+            684,
+            216,
+            24,
+            15
+          ]
+        },
+        {
+          "id": 1400,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            129,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effct",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            242,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1417,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            139,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Additional Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            261,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1425,
+          "helpId": 0,
+          "style": 1342308370,
+          "exStyle": 0,
+          "rectDlu": [
+            314,
+            87,
+            75,
+            63
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            628,
+            163,
+            150,
+            118
+          ]
+        },
+        {
+          "id": 1397,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            155,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Sub Item:",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            291,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1412,
+          "helpId": 0,
+          "style": 1342181379,
+          "exStyle": 0,
+          "rectDlu": [
+            318,
+            167,
+            21,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            636,
+            313,
+            42,
+            39
+          ]
+        },
+        {
+          "id": 1402,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            316,
+            193,
+            68,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Effect",
+          "creationData": "",
+          "nativeRectPixels": [
+            632,
+            362,
+            136,
+            15
+          ]
+        },
+        {
+          "id": 1426,
+          "helpId": 0,
+          "style": 1342308370,
+          "exStyle": 0,
+          "rectDlu": [
+            314,
+            151,
+            75,
+            53
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            628,
+            283,
+            150,
+            99
+          ]
+        },
+        {
+          "id": 1076,
+          "helpId": 0,
+          "style": 1342181391,
+          "exStyle": 0,
+          "rectDlu": [
+            248,
+            23,
+            40,
+            57
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            496,
+            43,
+            80,
+            107
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342181393,
+          "exStyle": 0,
+          "rectDlu": [
+            234,
+            2,
+            1,
+            223
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1027,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            242,
+            208,
+            40,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "上一武将",
+          "creationData": "",
+          "nativeRectPixels": [
+            484,
+            390,
+            80,
+            26
+          ]
+        },
+        {
+          "id": 1028,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            282,
+            208,
+            40,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "下一武将",
+          "creationData": "",
+          "nativeRectPixels": [
+            564,
+            390,
+            80,
+            26
+          ]
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342373888,
+          "exStyle": 0,
+          "rectDlu": [
+            187,
+            208,
+            41,
+            15
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "结束",
+          "creationData": "",
+          "nativeRectPixels": [
+            374,
+            390,
+            82,
+            28
+          ]
+        },
+        {
+          "id": 1457,
+          "helpId": 0,
+          "style": 1350632517,
+          "exStyle": 0,
+          "rectDlu": [
+            5,
+            12,
+            221,
+            187
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            10,
+            23,
+            442,
+            351
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            3,
+            228,
+            199
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "仓库列表",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 2276,
+      "parsedBytes": 2276,
+      "trailingHex": "",
+      "resourceId": 328,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        786,
+        422
+      ],
+      "nativeWindowPixels": [
+        804,
+        469
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        317,
+        227
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "卖出",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            267,
+            209,
+            41,
+            15
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "结束",
+          "creationData": "",
+          "nativeRectPixels": [
+            534,
+            392,
+            82,
+            28
+          ]
+        },
+        {
+          "id": 1141,
+          "helpId": 0,
+          "style": 1342312448,
+          "exStyle": 4096,
+          "rectDlu": [
+            135,
+            212,
+            28,
+            10
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "999999",
+          "creationData": "",
+          "nativeRectPixels": [
+            270,
+            398,
+            56,
+            19
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            108,
+            213,
+            25,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "现金",
+          "creationData": ""
+        },
+        {
+          "id": 1457,
+          "helpId": 0,
+          "style": 1350763589,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            26,
+            302,
+            175
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            14,
+            49,
+            604,
+            328
+          ]
+        },
+        {
+          "id": 1003,
+          "helpId": 0,
+          "style": 1350763589,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            26,
+            287,
+            175
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            14,
+            49,
+            574,
+            328
+          ]
+        },
+        {
+          "id": 1390,
+          "helpId": 0,
+          "style": 1342283776,
+          "exStyle": 0,
+          "rectDlu": [
+            6,
+            11,
+            304,
+            192
+          ],
+          "windowClass": "SysTabControl32",
+          "text": "Tab1",
+          "creationData": "",
+          "nativeRectPixels": [
+            12,
+            21,
+            608,
+            360
+          ]
+        },
+        {
+          "id": 4294967295,
+          "helpId": 0,
+          "style": 1342177287,
+          "exStyle": 0,
+          "rectDlu": [
+            2,
+            2,
+            312,
+            204
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "仓库列表",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 408,
+      "parsedBytes": 408,
+      "trailingHex": "",
+      "resourceId": 329,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        634,
+        426
+      ],
+      "nativeWindowPixels": [
+        652,
+        473
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        202,
+        93
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "宝物图鉴",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            148,
+            75,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            296,
+            141,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 1437,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            78,
+            139,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Find: 50 / 50",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            146,
+            278,
+            15
+          ]
+        }
+      ],
+      "resourceBytes": 124,
+      "parsedBytes": 124,
+      "trailingHex": "",
+      "resourceId": 333,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        404,
+        174
+      ],
+      "nativeWindowPixels": [
+        422,
+        221
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 1342177472,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        109,
+        40
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1016,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            32,
+            7,
+            70,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "No.99: Item Name",
+          "creationData": ""
+        },
+        {
+          "id": 1045,
+          "helpId": 0,
+          "style": 1342183427,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            8,
+            18,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        },
+        {
+          "id": 1455,
+          "helpId": 0,
+          "style": 1342177280,
+          "exStyle": 0,
+          "rectDlu": [
+            32,
+            25,
+            70,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 146,
+      "parsedBytes": 146,
+      "trailingHex": "",
+      "resourceId": 334,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        393,
+        253
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "地形情报一览",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            345,
+            237,
+            44,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            690,
+            444,
+            88,
+            26
+          ]
+        },
+        {
+          "id": 1026,
+          "helpId": 0,
+          "style": 1350566981,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            17,
+            380,
+            216
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            32,
+            760,
+            405
+          ]
+        },
+        {
+          "id": 1027,
+          "helpId": 0,
+          "style": 1350566981,
+          "exStyle": 0,
+          "rectDlu": [
+            8,
+            17,
+            380,
+            216
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            16,
+            32,
+            760,
+            405
+          ]
+        },
+        {
+          "id": 1029,
+          "helpId": 0,
+          "style": 1342185472,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            2,
+            387,
+            233
+          ],
+          "windowClass": "SysTabControl32",
+          "text": "Tab1",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            4,
+            774,
+            437
+          ]
+        }
+      ],
+      "resourceBytes": 258,
+      "parsedBytes": 258,
+      "trailingHex": "",
+      "resourceId": 335,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        786,
+        474
+      ],
+      "nativeWindowPixels": [
+        804,
+        521
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        237,
+        139
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "读取进度",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            183,
+            121,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            366,
+            227,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 1487,
+          "helpId": 0,
+          "style": 1350648837,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            15,
+            229,
+            102
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            28,
+            458,
+            191
+          ]
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            4,
+            229,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "请选择读取哪个进度。",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 178,
+      "parsedBytes": 178,
+      "trailingHex": "",
+      "resourceId": 337,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        474,
+        261
+      ],
+      "nativeWindowPixels": [
+        492,
+        308
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160591040,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        237,
+        139
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "保存进度",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            183,
+            121,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "取消",
+          "creationData": "",
+          "nativeRectPixels": [
+            366,
+            227,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            4,
+            229,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "请选择保存哪个进度。",
+          "creationData": ""
+        },
+        {
+          "id": 1487,
+          "helpId": 0,
+          "style": 1350648837,
+          "exStyle": 0,
+          "rectDlu": [
+            4,
+            15,
+            229,
+            102
+          ],
+          "windowClass": "SysListView32",
+          "text": "List1",
+          "creationData": "",
+          "nativeRectPixels": [
+            8,
+            28,
+            458,
+            191
+          ]
+        }
+      ],
+      "resourceBytes": 180,
+      "parsedBytes": 180,
+      "trailingHex": "",
+      "resourceId": 338,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        474,
+        261
+      ],
+      "nativeWindowPixels": [
+        492,
+        308
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160067264,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        63,
+        57
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "确认",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            36,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "OK",
+          "creationData": "",
+          "nativeRectPixels": [
+            14,
+            68,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177283,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            7,
+            18,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": {
+            "ordinal": 137
+          },
+          "creationData": ""
+        },
+        {
+          "id": 1332,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            32,
+            7,
+            24,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            64,
+            13,
+            48,
+            39
+          ]
+        }
+      ],
+      "resourceBytes": 122,
+      "parsedBytes": 122,
+      "trailingHex": "",
+      "resourceId": 339,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        126,
+        107
+      ],
+      "nativeWindowPixels": [
+        144,
+        154
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160067264,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        121,
+        57
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "三国志曹操传",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 6,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            36,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "是",
+          "creationData": "",
+          "nativeRectPixels": [
+            14,
+            68,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 7,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            64,
+            36,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "否",
+          "creationData": "",
+          "nativeRectPixels": [
+            128,
+            68,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177283,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            7,
+            18,
+            20
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": {
+            "ordinal": 137
+          },
+          "creationData": ""
+        },
+        {
+          "id": 1332,
+          "helpId": 0,
+          "style": 1342308352,
+          "exStyle": 0,
+          "rectDlu": [
+            32,
+            7,
+            82,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "",
+          "creationData": "",
+          "nativeRectPixels": [
+            64,
+            13,
+            164,
+            39
+          ]
+        }
+      ],
+      "resourceBytes": 154,
+      "parsedBytes": 154,
+      "trailingHex": "",
+      "resourceId": 340,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        242,
+        107
+      ],
+      "nativeWindowPixels": [
+        260,
+        154
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2415919168,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        187,
+        89
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [],
+      "resourceBytes": 32,
+      "parsedBytes": 32,
+      "trailingHex": "",
+      "resourceId": 345,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        374,
+        167
+      ],
+      "nativeWindowPixels": [
+        374,
+        167
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2160067264,
+      "exStyle": 0,
+      "rectDlu": [
+        0,
+        0,
+        122,
+        28
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "确认",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 1,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            7,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "是",
+          "creationData": "",
+          "nativeRectPixels": [
+            14,
+            13,
+            100,
+            26
+          ]
+        },
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242816,
+          "exStyle": 0,
+          "rectDlu": [
+            64,
+            7,
+            50,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "否",
+          "creationData": "",
+          "nativeRectPixels": [
+            128,
+            13,
+            100,
+            26
+          ]
+        }
+      ],
+      "resourceBytes": 92,
+      "parsedBytes": 92,
+      "trailingHex": "",
+      "resourceId": 346,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        244,
+        53
+      ],
+      "nativeWindowPixels": [
+        262,
+        100
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    },
+    {
+      "extended": true,
+      "helpId": 0,
+      "style": 1075839040,
+      "exStyle": 131072,
+      "rectDlu": [
+        0,
+        0,
+        187,
+        94
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "",
+      "font": {
+        "pointSize": 9,
+        "weight": 0,
+        "italic": 0,
+        "charset": 1,
+        "face": "宋体"
+      },
+      "controls": [],
+      "resourceBytes": 44,
+      "parsedBytes": 44,
+      "trailingHex": "",
+      "resourceId": 347,
+      "resourceName": null,
+      "language": 2052,
+      "measurementError": 1406
+    },
+    {
+      "extended": false,
+      "helpId": 0,
+      "style": 2428504256,
+      "exStyle": 0,
+      "rectDlu": [
+        25,
+        20,
+        199,
+        71
+      ],
+      "menu": "",
+      "windowClass": "",
+      "title": "版本情报",
+      "font": {
+        "pointSize": 9,
+        "face": "宋体"
+      },
+      "controls": [
+        {
+          "id": 2,
+          "helpId": 0,
+          "style": 1342242817,
+          "exStyle": 0,
+          "rectDlu": [
+            72,
+            50,
+            43,
+            14
+          ],
+          "windowClass": {
+            "ordinal": 128
+          },
+          "text": "确定",
+          "creationData": "",
+          "nativeRectPixels": [
+            144,
+            94,
+            86,
+            26
+          ]
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177283,
+          "exStyle": 0,
+          "rectDlu": [
+            7,
+            7,
+            21,
+            21
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": {
+            "ordinal": 137
+          },
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342177281,
+          "exStyle": 0,
+          "rectDlu": [
+            32,
+            12,
+            101,
+            9
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "三国志曹操传    Ver. 1.0",
+          "creationData": ""
+        },
+        {
+          "id": 65535,
+          "helpId": 0,
+          "style": 1342308353,
+          "exStyle": 0,
+          "rectDlu": [
+            16,
+            34,
+            167,
+            8
+          ],
+          "windowClass": {
+            "ordinal": 130
+          },
+          "text": "Copyright (C)  株式会社 光荣 1998,1999",
+          "creationData": ""
+        }
+      ],
+      "resourceBytes": 254,
+      "parsedBytes": 254,
+      "trailingHex": "",
+      "resourceId": 348,
+      "resourceName": null,
+      "language": 2052,
+      "nativeClientPixels": [
+        398,
+        133
+      ],
+      "nativeWindowPixels": [
+        416,
+        180
+      ],
+      "dialogBasePixels": [
+        8,
+        15
+      ]
+    }
+  ],
+  "menus": [
+    {
+      "version": 0,
+      "items": [
+        {
+          "flags": 16,
+          "text": "文件",
+          "children": [
+            {
+              "flags": 0,
+              "id": 102,
+              "text": "读取"
+            },
+            {
+              "flags": 0,
+              "id": 101,
+              "text": "保存"
+            },
+            {
+              "flags": 0,
+              "id": 0,
+              "text": ""
+            },
+            {
+              "flags": 128,
+              "id": 104,
+              "text": "结束游戏"
+            }
+          ]
+        },
+        {
+          "flags": 16,
+          "text": "功能",
+          "children": [
+            {
+              "flags": 0,
+              "id": 107,
+              "text": "环境设定"
+            },
+            {
+              "flags": 1,
+              "id": 110,
+              "text": "检索未执行部队"
+            },
+            {
+              "flags": 129,
+              "id": 109,
+              "text": "结束回合"
+            }
+          ]
+        },
+        {
+          "flags": 144,
+          "text": "情报",
+          "children": [
+            {
+              "flags": 0,
+              "id": 105,
+              "text": "武将一览"
+            },
+            {
+              "flags": 0,
+              "id": 40147,
+              "text": "持有道具一览"
+            },
+            {
+              "flags": 0,
+              "id": 40150,
+              "text": "地形情报一览"
+            },
+            {
+              "flags": 0,
+              "id": 40151,
+              "text": "宝物图鉴"
+            },
+            {
+              "flags": 1,
+              "id": 106,
+              "text": "胜利条件"
+            },
+            {
+              "flags": 1,
+              "id": 108,
+              "text": "战场缩小图"
+            },
+            {
+              "flags": 0,
+              "id": 0,
+              "text": ""
+            },
+            {
+              "flags": 128,
+              "id": 40073,
+              "text": "版本情报"
+            }
+          ]
+        }
+      ],
+      "resourceBytes": 230,
+      "parsedBytes": 230,
+      "resourceId": null,
+      "resourceName": "APPMENU",
+      "language": 2052
+    }
+  ]
+}

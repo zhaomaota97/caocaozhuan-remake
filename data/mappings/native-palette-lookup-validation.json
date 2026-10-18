@@ -1,0 +1,20 @@
+[
+  {
+    "palette": "Spalet entry 0",
+    "entries": 4096,
+    "match": true,
+    "sha256": "65e7af14e23a802f842104f711e74317f1ba251a5960cd84314e4797fe1f68b3"
+  },
+  {
+    "palette": "Pmpalet entry 0",
+    "entries": 4096,
+    "match": true,
+    "sha256": "b8ad76309f2b4655454727fc5e66b8b1bc8ded4392d58b14d5f6f0d503720856"
+  },
+  {
+    "palette": "Mcall00 embedded",
+    "entries": 4096,
+    "match": true,
+    "sha256": "84e1318a5d534e83d689c03af2f65ec57de4791d35d4fea34db8923aed1e3d12"
+  }
+]

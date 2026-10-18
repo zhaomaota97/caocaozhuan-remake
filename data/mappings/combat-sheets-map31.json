@@ -1,0 +1,2116 @@
+[
+  {
+    "family": "atk",
+    "index": 0,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-000.png"
+  },
+  {
+    "family": "atk",
+    "index": 1,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-001.png"
+  },
+  {
+    "family": "atk",
+    "index": 2,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-002.png"
+  },
+  {
+    "family": "atk",
+    "index": 3,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-003.png"
+  },
+  {
+    "family": "atk",
+    "index": 4,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-004.png"
+  },
+  {
+    "family": "atk",
+    "index": 5,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-005.png"
+  },
+  {
+    "family": "atk",
+    "index": 6,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-006.png"
+  },
+  {
+    "family": "atk",
+    "index": 7,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-007.png"
+  },
+  {
+    "family": "atk",
+    "index": 8,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-008.png"
+  },
+  {
+    "family": "atk",
+    "index": 9,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-009.png"
+  },
+  {
+    "family": "atk",
+    "index": 10,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-010.png"
+  },
+  {
+    "family": "atk",
+    "index": 11,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-011.png"
+  },
+  {
+    "family": "atk",
+    "index": 12,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-012.png"
+  },
+  {
+    "family": "atk",
+    "index": 13,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-013.png"
+  },
+  {
+    "family": "atk",
+    "index": 14,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-014.png"
+  },
+  {
+    "family": "atk",
+    "index": 15,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-015.png"
+  },
+  {
+    "family": "atk",
+    "index": 16,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-016.png"
+  },
+  {
+    "family": "atk",
+    "index": 17,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-017.png"
+  },
+  {
+    "family": "atk",
+    "index": 18,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-018.png"
+  },
+  {
+    "family": "atk",
+    "index": 19,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-019.png"
+  },
+  {
+    "family": "atk",
+    "index": 20,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-020.png"
+  },
+  {
+    "family": "atk",
+    "index": 21,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-021.png"
+  },
+  {
+    "family": "atk",
+    "index": 22,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-022.png"
+  },
+  {
+    "family": "atk",
+    "index": 23,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-023.png"
+  },
+  {
+    "family": "atk",
+    "index": 24,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-024.png"
+  },
+  {
+    "family": "atk",
+    "index": 25,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-025.png"
+  },
+  {
+    "family": "atk",
+    "index": 26,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-026.png"
+  },
+  {
+    "family": "atk",
+    "index": 27,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-027.png"
+  },
+  {
+    "family": "atk",
+    "index": 28,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-028.png"
+  },
+  {
+    "family": "atk",
+    "index": 29,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-029.png"
+  },
+  {
+    "family": "atk",
+    "index": 30,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-030.png"
+  },
+  {
+    "family": "atk",
+    "index": 31,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-031.png"
+  },
+  {
+    "family": "atk",
+    "index": 32,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-032.png"
+  },
+  {
+    "family": "atk",
+    "index": 33,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-033.png"
+  },
+  {
+    "family": "atk",
+    "index": 34,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-034.png"
+  },
+  {
+    "family": "atk",
+    "index": 35,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-035.png"
+  },
+  {
+    "family": "atk",
+    "index": 36,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-036.png"
+  },
+  {
+    "family": "atk",
+    "index": 37,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-037.png"
+  },
+  {
+    "family": "atk",
+    "index": 38,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-038.png"
+  },
+  {
+    "family": "atk",
+    "index": 39,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-039.png"
+  },
+  {
+    "family": "atk",
+    "index": 40,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-040.png"
+  },
+  {
+    "family": "atk",
+    "index": 41,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-041.png"
+  },
+  {
+    "family": "atk",
+    "index": 42,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-042.png"
+  },
+  {
+    "family": "atk",
+    "index": 43,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-043.png"
+  },
+  {
+    "family": "atk",
+    "index": 44,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-044.png"
+  },
+  {
+    "family": "atk",
+    "index": 45,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-045.png"
+  },
+  {
+    "family": "atk",
+    "index": 46,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-046.png"
+  },
+  {
+    "family": "atk",
+    "index": 47,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-047.png"
+  },
+  {
+    "family": "atk",
+    "index": 48,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-048.png"
+  },
+  {
+    "family": "atk",
+    "index": 49,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-049.png"
+  },
+  {
+    "family": "atk",
+    "index": 50,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-050.png"
+  },
+  {
+    "family": "atk",
+    "index": 51,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-051.png"
+  },
+  {
+    "family": "atk",
+    "index": 52,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-052.png"
+  },
+  {
+    "family": "atk",
+    "index": 53,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-053.png"
+  },
+  {
+    "family": "atk",
+    "index": 54,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-054.png"
+  },
+  {
+    "family": "atk",
+    "index": 55,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-055.png"
+  },
+  {
+    "family": "atk",
+    "index": 56,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-056.png"
+  },
+  {
+    "family": "atk",
+    "index": 57,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-057.png"
+  },
+  {
+    "family": "atk",
+    "index": 58,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-058.png"
+  },
+  {
+    "family": "atk",
+    "index": 59,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-059.png"
+  },
+  {
+    "family": "atk",
+    "index": 60,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-060.png"
+  },
+  {
+    "family": "atk",
+    "index": 61,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-061.png"
+  },
+  {
+    "family": "atk",
+    "index": 62,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-062.png"
+  },
+  {
+    "family": "atk",
+    "index": 63,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-063.png"
+  },
+  {
+    "family": "atk",
+    "index": 64,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-064.png"
+  },
+  {
+    "family": "atk",
+    "index": 65,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-065.png"
+  },
+  {
+    "family": "atk",
+    "index": 66,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-066.png"
+  },
+  {
+    "family": "atk",
+    "index": 67,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-067.png"
+  },
+  {
+    "family": "atk",
+    "index": 68,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-068.png"
+  },
+  {
+    "family": "atk",
+    "index": 69,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-069.png"
+  },
+  {
+    "family": "atk",
+    "index": 70,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-070.png"
+  },
+  {
+    "family": "atk",
+    "index": 71,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-071.png"
+  },
+  {
+    "family": "atk",
+    "index": 72,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-072.png"
+  },
+  {
+    "family": "atk",
+    "index": 73,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-073.png"
+  },
+  {
+    "family": "atk",
+    "index": 74,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-074.png"
+  },
+  {
+    "family": "atk",
+    "index": 75,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-075.png"
+  },
+  {
+    "family": "atk",
+    "index": 76,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-076.png"
+  },
+  {
+    "family": "atk",
+    "index": 77,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-077.png"
+  },
+  {
+    "family": "atk",
+    "index": 78,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-078.png"
+  },
+  {
+    "family": "atk",
+    "index": 79,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-079.png"
+  },
+  {
+    "family": "atk",
+    "index": 80,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-080.png"
+  },
+  {
+    "family": "atk",
+    "index": 81,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-081.png"
+  },
+  {
+    "family": "atk",
+    "index": 82,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-082.png"
+  },
+  {
+    "family": "atk",
+    "index": 83,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-083.png"
+  },
+  {
+    "family": "atk",
+    "index": 84,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-084.png"
+  },
+  {
+    "family": "atk",
+    "index": 85,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-085.png"
+  },
+  {
+    "family": "atk",
+    "index": 86,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-086.png"
+  },
+  {
+    "family": "atk",
+    "index": 87,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-087.png"
+  },
+  {
+    "family": "atk",
+    "index": 88,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-088.png"
+  },
+  {
+    "family": "atk",
+    "index": 89,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-089.png"
+  },
+  {
+    "family": "atk",
+    "index": 90,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-090.png"
+  },
+  {
+    "family": "atk",
+    "index": 91,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-091.png"
+  },
+  {
+    "family": "atk",
+    "index": 92,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-092.png"
+  },
+  {
+    "family": "atk",
+    "index": 93,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-093.png"
+  },
+  {
+    "family": "atk",
+    "index": 94,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-094.png"
+  },
+  {
+    "family": "atk",
+    "index": 95,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-095.png"
+  },
+  {
+    "family": "atk",
+    "index": 96,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-096.png"
+  },
+  {
+    "family": "atk",
+    "index": 97,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-097.png"
+  },
+  {
+    "family": "atk",
+    "index": 98,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-098.png"
+  },
+  {
+    "family": "atk",
+    "index": 99,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-099.png"
+  },
+  {
+    "family": "atk",
+    "index": 100,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-100.png"
+  },
+  {
+    "family": "atk",
+    "index": 101,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-101.png"
+  },
+  {
+    "family": "atk",
+    "index": 102,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-102.png"
+  },
+  {
+    "family": "atk",
+    "index": 103,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-103.png"
+  },
+  {
+    "family": "atk",
+    "index": 104,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-104.png"
+  },
+  {
+    "family": "atk",
+    "index": 105,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-105.png"
+  },
+  {
+    "family": "atk",
+    "index": 106,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-106.png"
+  },
+  {
+    "family": "atk",
+    "index": 107,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-107.png"
+  },
+  {
+    "family": "atk",
+    "index": 108,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-108.png"
+  },
+  {
+    "family": "atk",
+    "index": 109,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-109.png"
+  },
+  {
+    "family": "atk",
+    "index": 110,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-110.png"
+  },
+  {
+    "family": "atk",
+    "index": 111,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-111.png"
+  },
+  {
+    "family": "atk",
+    "index": 112,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-112.png"
+  },
+  {
+    "family": "atk",
+    "index": 113,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-113.png"
+  },
+  {
+    "family": "atk",
+    "index": 114,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-114.png"
+  },
+  {
+    "family": "atk",
+    "index": 115,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-115.png"
+  },
+  {
+    "family": "atk",
+    "index": 116,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-116.png"
+  },
+  {
+    "family": "atk",
+    "index": 117,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-117.png"
+  },
+  {
+    "family": "atk",
+    "index": 118,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-118.png"
+  },
+  {
+    "family": "atk",
+    "index": 119,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-119.png"
+  },
+  {
+    "family": "atk",
+    "index": 120,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-120.png"
+  },
+  {
+    "family": "atk",
+    "index": 121,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-121.png"
+  },
+  {
+    "family": "atk",
+    "index": 122,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-122.png"
+  },
+  {
+    "family": "atk",
+    "index": 123,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-123.png"
+  },
+  {
+    "family": "atk",
+    "index": 124,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-124.png"
+  },
+  {
+    "family": "atk",
+    "index": 125,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-125.png"
+  },
+  {
+    "family": "atk",
+    "index": 126,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-126.png"
+  },
+  {
+    "family": "atk",
+    "index": 127,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-127.png"
+  },
+  {
+    "family": "atk",
+    "index": 128,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-128.png"
+  },
+  {
+    "family": "atk",
+    "index": 129,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-129.png"
+  },
+  {
+    "family": "atk",
+    "index": 130,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-130.png"
+  },
+  {
+    "family": "atk",
+    "index": 131,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-131.png"
+  },
+  {
+    "family": "atk",
+    "index": 132,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-132.png"
+  },
+  {
+    "family": "atk",
+    "index": 133,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-133.png"
+  },
+  {
+    "family": "atk",
+    "index": 134,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-134.png"
+  },
+  {
+    "family": "atk",
+    "index": 135,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-135.png"
+  },
+  {
+    "family": "atk",
+    "index": 136,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-136.png"
+  },
+  {
+    "family": "atk",
+    "index": 137,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-137.png"
+  },
+  {
+    "family": "atk",
+    "index": 138,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-138.png"
+  },
+  {
+    "family": "atk",
+    "index": 139,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-139.png"
+  },
+  {
+    "family": "atk",
+    "index": 140,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-140.png"
+  },
+  {
+    "family": "atk",
+    "index": 141,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-141.png"
+  },
+  {
+    "family": "atk",
+    "index": 142,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-142.png"
+  },
+  {
+    "family": "atk",
+    "index": 143,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-143.png"
+  },
+  {
+    "family": "atk",
+    "index": 144,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-144.png"
+  },
+  {
+    "family": "atk",
+    "index": 145,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-145.png"
+  },
+  {
+    "family": "atk",
+    "index": 146,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-146.png"
+  },
+  {
+    "family": "atk",
+    "index": 147,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-147.png"
+  },
+  {
+    "family": "atk",
+    "index": 148,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-148.png"
+  },
+  {
+    "family": "atk",
+    "index": 149,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-149.png"
+  },
+  {
+    "family": "atk",
+    "index": 150,
+    "tileSize": 64,
+    "frames": 12,
+    "url": "/assets/animations/atk-map31/atk-150.png"
+  },
+  {
+    "family": "spc",
+    "index": 0,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-000.png"
+  },
+  {
+    "family": "spc",
+    "index": 1,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-001.png"
+  },
+  {
+    "family": "spc",
+    "index": 2,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-002.png"
+  },
+  {
+    "family": "spc",
+    "index": 3,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-003.png"
+  },
+  {
+    "family": "spc",
+    "index": 4,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-004.png"
+  },
+  {
+    "family": "spc",
+    "index": 5,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-005.png"
+  },
+  {
+    "family": "spc",
+    "index": 6,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-006.png"
+  },
+  {
+    "family": "spc",
+    "index": 7,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-007.png"
+  },
+  {
+    "family": "spc",
+    "index": 8,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-008.png"
+  },
+  {
+    "family": "spc",
+    "index": 9,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-009.png"
+  },
+  {
+    "family": "spc",
+    "index": 10,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-010.png"
+  },
+  {
+    "family": "spc",
+    "index": 11,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-011.png"
+  },
+  {
+    "family": "spc",
+    "index": 12,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-012.png"
+  },
+  {
+    "family": "spc",
+    "index": 13,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-013.png"
+  },
+  {
+    "family": "spc",
+    "index": 14,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-014.png"
+  },
+  {
+    "family": "spc",
+    "index": 15,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-015.png"
+  },
+  {
+    "family": "spc",
+    "index": 16,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-016.png"
+  },
+  {
+    "family": "spc",
+    "index": 17,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-017.png"
+  },
+  {
+    "family": "spc",
+    "index": 18,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-018.png"
+  },
+  {
+    "family": "spc",
+    "index": 19,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-019.png"
+  },
+  {
+    "family": "spc",
+    "index": 20,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-020.png"
+  },
+  {
+    "family": "spc",
+    "index": 21,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-021.png"
+  },
+  {
+    "family": "spc",
+    "index": 22,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-022.png"
+  },
+  {
+    "family": "spc",
+    "index": 23,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-023.png"
+  },
+  {
+    "family": "spc",
+    "index": 24,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-024.png"
+  },
+  {
+    "family": "spc",
+    "index": 25,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-025.png"
+  },
+  {
+    "family": "spc",
+    "index": 26,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-026.png"
+  },
+  {
+    "family": "spc",
+    "index": 27,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-027.png"
+  },
+  {
+    "family": "spc",
+    "index": 28,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-028.png"
+  },
+  {
+    "family": "spc",
+    "index": 29,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-029.png"
+  },
+  {
+    "family": "spc",
+    "index": 30,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-030.png"
+  },
+  {
+    "family": "spc",
+    "index": 31,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-031.png"
+  },
+  {
+    "family": "spc",
+    "index": 32,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-032.png"
+  },
+  {
+    "family": "spc",
+    "index": 33,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-033.png"
+  },
+  {
+    "family": "spc",
+    "index": 34,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-034.png"
+  },
+  {
+    "family": "spc",
+    "index": 35,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-035.png"
+  },
+  {
+    "family": "spc",
+    "index": 36,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-036.png"
+  },
+  {
+    "family": "spc",
+    "index": 37,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-037.png"
+  },
+  {
+    "family": "spc",
+    "index": 38,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-038.png"
+  },
+  {
+    "family": "spc",
+    "index": 39,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-039.png"
+  },
+  {
+    "family": "spc",
+    "index": 40,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-040.png"
+  },
+  {
+    "family": "spc",
+    "index": 41,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-041.png"
+  },
+  {
+    "family": "spc",
+    "index": 42,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-042.png"
+  },
+  {
+    "family": "spc",
+    "index": 43,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-043.png"
+  },
+  {
+    "family": "spc",
+    "index": 44,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-044.png"
+  },
+  {
+    "family": "spc",
+    "index": 45,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-045.png"
+  },
+  {
+    "family": "spc",
+    "index": 46,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-046.png"
+  },
+  {
+    "family": "spc",
+    "index": 47,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-047.png"
+  },
+  {
+    "family": "spc",
+    "index": 48,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-048.png"
+  },
+  {
+    "family": "spc",
+    "index": 49,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-049.png"
+  },
+  {
+    "family": "spc",
+    "index": 50,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-050.png"
+  },
+  {
+    "family": "spc",
+    "index": 51,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-051.png"
+  },
+  {
+    "family": "spc",
+    "index": 52,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-052.png"
+  },
+  {
+    "family": "spc",
+    "index": 53,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-053.png"
+  },
+  {
+    "family": "spc",
+    "index": 54,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-054.png"
+  },
+  {
+    "family": "spc",
+    "index": 55,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-055.png"
+  },
+  {
+    "family": "spc",
+    "index": 56,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-056.png"
+  },
+  {
+    "family": "spc",
+    "index": 57,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-057.png"
+  },
+  {
+    "family": "spc",
+    "index": 58,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-058.png"
+  },
+  {
+    "family": "spc",
+    "index": 59,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-059.png"
+  },
+  {
+    "family": "spc",
+    "index": 60,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-060.png"
+  },
+  {
+    "family": "spc",
+    "index": 61,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-061.png"
+  },
+  {
+    "family": "spc",
+    "index": 62,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-062.png"
+  },
+  {
+    "family": "spc",
+    "index": 63,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-063.png"
+  },
+  {
+    "family": "spc",
+    "index": 64,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-064.png"
+  },
+  {
+    "family": "spc",
+    "index": 65,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-065.png"
+  },
+  {
+    "family": "spc",
+    "index": 66,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-066.png"
+  },
+  {
+    "family": "spc",
+    "index": 67,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-067.png"
+  },
+  {
+    "family": "spc",
+    "index": 68,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-068.png"
+  },
+  {
+    "family": "spc",
+    "index": 69,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-069.png"
+  },
+  {
+    "family": "spc",
+    "index": 70,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-070.png"
+  },
+  {
+    "family": "spc",
+    "index": 71,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-071.png"
+  },
+  {
+    "family": "spc",
+    "index": 72,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-072.png"
+  },
+  {
+    "family": "spc",
+    "index": 73,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-073.png"
+  },
+  {
+    "family": "spc",
+    "index": 74,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-074.png"
+  },
+  {
+    "family": "spc",
+    "index": 75,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-075.png"
+  },
+  {
+    "family": "spc",
+    "index": 76,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-076.png"
+  },
+  {
+    "family": "spc",
+    "index": 77,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-077.png"
+  },
+  {
+    "family": "spc",
+    "index": 78,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-078.png"
+  },
+  {
+    "family": "spc",
+    "index": 79,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-079.png"
+  },
+  {
+    "family": "spc",
+    "index": 80,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-080.png"
+  },
+  {
+    "family": "spc",
+    "index": 81,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-081.png"
+  },
+  {
+    "family": "spc",
+    "index": 82,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-082.png"
+  },
+  {
+    "family": "spc",
+    "index": 83,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-083.png"
+  },
+  {
+    "family": "spc",
+    "index": 84,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-084.png"
+  },
+  {
+    "family": "spc",
+    "index": 85,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-085.png"
+  },
+  {
+    "family": "spc",
+    "index": 86,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-086.png"
+  },
+  {
+    "family": "spc",
+    "index": 87,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-087.png"
+  },
+  {
+    "family": "spc",
+    "index": 88,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-088.png"
+  },
+  {
+    "family": "spc",
+    "index": 89,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-089.png"
+  },
+  {
+    "family": "spc",
+    "index": 90,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-090.png"
+  },
+  {
+    "family": "spc",
+    "index": 91,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-091.png"
+  },
+  {
+    "family": "spc",
+    "index": 92,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-092.png"
+  },
+  {
+    "family": "spc",
+    "index": 93,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-093.png"
+  },
+  {
+    "family": "spc",
+    "index": 94,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-094.png"
+  },
+  {
+    "family": "spc",
+    "index": 95,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-095.png"
+  },
+  {
+    "family": "spc",
+    "index": 96,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-096.png"
+  },
+  {
+    "family": "spc",
+    "index": 97,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-097.png"
+  },
+  {
+    "family": "spc",
+    "index": 98,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-098.png"
+  },
+  {
+    "family": "spc",
+    "index": 99,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-099.png"
+  },
+  {
+    "family": "spc",
+    "index": 100,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-100.png"
+  },
+  {
+    "family": "spc",
+    "index": 101,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-101.png"
+  },
+  {
+    "family": "spc",
+    "index": 102,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-102.png"
+  },
+  {
+    "family": "spc",
+    "index": 103,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-103.png"
+  },
+  {
+    "family": "spc",
+    "index": 104,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-104.png"
+  },
+  {
+    "family": "spc",
+    "index": 105,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-105.png"
+  },
+  {
+    "family": "spc",
+    "index": 106,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-106.png"
+  },
+  {
+    "family": "spc",
+    "index": 107,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-107.png"
+  },
+  {
+    "family": "spc",
+    "index": 108,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-108.png"
+  },
+  {
+    "family": "spc",
+    "index": 109,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-109.png"
+  },
+  {
+    "family": "spc",
+    "index": 110,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-110.png"
+  },
+  {
+    "family": "spc",
+    "index": 111,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-111.png"
+  },
+  {
+    "family": "spc",
+    "index": 112,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-112.png"
+  },
+  {
+    "family": "spc",
+    "index": 113,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-113.png"
+  },
+  {
+    "family": "spc",
+    "index": 114,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-114.png"
+  },
+  {
+    "family": "spc",
+    "index": 115,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-115.png"
+  },
+  {
+    "family": "spc",
+    "index": 116,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-116.png"
+  },
+  {
+    "family": "spc",
+    "index": 117,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-117.png"
+  },
+  {
+    "family": "spc",
+    "index": 118,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-118.png"
+  },
+  {
+    "family": "spc",
+    "index": 119,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-119.png"
+  },
+  {
+    "family": "spc",
+    "index": 120,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-120.png"
+  },
+  {
+    "family": "spc",
+    "index": 121,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-121.png"
+  },
+  {
+    "family": "spc",
+    "index": 122,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-122.png"
+  },
+  {
+    "family": "spc",
+    "index": 123,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-123.png"
+  },
+  {
+    "family": "spc",
+    "index": 124,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-124.png"
+  },
+  {
+    "family": "spc",
+    "index": 125,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-125.png"
+  },
+  {
+    "family": "spc",
+    "index": 126,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-126.png"
+  },
+  {
+    "family": "spc",
+    "index": 127,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-127.png"
+  },
+  {
+    "family": "spc",
+    "index": 128,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-128.png"
+  },
+  {
+    "family": "spc",
+    "index": 129,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-129.png"
+  },
+  {
+    "family": "spc",
+    "index": 130,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-130.png"
+  },
+  {
+    "family": "spc",
+    "index": 131,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-131.png"
+  },
+  {
+    "family": "spc",
+    "index": 132,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-132.png"
+  },
+  {
+    "family": "spc",
+    "index": 133,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-133.png"
+  },
+  {
+    "family": "spc",
+    "index": 134,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-134.png"
+  },
+  {
+    "family": "spc",
+    "index": 135,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-135.png"
+  },
+  {
+    "family": "spc",
+    "index": 136,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-136.png"
+  },
+  {
+    "family": "spc",
+    "index": 137,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-137.png"
+  },
+  {
+    "family": "spc",
+    "index": 138,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-138.png"
+  },
+  {
+    "family": "spc",
+    "index": 139,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-139.png"
+  },
+  {
+    "family": "spc",
+    "index": 140,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-140.png"
+  },
+  {
+    "family": "spc",
+    "index": 141,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-141.png"
+  },
+  {
+    "family": "spc",
+    "index": 142,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-142.png"
+  },
+  {
+    "family": "spc",
+    "index": 143,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-143.png"
+  },
+  {
+    "family": "spc",
+    "index": 144,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-144.png"
+  },
+  {
+    "family": "spc",
+    "index": 145,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-145.png"
+  },
+  {
+    "family": "spc",
+    "index": 146,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-146.png"
+  },
+  {
+    "family": "spc",
+    "index": 147,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-147.png"
+  },
+  {
+    "family": "spc",
+    "index": 148,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-148.png"
+  },
+  {
+    "family": "spc",
+    "index": 149,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-149.png"
+  },
+  {
+    "family": "spc",
+    "index": 150,
+    "tileSize": 48,
+    "frames": 5,
+    "url": "/assets/animations/spc-map31/spc-150.png"
+  }
+]

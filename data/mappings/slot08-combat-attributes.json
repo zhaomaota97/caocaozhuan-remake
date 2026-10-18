@@ -1,0 +1,202 @@
+{
+  "getters": {
+    "attack": "0x43F4FE",
+    "defense": "0x43F595",
+    "terrainAdaptation": "0x43F84D"
+  },
+  "scope": "native getters at saved coordinates; not a complete attack resolution",
+  "actors": [
+    {
+      "id": "unit-0",
+      "attack": 195,
+      "defense": 215,
+      "terrainAdaptation": 9
+    },
+    {
+      "id": "unit-3",
+      "attack": 49,
+      "defense": 128,
+      "terrainAdaptation": 9
+    },
+    {
+      "id": "unit-4",
+      "attack": 246,
+      "defense": 200,
+      "terrainAdaptation": 8
+    },
+    {
+      "id": "unit-6",
+      "attack": 79,
+      "defense": 161,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-8",
+      "attack": 162,
+      "defense": 130,
+      "terrainAdaptation": 9
+    },
+    {
+      "id": "unit-10",
+      "attack": 189,
+      "defense": 167,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-12",
+      "attack": 45,
+      "defense": 102,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-35",
+      "attack": 95,
+      "defense": 178,
+      "terrainAdaptation": 12
+    },
+    {
+      "id": "unit-36",
+      "attack": 214,
+      "defense": 243,
+      "terrainAdaptation": 11
+    },
+    {
+      "id": "unit-37",
+      "attack": 216,
+      "defense": 246,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-39",
+      "attack": 171,
+      "defense": 168,
+      "terrainAdaptation": 11
+    },
+    {
+      "id": "unit-40",
+      "attack": 171,
+      "defense": 168,
+      "terrainAdaptation": 11
+    },
+    {
+      "id": "unit-41",
+      "attack": 171,
+      "defense": 168,
+      "terrainAdaptation": 11
+    },
+    {
+      "id": "unit-42",
+      "attack": 171,
+      "defense": 168,
+      "terrainAdaptation": 11
+    },
+    {
+      "id": "unit-43",
+      "attack": 41,
+      "defense": 101,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-44",
+      "attack": 160,
+      "defense": 158,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-45",
+      "attack": 160,
+      "defense": 158,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-46",
+      "attack": 160,
+      "defense": 158,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-47",
+      "attack": 160,
+      "defense": 158,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-48",
+      "attack": 158,
+      "defense": 137,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-49",
+      "attack": 158,
+      "defense": 137,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-50",
+      "attack": 158,
+      "defense": 137,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-51",
+      "attack": 158,
+      "defense": 137,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-52",
+      "attack": 245,
+      "defense": 214,
+      "terrainAdaptation": 11
+    },
+    {
+      "id": "unit-53",
+      "attack": 168,
+      "defense": 158,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-54",
+      "attack": 168,
+      "defense": 158,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-55",
+      "attack": 137,
+      "defense": 168,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-56",
+      "attack": 137,
+      "defense": 168,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-57",
+      "attack": 137,
+      "defense": 168,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-58",
+      "attack": 137,
+      "defense": 168,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-59",
+      "attack": 137,
+      "defense": 168,
+      "terrainAdaptation": 10
+    },
+    {
+      "id": "unit-60",
+      "attack": 137,
+      "defense": 168,
+      "terrainAdaptation": 10
+    }
+  ]
+}

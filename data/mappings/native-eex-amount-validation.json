@@ -1,0 +1,1346 @@
+[
+  {
+    "initial": 0,
+    "mode": 0,
+    "value": 0,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 0,
+    "value": 1,
+    "expected": 1,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 1,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 0,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 0,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 0,
+    "value": 4294967295,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 0,
+    "value": 2147483648,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 1,
+    "value": 0,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 1,
+    "value": 1,
+    "expected": 1,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 1,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 1,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 1,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 1,
+    "value": 4294967295,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 1,
+    "value": 2147483648,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 2,
+    "value": 0,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 2,
+    "value": 1,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 2,
+    "value": 999999,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 2,
+    "value": 1000000,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 2,
+    "value": 4294967295,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 2,
+    "value": 2147483648,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 3,
+    "value": 0,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 3,
+    "value": 1,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 3,
+    "value": 999999,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 3,
+    "value": 1000000,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 3,
+    "value": 4294967295,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 0,
+    "mode": 3,
+    "value": 2147483648,
+    "expected": 0,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 0,
+    "value": 0,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 0,
+    "value": 1,
+    "expected": 1,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 1,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 0,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 0,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 0,
+    "value": 4294967295,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 0,
+    "value": 2147483648,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 1,
+    "value": 0,
+    "expected": 10,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 1,
+    "value": 1,
+    "expected": 11,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 11,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 1,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 1,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 1,
+    "value": 4294967295,
+    "expected": 9,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 9,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 1,
+    "value": 2147483648,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 2,
+    "value": 0,
+    "expected": 10,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 2,
+    "value": 1,
+    "expected": 9,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 9,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 2,
+    "value": 999999,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 2,
+    "value": 1000000,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 2,
+    "value": 4294967295,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 2,
+    "value": 2147483648,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 3,
+    "value": 0,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 3,
+    "value": 1,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 3,
+    "value": 999999,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 3,
+    "value": 1000000,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 3,
+    "value": 4294967295,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 10,
+    "mode": 3,
+    "value": 2147483648,
+    "expected": 10,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 10,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 0,
+    "value": 0,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 0,
+    "value": 1,
+    "expected": 1,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 1,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 0,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 0,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 0,
+    "value": 4294967295,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 0,
+    "value": 2147483648,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 1,
+    "value": 0,
+    "expected": 999998,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 1,
+    "value": 1,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 1,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 1,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 1,
+    "value": 4294967295,
+    "expected": 999997,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999997,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 1,
+    "value": 2147483648,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 2,
+    "value": 0,
+    "expected": 999998,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 2,
+    "value": 1,
+    "expected": 999997,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999997,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 2,
+    "value": 999999,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 2,
+    "value": 1000000,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 2,
+    "value": 4294967295,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 2,
+    "value": 2147483648,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 3,
+    "value": 0,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 3,
+    "value": 1,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 3,
+    "value": 999999,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 3,
+    "value": 1000000,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 3,
+    "value": 4294967295,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999998,
+    "mode": 3,
+    "value": 2147483648,
+    "expected": 999998,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 0,
+    "value": 0,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 0,
+    "value": 1,
+    "expected": 1,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 1,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 0,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 0,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 0,
+    "value": 4294967295,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 0,
+    "value": 2147483648,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 1,
+    "value": 0,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 1,
+    "value": 1,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 1,
+    "value": 999999,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 1,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 1,
+    "value": 4294967295,
+    "expected": 999998,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 1,
+    "value": 2147483648,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 2,
+    "value": 0,
+    "expected": 999999,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 2,
+    "value": 1,
+    "expected": 999998,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 999998,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 2,
+    "value": 999999,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 2,
+    "value": 1000000,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 2,
+    "value": 4294967295,
+    "expected": 0,
+    "status": 1,
+    "actual": {
+      "status": 1,
+      "value": 0,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 2,
+    "value": 2147483648,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 3,
+    "value": 0,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 3,
+    "value": 1,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 3,
+    "value": 999999,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 3,
+    "value": 1000000,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 3,
+    "value": 4294967295,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  },
+  {
+    "initial": 999999,
+    "mode": 3,
+    "value": 2147483648,
+    "expected": 999999,
+    "status": 5,
+    "actual": {
+      "status": 5,
+      "value": 999999,
+      "consumed": 16,
+      "guard": true
+    },
+    "match": true
+  }
+]

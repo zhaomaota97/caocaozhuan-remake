@@ -1,0 +1,1059 @@
+[
+  {
+    "index": 0,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-000.png",
+    "sha256": "d791eacb8858a2d33b27e4380904abe0b2e1c6d86c7e2aa3d00966354805b280"
+  },
+  {
+    "index": 1,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-001.png",
+    "sha256": "a4d47654a0efb135ea823008fad7588fc5abf37212b22440a7406112f340af74"
+  },
+  {
+    "index": 2,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-002.png",
+    "sha256": "804ec098490c1528f39f483326d3f35f034532af346deed1cfca6f94c9ee9d7b"
+  },
+  {
+    "index": 3,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-003.png",
+    "sha256": "90208ed97e7d5d94da42584dde9171b82739fcbfdfcf2d9d86b4ee56d1afe183"
+  },
+  {
+    "index": 4,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-004.png",
+    "sha256": "201a02290c18034b105e0578e65c2d09dab56ffd30ea3fdf1a5b901b66cfc7ac"
+  },
+  {
+    "index": 5,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-005.png",
+    "sha256": "1970bab27e1f17e2a341cbf8ffe25c940984823e2b041a7ab43bcbff7bf31ad0"
+  },
+  {
+    "index": 6,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-006.png",
+    "sha256": "c97b10658173c31e3ce928734dfdceb4fbf3ce4e6b8d06f207928cbe4c94c01d"
+  },
+  {
+    "index": 7,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-007.png",
+    "sha256": "88a13fd3a72e3307dd24f659bf6d470d7b8cfa180b03b729709aeebfb28639a5"
+  },
+  {
+    "index": 8,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-008.png",
+    "sha256": "83846acc67df26ed26453d63529beb177adde4a6e7fb5851740d8f827237a2d6"
+  },
+  {
+    "index": 9,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-009.png",
+    "sha256": "54e3cf8e5bed6f572960555d7c56858d530033bf55bd3b4b76b353483c475b1e"
+  },
+  {
+    "index": 10,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-010.png",
+    "sha256": "c6dc412d08d629573c696953eec21e9cbde8b1be67d9b4f0af1b770461e2b015"
+  },
+  {
+    "index": 11,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-011.png",
+    "sha256": "ff693334a2661fb4a92c29bf1574966bb662dcda687f47f3caf36ef2fa977f06"
+  },
+  {
+    "index": 12,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-012.png",
+    "sha256": "6e0ebeef31c10b9db8774fada730fbba367c000322243e07c1f86b51cf08292f"
+  },
+  {
+    "index": 13,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-013.png",
+    "sha256": "f50040f6423c6301c68b468c949bcc409232b18900a3c170bb97b0ce45639e9e"
+  },
+  {
+    "index": 14,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-014.png",
+    "sha256": "3869c84adc280fdc07499185dc04290cec667f3b5733b2cb5e1cc62e92916907"
+  },
+  {
+    "index": 15,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-015.png",
+    "sha256": "7163178ac4aabe06664a24572b3c96d97b7a42d2ab2c5e665a89ac07bee8ced0"
+  },
+  {
+    "index": 16,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-016.png",
+    "sha256": "ceaa4e6031cc70940b7dcfa5049df1910af8bfd8afcf49889b871fc7f991fdab"
+  },
+  {
+    "index": 17,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-017.png",
+    "sha256": "0560443f29bee17693cce13495a89d0d29c955cee78a275d59bda0c9071f8518"
+  },
+  {
+    "index": 18,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-018.png",
+    "sha256": "8a409eebf133891dc201240c338d2aba358d662ff9eac6db4e01742f678c0291"
+  },
+  {
+    "index": 19,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-019.png",
+    "sha256": "3943e10298e8aef81f5731e69af8331f41ca50c3da33e41eb463669c75b6ee74"
+  },
+  {
+    "index": 20,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-020.png",
+    "sha256": "8347b35c47843cc946a04b2d261b0e875ad267bca1984caf2e5d0be21c9f956b"
+  },
+  {
+    "index": 21,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-021.png",
+    "sha256": "2de454fef2404dcd3f12295f306dbd4fc69adf305f8c38e4e82dd5c1056425c3"
+  },
+  {
+    "index": 22,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-022.png",
+    "sha256": "cdc1297798b58b9bc4a2e375dc3765a2d5903100808ae6b416663e212e880feb"
+  },
+  {
+    "index": 23,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-023.png",
+    "sha256": "f66e05412dce097f1b16a4830434b8b8b4bc5c16c558411fe525bf4a296e687c"
+  },
+  {
+    "index": 24,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-024.png",
+    "sha256": "c104c687400d7ebdc158ce3bac49ee62b5a895cbe85aa70d07537d26f50105fc"
+  },
+  {
+    "index": 25,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-025.png",
+    "sha256": "771a92dd5a1a7f120e7b80345327ee413b8e01fa4851c42c364ed330a58487de"
+  },
+  {
+    "index": 26,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-026.png",
+    "sha256": "2127197bd86e420f937172618d136943e2a0ed8a7c9f2056630ac318561f8951"
+  },
+  {
+    "index": 27,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-027.png",
+    "sha256": "ec3282d984238242753f6d8fc89774632865a1e18b266e18c19f16fde9e48e2d"
+  },
+  {
+    "index": 28,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-028.png",
+    "sha256": "66996b153eec565254c5b3a3ae3b4a56efd8a5cb29833da29e2dbc1e8c26789d"
+  },
+  {
+    "index": 29,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-029.png",
+    "sha256": "ec4786657e23999a1d37ed9d86aa1bf0e240bdbe4c86f38de9d356ce99fe751c"
+  },
+  {
+    "index": 30,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-030.png",
+    "sha256": "77bde562b28f10c0802e5b4106fb35bb6d833eaaba41def89123a635a96aaec9"
+  },
+  {
+    "index": 31,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-031.png",
+    "sha256": "85224e94f50792f0f8146232d3658067cea3430380f5b8493c486705685b1c87"
+  },
+  {
+    "index": 32,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-032.png",
+    "sha256": "3720da2e07747d290cb289bd68e39186dd1d3cabcb63fa5a6751c1873aafe820"
+  },
+  {
+    "index": 33,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-033.png",
+    "sha256": "b7970f92a6e16f0495d691cf36d076356aa26a5896d7edf95bbd184e8b85644a"
+  },
+  {
+    "index": 34,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-034.png",
+    "sha256": "5f19332582f0c158e74e28cc2db67069cf215c62e39aa16688b9e0891a069b8e"
+  },
+  {
+    "index": 35,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-035.png",
+    "sha256": "27a49e1a1f10b966a7c52c2925d63c1032071cd74a04a214b92281db2285aecc"
+  },
+  {
+    "index": 36,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-036.png",
+    "sha256": "8f844a7c33e0bccab235d9dc869b085afe28da358a356c3cc81434c8a2f30e2d"
+  },
+  {
+    "index": 37,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-037.png",
+    "sha256": "27fce4e388f8d5671a0a5de67b93fcca1bb3033d7947166b3ab1520de276ef75"
+  },
+  {
+    "index": 38,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-038.png",
+    "sha256": "89c147b09369e5102f4ffc6bcb5e117da869bea082b85fedf1d90442bb986284"
+  },
+  {
+    "index": 39,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-039.png",
+    "sha256": "55f59171256f8f5dace24069e64821f9442d35dc2627c45175fdc269fb414aee"
+  },
+  {
+    "index": 40,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-040.png",
+    "sha256": "9aadbac2dd63ab6cd897d780130a81ee8d59fb22163757b9366a08595aa2ec00"
+  },
+  {
+    "index": 41,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-041.png",
+    "sha256": "c648b0b9bfda80f39f909d30ea7d7e7525308db4ffa5bce0463a27285878d39e"
+  },
+  {
+    "index": 42,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-042.png",
+    "sha256": "f4b14ddb0aa89a053aaf80f68605e9e19612d9e1b1818d78ca21c78fce8f8a16"
+  },
+  {
+    "index": 43,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-043.png",
+    "sha256": "f82ace45473f13d2b110747b4f156842e6b7d6c5b4e2b7839f4712181d77c1c2"
+  },
+  {
+    "index": 44,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-044.png",
+    "sha256": "ff4655b4dc6deabcb3baed3cb81e4eb9dd5a444a516da9c1e12e021d8b5b1384"
+  },
+  {
+    "index": 45,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-045.png",
+    "sha256": "c892e2f0697626c9d4c4e422d25c5e16e978cbd92c2e8761fba8ba7db3c6e915"
+  },
+  {
+    "index": 46,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-046.png",
+    "sha256": "a074d3598a6c9ac835fff246fd2272d91812d62aaa8f590f5e96152dd890bb4d"
+  },
+  {
+    "index": 47,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-047.png",
+    "sha256": "31ea2a69738f384d750534e16184f7fd3302766819b7004c1253936aa67e50f9"
+  },
+  {
+    "index": 48,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-048.png",
+    "sha256": "1f80d8918e7b1e0c9ab1ea8153920929a29afebcf46d562b4f854c0b69aac546"
+  },
+  {
+    "index": 49,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-049.png",
+    "sha256": "753be8878f8a3a84b8de5daa7b4e978eec89564d560f51017a87ac9bb9000612"
+  },
+  {
+    "index": 50,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-050.png",
+    "sha256": "3122f1a7c957e7432032d729017a06527bd06d744d4f001309679b9eb7744927"
+  },
+  {
+    "index": 51,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-051.png",
+    "sha256": "8c9bda059da133cd4edb5061f61288b87360d65549954ee15d087da265b9353b"
+  },
+  {
+    "index": 52,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-052.png",
+    "sha256": "580842c4d38f90b076100b52bae22b24ff7550b9724243618200d6959e1a6ed1"
+  },
+  {
+    "index": 53,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-053.png",
+    "sha256": "cfa4fd3d8f6ffdc081dc1314ef601cf72c9d5f6cdbee154bb8ff12050a35429f"
+  },
+  {
+    "index": 54,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-054.png",
+    "sha256": "901dedf2472e5ed99f103f7b32af82d7e8fa689f18b608cbec4ace73942ffb9a"
+  },
+  {
+    "index": 55,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-055.png",
+    "sha256": "733a121efec714868bd31f884e9b2262939946e81bf82cb15323c95917d530b6"
+  },
+  {
+    "index": 56,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-056.png",
+    "sha256": "ef4a63bcc6cd571735822e704aecffdbe62880ccaf0f38e8827393c4f09d8baa"
+  },
+  {
+    "index": 57,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-057.png",
+    "sha256": "b0dfb0d98fa2593dab4ba3b3a4fa7450b9500232b01a75cc9661ed774a3ac1fc"
+  },
+  {
+    "index": 58,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-058.png",
+    "sha256": "67f0ff8117ac6cad06fe5ff87d7fc956a7419d86180cb331145ffe2d76965c83"
+  },
+  {
+    "index": 59,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-059.png",
+    "sha256": "99511f50b264c7cb260ea5e5c708e18e70cf7acfd74dc76966546dc1ed3bd5ac"
+  },
+  {
+    "index": 60,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-060.png",
+    "sha256": "36e38ddeb296e0e642bcca72e021700c7c9759989ec299f3a1c87c3299d866ea"
+  },
+  {
+    "index": 61,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-061.png",
+    "sha256": "94c078295aa3e110435b1580f369c93800d9afc7ae5df3409a34ef74b7e259fa"
+  },
+  {
+    "index": 62,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-062.png",
+    "sha256": "b2a7f337f3bc4b099ef523d7de824cf7bef48543a53c90c2f5c8e9aa79335d95"
+  },
+  {
+    "index": 63,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-063.png",
+    "sha256": "a91c1f42ccd185f72ea8d6832120ce62eeff4c12611a34d8c9bdb5060a44774b"
+  },
+  {
+    "index": 64,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-064.png",
+    "sha256": "181536b45d04664f9622c0f97253948894e6310e94fc193ab716c275f326f70c"
+  },
+  {
+    "index": 65,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-065.png",
+    "sha256": "6a14cb8613ec05707d7608bbef5e17b9ac450b7fe0542194386167f432deb50c"
+  },
+  {
+    "index": 66,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-066.png",
+    "sha256": "c16b88fcf9fad0a8ed87d068ef7a78f40718b5f778374fced97253138adc4a12"
+  },
+  {
+    "index": 67,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-067.png",
+    "sha256": "8b2484c5e1df8ec0258b212e7c44aefcc5ed1cb6a2a72adfbd1a7820ae093fb8"
+  },
+  {
+    "index": 68,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-068.png",
+    "sha256": "7a153687522fadff1c297c9ace94e267cfa6f99bb0b044a32072886928878756"
+  },
+  {
+    "index": 69,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-069.png",
+    "sha256": "bb6034bda53ed968af90b8ad1c8f9188e542fa9cae06d4aebbc8928c692f58a2"
+  },
+  {
+    "index": 70,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-070.png",
+    "sha256": "e2015033637e6b5b9df60314dfcab66fcbcba70479a27a0292afa3addb6abf26"
+  },
+  {
+    "index": 71,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-071.png",
+    "sha256": "c20a59485e553cdd1c68b8d6acf3d45fd9b7c6a63f55a632c88d053750f98a88"
+  },
+  {
+    "index": 72,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-072.png",
+    "sha256": "1c58001a080b19f49bc2a1c022ea7d4e0f6e6dff3ec709796e9ada94b8df9fa0"
+  },
+  {
+    "index": 73,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-073.png",
+    "sha256": "682fe3305be6cb8785d1d60639ac9d2a25fbd14b219f3022c9f3a8896b9b3223"
+  },
+  {
+    "index": 74,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-074.png",
+    "sha256": "89a6d3815c363db9df6261805e33097baf3cb92fd468e09bed9f8a377460205f"
+  },
+  {
+    "index": 75,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-075.png",
+    "sha256": "a99c30d6684b59955321d8a49f26315724dab161b6a0f033aaca91fbd537a97c"
+  },
+  {
+    "index": 76,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-076.png",
+    "sha256": "acb173dd5e5c7b0fef3cccfc4244d819ebf80fb398e4c82d327f0585ef7a4a7e"
+  },
+  {
+    "index": 77,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-077.png",
+    "sha256": "301ffc69cdf8f80b061ec403f25da26f469b63d77613a1b64dcaa49cec895288"
+  },
+  {
+    "index": 78,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-078.png",
+    "sha256": "c0fe6a75c9db7dc5974318c2062dc27239904f005dcdf32bd8a358ade437b012"
+  },
+  {
+    "index": 79,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-079.png",
+    "sha256": "a618c0a5caea9a6b85b3223f5a2a18b89b8e77536992ae5b3739e7e62dd1c74b"
+  },
+  {
+    "index": 80,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-080.png",
+    "sha256": "543500a9a1fe600862e0af71146a6488613b93fa6aa084bb5be50f302ddb40f0"
+  },
+  {
+    "index": 81,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-081.png",
+    "sha256": "259341d5eb7b2d453e619d26c7da7e6a4e97dcf9bf4c770447e109313f0be140"
+  },
+  {
+    "index": 82,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-082.png",
+    "sha256": "1f4edb8ae3b50425f90a6a79aec159f23915253eb034af7d05d9cdd97aadf306"
+  },
+  {
+    "index": 83,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-083.png",
+    "sha256": "534eb07feae0f63620cac158a81bdac44c54711e3ed01d7114d41d83994fa652"
+  },
+  {
+    "index": 84,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-084.png",
+    "sha256": "49335015db4520a208a6e166633341b5539ee5ff9ff82ae2f636e3f8c104c7ba"
+  },
+  {
+    "index": 85,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-085.png",
+    "sha256": "78bccb213399f42281342844009a5a60dca62f3da34028275c2d0cbebb81224d"
+  },
+  {
+    "index": 86,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-086.png",
+    "sha256": "9ea492afa9fdb4509d809d0f64dcc627f82fe058f263527b9ed2835f21221841"
+  },
+  {
+    "index": 87,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-087.png",
+    "sha256": "0e10c9cfa0b477c27ca200c0458266b349ccdec796891764fbae6cc1961f5dcc"
+  },
+  {
+    "index": 88,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-088.png",
+    "sha256": "3ca0a63a6fb53c9c8bbefb9791f9c153ea97c7d7d7f09c36d4686bad8e79f187"
+  },
+  {
+    "index": 89,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-089.png",
+    "sha256": "4ccd5736b5632bfef13a1a61d53449ea99c2623be3f1d1dfb47db918f7ef6fe7"
+  },
+  {
+    "index": 90,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-090.png",
+    "sha256": "0456ff15507aa591b01c87a388843a7907939cc2fb0c28070509b6c47f53303c"
+  },
+  {
+    "index": 91,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-091.png",
+    "sha256": "ff47c6c646f49908822e3f823d743a405e977f54acdaa5c60ccab0ff7be769b4"
+  },
+  {
+    "index": 92,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-092.png",
+    "sha256": "0f307bf5b459182e43f5d24ff5d7ef36b96767082d2e1b2843c5c55cc9f6133f"
+  },
+  {
+    "index": 93,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-093.png",
+    "sha256": "0e001c2816f34ae21ea41512886ff538853be78bc67fad475d4e60279a869a56"
+  },
+  {
+    "index": 94,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-094.png",
+    "sha256": "e541ff050f6848657d4b4afe551f6c869d0ec84902260e79e315289254ea76ea"
+  },
+  {
+    "index": 95,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-095.png",
+    "sha256": "822e93e67ad06113a99128344b86a7fc203c021ccc1362dadafc99891e94b4ef"
+  },
+  {
+    "index": 96,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-096.png",
+    "sha256": "94fb19ca7132c48ef41c32f36046ec1ba1ab618c84d90f81856c4c63034e458c"
+  },
+  {
+    "index": 97,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-097.png",
+    "sha256": "b552aadc62bbb1926c162dc95d69a5a0d4923e2736d17d45bbbc54c37300288f"
+  },
+  {
+    "index": 98,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-098.png",
+    "sha256": "63d3208db268c6f4a553ecea8daf6d4c071479a0cb0f079236c39368062b04f0"
+  },
+  {
+    "index": 99,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-099.png",
+    "sha256": "6e0ebeef31c10b9db8774fada730fbba367c000322243e07c1f86b51cf08292f"
+  },
+  {
+    "index": 100,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-100.png",
+    "sha256": "7ef783b827d5330ee6961f1c2383f02744e46dc252c5ce1b7ddcccb20a40f5ac"
+  },
+  {
+    "index": 101,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-101.png",
+    "sha256": "1ed6375cfc9f6185aafe2adcd1097e37f269c67c31d3bf25084c4332a1df1a0f"
+  },
+  {
+    "index": 102,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-102.png",
+    "sha256": "6dba2a0a0f8ad37091c8c38ceb9a0a9edf4963817a36c052eed613051aa3be0d"
+  },
+  {
+    "index": 103,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-103.png",
+    "sha256": "0d3c805c90f316bfda7f8bec7a6910f05c8f01ef900a3d3f4d86cdf0dc7577d9"
+  },
+  {
+    "index": 104,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-104.png",
+    "sha256": "ca2f441d5f9b1413d0b573cfe8c4017c96e4c0b803bd079dfb0a95a3fa0c46d3"
+  },
+  {
+    "index": 105,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-105.png",
+    "sha256": "8518d66a50903300b4bd3f843cb0189f7835674ff92761596d912945acec0351"
+  },
+  {
+    "index": 106,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-106.png",
+    "sha256": "b35797468b2287f01e2a4ee3404bf1ce6440d5dcc148d5362bb5d6fa7cdc54fc"
+  },
+  {
+    "index": 107,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-107.png",
+    "sha256": "1b06d6f21df1de9d827f4837dcf0c7f8ca2c58017067258a0bbb315254053621"
+  },
+  {
+    "index": 108,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-108.png",
+    "sha256": "f98d28cd314986b5be4fae46de68141874b2928e38af4723416b16afdcf41df4"
+  },
+  {
+    "index": 109,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-109.png",
+    "sha256": "b12412f2a4ac7f4658181bd8e1d6a3ae78151ee620075bf5e86083b24495c507"
+  },
+  {
+    "index": 110,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-110.png",
+    "sha256": "bff027511f670e8832530a48e2f0d2ce9bddab8a39546fa3c2e9e64fbb238c37"
+  },
+  {
+    "index": 111,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-111.png",
+    "sha256": "6fef199491a14836817de881a9201f8f8218769607183c55dcb3a0bba5ec7179"
+  },
+  {
+    "index": 112,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-112.png",
+    "sha256": "d784cd176417c15c47194ffda3c6f10c3e85ea52e775fabb5b57d73004fe9355"
+  },
+  {
+    "index": 113,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-113.png",
+    "sha256": "e74e08260190072111b8f51dd2b4786d1d9543ac1f806c3b77d001b931e25fa2"
+  },
+  {
+    "index": 114,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-114.png",
+    "sha256": "74e64bb4e840f524fcf841b0044d3f1c4cd99eac9f31e0e043bc07e1cdd6be0d"
+  },
+  {
+    "index": 115,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-115.png",
+    "sha256": "ffeb9c1930e8af3f345dfb190b64137ac87d25be630eebb65dcb1568fe90dd6d"
+  },
+  {
+    "index": 116,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-116.png",
+    "sha256": "c1f5dd5fdc836d6dc319fa362dcea4703009514f1400f9e7b113454bfc1ff1ee"
+  },
+  {
+    "index": 117,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-117.png",
+    "sha256": "82bfd4325f4d03a9c06bd5fcaa4ada1e56f219e938eb86146fe1900559878d45"
+  },
+  {
+    "index": 118,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-118.png",
+    "sha256": "8aa4c2c4814ffdf51f8f4ff2262e86a542b2e932b8d21a89f7b7603476fb7238"
+  },
+  {
+    "index": 119,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-119.png",
+    "sha256": "e3ddc9a07e69e7145ae8b850ddd3d761436b85fe54865201086678b5a020d459"
+  },
+  {
+    "index": 120,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-120.png",
+    "sha256": "25b02e0ef2c535a32468f9cd1592cc1a96c9c00afa6a2b0d4e7355a5b411bb9f"
+  },
+  {
+    "index": 121,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-121.png",
+    "sha256": "74d6c9bd18a18046a6d68bd368685960a2d4e70832c3d4d98ed1e54894f9e15e"
+  },
+  {
+    "index": 122,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-122.png",
+    "sha256": "530233f0bf53590c9c92301f9c88c3676c8b8142ed077c6db69bf670cdaf6af2"
+  },
+  {
+    "index": 123,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-123.png",
+    "sha256": "828338d806a589af899ea98173bf232313fd57c34f7fe09bba889ba318ea0e77"
+  },
+  {
+    "index": 124,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-124.png",
+    "sha256": "e5cad0f5b1f8b89fff588c91f1063b3b2aa5bd211a63bdf323b59f53fa4763dc"
+  },
+  {
+    "index": 125,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-125.png",
+    "sha256": "2772203606dba9ce4ea60e23e9ec80908e9f1a3998315f24063053b6ad242187"
+  },
+  {
+    "index": 126,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-126.png",
+    "sha256": "1c6940d104cad1c494daf72631b167c95927477fd8949ae38f9e1b908a98a9e8"
+  },
+  {
+    "index": 127,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-127.png",
+    "sha256": "2bf035836d2b695629cd1df345ebf9e8c9ca2da8ef448fc4a2dfa10c428b28f1"
+  },
+  {
+    "index": 128,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-128.png",
+    "sha256": "2590324d608f619ea0d96b733c74893e02b28606cb0cb668967dbfc452b64eda"
+  },
+  {
+    "index": 129,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-129.png",
+    "sha256": "9686df995ff666c7751fd4faa72d9c02ef2bdf6b394cd2638ab53857b4f4c375"
+  },
+  {
+    "index": 130,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-130.png",
+    "sha256": "884935e251138140662e791406a2205402550a21c8e6f98bb904f273d5a2c3d3"
+  },
+  {
+    "index": 131,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-131.png",
+    "sha256": "d604aa36e0414d28d3d422c1114e6c9d123a19234ff270f7c41cfa954ad57ef1"
+  },
+  {
+    "index": 132,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-132.png",
+    "sha256": "043a115c038484c2cdef96137a4e4f53c6d80235c022b97ac704616e46a4ff2c"
+  },
+  {
+    "index": 133,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-133.png",
+    "sha256": "453d21986093f96c966ba4d8715a6272902a9d372a6fda8f6ca303354d53bea7"
+  },
+  {
+    "index": 134,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-134.png",
+    "sha256": "49cc2e5542e23240f7bcc942a46f3a7c33732cf7e388db71e7ade0e316fd0996"
+  },
+  {
+    "index": 135,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-135.png",
+    "sha256": "80712749cfea996887e6178c3ee3e3a6dbee91da0201d9e82a6d93929f8786d0"
+  },
+  {
+    "index": 136,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-136.png",
+    "sha256": "b66add25896be04a094e9ae31f5c0fcbed9e3d88ba7a7334e3fb54ff9bfc2f92"
+  },
+  {
+    "index": 137,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-137.png",
+    "sha256": "31c529b8c0d0020c4190c8a31941ca5c800bfe00421fac69e6ce7dba842f5eff"
+  },
+  {
+    "index": 138,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-138.png",
+    "sha256": "3737580087af3558a96b075846b7fbe7270b2c9f82375fb3cabdd75689968b3e"
+  },
+  {
+    "index": 139,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-139.png",
+    "sha256": "68e831d00ebe3f51998b84e1c5d3f14b211f48d99f352198397ba96adae9a431"
+  },
+  {
+    "index": 140,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-140.png",
+    "sha256": "2fe967b987c007addd998610364c4abaebc5027f6deee3bc6338b662d18525ae"
+  },
+  {
+    "index": 141,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-141.png",
+    "sha256": "4bc0a801d3642f642bd82b9d9333bd6fd8986d01dd03662d2d7b91e1d4e24485"
+  },
+  {
+    "index": 142,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-142.png",
+    "sha256": "a74499ae0ff4dc9db019c928a1723c50243a430e3a16e78d826ac3612154cd95"
+  },
+  {
+    "index": 143,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-143.png",
+    "sha256": "1c0b049a7d4f43a3ef3abd007629cacdc6a4dded9b7ed196560eb64d8c8048ce"
+  },
+  {
+    "index": 144,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-144.png",
+    "sha256": "e15b54466fb40b7da5317bfc3ef1685546d1ee89f8de812ce48d931195bb67e2"
+  },
+  {
+    "index": 145,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-145.png",
+    "sha256": "4232c00fc1caffb1d455b390443879dd7fea12f2296cb991478a62405865dec8"
+  },
+  {
+    "index": 146,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-146.png",
+    "sha256": "f53592472a7fefdf4737a86d1708eaaf8157a0a1262e420b8d0e180b1fda5f38"
+  },
+  {
+    "index": 147,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-147.png",
+    "sha256": "cdbda1dfacde1c4bef710b9d5f3aca3cd13ca2009f0f9d4e98c69ff7cd20974f"
+  },
+  {
+    "index": 148,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-148.png",
+    "sha256": "21b41be67ec45b51de71caba82253353e68bf61c6f19b3b7f56497dedf83fe7f"
+  },
+  {
+    "index": 149,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-149.png",
+    "sha256": "98ed1a78c377babe2a5f56293c39625575cfba030840a3393158efebcfbcb5f4"
+  },
+  {
+    "index": 150,
+    "paletteMap": 31,
+    "transparentIndex": 0,
+    "url": "/assets/animations/movement-map31/mov-150.png",
+    "sha256": "a7a8ed6a205efc0f295edbbea2af106ba4f1807ee8df2688421e9ae158f7e3e0"
+  }
+]

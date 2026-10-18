@@ -1,0 +1,6 @@
+{
+  "movement": {"tileSize": 48, "tileCount": 11, "frameTimingRecovered": false, "status": "static-frame-only"},
+  "special": {"tileSize": 48, "tileCount": 5, "frameTimingRecovered": false, "status": "not-connected"},
+  "attack": {"tileSize": 64, "tileCount": 12, "frameTimingRecovered": false, "status": "not-connected"},
+  "evidence": "analysis/animation-sheets/layouts.json and tools/render_animation_sheets.py"
+}

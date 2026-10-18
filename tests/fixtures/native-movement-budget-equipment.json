@@ -1,0 +1,4536 @@
+{
+  "function": "0x43F74F",
+  "classId": 0,
+  "statusFlags": 0,
+  "movementTier": 3,
+  "total": 487,
+  "matched": 487,
+  "rows": [
+    {
+      "kind": "original-item",
+      "itemId": 0,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 0,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 0,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 1,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 1,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 1,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 2,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 2,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 2,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 3,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 3,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 3,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 4,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 4,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 4,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 5,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 5,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 5,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 6,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 6,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 6,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 7,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 7,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 7,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 8,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 8,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 8,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 9,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 9,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 9,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 10,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 10,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 10,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 11,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 11,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 11,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 12,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 12,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 12,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 13,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 13,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 13,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 14,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 14,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 14,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 15,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 15,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 15,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 16,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 16,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 16,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 17,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 17,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 17,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 18,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 18,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 18,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 19,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 19,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 19,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 20,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 20,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 20,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 21,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 21,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 21,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 22,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 22,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 22,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 23,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 23,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 23,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 24,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 24,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 24,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 25,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 25,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 25,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 26,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 26,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 26,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 27,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 27,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 27,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 28,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 28,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 28,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 29,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 29,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 29,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 30,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 30,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 30,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 31,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 31,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 31,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 32,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 32,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 32,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 33,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 33,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 33,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 34,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 34,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 34,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 35,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 35,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 35,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 36,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 36,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 36,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 37,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 37,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 37,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 38,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 38,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 38,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 39,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 39,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 39,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 40,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 40,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 40,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 41,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 41,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 41,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 42,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 42,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 42,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 43,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 43,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 43,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 44,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 44,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 44,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 45,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 45,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 45,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 46,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 46,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 46,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 47,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 47,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 47,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 48,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 48,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 48,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 49,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 49,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 49,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 50,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 50,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 50,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 51,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 51,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 51,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 52,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 52,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 52,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 53,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 53,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 53,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 54,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 54,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 54,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 55,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 55,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 55,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 56,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 56,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 56,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 57,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 57,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 57,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 58,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 58,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 58,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 59,
+      "slot": 0,
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 59,
+      "slot": 1,
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 59,
+      "slot": 2,
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 60,
+      "slot": 0,
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 60,
+      "slot": 1,
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 60,
+      "slot": 2,
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 61,
+      "slot": 0,
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 61,
+      "slot": 1,
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 61,
+      "slot": 2,
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 62,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 62,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 62,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 63,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 63,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 63,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 64,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 64,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 64,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 65,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 65,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 65,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 66,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 66,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 66,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 67,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 67,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 67,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 68,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 68,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 68,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 69,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 69,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 69,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 70,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 70,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 70,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 71,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 71,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 71,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 72,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 72,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 72,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 73,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 73,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 73,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 74,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 74,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 74,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 75,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 75,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 75,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 76,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 76,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 76,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 77,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 77,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 77,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 78,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 78,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 78,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 79,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 79,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 79,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 80,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 80,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 80,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 81,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 81,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 81,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 82,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 82,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 82,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 83,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 83,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 83,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 84,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 84,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 84,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 85,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 85,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 85,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 86,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 86,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 86,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 87,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 87,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 87,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 88,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 88,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 88,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 89,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 89,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 89,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 90,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 90,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 90,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 91,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 91,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 91,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 92,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 92,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 92,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 93,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 93,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 93,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 94,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 94,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 94,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 95,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 95,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 95,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 96,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 96,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 96,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 97,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 97,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 97,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 98,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 98,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 98,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 99,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 99,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 99,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 100,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 100,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 100,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 101,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 101,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 101,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 102,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 102,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 102,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 103,
+      "slot": 0,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 103,
+      "slot": 1,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "original-item",
+      "itemId": 103,
+      "slot": 2,
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 0,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 1,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 2,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 17,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 18,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 7,
+      "expected": 7,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 8,
+      "expected": 8,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 9,
+      "expected": 9,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 133,
+      "expected": 133,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 131,
+      "expected": 131,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 32,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 255,
+      "expected": 255,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 0,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 0,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 0,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 0,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 0,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 1,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 1,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 1,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 1,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 1,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 127,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 127,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 127,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 127,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 127,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 254,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 254,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 254,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 254,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 254,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 255,
+      "slots": [
+        0
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 255,
+      "slots": [
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 255,
+      "slots": [
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 255,
+      "slots": [
+        0,
+        1
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    },
+    {
+      "kind": "synthetic-item",
+      "category": 33,
+      "value": 255,
+      "slots": [
+        0,
+        1,
+        2
+      ],
+      "native": 6,
+      "expected": 6,
+      "match": true
+    }
+  ]
+}

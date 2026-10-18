@@ -1,0 +1,17 @@
+{
+  "mapId": 31,
+  "width": 120,
+  "height": 192,
+  "cellSize": 6,
+  "resource": "Smlmap.e5 entry 31",
+  "nativeLoad": "0x44A971",
+  "nativeUnitOverlay": "0x44A436",
+  "unitColorIndices": [
+    42,
+    173,
+    172,
+    172
+  ],
+  "unitColorMappingStatus": "requires display-palette verification",
+  "unitOverlaysConnected": false
+}

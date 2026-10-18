@@ -1,0 +1,5602 @@
+[
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 3,
+      "remaining": 47,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 3,
+      "remaining": 47,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 0,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 3,
+      "remaining": 47,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 3,
+      "remaining": 47,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 1,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 0,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 0,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 0,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 1,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 0,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 2,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 0,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 3,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 0,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 1,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 2,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 3,
+      "remaining": 47,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 3,
+      "remaining": 47,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 49,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 0,
+      "deadline": 50,
+      "nowTick": 50,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 3,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 3,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 4,
+      "remaining": 47,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 4,
+      "remaining": 47,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 50,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 1,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 1,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 1,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 2,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 1,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 3,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 1,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 4,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 1,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 2,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 3,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 3,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 3,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 3,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 4,
+      "remaining": 47,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 4,
+      "remaining": 47,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 99,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 1,
+      "deadline": 51,
+      "nowTick": 51,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 2,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 2,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 2,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 3,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 3,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 2,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 3,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 4,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 4,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 2,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 2,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 3,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 3,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 3,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 3,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 3,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 3,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 4,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 4,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 4,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 4,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 5,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 5,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 2,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 2,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 3,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 3,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 3,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 3,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 3,
+      "remaining": 49,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 3,
+      "remaining": 49,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 4,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 4,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 4,
+      "remaining": 48,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 4,
+      "remaining": 48,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 5,
+      "remaining": 47,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 5,
+      "remaining": 47,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 149,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 2,
+      "deadline": 52,
+      "nowTick": 52,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 0,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 85899345,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 85899345,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 1,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 85899345,
+      "remaining": 0,
+      "ready": 1
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 85899345,
+      "remaining": 0,
+      "ready": true
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 49,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 0,
+      "remaining": 85899345,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 0,
+      "remaining": 85899345,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 50,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 0,
+      "remaining": 85899345,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 0,
+      "remaining": 85899345,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 99,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 1,
+      "remaining": 85899344,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 1,
+      "remaining": 85899344,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 100,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 1,
+      "remaining": 85899344,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 1,
+      "remaining": 85899344,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 150,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 2,
+      "remaining": 85899343,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 2,
+      "remaining": 85899343,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 0,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 49,
+      "remaining": 85899296,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899345,
+      "nowTick": 49,
+      "remaining": 85899296,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 0,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 85899345,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 85899345,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 1,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 85899345,
+      "remaining": 1,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 85899345,
+      "remaining": 1,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 49,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 0,
+      "remaining": 85899346,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 0,
+      "remaining": 85899346,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 50,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 0,
+      "remaining": 85899346,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 0,
+      "remaining": 85899346,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 99,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 1,
+      "remaining": 85899345,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 1,
+      "remaining": 85899345,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 100,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 1,
+      "remaining": 85899345,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 1,
+      "remaining": 85899345,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 150,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 2,
+      "remaining": 85899344,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 2,
+      "remaining": 85899344,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 1,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 49,
+      "remaining": 85899297,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899346,
+      "nowTick": 49,
+      "remaining": 85899297,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 0,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 85899345,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 85899345,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 1,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 85899345,
+      "remaining": 2,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 85899345,
+      "remaining": 2,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 49,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 0,
+      "remaining": 85899347,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 0,
+      "remaining": 85899347,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 50,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 0,
+      "remaining": 85899347,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 0,
+      "remaining": 85899347,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 99,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 1,
+      "remaining": 85899346,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 1,
+      "remaining": 85899346,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 100,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 1,
+      "remaining": 85899346,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 1,
+      "remaining": 85899346,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 150,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 2,
+      "remaining": 85899345,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 2,
+      "remaining": 85899345,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 2,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 49,
+      "remaining": 85899298,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899347,
+      "nowTick": 49,
+      "remaining": 85899298,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 0,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 85899345,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 85899345,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 1,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 85899345,
+      "remaining": 3,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 85899345,
+      "remaining": 3,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 49,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 0,
+      "remaining": 85899348,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 0,
+      "remaining": 85899348,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 50,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 0,
+      "remaining": 85899348,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 0,
+      "remaining": 85899348,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 99,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 1,
+      "remaining": 85899347,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 1,
+      "remaining": 85899347,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 100,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 1,
+      "remaining": 85899347,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 1,
+      "remaining": 85899347,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 150,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 2,
+      "remaining": 85899346,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 2,
+      "remaining": 85899346,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 3,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 49,
+      "remaining": 85899299,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899348,
+      "nowTick": 49,
+      "remaining": 85899299,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 0,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 85899345,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 85899345,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 1,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 85899345,
+      "remaining": 50,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 85899345,
+      "remaining": 50,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 49,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 0,
+      "remaining": 85899395,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 0,
+      "remaining": 85899395,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 50,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 0,
+      "remaining": 85899395,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 0,
+      "remaining": 85899395,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 99,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 1,
+      "remaining": 85899394,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 1,
+      "remaining": 85899394,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 100,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 1,
+      "remaining": 85899394,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 1,
+      "remaining": 85899394,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 150,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 2,
+      "remaining": 85899393,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 2,
+      "remaining": 85899393,
+      "ready": false
+    },
+    "match": true
+  },
+  {
+    "start": 4294967280,
+    "steps": 50,
+    "elapsed": 2500,
+    "actual": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 49,
+      "remaining": 85899346,
+      "ready": 0
+    },
+    "expected": {
+      "initial": 85899345,
+      "deadline": 85899395,
+      "nowTick": 49,
+      "remaining": 85899346,
+      "ready": false
+    },
+    "match": true
+  }
+]

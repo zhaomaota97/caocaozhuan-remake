@@ -1,0 +1,122 @@
+[
+  {
+    "file": "Sv00s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv00s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv01s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv01s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv02s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv02s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv03s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv03s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv04s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv04s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv05s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv05s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv06s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv06s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv07s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv07s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv08s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv08s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  },
+  {
+    "file": "Sv09s.e5s",
+    "kind": "state",
+    "records": 1,
+    "matched": 1
+  },
+  {
+    "file": "Sv09s.e5s",
+    "kind": "actor",
+    "records": 115,
+    "matched": 115
+  }
+]

@@ -1,0 +1,277 @@
+{
+  "script": "S_00.eex",
+  "segment": 1,
+  "branch": 1,
+  "source_body_offsets": [
+    7885,
+    8353
+  ],
+  "evidence_scope": "original event interpreter and0x459487 wrapper; real0x438308 search/0x43A956 coordinate stepping;0x43AD1C AI prepass replaced by controlled search call; per-cell drawing/audio/UI suppressed; not full native AI movement workflow",
+  "observations": [
+    {
+      "kind": "dialogue",
+      "speaker": 32,
+      "text": "看起来好像赶上了。\n不过在这种寡不敌众的情况下，\n此地官军好像也陷入苦战。"
+    },
+    {
+      "kind": "orient",
+      "actor": 3,
+      "target": 32,
+      "direction": 255,
+      "options": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "kind": "orient",
+      "actor": 33,
+      "target": 32,
+      "direction": 255,
+      "options": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 3,
+      "text": "咱们应该趁势里外夹攻，\n不过我军兵力还是少了点……。"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 33,
+      "text": "二哥你就会穷担心…\n我一个人就能应付他们了。"
+    },
+    {
+      "kind": "dialogue",
+      "speaker": 32,
+      "text": "我们可不能丢下官军不管，\n从背后抄过去直捣鹿砦吧。\n冲啊！"
+    },
+    {
+      "kind": "native-path",
+      "actor": 32,
+      "search": 1,
+      "target": [
+        11,
+        5
+      ],
+      "position": [
+        11,
+        5
+      ],
+      "steps": [
+        {
+          "actor": 32,
+          "from": [
+            14,
+            1
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 32,
+          "from": [
+            13,
+            1
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 32,
+          "from": [
+            12,
+            1
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 32,
+          "from": [
+            11,
+            1
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 32,
+          "from": [
+            11,
+            2
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 32,
+          "from": [
+            11,
+            3
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 32,
+          "from": [
+            11,
+            4
+          ],
+          "direction": 2
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 3,
+      "search": 1,
+      "target": [
+        10,
+        5
+      ],
+      "position": [
+        10,
+        5
+      ],
+      "steps": [
+        {
+          "actor": 3,
+          "from": [
+            13,
+            2
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 3,
+          "from": [
+            12,
+            2
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 3,
+          "from": [
+            11,
+            2
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 3,
+          "from": [
+            10,
+            2
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 3,
+          "from": [
+            10,
+            3
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 3,
+          "from": [
+            10,
+            4
+          ],
+          "direction": 2
+        }
+      ]
+    },
+    {
+      "kind": "native-path",
+      "actor": 33,
+      "search": 1,
+      "target": [
+        12,
+        5
+      ],
+      "position": [
+        12,
+        5
+      ],
+      "steps": [
+        {
+          "actor": 33,
+          "from": [
+            13,
+            1
+          ],
+          "direction": 3
+        },
+        {
+          "actor": 33,
+          "from": [
+            12,
+            1
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 33,
+          "from": [
+            12,
+            2
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 33,
+          "from": [
+            12,
+            3
+          ],
+          "direction": 2
+        },
+        {
+          "actor": 33,
+          "from": [
+            12,
+            4
+          ],
+          "direction": 2
+        }
+      ]
+    }
+  ],
+  "path_checks": [
+    {
+      "actor": 32,
+      "steps": 7,
+      "continuous": true,
+      "facing": 2,
+      "occupiedBy": 15,
+      "match": true
+    },
+    {
+      "actor": 3,
+      "steps": 6,
+      "continuous": true,
+      "facing": 2,
+      "occupiedBy": 16,
+      "match": true
+    },
+    {
+      "actor": 33,
+      "steps": 5,
+      "continuous": true,
+      "facing": 2,
+      "occupiedBy": 17,
+      "match": true
+    }
+  ],
+  "flag11_after": 1,
+  "completion_flags": [
+    0,
+    0,
+    0
+  ],
+  "money_after": 0,
+  "note": "Observed fixture, not an executable replacement script or complete battle state"
+}

@@ -1,0 +1,448 @@
+{
+  "evidence": {
+    "targetReader": "0x418C90",
+    "effectReader": "0x425B50",
+    "nativeCaller": "0x4391DC",
+    "recordStride": 70
+  },
+  "effects": [
+    {
+      "effectId": 0,
+      "name": "灼热",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 1,
+      "name": "烈火",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 2,
+      "name": "火阵",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 3,
+      "name": "火龙",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 4,
+      "name": "爆焰",
+      "targetShape": 5,
+      "effectShape": 5
+    },
+    {
+      "effectId": 5,
+      "name": "浊流",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 6,
+      "name": "激流",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 7,
+      "name": "水阵",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 8,
+      "name": "水龙",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 9,
+      "name": "海啸",
+      "targetShape": 6,
+      "effectShape": 0
+    },
+    {
+      "effectId": 10,
+      "name": "旋风",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 11,
+      "name": "龙卷",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 12,
+      "name": "风阵",
+      "targetShape": 13,
+      "effectShape": 2
+    },
+    {
+      "effectId": 13,
+      "name": "风龙",
+      "targetShape": 13,
+      "effectShape": 2
+    },
+    {
+      "effectId": 14,
+      "name": "砂暴",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 15,
+      "name": "落石",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 16,
+      "name": "山岚",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 17,
+      "name": "地阵",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 18,
+      "name": "地龙",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 19,
+      "name": "巨岩",
+      "targetShape": 6,
+      "effectShape": 0
+    },
+    {
+      "effectId": 20,
+      "name": "诱惑",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 21,
+      "name": "晕眩",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 22,
+      "name": "谍报",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 23,
+      "name": "钝兵",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 24,
+      "name": "钝队",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 25,
+      "name": "虚脱",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 26,
+      "name": "厌战",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 27,
+      "name": "压迫",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 28,
+      "name": "威吓",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 29,
+      "name": "咒骂",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 30,
+      "name": "挑拨",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 31,
+      "name": "谎报",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 32,
+      "name": "谎言",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 33,
+      "name": "毒烟",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 34,
+      "name": "毒雾",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 35,
+      "name": "定身",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 36,
+      "name": "定军",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 37,
+      "name": "封咒",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 38,
+      "name": "八阵图",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 39,
+      "name": "小补给",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 40,
+      "name": "大补给",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 41,
+      "name": "援队",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 42,
+      "name": "援军",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 43,
+      "name": "输送",
+      "targetShape": 10,
+      "effectShape": 0
+    },
+    {
+      "effectId": 44,
+      "name": "建言",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 45,
+      "name": "献策",
+      "targetShape": 6,
+      "effectShape": 0
+    },
+    {
+      "effectId": 46,
+      "name": "觉醒",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 47,
+      "name": "大觉醒",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 48,
+      "name": "强行",
+      "targetShape": 12,
+      "effectShape": 0
+    },
+    {
+      "effectId": 49,
+      "name": "练兵",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 50,
+      "name": "练队",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 51,
+      "name": "昂扬",
+      "targetShape": 13,
+      "effectShape": 1
+    },
+    {
+      "effectId": 52,
+      "name": "欢声",
+      "targetShape": 12,
+      "effectShape": 2
+    },
+    {
+      "effectId": 53,
+      "name": "奋起",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 54,
+      "name": "鼓舞",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 55,
+      "name": "坚固",
+      "targetShape": 13,
+      "effectShape": 0
+    },
+    {
+      "effectId": 56,
+      "name": "强阵",
+      "targetShape": 12,
+      "effectShape": 1
+    },
+    {
+      "effectId": 57,
+      "name": "回归",
+      "targetShape": 1,
+      "effectShape": 0
+    },
+    {
+      "effectId": 58,
+      "name": "豪雨",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 59,
+      "name": "晴明",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 60,
+      "name": "昙天",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 61,
+      "name": "气合",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 62,
+      "name": "冥想",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 63,
+      "name": "霸气",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 64,
+      "name": "青龙",
+      "targetShape": 12,
+      "effectShape": 6
+    },
+    {
+      "effectId": 65,
+      "name": "朱雀",
+      "targetShape": 13,
+      "effectShape": 2
+    },
+    {
+      "effectId": 66,
+      "name": "玄武",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 67,
+      "name": "白虎",
+      "targetShape": 11,
+      "effectShape": 0
+    },
+    {
+      "effectId": 68,
+      "name": "空白１",
+      "targetShape": 0,
+      "effectShape": 0
+    },
+    {
+      "effectId": 69,
+      "name": "空白２",
+      "targetShape": 0,
+      "effectShape": 0
+    },
+    {
+      "effectId": 70,
+      "name": "空白３",
+      "targetShape": 0,
+      "effectShape": 0
+    },
+    {
+      "effectId": 71,
+      "name": "空白４",
+      "targetShape": 0,
+      "effectShape": 0
+    },
+    {
+      "effectId": 72,
+      "name": "空白５",
+      "targetShape": 0,
+      "effectShape": 0
+    }
+  ]
+}

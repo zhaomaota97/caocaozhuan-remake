@@ -1,0 +1,122 @@
+[
+  {
+    "width": 256,
+    "height": 1,
+    "source_pitch": 256,
+    "destination_pitch": 256,
+    "mode": 0,
+    "match": true
+  },
+  {
+    "width": 256,
+    "height": 1,
+    "source_pitch": 256,
+    "destination_pitch": 256,
+    "mode": 6,
+    "match": true
+  },
+  {
+    "width": 256,
+    "height": 1,
+    "source_pitch": 256,
+    "destination_pitch": 256,
+    "mode": 7,
+    "match": true
+  },
+  {
+    "width": 13,
+    "height": 3,
+    "source_pitch": 17,
+    "destination_pitch": 19,
+    "mode": 0,
+    "match": true
+  },
+  {
+    "width": 13,
+    "height": 3,
+    "source_pitch": 17,
+    "destination_pitch": 19,
+    "mode": 6,
+    "match": true
+  },
+  {
+    "width": 13,
+    "height": 3,
+    "source_pitch": 17,
+    "destination_pitch": 19,
+    "mode": 7,
+    "match": true
+  },
+  {
+    "width": 48,
+    "height": 48,
+    "source_pitch": 64,
+    "destination_pitch": 60,
+    "mode": 0,
+    "match": true
+  },
+  {
+    "width": 48,
+    "height": 48,
+    "source_pitch": 64,
+    "destination_pitch": 60,
+    "mode": 6,
+    "match": true
+  },
+  {
+    "width": 48,
+    "height": 48,
+    "source_pitch": 64,
+    "destination_pitch": 60,
+    "mode": 7,
+    "match": true
+  },
+  {
+    "width": 64,
+    "height": 64,
+    "source_pitch": 68,
+    "destination_pitch": 70,
+    "mode": 0,
+    "match": true
+  },
+  {
+    "width": 64,
+    "height": 64,
+    "source_pitch": 68,
+    "destination_pitch": 70,
+    "mode": 6,
+    "match": true
+  },
+  {
+    "width": 64,
+    "height": 64,
+    "source_pitch": 68,
+    "destination_pitch": 70,
+    "mode": 7,
+    "match": true
+  },
+  {
+    "width": 0,
+    "height": 4,
+    "source_pitch": 7,
+    "destination_pitch": 9,
+    "mode": 0,
+    "match": true
+  },
+  {
+    "width": 0,
+    "height": 4,
+    "source_pitch": 7,
+    "destination_pitch": 9,
+    "mode": 6,
+    "match": true
+  },
+  {
+    "width": 0,
+    "height": 4,
+    "source_pitch": 7,
+    "destination_pitch": 9,
+    "mode": 7,
+    "match": true
+  }
+]

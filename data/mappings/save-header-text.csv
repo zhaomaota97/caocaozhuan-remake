@@ -1,0 +1,47 @@
+﻿file,header_hex,text_candidate,raw_hex
+Sv00d.e5s,05 03 03 00 00,,
+Sv00s.e5s,05 03 02 00 00,"胜利条件
+一、击毙张宝和张梁。
+",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 bb f7 b1 d0 d5 c5 b1 a6 ba cd d5 c5 c1 ba a1 a3 0a
+Sv01d.e5s,05 27 03 29 29,刘备建立的国家,c1 f5 b1 b8 bd a8 c1 a2 b5 c4 b9 fa bc d2
+Sv01s.e5s,05 27 01 00 00,"胜利条件
+一、打败刘禅。
+
+失败�",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 b4 f2 b0 dc c1 f5 ec f8 a1 a3 0a 0a ca a7 b0 dc cc
+Sv02d.e5s,05 1e 02 24 35,夏侯渊的遗物,cf c4 ba ee d4 a8 b5 c4 d2 c5 ce ef
+Sv02s.e5s,05 0b 01 00 00,"胜利条件
+一、歼灭所有敌军。
+二",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 bc df c3 f0 cb f9 d3 d0 b5 d0 be fc a1 a3 0a b6 fe
+Sv03d.e5s,05 1e 04 2d ff,最后的水战,d7 ee ba f3 b5 c4 cb ae d5 bd
+Sv03s.e5s,05 28 09 00 00,"胜利条件
+一、打败诸葛亮。
+
+失�",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 b4 f2 b0 dc d6 ee b8 f0 c1 c1 a1 a3 0a 0a ca a7 b0
+Sv04d.e5s,05 1e 04 2b ff,蜀的灭亡,ca f1 b5 c4 c3 f0 cd f6
+Sv04s.e5s,05 15 01 00 00,"胜利条件
+一、消灭全部敌人。
+
+�",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 cf fb c3 f0 c8 ab b2 bf b5 d0 c8 cb a1 a3 0a 0a ca
+Sv05d.e5s,05 1c 04 24 ff,守住汉中,ca d8 d7 a1 ba ba d6 d0
+Sv05s.e5s,05 1e 01 00 00,"胜利条件
+一、歼灭所有敌军。
+二",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 bc df c3 f0 cb f9 d3 d0 b5 d0 be fc a1 a3 0a b6 fe
+Sv06d.e5s,05 09 04 01 ff,,
+Sv06s.e5s,05 1d 01 00 00,"胜利条件
+一、击毙张宝和张梁。
+",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 bb f7 b1 d0 d5 c5 b1 a6 ba cd d5 c5 c1 ba a1 a3 0a
+Sv07d.e5s,05 1d 04 2d ff,最后的水战,d7 ee ba f3 b5 c4 cb ae d5 bd
+Sv07s.e5s,05 09 05 00 00,"胜利条件
+一、打败诸葛亮。
+
+失�",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 b4 f2 b0 dc d6 ee b8 f0 c1 c1 a1 a3 0a 0a ca a7 b0
+Sv08d.e5s,05 1c 03 1f 1f,西凉锦马超,ce f7 c1 b9 bd f5 c2 ed b3 ac
+Sv08s.e5s,05 1c 02 00 00,"胜利条件
+一、击退韩遂。
+
+失败�",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 bb f7 cd cb ba ab cb ec a1 a3 0a 0a ca a7 b0 dc cc
+Sv09d.e5s,05 0a 02 02 15,决战虎牢关,be f6 d5 bd bb a2 c0 ce b9 d8
+Sv09s.e5s,05 1b 02 00 00,"胜利条件
+一、歼灭所有敌军。
+
+�",ca a4 c0 fb cc f5 bc fe 0a d2 bb a1 a2 bc df c3 f0 cb f9 d3 d0 b5 d0 be fc a1 a3 0a 0a ca

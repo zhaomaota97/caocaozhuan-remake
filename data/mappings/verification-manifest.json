@@ -1,0 +1,252 @@
+{
+  "generated": "2026-10-17",
+  "checks": [
+    {
+      "name": "runtime Ls12 decoder",
+      "evidence": "analysis/decoder-validation-final.json",
+      "metric": "3/3 byte comparisons",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "native map readers",
+      "evidence": "analysis/native-map-reader-validation.json",
+      "metric": "784646/784646",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "save object codec",
+      "evidence": "analysis/native-save-object-validation.json",
+      "metric": "5120/5120",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "battle save codec",
+      "evidence": "analysis/native-battle-save-validation.json",
+      "metric": "1160/1160",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "combat magnitude",
+      "evidence": "analysis/native-combat-magnitude-validation.json",
+      "metric": "652/652",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX body structure",
+      "evidence": "analysis/eex-bodies/summary.json",
+      "metric": "2320 byte-exact round trips",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX dispatcher",
+      "evidence": "analysis/native-eex-dispatch-validation.json",
+      "metric": "59/59",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "structured story export",
+      "evidence": "analysis/story-readable/summary.json",
+      "metric": "9420 strings / 0 CP936 errors",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX body lossless roundtrip",
+      "evidence": "analysis/eex-bodies/summary.json",
+      "metric": "2320/2320 byte-exact",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "on-disk format inventory",
+      "evidence": "analysis/game-format-inventory.json",
+      "metric": "239 files",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "effect blend",
+      "evidence": "analysis/native-effect-blend-validation.json",
+      "metric": "72/72 batches",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "status recovery",
+      "evidence": "analysis/native-status-recovery-validation.json",
+      "metric": "2640/2640",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "Imsg fixed messages",
+      "evidence": "analysis/imsg.csv",
+      "metric": "921 fixed records / CP936",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "Data.e5 reference audit",
+      "evidence": "analysis/data-entry-reference-audit.json",
+      "metric": "entries 0-5 explicit / 6-9 open",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "live Data.e5 requests",
+      "evidence": "analysis/live-startup-20261017-001421/data-entry-audit.json",
+      "metric": "requested 0-5 only",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "live slot 0 snapshot",
+      "evidence": "analysis/live-startup-20261016-225042/snapshot-validation.json",
+      "metric": "5/5 buffers",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "live slot 8 snapshot",
+      "evidence": "analysis/live-startup-20261016-225516/snapshot-validation.json",
+      "metric": "5/5 buffers",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "latest live battle snapshot",
+      "evidence": "analysis/live-startup-20261017-005637/snapshot-validation.json",
+      "metric": "5/5 buffers",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "Yuxi critical static chain",
+      "evidence": "tools/verify_yuxi_critical_static.py",
+      "metric": "5/5",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "ordinary hit static chain",
+      "evidence": "tools/verify_hit_static.py",
+      "metric": "5/5",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX low-frequency handler inventory",
+      "evidence": "analysis/eex/opcode-index.csv",
+      "metric": "21 handlers indexed",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX low-frequency static semantics",
+      "evidence": "analysis/eex/low-frequency-semantics.csv",
+      "metric": "21 high-confidence rows",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX low-frequency address crosscheck",
+      "evidence": "analysis/eex/low-frequency-semantics.csv",
+      "metric": "21 opcode/handler matches",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "DATA.E5 unused sparse entries",
+      "evidence": "tools/verify_data_entries_unused.py",
+      "metric": "4/4 shape checks",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "Koeicda export/message semantics",
+      "evidence": "analysis/koeicda-exports.md",
+      "metric": "20 exports / 4 MP3Serv messages",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "AutoDLL ASave jump analysis",
+      "evidence": "analysis/autodll-asave.md",
+      "metric": "ASave jump targets documented",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "resource DLL common-code audit",
+      "evidence": "analysis/resource-dll-common-code.md",
+      "metric": "4 resource DLLs share .text",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "resource DLL resource map",
+      "evidence": "analysis/resource-dll-resource-map.csv",
+      "metric": "304 resource records",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "DLL export table validation",
+      "evidence": "tools/verify_dll_exports.py",
+      "metric": "7/7",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX dynamic startup boundary",
+      "evidence": "analysis/live-eex-startup-boundary.md",
+      "metric": "DATA/SVCMN before dispatcher",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX dynamic story entry",
+      "evidence": "analysis/live-eex-story-entry.md",
+      "metric": "26 dispatcher calls on new game",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX interpreter memory snapshot",
+      "evidence": "tools/parse_live_eex_events.py",
+      "metric": "EEX magic/header/first opcode parsed",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "EEX interpreter before/after state",
+      "evidence": "tools/summarize_live_eex_state.py",
+      "metric": "cursor candidate fields captured",
+      "passed": true,
+      "scope": ""
+    },
+    {
+      "name": "live EEX file match",
+      "evidence": "tools/verify_live_eex_file_match.py",
+      "metric": "R_00.eex 128-byte prefix match",
+      "passed": true,
+      "scope": ""
+    }
+  ],
+  "passed": 34,
+  "total": 34,
+  "open_scope": [
+    "complete EEX opcode semantics and full playthrough",
+    "all DLL function semantics",
+    "full AI/pathfinding and battle actions",
+    "all Data.e5 entry semantics",
+    "unmodified UI-driven save/load round trips"
+  ]
+}

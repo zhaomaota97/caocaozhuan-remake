@@ -1,0 +1,34 @@
+{
+  "levels": 3,
+  "passed": 3,
+  "rows": [
+    {
+      "script": "S_00.eex",
+      "mapId": 0,
+      "units": 26,
+      "placed": 19,
+      "hidden": 7,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_01.eex",
+      "mapId": 1,
+      "units": 29,
+      "placed": 23,
+      "hidden": 6,
+      "relocated": 0,
+      "passed": true
+    },
+    {
+      "script": "S_02.eex",
+      "mapId": 2,
+      "units": 33,
+      "placed": 33,
+      "hidden": 0,
+      "relocated": 0,
+      "passed": true
+    }
+  ],
+  "scope": "controlled default-party native expansions, not complete playable levels"
+}

@@ -1,0 +1,89 @@
+{
+  "entries": [
+    {
+      "index": 0,
+      "packed": 5778,
+      "decoded": 16384,
+      "offset": 396
+    },
+    {
+      "index": 1,
+      "packed": 1489,
+      "decoded": 2600,
+      "offset": 6174
+    },
+    {
+      "index": 2,
+      "packed": 391,
+      "decoded": 2088,
+      "offset": 7663
+    },
+    {
+      "index": 3,
+      "packed": 321,
+      "decoded": 1431,
+      "offset": 8054
+    },
+    {
+      "index": 4,
+      "packed": 277,
+      "decoded": 1620,
+      "offset": 8375
+    },
+    {
+      "index": 5,
+      "packed": 1519,
+      "decoded": 5110,
+      "offset": 8652
+    },
+    {
+      "index": 6,
+      "packed": 74,
+      "decoded": 8704,
+      "offset": 10171
+    },
+    {
+      "index": 7,
+      "packed": 22,
+      "decoded": 1768,
+      "offset": 10245
+    },
+    {
+      "index": 8,
+      "packed": 17,
+      "decoded": 1156,
+      "offset": 10267
+    },
+    {
+      "index": 9,
+      "packed": 18,
+      "decoded": 1218,
+      "offset": 10284
+    }
+  ],
+  "static_loader_functions": [
+    "0040c28c.c",
+    "0041b666.c",
+    "0041b6cf.c",
+    "0041b72f.c",
+    "0041b78f.c",
+    "0041b7ef.c",
+    "0041b84f.c",
+    "0044cc85.c"
+  ],
+  "explicitly_loaded_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "no_explicit_loader_found": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "interpretation": "Entries 6-9 exist and decode, but this Ghidra build has no discovered Data.e5 loader call or runtime-table population for them."
+}

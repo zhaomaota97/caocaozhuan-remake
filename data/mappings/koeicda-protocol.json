@@ -1,0 +1,20 @@
+{
+  "module": "Koeicda.dll",
+  "image_base": "0x10000000",
+  "player_lookup_rva": "0x1080",
+  "window_title": "MP3Serv",
+  "window_classes_observed": ["TTWinampPlayerForm", "TTWinAmpPlayerForm"],
+  "player_launcher_name": "Mp3SERV.DAT",
+  "transport": "PostMessageA",
+  "operations": [
+    {"export": "CDAudioPause", "rva": "0x10f0", "message": "0x1982", "wparam": 0, "lparam": 0},
+    {"export": "CDAudioPlayTrack", "rva": "0x1110", "message": "0x1979", "wparam": "second stack argument", "lparam": 0},
+    {"export": "CDAudioResume", "rva": "0x1140", "message": "0x1983", "wparam": 0, "lparam": 0},
+    {"export": "CDAudioStop", "rva": "0x1160", "message": "0x1980", "wparam": 0, "lparam": 0}
+  ],
+  "stub_rva": "0x1180",
+  "stub_behavior": "return 1",
+  "active_export_return": "return 1 even if the player window is missing",
+  "evidence": "analysis/koeicda-audio-disassembly.txt",
+  "not_yet_verified": ["player message handler implementation", "track-number to mp3list line mapping", "calling convention of all original exports"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "caocaozhuan-remake",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "test": "playwright test tests/s00-smoke.spec.ts"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0",
+    "vite": "^5.4.0"
+  }
+}

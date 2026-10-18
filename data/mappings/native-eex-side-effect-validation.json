@@ -1,0 +1,32 @@
+{
+  "opcode": 7,
+  "handler": "0x415c46",
+  "opcode_106_handler": "0x416dfa",
+  "cases": [
+    {
+      "case": "set",
+      "before": 1,
+      "ret": 1,
+      "after": 0
+    },
+    {
+      "case": "clear",
+      "before": 0,
+      "ret": 0,
+      "after": 0
+    },
+    {
+      "case": "runtime-default",
+      "before": 122,
+      "ret": 1,
+      "after": 122
+    },
+    {
+      "case": "runtime-mode-3",
+      "before": 122,
+      "ret": 1,
+      "after": 0
+    }
+  ],
+  "passed": true
+}

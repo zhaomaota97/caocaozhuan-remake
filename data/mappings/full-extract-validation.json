@@ -1,0 +1,13 @@
+{
+  "decoder": "tools/extract_e5.py corrected token-0x100 output-history implementation",
+  "containers": {
+    "Data.e5": {"entries": 10, "all_decoded": true},
+    "Mmap.e5": {"entries": 115, "all_decoded": true, "output_size": 256000},
+    "Pmap.e5": {"entries": 74, "all_decoded": true, "output_size": 20016},
+    "Pmpalet.e5": {"entries": 115, "all_decoded": true},
+    "Unit_atk.e5": {"entries": 151, "all_decoded": true, "output_size": 49152},
+    "Unit_mov.e5": {"entries": 151, "all_decoded": true, "output_size": 25344},
+    "Unit_spc.e5": {"entries": 151, "all_decoded": true, "output_size": 11520}
+  },
+  "output_directory": "analysis/full-extract-56219569-d002-44b4-8b5f-56cb66adac39"
+}

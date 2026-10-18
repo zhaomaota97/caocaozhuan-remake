@@ -1,0 +1,142 @@
+{
+  "bitmapResource": 302,
+  "buttonTable": "0x48EA78",
+  "createFunction": "0x476063",
+  "width": 24,
+  "height": 24,
+  "stripSize": [
+    288,
+    24
+  ],
+  "buttons": [
+    {
+      "order": 0,
+      "commandId": 104,
+      "bitmapIndex": 0,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u7ed3\u675f\u6e38\u620f",
+      "url": "/assets/ui/battle-toolbar/command-104.png"
+    },
+    {
+      "order": 1,
+      "commandId": 101,
+      "bitmapIndex": 1,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u4fdd\u5b58",
+      "url": "/assets/ui/battle-toolbar/command-101.png"
+    },
+    {
+      "order": 2,
+      "commandId": 102,
+      "bitmapIndex": 2,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u8bfb\u53d6",
+      "url": "/assets/ui/battle-toolbar/command-102.png"
+    },
+    {
+      "order": 3,
+      "commandId": 107,
+      "bitmapIndex": 3,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u73af\u5883\u8bbe\u5b9a",
+      "url": "/assets/ui/battle-toolbar/command-107.png"
+    },
+    {
+      "order": 4,
+      "commandId": 0,
+      "bitmapIndex": 0,
+      "separator": true,
+      "nativeState": 0
+    },
+    {
+      "order": 5,
+      "commandId": 105,
+      "bitmapIndex": 4,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u6b66\u5c06\u4e00\u89c8",
+      "url": "/assets/ui/battle-toolbar/command-105.png"
+    },
+    {
+      "order": 6,
+      "commandId": 40147,
+      "bitmapIndex": 5,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u6301\u6709\u9053\u5177\u4e00\u89c8",
+      "url": "/assets/ui/battle-toolbar/command-40147.png"
+    },
+    {
+      "order": 7,
+      "commandId": 40150,
+      "bitmapIndex": 6,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u5730\u5f62\u60c5\u62a5\u4e00\u89c8",
+      "url": "/assets/ui/battle-toolbar/command-40150.png"
+    },
+    {
+      "order": 8,
+      "commandId": 40151,
+      "bitmapIndex": 7,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u5b9d\u7269\u56fe\u9274",
+      "url": "/assets/ui/battle-toolbar/command-40151.png"
+    },
+    {
+      "order": 9,
+      "commandId": 0,
+      "bitmapIndex": 0,
+      "separator": true,
+      "nativeState": 0
+    },
+    {
+      "order": 10,
+      "commandId": 109,
+      "bitmapIndex": 8,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u7ed3\u675f\u56de\u5408",
+      "url": "/assets/ui/battle-toolbar/command-109.png"
+    },
+    {
+      "order": 11,
+      "commandId": 106,
+      "bitmapIndex": 9,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u80dc\u5229\u6761\u4ef6",
+      "url": "/assets/ui/battle-toolbar/command-106.png"
+    },
+    {
+      "order": 12,
+      "commandId": 108,
+      "bitmapIndex": 10,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u6218\u573a\u7f29\u5c0f\u56fe",
+      "url": "/assets/ui/battle-toolbar/command-108.png"
+    },
+    {
+      "order": 13,
+      "commandId": 110,
+      "bitmapIndex": 11,
+      "separator": false,
+      "nativeState": 4,
+      "label": "\u68c0\u7d22\u672a\u6267\u884c\u90e8\u961f",
+      "url": "/assets/ui/battle-toolbar/command-110.png"
+    },
+    {
+      "order": 14,
+      "commandId": 0,
+      "bitmapIndex": 0,
+      "separator": true,
+      "nativeState": 0
+    }
+  ]
+}

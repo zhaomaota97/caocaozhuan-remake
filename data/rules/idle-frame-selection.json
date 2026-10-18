@@ -1,0 +1,15 @@
+{
+  "selectorAddress": "0x43E572",
+  "directionBankAddress": "0x43E515",
+  "directionBanks": [1, 2, 0, 2],
+  "normalDirectionTiles": [[2, 3], [4, 5], [0, 1], [4, 5]],
+  "phaseAddress": "0x4B3D0D",
+  "normalPhaseRule": "phase & 1",
+  "statusBit2PhaseRule": "phase >> 2 != 0",
+  "actorFlagsMask": 6,
+  "specialDirectionTiles": [7, 8, 6, 8],
+  "injuredBaseTile": 9,
+  "injuredNote": "Normal phase adjustment still applies when actor flags mask 6 is clear",
+  "clockTiming": "not yet verified",
+  "verification": {"cases": 512, "matched": 512, "scope": "Original selector; direction and health predicates controlled by callbacks"}
+}
