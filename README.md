@@ -11,6 +11,23 @@ npm run dev
 
 The source-to-runtime mapping is documented in `docs/reverse-runtime-integration.md`.
 
+## Verification
+
+The only supported development server is `http://127.0.0.1:5173/`.
+
+```powershell
+npm run verify:all
+npm run test:reverse-rules
+npm run verify:independent
+npm run verify:resources
+```
+
+`REVERSE-STATUS.md`, `FINAL-AUDIT.md`, and `docs/reverse-engineering/` record
+what is native-verified, what is migrated but not fully wired, and what remains
+open. The project bundles raw extracted assets under
+`public/assets/native-extracted/` and does not require the source directory at
+runtime.
+
 - Fixed logical canvas: 1120x640; battlefield cells and unit sprites keep native pixel sizes.
 - Battle map 31 uses the recovered terrain, actor coordinates, movement frames, idle frames, target shapes and save data.
 - The minimap is an external right-side panel. It shows player/enemy and acted/not-acted states, plus the current camera viewport; clicking it scrolls the battlefield.
