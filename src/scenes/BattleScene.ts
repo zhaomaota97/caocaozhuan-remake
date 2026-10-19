@@ -87,6 +87,8 @@ export class BattleScene extends Phaser.Scene {
   private lastExchange:ExchangeStrike[]=[];
   private readonly size=48; private readonly ox=0; private readonly oy=56;
   init(){
+    for(let index=0;index<58;index++)this.sound.get(`scenario-bgm-${index}`)?.destroy();
+    this.sound.get('saved-bgm')?.destroy();
     this.input.mouse?.disableContextMenu();
     this.bgmStarted=false;
     this.animating=false;this.moving=false;
@@ -109,7 +111,10 @@ export class BattleScene extends Phaser.Scene {
     this.phase=slot08.animationPhase;
     this.commonState={portraitFlags:0,portraitPhase:0};
     this.phaseElapsed=0;
-    this.events.once(Phaser.Scenes.Events.SHUTDOWN,()=>this.sound.get('saved-bgm')?.destroy());
+    this.events.once(Phaser.Scenes.Events.SHUTDOWN,()=>{
+      for(let index=0;index<58;index++)this.sound.get(`scenario-bgm-${index}`)?.destroy();
+      this.sound.get('saved-bgm')?.destroy();
+    });
   }
   preload(){
     for(const item of treasureCatalog.entries)this.load.image(`treasure-${item.itemId}`,item.iconUrl);
