@@ -1,9 +1,12 @@
 """Call native 0x43F54C in a suspended process, without starting game UI/audio."""
 import json
+import argparse
 from pathlib import Path
 import frida
 
-ROOT = Path(__file__).resolve().parents[1]
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--reverse-root', type=Path, default=Path(__file__).resolve().parents[2] / 'sanguozhi')
+ROOT = parser.parse_args().reverse_root.resolve()
 device = frida.get_local_device()
 pid = device.spawn([str(ROOT / 'analysis/runtime-game/Ekd5.exe')], cwd=str(ROOT / 'analysis/runtime-game'))
 session = None
