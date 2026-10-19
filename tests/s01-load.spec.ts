@@ -17,5 +17,14 @@ test('S_01 native unit dataset enters the battle scene',async({page})=>{
   });
   expect(actors.length).toBeGreaterThan(0);
   expect(actors).toEqual(native.units.filter((unit:any)=>unit.hp>0).map((unit:any)=>({slot:unit.slot,level:unit.level})));
+  const captured=JSON.parse(readFileSync('data/scenarios/native-units/S_01.json','utf8'));
+  const liveStats=await page.evaluate(()=>{
+    const scene=(window as any).battleGame.scene.getScene('default');
+    return scene.units.filter((unit:any)=>unit.hp>0&&!unit.nativeHidden).map((unit:any)=>{
+      const actor=scene.combatActor(unit);
+      return {slot:Number(unit.id.split('-slot-')[1]),attack:actor.attack,defense:actor.defense,agility:actor.agility,luck:actor.luck};
+    });
+  });
+  expect(liveStats).toEqual(captured.units.filter((unit:any)=>unit.hp>0).map((unit:any)=>({slot:unit.slot,...unit.combat})));
   expect(errors).toEqual([]);
 });

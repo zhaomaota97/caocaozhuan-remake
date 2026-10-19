@@ -19,6 +19,12 @@
       "maxHp": 102,
       "maxMp": 30,
       "art": 108,
+      "combat": {
+        "attack": 51,
+        "defense": 59,
+        "agility": 40,
+        "luck": 42
+      },
       "equipment": [
         [
           0,
@@ -58,6 +64,12 @@
       "maxHp": 130,
       "maxMp": 36,
       "art": 144,
+      "combat": {
+        "attack": 77,
+        "defense": 74,
+        "agility": 55,
+        "luck": 68
+      },
       "equipment": [
         [
           0,
@@ -97,6 +109,12 @@
       "maxHp": 130,
       "maxMp": 16,
       "art": 126,
+      "combat": {
+        "attack": 96,
+        "defense": 75,
+        "agility": 48,
+        "luck": 50
+      },
       "equipment": [
         [
           3,
@@ -136,6 +154,12 @@
       "maxHp": 137,
       "maxMp": 18,
       "art": 125,
+      "combat": {
+        "attack": 94,
+        "defense": 87,
+        "agility": 46,
+        "luck": 43
+      },
       "equipment": [
         [
           3,
@@ -175,6 +199,12 @@
       "maxHp": 120,
       "maxMp": 14,
       "art": 10,
+      "combat": {
+        "attack": 71,
+        "defense": 60,
+        "agility": 37,
+        "luck": 36
+      },
       "equipment": [
         [
           3,
@@ -214,6 +244,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 1,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -253,6 +289,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 1,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -292,6 +334,12 @@
       "maxHp": 130,
       "maxMp": 36,
       "art": 135,
+      "combat": {
+        "attack": 73,
+        "defense": 76,
+        "agility": 58,
+        "luck": 57
+      },
       "equipment": [
         [
           0,
@@ -331,6 +379,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 1,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -370,6 +424,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 1,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -409,6 +469,12 @@
       "maxHp": 146,
       "maxMp": 11,
       "art": 134,
+      "combat": {
+        "attack": 101,
+        "defense": 94,
+        "agility": 65,
+        "luck": 54
+      },
       "equipment": [
         [
           27,
@@ -448,6 +514,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 2,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -487,6 +559,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 2,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -526,6 +604,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 2,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -565,6 +649,12 @@
       "maxHp": 110,
       "maxMp": 10,
       "art": 2,
+      "combat": {
+        "attack": 40,
+        "defense": 50,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           0,
@@ -604,6 +694,12 @@
       "maxHp": 100,
       "maxMp": 10,
       "art": 11,
+      "combat": {
+        "attack": 52,
+        "defense": 45,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           3,
@@ -643,6 +739,12 @@
       "maxHp": 100,
       "maxMp": 10,
       "art": 11,
+      "combat": {
+        "attack": 52,
+        "defense": 45,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           3,
@@ -682,6 +784,12 @@
       "maxHp": 100,
       "maxMp": 10,
       "art": 11,
+      "combat": {
+        "attack": 52,
+        "defense": 45,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           3,
@@ -721,6 +829,12 @@
       "maxHp": 100,
       "maxMp": 10,
       "art": 11,
+      "combat": {
+        "attack": 52,
+        "defense": 45,
+        "agility": 30,
+        "luck": 30
+      },
       "equipment": [
         [
           3,
@@ -760,6 +874,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -799,6 +919,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -838,6 +964,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -877,6 +1009,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -916,6 +1054,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -955,6 +1099,12 @@
       "maxHp": 134,
       "maxMp": 9,
       "art": 101,
+      "combat": {
+        "attack": 78,
+        "defense": 82,
+        "agility": 34,
+        "luck": 28
+      },
       "equipment": [
         [
           3,
@@ -994,6 +1144,12 @@
       "maxHp": 106,
       "maxMp": 48,
       "art": 65,
+      "combat": {
+        "attack": 33,
+        "defense": 59,
+        "agility": 37,
+        "luck": 39
+      },
       "equipment": [
         [
           15,
@@ -1033,6 +1189,12 @@
       "maxHp": 120,
       "maxMp": 14,
       "art": 11,
+      "combat": {
+        "attack": 73,
+        "defense": 69,
+        "agility": 40,
+        "luck": 36
+      },
       "equipment": [
         [
           3,
@@ -1072,6 +1234,12 @@
       "maxHp": 120,
       "maxMp": 14,
       "art": 11,
+      "combat": {
+        "attack": 70,
+        "defense": 59,
+        "agility": 35,
+        "luck": 38
+      },
       "equipment": [
         [
           3,
@@ -1111,6 +1279,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -1150,6 +1324,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -1189,6 +1369,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -1228,6 +1414,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,
@@ -1267,6 +1459,12 @@
       "maxHp": 90,
       "maxMp": 10,
       "art": 20,
+      "combat": {
+        "attack": 43,
+        "defense": 40,
+        "agility": 30,
+        "luck": 40
+      },
       "equipment": [
         [
           6,

@@ -18,6 +18,7 @@ import {attackRange,inAttackRange} from '../rules/attackRange';
 import combatAttributes from '../../data/mappings/slot08-combat-attributes.json';
 import {ordinaryDamage} from '../rules/ordinaryDamage';
 import combatRuntime from '../../data/mappings/slot08-combat-runtime.json';
+import scenarioCombat from '../../data/mappings/scenario-combat-runtime.json';
 import {ordinaryExchange,type ExchangeStrike} from '../rules/ordinaryExchange';
 import {GameRng} from '../rules/gameRng';
 import nativeUi from '../../data/mappings/native-ui-templates.json';
@@ -871,7 +872,9 @@ export class BattleScene extends Phaser.Scene {
         actorFlags:unit.actorFlags??0,statusFlags:unit.statusFlags??0,adaptation:0,nativeLevel:1,
         movementTier:1,move:unit.move};
     }
-    const values=combatRuntime.actors.find(actor=>`unit-${actor.slot}`===unit.id) ?? {attack:20,defense:10,hit:80,critical:0,agility:10,luck:0};
+    const nativeSlot=Number(unit.id.match(/-slot-(\d+)$/)?.[1]);
+    const scenarioValues=(scenarioCombat as Record<string,Array<{slot:number;attack:number;defense:number;agility:number;luck:number}>>)[String(this.mapId)]?.find(actor=>actor.slot===nativeSlot);
+    const values=combatRuntime.actors.find(actor=>`unit-${actor.slot}`===unit.id) ?? scenarioValues ?? {attack:20,defense:10,hit:80,critical:0,agility:10,luck:0};
     const type=source.classId<39?Math.floor(source.classId/3):source.classId-26;
     const adaptation=terrainMovement.find(row=>row.movementType===type)?.adaptation[this.map.terrain[unit.y*this.map.width+unit.x]]??0;
     return {...source,...values,id:unit.id,x:unit.x,y:unit.y,hp:unit.hp,mp:unit.mp??source.mp??0,
