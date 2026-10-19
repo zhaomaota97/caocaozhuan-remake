@@ -54,6 +54,11 @@ its use.
 - Equipment experience level/XP writeback is implemented as a pure rule with
   native validation evidence; notification rendering and battle callback
   integration remain separate.
+- Attacker reward controller `0x405C6C` state writeback is implemented in
+  `src/rules/attackRewardController.ts` and matches all 2,592 captured native
+  cases. It adds stored unit XP before growth and independently updates slot-0
+  equipment, including when unit growth is ineligible. Native presentation
+  callbacks and the battle-scene invocation remain unimplemented.
 
 ## Known fidelity boundaries
 
