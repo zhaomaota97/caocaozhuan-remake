@@ -1,0 +1,834 @@
+[
+  {
+    "id": 0,
+    "categoryByte": 0,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 1,
+    "categoryByte": 0,
+    "equipmentEffectCategory": 255,
+    "baseValue": 45,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 2,
+    "categoryByte": 0,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 3,
+    "categoryByte": 2,
+    "equipmentEffectCategory": 255,
+    "baseValue": 12,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 4,
+    "categoryByte": 2,
+    "equipmentEffectCategory": 255,
+    "baseValue": 48,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 5,
+    "categoryByte": 2,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 6,
+    "categoryByte": 4,
+    "equipmentEffectCategory": 255,
+    "baseValue": 8,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 7,
+    "categoryByte": 4,
+    "equipmentEffectCategory": 255,
+    "baseValue": 40,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 8,
+    "categoryByte": 4,
+    "equipmentEffectCategory": 255,
+    "baseValue": 70,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 9,
+    "categoryByte": 6,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 10,
+    "categoryByte": 6,
+    "equipmentEffectCategory": 255,
+    "baseValue": 42,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 11,
+    "categoryByte": 6,
+    "equipmentEffectCategory": 255,
+    "baseValue": 75,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 12,
+    "categoryByte": 8,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 13,
+    "categoryByte": 8,
+    "equipmentEffectCategory": 255,
+    "baseValue": 45,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 14,
+    "categoryByte": 8,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 15,
+    "categoryByte": 10,
+    "equipmentEffectCategory": 255,
+    "baseValue": 12,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 16,
+    "categoryByte": 10,
+    "equipmentEffectCategory": 255,
+    "baseValue": 48,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 17,
+    "categoryByte": 10,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 18,
+    "categoryByte": 12,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 19,
+    "categoryByte": 12,
+    "equipmentEffectCategory": 255,
+    "baseValue": 42,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 20,
+    "categoryByte": 12,
+    "equipmentEffectCategory": 255,
+    "baseValue": 75,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 21,
+    "categoryByte": 1,
+    "equipmentEffectCategory": 40,
+    "baseValue": 16,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 22,
+    "categoryByte": 1,
+    "equipmentEffectCategory": 45,
+    "baseValue": 18,
+    "secondaryValue": 50,
+    "growthValue": 9
+  },
+  {
+    "id": 23,
+    "categoryByte": 1,
+    "equipmentEffectCategory": 53,
+    "baseValue": 16,
+    "secondaryValue": 15,
+    "growthValue": 9
+  },
+  {
+    "id": 24,
+    "categoryByte": 1,
+    "equipmentEffectCategory": 27,
+    "baseValue": 18,
+    "secondaryValue": 10,
+    "growthValue": 9
+  },
+  {
+    "id": 25,
+    "categoryByte": 3,
+    "equipmentEffectCategory": 44,
+    "baseValue": 18,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 26,
+    "categoryByte": 3,
+    "equipmentEffectCategory": 43,
+    "baseValue": 18,
+    "secondaryValue": 4,
+    "growthValue": 9
+  },
+  {
+    "id": 27,
+    "categoryByte": 3,
+    "equipmentEffectCategory": 46,
+    "baseValue": 18,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 28,
+    "categoryByte": 5,
+    "equipmentEffectCategory": 37,
+    "baseValue": 12,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 29,
+    "categoryByte": 5,
+    "equipmentEffectCategory": 38,
+    "baseValue": 14,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 30,
+    "categoryByte": 7,
+    "equipmentEffectCategory": 35,
+    "baseValue": 12,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 31,
+    "categoryByte": 7,
+    "equipmentEffectCategory": 40,
+    "baseValue": 14,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 32,
+    "categoryByte": 9,
+    "equipmentEffectCategory": 36,
+    "baseValue": 16,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 33,
+    "categoryByte": 11,
+    "equipmentEffectCategory": 48,
+    "baseValue": 18,
+    "secondaryValue": 20,
+    "growthValue": 9
+  },
+  {
+    "id": 34,
+    "categoryByte": 11,
+    "equipmentEffectCategory": 47,
+    "baseValue": 18,
+    "secondaryValue": 20,
+    "growthValue": 9
+  },
+  {
+    "id": 35,
+    "categoryByte": 11,
+    "equipmentEffectCategory": 49,
+    "baseValue": 16,
+    "secondaryValue": 2,
+    "growthValue": 9
+  },
+  {
+    "id": 36,
+    "categoryByte": 13,
+    "equipmentEffectCategory": 52,
+    "baseValue": 14,
+    "secondaryValue": 15,
+    "growthValue": 9
+  },
+  {
+    "id": 37,
+    "categoryByte": 13,
+    "equipmentEffectCategory": 30,
+    "baseValue": 14,
+    "secondaryValue": 20,
+    "growthValue": 9
+  },
+  {
+    "id": 38,
+    "categoryByte": 14,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 39,
+    "categoryByte": 14,
+    "equipmentEffectCategory": 255,
+    "baseValue": 45,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 40,
+    "categoryByte": 14,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 41,
+    "categoryByte": 16,
+    "equipmentEffectCategory": 255,
+    "baseValue": 8,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 42,
+    "categoryByte": 16,
+    "equipmentEffectCategory": 255,
+    "baseValue": 40,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 43,
+    "categoryByte": 16,
+    "equipmentEffectCategory": 255,
+    "baseValue": 70,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 44,
+    "categoryByte": 15,
+    "equipmentEffectCategory": 56,
+    "baseValue": 16,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 45,
+    "categoryByte": 15,
+    "equipmentEffectCategory": 57,
+    "baseValue": 18,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 46,
+    "categoryByte": 15,
+    "equipmentEffectCategory": 58,
+    "baseValue": 18,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 47,
+    "categoryByte": 15,
+    "equipmentEffectCategory": 59,
+    "baseValue": 18,
+    "secondaryValue": 50,
+    "growthValue": 9
+  },
+  {
+    "id": 48,
+    "categoryByte": 15,
+    "equipmentEffectCategory": 60,
+    "baseValue": 16,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 49,
+    "categoryByte": 17,
+    "equipmentEffectCategory": 27,
+    "baseValue": 14,
+    "secondaryValue": 10,
+    "growthValue": 9
+  },
+  {
+    "id": 50,
+    "categoryByte": 17,
+    "equipmentEffectCategory": 25,
+    "baseValue": 14,
+    "secondaryValue": 10,
+    "growthValue": 9
+  },
+  {
+    "id": 51,
+    "categoryByte": 17,
+    "equipmentEffectCategory": 30,
+    "baseValue": 12,
+    "secondaryValue": 20,
+    "growthValue": 9
+  },
+  {
+    "id": 52,
+    "categoryByte": 17,
+    "equipmentEffectCategory": 18,
+    "baseValue": 12,
+    "secondaryValue": 5,
+    "growthValue": 9
+  },
+  {
+    "id": 53,
+    "categoryByte": 53,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 54,
+    "categoryByte": 53,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 55,
+    "categoryByte": 54,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 56,
+    "categoryByte": 55,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 57,
+    "categoryByte": 61,
+    "equipmentEffectCategory": 255,
+    "baseValue": 30,
+    "secondaryValue": 0,
+    "growthValue": 3
+  },
+  {
+    "id": 58,
+    "categoryByte": 61,
+    "equipmentEffectCategory": 255,
+    "baseValue": 50,
+    "secondaryValue": 0,
+    "growthValue": 3
+  },
+  {
+    "id": 59,
+    "categoryByte": 32,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 5
+  },
+  {
+    "id": 60,
+    "categoryByte": 32,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 61,
+    "categoryByte": 32,
+    "equipmentEffectCategory": 255,
+    "baseValue": 1,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 62,
+    "categoryByte": 33,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 63,
+    "categoryByte": 34,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 64,
+    "categoryByte": 29,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 1
+  },
+  {
+    "id": 65,
+    "categoryByte": 29,
+    "equipmentEffectCategory": 255,
+    "baseValue": 30,
+    "secondaryValue": 0,
+    "growthValue": 1
+  },
+  {
+    "id": 66,
+    "categoryByte": 29,
+    "equipmentEffectCategory": 255,
+    "baseValue": 45,
+    "secondaryValue": 0,
+    "growthValue": 1
+  },
+  {
+    "id": 67,
+    "categoryByte": 30,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 68,
+    "categoryByte": 30,
+    "equipmentEffectCategory": 255,
+    "baseValue": 30,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 69,
+    "categoryByte": 30,
+    "equipmentEffectCategory": 255,
+    "baseValue": 45,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 70,
+    "categoryByte": 39,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 71,
+    "categoryByte": 39,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 72,
+    "categoryByte": 42,
+    "equipmentEffectCategory": 255,
+    "baseValue": 6,
+    "secondaryValue": 0,
+    "growthValue": 7
+  },
+  {
+    "id": 73,
+    "categoryByte": 21,
+    "equipmentEffectCategory": 255,
+    "baseValue": 4,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 74,
+    "categoryByte": 31,
+    "equipmentEffectCategory": 255,
+    "baseValue": 15,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 75,
+    "categoryByte": 18,
+    "equipmentEffectCategory": 255,
+    "baseValue": 5,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 76,
+    "categoryByte": 20,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 77,
+    "categoryByte": 19,
+    "equipmentEffectCategory": 255,
+    "baseValue": 10,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 78,
+    "categoryByte": 51,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 79,
+    "categoryByte": 22,
+    "equipmentEffectCategory": 255,
+    "baseValue": 3,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 80,
+    "categoryByte": 23,
+    "equipmentEffectCategory": 255,
+    "baseValue": 3,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 81,
+    "categoryByte": 62,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 82,
+    "categoryByte": 41,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 255
+  },
+  {
+    "id": 83,
+    "categoryByte": 50,
+    "equipmentEffectCategory": 255,
+    "baseValue": 64,
+    "secondaryValue": 0,
+    "growthValue": 11
+  },
+  {
+    "id": 84,
+    "categoryByte": 50,
+    "equipmentEffectCategory": 255,
+    "baseValue": 65,
+    "secondaryValue": 0,
+    "growthValue": 8
+  },
+  {
+    "id": 85,
+    "categoryByte": 50,
+    "equipmentEffectCategory": 255,
+    "baseValue": 66,
+    "secondaryValue": 0,
+    "growthValue": 10
+  },
+  {
+    "id": 86,
+    "categoryByte": 50,
+    "equipmentEffectCategory": 255,
+    "baseValue": 67,
+    "secondaryValue": 0,
+    "growthValue": 9
+  },
+  {
+    "id": 87,
+    "categoryByte": 63,
+    "equipmentEffectCategory": 255,
+    "baseValue": 30,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 88,
+    "categoryByte": 63,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 89,
+    "categoryByte": 63,
+    "equipmentEffectCategory": 255,
+    "baseValue": 255,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 90,
+    "categoryByte": 64,
+    "equipmentEffectCategory": 255,
+    "baseValue": 30,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 91,
+    "categoryByte": 64,
+    "equipmentEffectCategory": 255,
+    "baseValue": 80,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 92,
+    "categoryByte": 66,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 93,
+    "categoryByte": 65,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 94,
+    "categoryByte": 67,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 95,
+    "categoryByte": 68,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 96,
+    "categoryByte": 69,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 97,
+    "categoryByte": 76,
+    "equipmentEffectCategory": 255,
+    "baseValue": 0,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 98,
+    "categoryByte": 70,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 99,
+    "categoryByte": 71,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 100,
+    "categoryByte": 72,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 101,
+    "categoryByte": 73,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 102,
+    "categoryByte": 74,
+    "equipmentEffectCategory": 255,
+    "baseValue": 2,
+    "secondaryValue": 0,
+    "growthValue": 0
+  },
+  {
+    "id": 103,
+    "categoryByte": 75,
+    "equipmentEffectCategory": 255,
+    "baseValue": 100,
+    "secondaryValue": 0,
+    "growthValue": 0
+  }
+]

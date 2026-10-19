@@ -26,5 +26,16 @@ test('S_01 native unit dataset enters the battle scene',async({page})=>{
     });
   });
   expect(liveStats).toEqual(captured.units.filter((unit:any)=>unit.hp>0).map((unit:any)=>({slot:unit.slot,...unit.combat})));
+  const changed=await page.evaluate(()=>{
+    const scene=(window as any).battleGame.scene.getScene('default');
+    const unit=scene.units.find((row:any)=>row.id==='s01-slot-0');
+    const original=unit.nativeEquipment[0].byte1;
+    const before=scene.combatActor(unit).attack;
+    unit.nativeEquipment[0].byte1=original+1;
+    const after=scene.combatActor(unit).attack;
+    unit.nativeEquipment[0].byte1=original;
+    return {before,after};
+  });
+  expect(changed.after).toBeGreaterThan(changed.before);
   expect(errors).toEqual([]);
 });
