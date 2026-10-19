@@ -28,6 +28,7 @@ import nativeUi from '../../data/mappings/native-ui-templates.json';
 import effectLearning from '../../data/mappings/effect-learning-runtime.json';
 import {allRuntimeEffects,effectById} from '../rules/effectCatalog';
 import {nativeButton} from '../ui/nativeButton';
+import {nearestNativeCandidate} from '../rules/aiCandidateFilter';
 import treasureCatalog from '../../data/mappings/treasure-catalog.json';
 import rosterColumns from '../../data/mappings/roster-columns.json';
 import rosterFields from '../../data/mappings/slot08-roster-fields.json';
@@ -666,8 +667,7 @@ export class BattleScene extends Phaser.Scene {
   }
   private async runEnemyTurn(){
     for(const enemy of this.units.filter(unit=>unit.side==='enemy'&&unit.hp>0&&!unit.nativeHidden)){
-      const chooseTarget=()=>this.units.filter(unit=>unit.side==='player'&&unit.hp>0)
-        .sort((a,b)=>(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y))||a.id.localeCompare(b.id))[0];
+      const chooseTarget=()=>nearestNativeCandidate(enemy,this.units,this.map.width,this.map.height);
       let target=chooseTarget();
       if(!target)continue;
       const source=this.combatActor(enemy);
