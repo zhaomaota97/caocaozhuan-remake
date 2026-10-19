@@ -11,7 +11,7 @@
     "manifest:resources": "node tools/build-resource-manifest.mjs",
     "verify:resources": "node tools/verify-resource-manifest.mjs",
     "verify:source-migration": "node tools/verify-source-migration.mjs",
-    "test:actor-stats": "playwright test tests/actor-stat-modifier.spec.ts tests/equipment-attribute.spec.ts tests/native-target-eligibility.spec.ts tests/ai-candidate-filter.spec.ts tests/ai-attack-score.spec.ts tests/enemy-ai-score-order.spec.ts --reporter=line",
+    "test:actor-stats": "playwright test tests/actor-stat-modifier.spec.ts tests/equipment-attribute.spec.ts tests/native-target-eligibility.spec.ts tests/ai-candidate-filter.spec.ts tests/ai-attack-score.spec.ts tests/enemy-ai-score-order.spec.ts tests/eex-segments.spec.ts --reporter=line",
     "test:reverse-rules": "playwright test tests/attack-reward-controller.spec.ts tests/unit-growth.spec.ts tests/experience-awards.spec.ts tests/equipment-experience.spec.ts tests/native-growth-fields.spec.ts tests/eex-runner.spec.ts tests/native-camera.spec.ts tests/attack-range.spec.ts tests/movement-budget.spec.ts tests/movement-costs.spec.ts tests/ordinary-damage.spec.ts tests/ordinary-exchange.spec.ts tests/attack-interaction.spec.ts tests/native-sounds.spec.ts tests/scenario-data-integrity.spec.ts tests/item-equipment-separation.spec.ts tests/enemy-turn-target-refresh.spec.ts"
     ,"verify:all": "npm run build && npm run verify:independent && npm run verify:resources && npm run verify:source-migration && npm run test:reverse-rules && npm run test:actor-stats && playwright test tests/s01-load.spec.ts tests/scenario-index-load.spec.ts --reporter=line"
   },

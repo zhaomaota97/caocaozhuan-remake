@@ -1,0 +1,3991 @@
+{
+  "files": 117,
+  "segments": 469,
+  "rows": [
+    {
+      "file": "runtime-game/R_00.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 14,
+          "size": 2686,
+          "firstWord": 1,
+          "secondWord": 2682,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_01.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 42,
+          "size": 864,
+          "firstWord": 1,
+          "secondWord": 860,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 906,
+          "size": 3371,
+          "firstWord": 1,
+          "secondWord": 3367,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4277,
+          "size": 7794,
+          "firstWord": 1,
+          "secondWord": 7790,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12071,
+          "size": 3933,
+          "firstWord": 1,
+          "secondWord": 3929,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 16004,
+          "size": 3213,
+          "firstWord": 1,
+          "secondWord": 3209,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 19217,
+          "size": 1723,
+          "firstWord": 1,
+          "secondWord": 1719,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 20940,
+          "size": 417,
+          "firstWord": 1,
+          "secondWord": 413,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 21357,
+          "size": 903,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_02.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 1034,
+          "firstWord": 1,
+          "secondWord": 1030,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1060,
+          "size": 3982,
+          "firstWord": 1,
+          "secondWord": 3978,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5042,
+          "size": 433,
+          "firstWord": 1,
+          "secondWord": 429,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5475,
+          "size": 921,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_03.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 1660,
+          "firstWord": 1,
+          "secondWord": 1656,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1690,
+          "size": 1939,
+          "firstWord": 1,
+          "secondWord": 1935,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3629,
+          "size": 2548,
+          "firstWord": 1,
+          "secondWord": 2544,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6177,
+          "size": 384,
+          "firstWord": 1,
+          "secondWord": 380,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6561,
+          "size": 724,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_04.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 54,
+          "size": 1794,
+          "firstWord": 1,
+          "secondWord": 1790,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1848,
+          "size": 3533,
+          "firstWord": 1,
+          "secondWord": 3529,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5381,
+          "size": 2266,
+          "firstWord": 1,
+          "secondWord": 2262,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7647,
+          "size": 774,
+          "firstWord": 1,
+          "secondWord": 770,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8421,
+          "size": 543,
+          "firstWord": 1,
+          "secondWord": 539,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8964,
+          "size": 1431,
+          "firstWord": 1,
+          "secondWord": 1427,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10395,
+          "size": 2143,
+          "firstWord": 1,
+          "secondWord": 2139,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12538,
+          "size": 1957,
+          "firstWord": 1,
+          "secondWord": 1953,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 14495,
+          "size": 3855,
+          "firstWord": 1,
+          "secondWord": 3851,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 18350,
+          "size": 339,
+          "firstWord": 1,
+          "secondWord": 335,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 18689,
+          "size": 756,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_05.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 38,
+          "size": 1401,
+          "firstWord": 1,
+          "secondWord": 1397,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1439,
+          "size": 980,
+          "firstWord": 1,
+          "secondWord": 976,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2419,
+          "size": 2049,
+          "firstWord": 1,
+          "secondWord": 2045,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4468,
+          "size": 1769,
+          "firstWord": 1,
+          "secondWord": 1765,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6237,
+          "size": 954,
+          "firstWord": 1,
+          "secondWord": 950,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7191,
+          "size": 365,
+          "firstWord": 1,
+          "secondWord": 361,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7556,
+          "size": 852,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_06.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1899,
+          "firstWord": 1,
+          "secondWord": 1895,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1917,
+          "size": 986,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_07.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 618,
+          "firstWord": 1,
+          "secondWord": 614,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 640,
+          "size": 3092,
+          "firstWord": 1,
+          "secondWord": 3088,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3732,
+          "size": 798,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_08.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 38,
+          "size": 837,
+          "firstWord": 1,
+          "secondWord": 833,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 875,
+          "size": 1740,
+          "firstWord": 1,
+          "secondWord": 1736,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2615,
+          "size": 2628,
+          "firstWord": 1,
+          "secondWord": 2624,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5243,
+          "size": 699,
+          "firstWord": 1,
+          "secondWord": 695,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5942,
+          "size": 757,
+          "firstWord": 1,
+          "secondWord": 753,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6699,
+          "size": 1674,
+          "firstWord": 1,
+          "secondWord": 1670,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8373,
+          "size": 647,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_09.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 38,
+          "size": 1103,
+          "firstWord": 1,
+          "secondWord": 1099,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1141,
+          "size": 2507,
+          "firstWord": 1,
+          "secondWord": 2503,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3648,
+          "size": 1891,
+          "firstWord": 1,
+          "secondWord": 1887,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5539,
+          "size": 1089,
+          "firstWord": 1,
+          "secondWord": 1085,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6628,
+          "size": 2513,
+          "firstWord": 1,
+          "secondWord": 2509,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9141,
+          "size": 2742,
+          "firstWord": 1,
+          "secondWord": 2738,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11883,
+          "size": 1862,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_10.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 54,
+          "size": 2212,
+          "firstWord": 1,
+          "secondWord": 2208,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2266,
+          "size": 997,
+          "firstWord": 1,
+          "secondWord": 993,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3263,
+          "size": 2060,
+          "firstWord": 1,
+          "secondWord": 2056,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5323,
+          "size": 1427,
+          "firstWord": 1,
+          "secondWord": 1423,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6750,
+          "size": 4090,
+          "firstWord": 1,
+          "secondWord": 4086,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10840,
+          "size": 1069,
+          "firstWord": 1,
+          "secondWord": 1065,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11909,
+          "size": 703,
+          "firstWord": 7,
+          "secondWord": 124,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 12612,
+          "size": 1637,
+          "firstWord": 1,
+          "secondWord": 1633,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 14249,
+          "size": 2394,
+          "firstWord": 1,
+          "secondWord": 2390,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 16643,
+          "size": 2521,
+          "firstWord": 1,
+          "secondWord": 2517,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 19164,
+          "size": 1167,
+          "firstWord": 1,
+          "secondWord": 1163,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_11.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 1231,
+          "firstWord": 1,
+          "secondWord": 1227,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1257,
+          "size": 1741,
+          "firstWord": 1,
+          "secondWord": 1737,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2998,
+          "size": 891,
+          "firstWord": 1,
+          "secondWord": 887,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3889,
+          "size": 754,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_12.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 1557,
+          "firstWord": 1,
+          "secondWord": 1553,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1583,
+          "size": 1631,
+          "firstWord": 1,
+          "secondWord": 1627,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3214,
+          "size": 1326,
+          "firstWord": 1,
+          "secondWord": 1322,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4540,
+          "size": 831,
+          "firstWord": 7,
+          "secondWord": 212,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_13.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 34,
+          "size": 2298,
+          "firstWord": 1,
+          "secondWord": 2294,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2332,
+          "size": 1351,
+          "firstWord": 1,
+          "secondWord": 1347,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3683,
+          "size": 991,
+          "firstWord": 1,
+          "secondWord": 987,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4674,
+          "size": 1079,
+          "firstWord": 1,
+          "secondWord": 1075,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5753,
+          "size": 916,
+          "firstWord": 1,
+          "secondWord": 912,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6669,
+          "size": 779,
+          "firstWord": 8,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_14.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 1018,
+          "firstWord": 1,
+          "secondWord": 1014,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1044,
+          "size": 1728,
+          "firstWord": 1,
+          "secondWord": 1724,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2772,
+          "size": 1028,
+          "firstWord": 1,
+          "secondWord": 1024,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3800,
+          "size": 1045,
+          "firstWord": 8,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_15.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 54,
+          "size": 1656,
+          "firstWord": 1,
+          "secondWord": 1652,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1710,
+          "size": 1638,
+          "firstWord": 1,
+          "secondWord": 1634,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3348,
+          "size": 1963,
+          "firstWord": 1,
+          "secondWord": 1959,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5311,
+          "size": 1009,
+          "firstWord": 1,
+          "secondWord": 1005,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6320,
+          "size": 424,
+          "firstWord": 1,
+          "secondWord": 420,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6744,
+          "size": 2441,
+          "firstWord": 1,
+          "secondWord": 2437,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9185,
+          "size": 1490,
+          "firstWord": 1,
+          "secondWord": 1486,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10675,
+          "size": 3603,
+          "firstWord": 1,
+          "secondWord": 3599,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 14278,
+          "size": 1543,
+          "firstWord": 1,
+          "secondWord": 1539,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 15821,
+          "size": 508,
+          "firstWord": 1,
+          "secondWord": 504,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 16329,
+          "size": 923,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_16.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 54,
+          "size": 2878,
+          "firstWord": 1,
+          "secondWord": 2874,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2932,
+          "size": 979,
+          "firstWord": 1,
+          "secondWord": 975,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3911,
+          "size": 972,
+          "firstWord": 1,
+          "secondWord": 968,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4883,
+          "size": 2537,
+          "firstWord": 1,
+          "secondWord": 2533,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7420,
+          "size": 556,
+          "firstWord": 1,
+          "secondWord": 552,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7976,
+          "size": 839,
+          "firstWord": 1,
+          "secondWord": 835,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8815,
+          "size": 793,
+          "firstWord": 1,
+          "secondWord": 789,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9608,
+          "size": 1613,
+          "firstWord": 1,
+          "secondWord": 1609,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11221,
+          "size": 1489,
+          "firstWord": 1,
+          "secondWord": 1485,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12710,
+          "size": 393,
+          "firstWord": 1,
+          "secondWord": 389,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13103,
+          "size": 819,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_17.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 1379,
+          "firstWord": 1,
+          "secondWord": 1375,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1401,
+          "size": 1466,
+          "firstWord": 1,
+          "secondWord": 1462,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2867,
+          "size": 854,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_18.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 46,
+          "size": 1314,
+          "firstWord": 1,
+          "secondWord": 1310,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1360,
+          "size": 1468,
+          "firstWord": 1,
+          "secondWord": 1464,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2828,
+          "size": 2223,
+          "firstWord": 1,
+          "secondWord": 2219,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5051,
+          "size": 1338,
+          "firstWord": 1,
+          "secondWord": 1334,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6389,
+          "size": 5644,
+          "firstWord": 1,
+          "secondWord": 5640,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12033,
+          "size": 1924,
+          "firstWord": 1,
+          "secondWord": 1920,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13957,
+          "size": 2596,
+          "firstWord": 1,
+          "secondWord": 2592,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 16553,
+          "size": 605,
+          "firstWord": 1,
+          "secondWord": 601,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 17158,
+          "size": 1360,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_19.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 5718,
+          "firstWord": 1,
+          "secondWord": 5714,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5748,
+          "size": 1462,
+          "firstWord": 1,
+          "secondWord": 1458,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7210,
+          "size": 2168,
+          "firstWord": 1,
+          "secondWord": 2164,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9378,
+          "size": 1785,
+          "firstWord": 1,
+          "secondWord": 1781,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11163,
+          "size": 933,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_20.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 1300,
+          "firstWord": 1,
+          "secondWord": 1296,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1326,
+          "size": 1888,
+          "firstWord": 1,
+          "secondWord": 1884,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3214,
+          "size": 794,
+          "firstWord": 7,
+          "secondWord": 108,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 4008,
+          "size": 768,
+          "firstWord": 1,
+          "secondWord": 764,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_21.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 4376,
+          "firstWord": 1,
+          "secondWord": 4372,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4406,
+          "size": 1171,
+          "firstWord": 1,
+          "secondWord": 1167,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5577,
+          "size": 1353,
+          "firstWord": 1,
+          "secondWord": 1349,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6930,
+          "size": 513,
+          "firstWord": 1,
+          "secondWord": 509,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7443,
+          "size": 738,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_22.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 38,
+          "size": 844,
+          "firstWord": 1,
+          "secondWord": 840,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 882,
+          "size": 1171,
+          "firstWord": 1,
+          "secondWord": 1167,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2053,
+          "size": 1661,
+          "firstWord": 1,
+          "secondWord": 1657,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3714,
+          "size": 2870,
+          "firstWord": 1,
+          "secondWord": 2866,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6584,
+          "size": 652,
+          "firstWord": 1,
+          "secondWord": 648,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7236,
+          "size": 884,
+          "firstWord": 1,
+          "secondWord": 880,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8120,
+          "size": 716,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_23.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 2342,
+          "firstWord": 1,
+          "secondWord": 2338,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2372,
+          "size": 2270,
+          "firstWord": 1,
+          "secondWord": 2266,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4642,
+          "size": 1254,
+          "firstWord": 1,
+          "secondWord": 1250,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5896,
+          "size": 399,
+          "firstWord": 1,
+          "secondWord": 395,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6295,
+          "size": 713,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_24.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 1519,
+          "firstWord": 1,
+          "secondWord": 1515,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1541,
+          "size": 844,
+          "firstWord": 1,
+          "secondWord": 840,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2385,
+          "size": 1078,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_25.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 46,
+          "size": 4932,
+          "firstWord": 1,
+          "secondWord": 4928,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4978,
+          "size": 5646,
+          "firstWord": 1,
+          "secondWord": 5642,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10624,
+          "size": 2372,
+          "firstWord": 1,
+          "secondWord": 2368,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12996,
+          "size": 998,
+          "firstWord": 1,
+          "secondWord": 994,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13994,
+          "size": 1753,
+          "firstWord": 1,
+          "secondWord": 1749,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 15747,
+          "size": 2272,
+          "firstWord": 1,
+          "secondWord": 2268,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 18019,
+          "size": 1306,
+          "firstWord": 1,
+          "secondWord": 1302,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 19325,
+          "size": 330,
+          "firstWord": 1,
+          "secondWord": 326,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 19655,
+          "size": 643,
+          "firstWord": 3,
+          "secondWord": 108,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_26.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 3151,
+          "firstWord": 1,
+          "secondWord": 3147,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3173,
+          "size": 3243,
+          "firstWord": 1,
+          "secondWord": 3239,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6416,
+          "size": 934,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_27.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 38,
+          "size": 1087,
+          "firstWord": 1,
+          "secondWord": 1083,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1125,
+          "size": 1391,
+          "firstWord": 1,
+          "secondWord": 1387,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2516,
+          "size": 374,
+          "firstWord": 1,
+          "secondWord": 370,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2890,
+          "size": 2185,
+          "firstWord": 1,
+          "secondWord": 2181,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5075,
+          "size": 3505,
+          "firstWord": 1,
+          "secondWord": 3501,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8580,
+          "size": 2333,
+          "firstWord": 1,
+          "secondWord": 2329,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10913,
+          "size": 981,
+          "firstWord": 8,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_28.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 778,
+          "firstWord": 1,
+          "secondWord": 774,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 796,
+          "size": 842,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_29.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 2467,
+          "firstWord": 1,
+          "secondWord": 2463,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2489,
+          "size": 310,
+          "firstWord": 1,
+          "secondWord": 306,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2799,
+          "size": 467,
+          "firstWord": 3,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_30.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 2297,
+          "firstWord": 1,
+          "secondWord": 2293,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2327,
+          "size": 1778,
+          "firstWord": 1,
+          "secondWord": 1774,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4105,
+          "size": 1057,
+          "firstWord": 1,
+          "secondWord": 1053,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5162,
+          "size": 342,
+          "firstWord": 1,
+          "secondWord": 338,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5504,
+          "size": 329,
+          "firstWord": 3,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_31.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 38,
+          "size": 3082,
+          "firstWord": 1,
+          "secondWord": 3078,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3120,
+          "size": 2442,
+          "firstWord": 1,
+          "secondWord": 2438,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5562,
+          "size": 2005,
+          "firstWord": 1,
+          "secondWord": 2001,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7567,
+          "size": 2311,
+          "firstWord": 1,
+          "secondWord": 2307,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9878,
+          "size": 398,
+          "firstWord": 1,
+          "secondWord": 394,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10276,
+          "size": 602,
+          "firstWord": 1,
+          "secondWord": 598,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10878,
+          "size": 975,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_32.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 1379,
+          "firstWord": 2,
+          "secondWord": 59,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 1409,
+          "size": 1749,
+          "firstWord": 1,
+          "secondWord": 1745,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3158,
+          "size": 1507,
+          "firstWord": 1,
+          "secondWord": 1503,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4665,
+          "size": 1149,
+          "firstWord": 1,
+          "secondWord": 1145,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5814,
+          "size": 838,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_33.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 34,
+          "size": 1353,
+          "firstWord": 1,
+          "secondWord": 1349,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1387,
+          "size": 1350,
+          "firstWord": 1,
+          "secondWord": 1346,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2737,
+          "size": 1116,
+          "firstWord": 1,
+          "secondWord": 1112,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3853,
+          "size": 1203,
+          "firstWord": 1,
+          "secondWord": 1199,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5056,
+          "size": 1168,
+          "firstWord": 1,
+          "secondWord": 1164,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6224,
+          "size": 288,
+          "firstWord": 3,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_34.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 666,
+          "firstWord": 1,
+          "secondWord": 662,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 692,
+          "size": 592,
+          "firstWord": 1,
+          "secondWord": 588,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1284,
+          "size": 3698,
+          "firstWord": 1,
+          "secondWord": 3694,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4982,
+          "size": 755,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_35.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 34,
+          "size": 2657,
+          "firstWord": 1,
+          "secondWord": 2653,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2691,
+          "size": 1326,
+          "firstWord": 1,
+          "secondWord": 1322,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4017,
+          "size": 1593,
+          "firstWord": 1,
+          "secondWord": 1589,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5610,
+          "size": 1429,
+          "firstWord": 1,
+          "secondWord": 1425,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7039,
+          "size": 274,
+          "firstWord": 1,
+          "secondWord": 270,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7313,
+          "size": 198,
+          "firstWord": 2,
+          "secondWord": 84,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_36.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 4862,
+          "firstWord": 1,
+          "secondWord": 4858,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4880,
+          "size": 876,
+          "firstWord": 8,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_37.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 715,
+          "firstWord": 1,
+          "secondWord": 711,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 733,
+          "size": 942,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_38.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 34,
+          "size": 1681,
+          "firstWord": 1,
+          "secondWord": 1677,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1715,
+          "size": 2371,
+          "firstWord": 1,
+          "secondWord": 2367,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4086,
+          "size": 925,
+          "firstWord": 1,
+          "secondWord": 921,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5011,
+          "size": 3149,
+          "firstWord": 1,
+          "secondWord": 3145,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8160,
+          "size": 881,
+          "firstWord": 1,
+          "secondWord": 877,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9041,
+          "size": 201,
+          "firstWord": 2,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_39.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 42,
+          "size": 1065,
+          "firstWord": 1,
+          "secondWord": 1061,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1107,
+          "size": 2821,
+          "firstWord": 1,
+          "secondWord": 2817,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3928,
+          "size": 3059,
+          "firstWord": 1,
+          "secondWord": 3055,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6987,
+          "size": 1359,
+          "firstWord": 1,
+          "secondWord": 1355,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8346,
+          "size": 2350,
+          "firstWord": 1,
+          "secondWord": 2346,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10696,
+          "size": 1296,
+          "firstWord": 1,
+          "secondWord": 1292,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11992,
+          "size": 979,
+          "firstWord": 1,
+          "secondWord": 975,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12971,
+          "size": 676,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_40.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1239,
+          "firstWord": 1,
+          "secondWord": 1235,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1257,
+          "size": 2204,
+          "firstWord": 7,
+          "secondWord": 1536,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_41.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1987,
+          "firstWord": 1,
+          "secondWord": 1983,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2005,
+          "size": 908,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_42.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 1706,
+          "firstWord": 1,
+          "secondWord": 1702,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1732,
+          "size": 1915,
+          "firstWord": 1,
+          "secondWord": 1911,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3647,
+          "size": 583,
+          "firstWord": 1,
+          "secondWord": 579,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4230,
+          "size": 737,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_43.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 763,
+          "firstWord": 1,
+          "secondWord": 759,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 785,
+          "size": 1219,
+          "firstWord": 1,
+          "secondWord": 1215,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2004,
+          "size": 3605,
+          "firstWord": 7,
+          "secondWord": 2772,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_44.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1301,
+          "firstWord": 1,
+          "secondWord": 1297,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1319,
+          "size": 977,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_45.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1519,
+          "firstWord": 1,
+          "secondWord": 1515,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1537,
+          "size": 744,
+          "firstWord": 7,
+          "secondWord": 179,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_46.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 74,
+          "size": 1302,
+          "firstWord": 1,
+          "secondWord": 1298,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1376,
+          "size": 1761,
+          "firstWord": 1,
+          "secondWord": 1757,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3137,
+          "size": 1521,
+          "firstWord": 1,
+          "secondWord": 1517,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4658,
+          "size": 889,
+          "firstWord": 1,
+          "secondWord": 885,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5547,
+          "size": 437,
+          "firstWord": 1,
+          "secondWord": 433,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5984,
+          "size": 801,
+          "firstWord": 1,
+          "secondWord": 797,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6785,
+          "size": 930,
+          "firstWord": 1,
+          "secondWord": 926,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7715,
+          "size": 931,
+          "firstWord": 1,
+          "secondWord": 927,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8646,
+          "size": 1623,
+          "firstWord": 1,
+          "secondWord": 1619,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10269,
+          "size": 3392,
+          "firstWord": 1,
+          "secondWord": 3388,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13661,
+          "size": 1799,
+          "firstWord": 1,
+          "secondWord": 1795,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 15460,
+          "size": 4470,
+          "firstWord": 1,
+          "secondWord": 4466,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 19930,
+          "size": 2037,
+          "firstWord": 1,
+          "secondWord": 2033,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 21967,
+          "size": 2820,
+          "firstWord": 1,
+          "secondWord": 2816,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 24787,
+          "size": 303,
+          "firstWord": 1,
+          "secondWord": 299,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 25090,
+          "size": 262,
+          "firstWord": 3,
+          "secondWord": 108,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_47.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 842,
+          "firstWord": 1,
+          "secondWord": 838,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 872,
+          "size": 2111,
+          "firstWord": 1,
+          "secondWord": 2107,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2983,
+          "size": 272,
+          "firstWord": 1,
+          "secondWord": 268,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3255,
+          "size": 4416,
+          "firstWord": 1,
+          "secondWord": 4412,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7671,
+          "size": 1079,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_48.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 34,
+          "size": 2557,
+          "firstWord": 1,
+          "secondWord": 2553,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2591,
+          "size": 1831,
+          "firstWord": 1,
+          "secondWord": 1827,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4422,
+          "size": 1331,
+          "firstWord": 1,
+          "secondWord": 1327,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5753,
+          "size": 1785,
+          "firstWord": 1,
+          "secondWord": 1781,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7538,
+          "size": 1762,
+          "firstWord": 1,
+          "secondWord": 1758,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9300,
+          "size": 897,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_49.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 34,
+          "size": 1506,
+          "firstWord": 1,
+          "secondWord": 1502,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1540,
+          "size": 989,
+          "firstWord": 1,
+          "secondWord": 985,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2529,
+          "size": 854,
+          "firstWord": 1,
+          "secondWord": 850,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3383,
+          "size": 506,
+          "firstWord": 1,
+          "secondWord": 502,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3889,
+          "size": 414,
+          "firstWord": 1,
+          "secondWord": 410,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 4303,
+          "size": 1060,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_50.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 2135,
+          "firstWord": 1,
+          "secondWord": 2131,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2157,
+          "size": 1839,
+          "firstWord": 1,
+          "secondWord": 1835,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3996,
+          "size": 917,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_51.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 1142,
+          "firstWord": 1,
+          "secondWord": 1138,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1164,
+          "size": 1169,
+          "firstWord": 1,
+          "secondWord": 1165,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2333,
+          "size": 752,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_52.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 30,
+          "size": 1436,
+          "firstWord": 1,
+          "secondWord": 1432,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1466,
+          "size": 1616,
+          "firstWord": 1,
+          "secondWord": 1612,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 3082,
+          "size": 1945,
+          "firstWord": 1,
+          "secondWord": 1941,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5027,
+          "size": 1225,
+          "firstWord": 1,
+          "secondWord": 1221,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6252,
+          "size": 894,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_53.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 683,
+          "firstWord": 1,
+          "secondWord": 679,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 701,
+          "size": 848,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_54.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1666,
+          "firstWord": 1,
+          "secondWord": 1662,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1684,
+          "size": 739,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_55.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 2836,
+          "firstWord": 1,
+          "secondWord": 2832,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2854,
+          "size": 753,
+          "firstWord": 5,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_56.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 26,
+          "size": 2196,
+          "firstWord": 1,
+          "secondWord": 2192,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 2222,
+          "size": 3309,
+          "firstWord": 1,
+          "secondWord": 3305,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 5531,
+          "size": 1142,
+          "firstWord": 1,
+          "secondWord": 1138,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6673,
+          "size": 1149,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_57.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 1226,
+          "firstWord": 1,
+          "secondWord": 1222,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 1244,
+          "size": 804,
+          "firstWord": 7,
+          "secondWord": 106,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/R_58.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 18,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 55,
+          "size": 20571,
+          "firstWord": 2,
+          "secondWord": 10688,
+          "lengthDelimitedBlock": false
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_00.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7656,
+          "firstWord": 1,
+          "secondWord": 7652,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7678,
+          "size": 7790,
+          "firstWord": 18,
+          "secondWord": 162,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 15468,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_01.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7128,
+          "firstWord": 1,
+          "secondWord": 7124,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7150,
+          "size": 7235,
+          "firstWord": 20,
+          "secondWord": 906,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 14385,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_02.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6688,
+          "firstWord": 1,
+          "secondWord": 6684,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6710,
+          "size": 9407,
+          "firstWord": 23,
+          "secondWord": 478,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 16117,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_03.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6628,
+          "firstWord": 1,
+          "secondWord": 6624,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6650,
+          "size": 9780,
+          "firstWord": 17,
+          "secondWord": 734,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 16430,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_04.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6443,
+          "firstWord": 1,
+          "secondWord": 6439,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6465,
+          "size": 9287,
+          "firstWord": 11,
+          "secondWord": 7253,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 15752,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_05.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7078,
+          "firstWord": 1,
+          "secondWord": 7074,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7100,
+          "size": 7558,
+          "firstWord": 19,
+          "secondWord": 3157,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 14658,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_06.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6638,
+          "firstWord": 1,
+          "secondWord": 6634,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6660,
+          "size": 15154,
+          "firstWord": 29,
+          "secondWord": 1058,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 21814,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_07.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 13020,
+          "firstWord": 1,
+          "secondWord": 13016,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13042,
+          "size": 6213,
+          "firstWord": 26,
+          "secondWord": 279,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 19255,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_08.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6680,
+          "firstWord": 1,
+          "secondWord": 6676,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6702,
+          "size": 7159,
+          "firstWord": 19,
+          "secondWord": 975,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 13861,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_09.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6859,
+          "firstWord": 1,
+          "secondWord": 6855,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6881,
+          "size": 4251,
+          "firstWord": 17,
+          "secondWord": 221,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 11132,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_10.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7999,
+          "firstWord": 1,
+          "secondWord": 7995,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8021,
+          "size": 7120,
+          "firstWord": 17,
+          "secondWord": 189,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 15141,
+          "size": 29,
+          "firstWord": 1,
+          "secondWord": 25,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_11.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 9704,
+          "firstWord": 1,
+          "secondWord": 9700,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9726,
+          "size": 3674,
+          "firstWord": 18,
+          "secondWord": 165,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 13400,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_12.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6643,
+          "firstWord": 1,
+          "secondWord": 6639,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6665,
+          "size": 5755,
+          "firstWord": 21,
+          "secondWord": 331,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 12420,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_13.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 11078,
+          "firstWord": 1,
+          "secondWord": 11074,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11100,
+          "size": 7933,
+          "firstWord": 26,
+          "secondWord": 379,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 19033,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_14.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8039,
+          "firstWord": 1,
+          "secondWord": 8035,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8061,
+          "size": 10105,
+          "firstWord": 29,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 18166,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_15.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7812,
+          "firstWord": 1,
+          "secondWord": 7808,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7834,
+          "size": 15628,
+          "firstWord": 26,
+          "secondWord": 2756,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 23462,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_16.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8258,
+          "firstWord": 1,
+          "secondWord": 8254,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8280,
+          "size": 5760,
+          "firstWord": 16,
+          "secondWord": 345,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 14040,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_17.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 11488,
+          "firstWord": 1,
+          "secondWord": 11484,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11510,
+          "size": 7262,
+          "firstWord": 20,
+          "secondWord": 769,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 18772,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_18.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 12696,
+          "firstWord": 1,
+          "secondWord": 12692,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12718,
+          "size": 13064,
+          "firstWord": 41,
+          "secondWord": 538,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 25782,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_19.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8615,
+          "firstWord": 1,
+          "secondWord": 8611,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8637,
+          "size": 13680,
+          "firstWord": 22,
+          "secondWord": 1034,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 22317,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_20.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 12070,
+          "firstWord": 1,
+          "secondWord": 12066,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12092,
+          "size": 10741,
+          "firstWord": 36,
+          "secondWord": 231,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 22833,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_21.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6927,
+          "firstWord": 1,
+          "secondWord": 6923,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6949,
+          "size": 8706,
+          "firstWord": 26,
+          "secondWord": 955,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 15655,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_22.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8506,
+          "firstWord": 1,
+          "secondWord": 8502,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8528,
+          "size": 10390,
+          "firstWord": 28,
+          "secondWord": 115,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 18918,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_23.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7815,
+          "firstWord": 1,
+          "secondWord": 7811,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7837,
+          "size": 9962,
+          "firstWord": 13,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 17799,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_24.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8675,
+          "firstWord": 1,
+          "secondWord": 8671,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8697,
+          "size": 5997,
+          "firstWord": 21,
+          "secondWord": 630,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 14694,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_25.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 16046,
+          "firstWord": 1,
+          "secondWord": 16042,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 16068,
+          "size": 4548,
+          "firstWord": 20,
+          "secondWord": 529,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 20616,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_26.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 12624,
+          "firstWord": 1,
+          "secondWord": 12620,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12646,
+          "size": 13713,
+          "firstWord": 40,
+          "secondWord": 113,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 26359,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_27.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 20657,
+          "firstWord": 1,
+          "secondWord": 20653,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 20679,
+          "size": 6747,
+          "firstWord": 25,
+          "secondWord": 1410,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 27426,
+          "size": 75,
+          "firstWord": 1,
+          "secondWord": 71,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_28.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 29261,
+          "firstWord": 1,
+          "secondWord": 29257,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 29283,
+          "size": 6736,
+          "firstWord": 25,
+          "secondWord": 1391,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 36019,
+          "size": 75,
+          "firstWord": 1,
+          "secondWord": 71,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_29.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7777,
+          "firstWord": 1,
+          "secondWord": 7773,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7799,
+          "size": 11067,
+          "firstWord": 27,
+          "secondWord": 4474,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 18866,
+          "size": 39,
+          "firstWord": 1,
+          "secondWord": 35,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_30.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 11737,
+          "firstWord": 1,
+          "secondWord": 11733,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11759,
+          "size": 3228,
+          "firstWord": 11,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 14987,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_31.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 12466,
+          "firstWord": 1,
+          "secondWord": 12462,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 12488,
+          "size": 9252,
+          "firstWord": 17,
+          "secondWord": 639,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 21740,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_32.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6756,
+          "firstWord": 1,
+          "secondWord": 6752,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6778,
+          "size": 8562,
+          "firstWord": 21,
+          "secondWord": 792,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 15340,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_33.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 11903,
+          "firstWord": 1,
+          "secondWord": 11899,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11925,
+          "size": 4200,
+          "firstWord": 15,
+          "secondWord": 443,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 16125,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_34.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8542,
+          "firstWord": 1,
+          "secondWord": 8538,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8564,
+          "size": 8715,
+          "firstWord": 27,
+          "secondWord": 421,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 17279,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_35.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8506,
+          "firstWord": 1,
+          "secondWord": 8502,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8528,
+          "size": 15275,
+          "firstWord": 29,
+          "secondWord": 3797,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 23803,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_36.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8807,
+          "firstWord": 1,
+          "secondWord": 8803,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8829,
+          "size": 10694,
+          "firstWord": 30,
+          "secondWord": 744,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 19523,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_37.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8669,
+          "firstWord": 1,
+          "secondWord": 8665,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8691,
+          "size": 13016,
+          "firstWord": 24,
+          "secondWord": 4059,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 21707,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_38.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8727,
+          "firstWord": 1,
+          "secondWord": 8723,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8749,
+          "size": 9783,
+          "firstWord": 25,
+          "secondWord": 219,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 18532,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_39.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8500,
+          "firstWord": 1,
+          "secondWord": 8496,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8522,
+          "size": 19347,
+          "firstWord": 37,
+          "secondWord": 2433,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 27869,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_40.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7833,
+          "firstWord": 1,
+          "secondWord": 7829,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7855,
+          "size": 12656,
+          "firstWord": 40,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 20511,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_41.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 9579,
+          "firstWord": 1,
+          "secondWord": 9575,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 9601,
+          "size": 19585,
+          "firstWord": 43,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 29186,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_42.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 10918,
+          "firstWord": 1,
+          "secondWord": 10914,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10940,
+          "size": 13630,
+          "firstWord": 41,
+          "secondWord": 1900,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 24570,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_43.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 11830,
+          "firstWord": 1,
+          "secondWord": 11826,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11852,
+          "size": 19455,
+          "firstWord": 42,
+          "secondWord": 847,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 31307,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_44.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 10864,
+          "firstWord": 1,
+          "secondWord": 10860,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10886,
+          "size": 12425,
+          "firstWord": 44,
+          "secondWord": 391,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 23311,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_45.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8799,
+          "firstWord": 1,
+          "secondWord": 8795,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8821,
+          "size": 19243,
+          "firstWord": 41,
+          "secondWord": 289,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 28064,
+          "size": 61,
+          "firstWord": 1,
+          "secondWord": 57,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_46.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 10174,
+          "firstWord": 1,
+          "secondWord": 10170,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 10196,
+          "size": 14779,
+          "firstWord": 30,
+          "secondWord": 1427,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 24975,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_47.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 13352,
+          "firstWord": 1,
+          "secondWord": 13348,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13374,
+          "size": 7014,
+          "firstWord": 24,
+          "secondWord": 579,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 20388,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_48.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7303,
+          "firstWord": 1,
+          "secondWord": 7299,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7325,
+          "size": 9467,
+          "firstWord": 31,
+          "secondWord": 2723,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 16792,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_49.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 13306,
+          "firstWord": 1,
+          "secondWord": 13302,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 13328,
+          "size": 15228,
+          "firstWord": 36,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 28556,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_50.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 11664,
+          "firstWord": 1,
+          "secondWord": 11660,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 11686,
+          "size": 12723,
+          "firstWord": 31,
+          "secondWord": 2019,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 24409,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_51.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8250,
+          "firstWord": 1,
+          "secondWord": 8246,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8272,
+          "size": 39096,
+          "firstWord": 41,
+          "secondWord": 1955,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 47368,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_52.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7217,
+          "firstWord": 1,
+          "secondWord": 7213,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7239,
+          "size": 21655,
+          "firstWord": 38,
+          "secondWord": 2168,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 28894,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_53.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7377,
+          "firstWord": 1,
+          "secondWord": 7373,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7399,
+          "size": 12552,
+          "firstWord": 36,
+          "secondWord": 187,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 19951,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_54.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6920,
+          "firstWord": 1,
+          "secondWord": 6916,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6942,
+          "size": 27314,
+          "firstWord": 37,
+          "secondWord": 79,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 34256,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_55.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 8363,
+          "firstWord": 1,
+          "secondWord": 8359,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 8385,
+          "size": 11524,
+          "firstWord": 35,
+          "secondWord": 1242,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 19909,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_56.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 6089,
+          "firstWord": 1,
+          "secondWord": 6085,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 6111,
+          "size": 9472,
+          "firstWord": 36,
+          "secondWord": 203,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 15583,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    },
+    {
+      "file": "runtime-game/S_57.eex",
+      "tableOffset": 10,
+      "segments": [
+        {
+          "offset": 22,
+          "size": 7927,
+          "firstWord": 1,
+          "secondWord": 7923,
+          "lengthDelimitedBlock": true
+        },
+        {
+          "offset": 7949,
+          "size": 16124,
+          "firstWord": 35,
+          "secondWord": 1591,
+          "lengthDelimitedBlock": false
+        },
+        {
+          "offset": 24073,
+          "size": 37,
+          "firstWord": 1,
+          "secondWord": 33,
+          "lengthDelimitedBlock": true
+        }
+      ]
+    }
+  ]
+}
