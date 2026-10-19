@@ -666,7 +666,9 @@ export class BattleScene extends Phaser.Scene {
   }
   private async runEnemyTurn(){
     for(const enemy of this.units.filter(unit=>unit.side==='enemy'&&unit.hp>0&&!unit.nativeHidden)){
-      let target=this.units.filter(unit=>unit.side==='player'&&unit.hp>0).sort((a,b)=>(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y)))[0];
+      const chooseTarget=()=>this.units.filter(unit=>unit.side==='player'&&unit.hp>0)
+        .sort((a,b)=>(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y))||a.id.localeCompare(b.id))[0];
+      let target=chooseTarget();
       if(!target)continue;
       const source=this.combatActor(enemy);
       const costs=movementCosts(this.map.width,this.map.height,this.map.terrain,this.movementActors(),source,itemCategories,terrainMovement,classMovement);
@@ -692,6 +694,12 @@ export class BattleScene extends Phaser.Scene {
             enemy.x+=dx;enemy.y+=dy;this.refreshUnitSprite(enemy);this.refreshMinimap();
           }}finally{this.presentationUnits.delete(enemy);this.refreshUnitSprite(enemy);}
         }
+      }
+      // Native turn flow resolves the target again after movement. Do not
+      // attack the pre-movement target when it is no longer in range.
+      target=chooseTarget();
+      if(!target||!inAttackRange(this.combatActor(enemy),this.combatActor(target),attackRange(this.combatActor(enemy),itemCategories,attackClasses),targetShapes.shapes)){
+        enemy.acted=true;enemy.actorFlags=(enemy.actorFlags??0)|6;this.refreshUnitSprite(enemy);continue;
       }
       const outcome=ordinaryExchange(this.combatActor(enemy),this.combatActor(target),this.battleRng,{items:itemCategories,classes:attackClasses,shapes:targetShapes.shapes});
       if(!outcome.supported)continue;
