@@ -29,6 +29,7 @@ import effectLearning from '../../data/mappings/effect-learning-runtime.json';
 import {allRuntimeEffects,effectById} from '../rules/effectCatalog';
 import {nativeButton} from '../ui/nativeButton';
 import {nearestNativeCandidate} from '../rules/aiCandidateFilter';
+import {nativeAiOrdinaryAttackScore} from '../rules/aiAttackScore';
 import treasureCatalog from '../../data/mappings/treasure-catalog.json';
 import rosterColumns from '../../data/mappings/roster-columns.json';
 import rosterFields from '../../data/mappings/slot08-roster-fields.json';
@@ -667,7 +668,16 @@ export class BattleScene extends Phaser.Scene {
   }
   private async runEnemyTurn(){
     for(const enemy of this.units.filter(unit=>unit.side==='enemy'&&unit.hp>0&&!unit.nativeHidden)){
-      const chooseTarget=()=>nearestNativeCandidate(enemy,this.units,this.map.width,this.map.height);
+      const chooseTarget=()=>{
+        const candidates=this.units.filter(unit=>unit.side==='player'&&unit.hp>0&&!unit.nativeHidden&&unit.x>=0&&unit.y>=0&&unit.x<this.map.width&&unit.y<this.map.height);
+        const attacker=this.combatActor(enemy);
+        return candidates.sort((a,b)=>{
+          const score=(target:Unit)=>nativeAiOrdinaryAttackScore({
+            currentHp:target.hp,maxHp:target.maxHp,predictedDamage:ordinaryDamage(attacker,this.combatActor(target),itemCategories),
+            attackerMode:0,targetFlags:target.statusFlags??0,targetIdentity:0,leaderMatch:false,covered:false,sameSide:false,candidateRisk:false});
+          return score(b)-score(a)||(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y))||a.id.localeCompare(b.id);
+        })[0] ?? nearestNativeCandidate(enemy,this.units,this.map.width,this.map.height);
+      };
       let target=chooseTarget();
       if(!target)continue;
       const source=this.combatActor(enemy);
