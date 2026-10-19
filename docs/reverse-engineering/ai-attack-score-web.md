@@ -12,3 +12,8 @@ Special-range multi-target scoring, full terrain/coverage map scoring and the
 complete AI turn remain separate paths. This helper therefore does not claim
 to replace the current turn selector until those inputs are wired from native
 scenario state.
+
+The enemy turn now uses this ordinary score for candidate ordering with the
+currently known inputs: predicted damage, current/max HP and target flags.
+Identity/leader and coverage values remain explicit at their controlled
+defaults until those fields are recovered from each scenario controller.
