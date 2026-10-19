@@ -1,0 +1,350 @@
+{
+  "S_00.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6380,
+    "source": "script-music-events.json"
+  },
+  "S_01.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6295,
+    "source": "script-music-events.json"
+  },
+  "S_02.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6146,
+    "source": "script-music-events.json"
+  },
+  "S_03.eex": {
+    "track": 6,
+    "asset": "/assets/audio/bgm/06-AudioTrack 06.mp3",
+    "offset": 6146,
+    "source": "script-music-events.json"
+  },
+  "S_04.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6088,
+    "source": "script-music-events.json"
+  },
+  "S_05.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6250,
+    "source": "script-music-events.json"
+  },
+  "S_06.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6172,
+    "source": "script-music-events.json"
+  },
+  "S_07.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6172,
+    "source": "script-music-events.json"
+  },
+  "S_08.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6172,
+    "source": "script-music-events.json"
+  },
+  "S_09.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6088,
+    "source": "script-music-events.json"
+  },
+  "S_10.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 7101,
+    "source": "script-music-events.json"
+  },
+  "S_11.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6206,
+    "source": "script-music-events.json"
+  },
+  "S_12.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6096,
+    "source": "script-music-events.json"
+  },
+  "S_13.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6634,
+    "source": "script-music-events.json"
+  },
+  "S_14.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6284,
+    "source": "script-music-events.json"
+  },
+  "S_15.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6206,
+    "source": "script-music-events.json"
+  },
+  "S_16.eex": {
+    "track": 4,
+    "asset": "/assets/audio/bgm/04-AudioTrack 04.mp3",
+    "offset": 6040,
+    "source": "script-music-events.json"
+  },
+  "S_17.eex": {
+    "track": 6,
+    "asset": "/assets/audio/bgm/06-AudioTrack 06.mp3",
+    "offset": 6092,
+    "source": "script-music-events.json"
+  },
+  "S_18.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6284,
+    "source": "script-music-events.json"
+  },
+  "S_19.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_20.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_21.eex": {
+    "track": 6,
+    "asset": "/assets/audio/bgm/06-AudioTrack 06.mp3",
+    "offset": 6206,
+    "source": "script-music-events.json"
+  },
+  "S_22.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6283,
+    "source": "script-music-events.json"
+  },
+  "S_23.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6335,
+    "source": "script-music-events.json"
+  },
+  "S_24.eex": {
+    "track": 4,
+    "asset": "/assets/audio/bgm/04-AudioTrack 04.mp3",
+    "offset": 6096,
+    "source": "script-music-events.json"
+  },
+  "S_25.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6284,
+    "source": "script-music-events.json"
+  },
+  "S_26.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6284,
+    "source": "script-music-events.json"
+  },
+  "S_27.eex": {
+    "track": 12,
+    "asset": "/assets/audio/bgm/12-AudioTrack 12.mp3",
+    "offset": 10956,
+    "source": "script-music-events.json"
+  },
+  "S_28.eex": {
+    "track": 12,
+    "asset": "/assets/audio/bgm/12-AudioTrack 12.mp3",
+    "offset": 10956,
+    "source": "script-music-events.json"
+  },
+  "S_29.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6206,
+    "source": "script-music-events.json"
+  },
+  "S_30.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6316,
+    "source": "script-music-events.json"
+  },
+  "S_31.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_32.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_33.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6180,
+    "source": "script-music-events.json"
+  },
+  "S_34.eex": {
+    "track": 4,
+    "asset": "/assets/audio/bgm/04-AudioTrack 04.mp3",
+    "offset": 6307,
+    "source": "script-music-events.json"
+  },
+  "S_35.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_36.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6206,
+    "source": "script-music-events.json"
+  },
+  "S_37.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6761,
+    "source": "script-music-events.json"
+  },
+  "S_38.eex": {
+    "track": 4,
+    "asset": "/assets/audio/bgm/04-AudioTrack 04.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_39.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_40.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_41.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6154,
+    "source": "script-music-events.json"
+  },
+  "S_42.eex": {
+    "track": 6,
+    "asset": "/assets/audio/bgm/06-AudioTrack 06.mp3",
+    "offset": 6332,
+    "source": "script-music-events.json"
+  },
+  "S_43.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_44.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_45.eex": {
+    "track": 11,
+    "asset": "/assets/audio/bgm/11-AudioTrack 11.mp3",
+    "offset": 6525,
+    "source": "script-music-events.json"
+  },
+  "S_46.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6258,
+    "source": "script-music-events.json"
+  },
+  "S_47.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6258,
+    "source": "script-music-events.json"
+  },
+  "S_48.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_49.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_50.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6232,
+    "source": "script-music-events.json"
+  },
+  "S_51.eex": {
+    "track": 7,
+    "asset": "/assets/audio/bgm/07-AudioTrack 07.mp3",
+    "offset": 6499,
+    "source": "script-music-events.json"
+  },
+  "S_52.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6695,
+    "source": "script-music-events.json"
+  },
+  "S_53.eex": {
+    "track": 3,
+    "asset": "/assets/audio/bgm/03-AudioTrack 03.mp3",
+    "offset": 6332,
+    "source": "script-music-events.json"
+  },
+  "S_54.eex": {
+    "track": 5,
+    "asset": "/assets/audio/bgm/05-AudioTrack 05.mp3",
+    "offset": 6096,
+    "source": "script-music-events.json"
+  },
+  "S_55.eex": {
+    "track": 8,
+    "asset": "/assets/audio/bgm/08-AudioTrack 08.mp3",
+    "offset": 6128,
+    "source": "script-music-events.json"
+  },
+  "S_56.eex": {
+    "track": 12,
+    "asset": "/assets/audio/bgm/12-AudioTrack 12.mp3",
+    "offset": 5112,
+    "source": "script-music-events.json"
+  },
+  "S_57.eex": {
+    "track": 11,
+    "asset": "/assets/audio/bgm/11-AudioTrack 11.mp3",
+    "offset": 6661,
+    "source": "script-music-events.json"
+  }
+}

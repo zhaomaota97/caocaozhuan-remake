@@ -46,6 +46,7 @@ import portraitBank from '../../public/assets/portraits/bank.json';
 import { portraitIndex, portraitRgba } from '../rules/portraitIndex';
 import { nativeCameraSteps, clampNativeCamera } from '../rules/nativeCamera';
 import {applyEexOpcode32,applyEexOpcode58,applyEexOpcode103,type NativeCommonState} from '../rules/nativeCommonState';
+import scenarioMusic from '../../data/mappings/scenario-music.json';
 
 export class BattleScene extends Phaser.Scene {
   private mapId=0;
@@ -139,6 +140,8 @@ export class BattleScene extends Phaser.Scene {
     for(let index=0;index<58;index++){
       const id=String(index).padStart(2,'0');
       this.load.image(`battle-${id}`,`/assets/maps/battle-${id}.png`);
+      const music=(scenarioMusic as Record<string,{asset:string}>)[`S_${id}.eex`];
+      if(music)this.load.audio(`scenario-bgm-${index}`,music.asset);
     }
     for(let index=0;index<4;index++){
       this.load.image(`cmd-${index}`,`/assets/ui/${String(index).padStart(4,'0')}.png`);
@@ -386,14 +389,10 @@ export class BattleScene extends Phaser.Scene {
   update(_time: number, delta: number){
     this.refreshMinimap();
     if(this.actionMode==='item'&&this.selected)this.showStrategyReach(0xc29b4b);
-    if(!this.bgmStarted && this.mapId===0){
+    if(!this.bgmStarted){
       this.bgmStarted=true;
-      if(!this.cache.audio.exists('saved-bgm')){
-        // S_00 native prefix selects track 8 for the initial battle segment.
-        this.load.audio('saved-bgm','/assets/audio/bgm/08-AudioTrack 08.mp3');
-        this.load.once('complete',()=>this.sound.add('saved-bgm',{loop:true}).play());
-        this.load.start();
-      }else this.sound.add('saved-bgm',{loop:true}).play();
+      const key=`scenario-bgm-${this.mapId}`;
+      if(this.cache.audio.exists(key))this.sound.add(key,{loop:true}).play();
     }
     this.phaseElapsed += delta;
     if(this.phaseElapsed < slot08.animationStepMs) return;
