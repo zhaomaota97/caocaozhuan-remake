@@ -25,6 +25,7 @@
         "agility": 40,
         "luck": 42
       },
+      "nativeMove": 6,
       "equipment": [
         [
           0,
@@ -70,6 +71,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -115,6 +117,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -160,6 +163,7 @@
         "agility": 46,
         "luck": 43
       },
+      "nativeMove": 6,
       "equipment": [
         [
           25,
@@ -205,6 +209,7 @@
         "agility": 58,
         "luck": 57
       },
+      "nativeMove": 6,
       "equipment": [
         [
           0,
@@ -250,6 +255,7 @@
         "agility": 42,
         "luck": 24
       },
+      "nativeMove": 4,
       "equipment": [
         [
           15,
@@ -295,6 +301,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -340,6 +347,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -385,6 +393,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -430,6 +439,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -475,6 +485,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -520,6 +531,7 @@
         "agility": 30,
         "luck": 35
       },
+      "nativeMove": 6,
       "equipment": [
         [
           6,
@@ -565,6 +577,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -610,6 +623,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -655,6 +669,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -700,6 +715,7 @@
         "agility": 30,
         "luck": 35
       },
+      "nativeMove": 6,
       "equipment": [
         [
           6,
@@ -745,6 +761,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -790,6 +807,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -835,6 +853,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -880,6 +899,7 @@
         "agility": 30,
         "luck": 35
       },
+      "nativeMove": 6,
       "equipment": [
         [
           6,
@@ -925,6 +945,7 @@
         "agility": 44,
         "luck": 40
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -970,6 +991,7 @@
         "agility": 30,
         "luck": 35
       },
+      "nativeMove": 6,
       "equipment": [
         [
           6,
@@ -1015,6 +1037,7 @@
         "agility": 35,
         "luck": 35
       },
+      "nativeMove": 4,
       "equipment": [
         [
           18,
@@ -1060,6 +1083,7 @@
         "agility": 35,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           18,

@@ -25,6 +25,7 @@
         "agility": 40,
         "luck": 42
       },
+      "nativeMove": 6,
       "equipment": [
         [
           0,
@@ -70,6 +71,7 @@
         "agility": 31,
         "luck": 48
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -115,6 +117,7 @@
         "agility": 29,
         "luck": 45
       },
+      "nativeMove": 6,
       "equipment": [
         [
           6,
@@ -160,6 +163,7 @@
         "agility": 41,
         "luck": 40
       },
+      "nativeMove": 6,
       "equipment": [
         [
           3,
@@ -205,6 +209,7 @@
         "agility": 58,
         "luck": 51
       },
+      "nativeMove": 4,
       "equipment": [
         [
           18,
@@ -250,6 +255,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -295,6 +301,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -340,6 +347,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -385,6 +393,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -430,6 +439,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -475,6 +485,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -520,6 +531,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -565,6 +577,7 @@
         "agility": 30,
         "luck": 40
       },
+      "nativeMove": 4,
       "equipment": [
         [
           6,
@@ -610,6 +623,7 @@
         "agility": 30,
         "luck": 40
       },
+      "nativeMove": 4,
       "equipment": [
         [
           6,
@@ -655,6 +669,7 @@
         "agility": 30,
         "luck": 40
       },
+      "nativeMove": 4,
       "equipment": [
         [
           6,
@@ -700,6 +715,7 @@
         "agility": 30,
         "luck": 40
       },
+      "nativeMove": 4,
       "equipment": [
         [
           6,
@@ -745,6 +761,7 @@
         "agility": 30,
         "luck": 40
       },
+      "nativeMove": 4,
       "equipment": [
         [
           6,
@@ -790,6 +807,7 @@
         "agility": 80,
         "luck": 41
       },
+      "nativeMove": 5,
       "equipment": [
         [
           9,
@@ -835,6 +853,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,
@@ -880,6 +899,7 @@
         "agility": 30,
         "luck": 30
       },
+      "nativeMove": 4,
       "equipment": [
         [
           0,

@@ -20,9 +20,9 @@ test('S_01 native unit dataset enters the battle scene',async({page})=>{
   const captured=JSON.parse(readFileSync('data/scenarios/native-units/S_01.json','utf8'));
   const movementStates=await page.evaluate(()=>{
     const scene=(window as any).battleGame.scene.getScene('default');
-    return scene.movementActors().map((actor:any)=>({slot:Number(actor.id.split('-slot-')[1]),tier:actor.movementTier}));
+    return scene.movementActors().map((actor:any)=>({slot:Number(actor.id.split('-slot-')[1]),tier:actor.movementTier,move:actor.move}));
   });
-  expect(movementStates).toEqual(captured.units.filter((unit:any)=>unit.hp>0).map((unit:any)=>({slot:unit.slot,tier:Buffer.from(unit.actorHex,'hex')[0x1d]})));
+  expect(movementStates).toEqual(captured.units.filter((unit:any)=>unit.hp>0).map((unit:any)=>({slot:unit.slot,tier:Buffer.from(unit.actorHex,'hex')[0x1d],move:unit.nativeMove})));
   const liveStats=await page.evaluate(()=>{
     const scene=(window as any).battleGame.scene.getScene('default');
     return scene.units.filter((unit:any)=>unit.hp>0&&!unit.nativeHidden).map((unit:any)=>{

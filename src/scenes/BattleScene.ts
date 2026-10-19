@@ -10,6 +10,7 @@ import { terrainCost } from '../rules/terrainCost';
 import itemCategories from '../../data/rules/item-categories.json';
 import terrainMovement from '../../data/rules/terrain-movement.json';
 import classMovement from '../../data/rules/class-movement.json';
+import {movementBudget} from '../rules/movementBudget';
 import {movementPath,movementFrames,directions} from '../rules/movementPath';
 import movementSounds from '../../data/mappings/movement-sounds.json';
 import attackClasses from '../../data/rules/class-attack-ranges.json';
@@ -613,7 +614,7 @@ export class BattleScene extends Phaser.Scene {
       equipmentSlots:[],move:unit.move,unitId:Number(unit.id.replace('s00-slot-',''))
     };
     const extra=rosterFields.find(row=>`unit-${row.slot}`===unit.id);
-    const stats=combatRuntime.actors.find(row=>`unit-${row.slot}`===unit.id);
+    const stats=this.combatActor(unit);
     const template=nativeUi.dialogs.find(row=>row.resourceId===166)!;
     const [width,height]=template.nativeWindowPixels!;
     const group=this.add.container((this.scale.width-width)/2,(this.scale.height-height)/2).setScrollFactor(0).setDepth(500).setData('dialogResource',166);
@@ -865,7 +866,9 @@ export class BattleScene extends Phaser.Scene {
     const record=this.mapId===0
       ?s00Units.units.find(row=>row.nativeBattleSlot===slot)?.controlledNativeExpansion
       :(scenarioUnits[this.mapId] as {units?:Array<{slot:number;level:number}>}|undefined)?.units?.find(row=>row.slot===slot);
-    return {...unit,classId,equipmentSlots:unit.nativeEquipment??[],terrainCosts:unit.nativeMovementCosts??[],move:unit.move,attack:20,defense:10,movementTier:movementState?.movementTier??1,nativeLevel:record?.level??1,mp:unit.mp??0,actorFlags:unit.actorFlags??0,statusFlags:unit.statusFlags??0};
+    const actor={...unit,classId,equipmentSlots:unit.nativeEquipment??[],terrainCosts:unit.nativeMovementCosts??[],move:unit.move,attack:20,defense:10,movementTier:movementState?.movementTier??1,nativeLevel:record?.level??1,mp:unit.mp??0,actorFlags:unit.actorFlags??0,statusFlags:unit.statusFlags??0};
+    actor.move=movementBudget(actor,itemCategories,classMovement);
+    return actor;
   });}
   private combatActor(unit:Unit){
     const source=this.movementActors().find(actor=>actor.id===unit.id);

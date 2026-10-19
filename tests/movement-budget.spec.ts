@@ -10,6 +10,24 @@ test('movement budget matches every actual saved-actor native value',()=>{
   for(const actor of save.actors)expect(movementBudget(actor,items,classes),actor.id).toBe(actor.move);
 });
 
+test('movement budgets match native getters across all 58 scenario expansions',()=>{
+  const items=JSON.parse(readFileSync('data/rules/item-categories.json','utf8'));
+  const classes=JSON.parse(readFileSync('data/rules/class-movement.json','utf8'));
+  const failures=[];
+  let compared=0;
+  for(let id=0;id<58;id++){
+    const source=JSON.parse(readFileSync(`data/scenarios/native-units/S_${String(id).padStart(2,'0')}.json`,'utf8'));
+    for(const unit of source.units){
+      const bytes=Buffer.from(unit.actorHex,'hex');
+      const actual=movementBudget({classId:unit.classId,statusFlags:bytes[0x1e],movementTier:bytes[0x1d],equipmentSlots:unit.equipment.map((row:number[])=>({itemId:row[0]}))},items,classes);
+      if(actual!==unit.nativeMove)failures.push({id,slot:unit.slot,actual,expected:unit.nativeMove});
+      compared++;
+    }
+  }
+  expect(compared).toBeGreaterThan(2000);
+  expect(failures).toEqual([]);
+});
+
 test('equipment slots and byte overflow match original native probes',()=>{
   const fixture=JSON.parse(readFileSync('tests/fixtures/native-movement-budget-equipment.json','utf8'));
   const originalItems=JSON.parse(readFileSync('data/rules/item-categories.json','utf8'));
