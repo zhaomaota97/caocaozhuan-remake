@@ -861,10 +861,11 @@ export class BattleScene extends Phaser.Scene {
     if(native)return {...native,...unit};
     const classId=unit.nativeClassId??0;
     const slot=Number(unit.id.match(/-slot-(\d+)$/)?.[1]);
+    const movementState=(scenarioCombat as Record<string,Array<{slot:number;movementTier:number}>>)[String(this.mapId)]?.find(row=>row.slot===slot);
     const record=this.mapId===0
       ?s00Units.units.find(row=>row.nativeBattleSlot===slot)?.controlledNativeExpansion
       :(scenarioUnits[this.mapId] as {units?:Array<{slot:number;level:number}>}|undefined)?.units?.find(row=>row.slot===slot);
-    return {...unit,classId,equipmentSlots:unit.nativeEquipment??[],terrainCosts:unit.nativeMovementCosts??[],move:unit.move,attack:20,defense:10,movementTier:1,nativeLevel:record?.level??1,mp:unit.mp??0,actorFlags:unit.actorFlags??0,statusFlags:unit.statusFlags??0};
+    return {...unit,classId,equipmentSlots:unit.nativeEquipment??[],terrainCosts:unit.nativeMovementCosts??[],move:unit.move,attack:20,defense:10,movementTier:movementState?.movementTier??1,nativeLevel:record?.level??1,mp:unit.mp??0,actorFlags:unit.actorFlags??0,statusFlags:unit.statusFlags??0};
   });}
   private combatActor(unit:Unit){
     const source=this.movementActors().find(actor=>actor.id===unit.id);

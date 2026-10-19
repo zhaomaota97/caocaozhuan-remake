@@ -13,5 +13,10 @@ test('four-direction search matches all original slot 8 cost maps',()=>{
     expect(stops,`${actor.id}: native restriction predicate`).toEqual(actor.nativeStopExpansion);
     const actual=movementCosts(save.width,save.height,save.terrain,save.actors,{...actor,move:-999},items,table,classes);
     expect(actual,actor.id).toEqual(actor.nativeMovementCosts);
+    const scenarioActors=save.actors.map((row:any)=>({...row,id:`s00-slot-${row.id.slice(5)}`}));
+    const scenarioActor=scenarioActors.find((row:any)=>row.id===`s00-slot-${actor.id.slice(5)}`);
+    const scenarioStops=Array.from({length:save.width*save.height},(_,index)=>stopsExpansion(save.width,save.height,scenarioActors,scenarioActor,index,items));
+    expect(scenarioStops,`${scenarioActor.id}: native restriction predicate`).toEqual(actor.nativeStopExpansion);
+    expect(movementCosts(save.width,save.height,save.terrain,scenarioActors,scenarioActor,items,table,classes),scenarioActor.id).toEqual(actor.nativeMovementCosts);
   }
 });

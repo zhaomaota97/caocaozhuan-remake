@@ -10,16 +10,22 @@ export interface MovementActor extends BudgetActor {
   equipmentSlots: EquipmentSlot[];
 }
 
+function nativeSlot(actor:MovementActor):number{
+  const match=actor.id.match(/^(?:unit-|s\d+-slot-)(\d+)$/);
+  if(!match)throw new Error(`Unknown native battle slot: ${actor.id}`);
+  return Number(match[1]);
+}
+
 /** Native 0x437D59: category 0x21 bypasses the four-neighbor hostile adjacency check. */
 export function stopsExpansion(width:number,height:number,actors:MovementActor[],actor:MovementActor,index:number,items:ItemCategory[]):boolean{
   if(hasEquipmentCategory(actor.equipmentSlots,items,0x21))return false;
   const x=index%width,y=Math.floor(index/width);
-  const friendly=Number(actor.id.slice(5))<35;
+  const friendly=nativeSlot(actor)<35;
   for(const [dx,dy] of [[0,-1],[1,0],[0,1],[-1,0]]){
     const nx=x+dx,ny=y+dy;
     if(nx<0||ny<0||nx>=width||ny>=height)continue;
     const occupant=actors.find(unit=>unit.x===nx&&unit.y===ny);
-    if(occupant && (Number(occupant.id.slice(5))<35)!==friendly)return true;
+    if(occupant && (nativeSlot(occupant)<35)!==friendly)return true;
   }
   return false;
 }
@@ -31,7 +37,7 @@ export function movementCosts(width: number, height: number, terrain: number[], 
   const start=actor.y*width+actor.x;
   costs[start]=0;
   if(terrainCost(actor.classId,actor.equipmentSlots,terrain[start],items,table)===255)return costs;
-  const friendly=(unit:MovementActor)=>Number(unit.id.slice(5))<35;
+  const friendly=(unit:MovementActor)=>nativeSlot(unit)<35;
   const occupied=new Map(actors.map(unit=>[unit.y*width+unit.x,unit]));
   let wave=0;
   while(wave<budget){
