@@ -793,7 +793,10 @@ export class BattleScene extends Phaser.Scene {
       const items=(itemCategories as Array<{id:number;name?:string;categoryByte:number}>).filter(item=>item.categoryByte>=63&&item.categoryByte<=76).map(item=>({itemId:item.id,name:item.name}));
       if(!items.length){this.showActionNotice('没有已验证消耗品定义');this.closeUtilityMenu();return;}
       items.forEach((item,index)=>nativeButton(this,menu,[8,30+index*28,284,24],item.name??`道具 ${item.itemId}`,item.itemId,()=>{
-        this.selectedItemId=item.itemId;this.closeUtilityMenu();for(const cell of this.cells.values())cell.setFillStyle(0xc29b4b,0.25);this.showActionNotice(`选择${item.name??`道具 ${item.itemId}`}的目标`);
+        this.selectedItemId=item.itemId;this.closeUtilityMenu();this.clearReach();
+        // Native item target geometry comes from the item's controller record;
+        // no complete Web mapping exists yet, so never paint a guessed full map.
+        this.showActionNotice(`选择${item.name??`道具 ${item.itemId}`}的目标`);
       }));
     }
   }
