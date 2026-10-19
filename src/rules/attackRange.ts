@@ -16,8 +16,9 @@ export function attackRange(actor:RangeActor,items:MovementItem[],classes:{id:nu
   return range;
 }
 
-export function inAttackRange(actor:RangeActor,target:{x:number;y:number},range:number,shapes:RangeShape[]):boolean{
+export function inAttackRange(actor:RangeActor,target:{x:number;y:number},range:number,shapes:RangeShape[],flags=0):boolean{
   if(range===255)return false;
+  if((flags&1)!==0&&actor.x===target.x&&actor.y===target.y)return true;
   const shape=shapes.find(row=>row.id===(range&127));
   return Boolean(shape&&(shape.fullMap||shape.offsets.some(([dx,dy])=>actor.x+dx===target.x&&actor.y+dy===target.y)));
 }
