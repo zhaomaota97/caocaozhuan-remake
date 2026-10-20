@@ -31,6 +31,7 @@ import {buildNativePaletteLookup} from '../rules/nativePaletteLookup';
 import {nativeActorStatusIcon} from '../rules/actorStatusIcon';
 import statusIconArt from '../../data/mappings/status-icon-art.json';
 import scenePalettes from '../../data/mappings/scene-palettes.json';
+import terrainMasks from '../../data/mappings/unit-terrain-masks.json';
 import scenarioCombat from '../../data/mappings/scenario-combat-runtime.json';
 import nativeEquipmentAttributes from '../../data/rules/native-equipment-attributes.json';
 import {nativeBattleAttributes} from '../rules/battleAttributes';
@@ -504,12 +505,15 @@ export class BattleScene extends Phaser.Scene {
     const profile=(actedMovementArt.scenes as Record<string,number>)[String(this.mapId)];
     const dark=nativeActorIsDarkened(flags,unit.hp);
     let key=dark?`mov-acted-${profile}-${unit.art??0}`:`mov-${String(unit.art??0).padStart(3,'0')}`;
-    if(nativeActorStatusColorActive(unit.statusFlags??0,this.phase))key=this.statusMovementTexture(unit.art??0,dark)??key;
+    const status=nativeActorStatusColorActive(unit.statusFlags??0,this.phase);
+    const terrain=this.map.terrain[unit.y*this.map.width+unit.x];
+    const masked=!this.presentationUnits.has(unit)&&terrainMasks.rows.some(row=>row.size===48&&row.terrain===terrain);
+    if(status||masked)key=this.statusMovementTexture(unit.art??0,dark,status,masked?terrain:undefined,Boolean(unit.mirror))??key;
     if(sprite.texture.key!==key&&this.textures.exists(key))sprite.setTexture(key,sprite.frame.name);
     sprite.clearTint();
   }
-  private statusMovementTexture(art:number,dark:boolean):string|undefined{
-    const key=`mov-status-${this.mapId}-${art}-${Number(dark)}`;
+  private statusMovementTexture(art:number,dark:boolean,status=true,terrain?:number,mirror=false):string|undefined{
+    const key=`mov-status-${this.mapId}-${art}-${Number(status)}-${terrain??-1}-${Number(mirror)}-${Number(dark)}`;
     if(this.textures.exists(key))return key;
     const source=this.cache.binary.get(`mov-index-${art}`) as ArrayBuffer|undefined;
     const palette=(scenePalettes.scenes as Record<string,number[]>)[String(this.mapId)];
@@ -517,12 +521,17 @@ export class BattleScene extends Phaser.Scene {
     const indices=new Uint8Array(source);
     if(indices.length!==11*48*48)return undefined;
     const lookup=this.paletteLookup??=[...buildNativePaletteLookup(palette)];
+    const mask=terrainMasks.rows.find(row=>row.size===48&&row.terrain===terrain);
     const canvas=document.createElement('canvas');canvas.width=528;canvas.height=48;
     const context=canvas.getContext('2d')!;const image=context.createImageData(528,48);
     for(let frame=0;frame<11;frame++)for(let y=0;y<48;y++)for(let x=0;x<48;x++){
       let index=indices[frame*2304+y*48+x];
       if(dark)index=nativeDarkenedPixel(index,4,palette,lookup);
-      index=nativeActorStatusPixel(index,palette,lookup);
+      if(status)index=nativeActorStatusPixel(index,palette,lookup);
+      // The sprite mirrors selected frame banks; keep clipping fixed in world
+      // coordinates by reversing its sample only for those mirrored frames.
+      const maskX=mirror&&[4,5,8].includes(frame)?47-x:x;
+      if(mask?.blocked[y*48+maskX])index=0;
       if(index===0)continue;
       const offset=(y*528+frame*48+x)*4;
       image.data[offset]=palette[index*3+1]*16;image.data[offset+1]=palette[index*3+2]*16;image.data[offset+2]=palette[index*3]*16;image.data[offset+3]=255;

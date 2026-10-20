@@ -6,6 +6,7 @@ test('native status phase switches cached textures and composes with acted appea
     const scene=(window as any).battleGame.scene.getScene('default');
     const unit=scene.units.find((row:any)=>row.hp>0&&!row.nativeHidden);
     const sprite=scene.unitSprites.find((row:any)=>row.unit===unit).sprite;
+    scene.map.terrain[unit.y*scene.map.width+unit.x]=0;
     unit.statusFlags=16;unit.acted=false;unit.actorFlags=0;scene.phase=2;scene.refreshUnitSprite(unit);
     const status=sprite.texture.key;
     const canvas=sprite.texture.getSourceImage() as HTMLCanvasElement;

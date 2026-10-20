@@ -30,3 +30,17 @@ and helper. This supersedes the static-only mapping limitation above for
 these branches, not actual actor-coordinate queries or special terrain13.
 Reproduce: `python tools/verify_unit_terrain_draw_native.py`.
 Evidence: `native-unit-terrain-draw.json`.
+
+Live idle movement-sheet rendering now clips the recovered 48px mask types
+after darkening/status coloring, using terrain at the actor's current tile.
+Canvas textures are cached by art, scene, color state, terrain and mirror
+setting. Frame banks mirrored by Web sprites sample the mask in reverse so
+the final clipping remains fixed in world coordinates, rather than reflecting
+the terrain mask with the actor. Browser tests compare entire decoded sheets
+for ordinary and mirrored actors against original indexed pixels/mask bytes.
+The mirrored-bank composition follows the separate established frame-mirror
+rule; native full mirrored render captures remain a further validation step.
+
+This supersedes the lack of idle Web integration above. Movement presentation,
+64px attack rendering and special terrain13 compositing remain incomplete.
+Status icons are drawn after the actor and are not cropped by the tile mask.
