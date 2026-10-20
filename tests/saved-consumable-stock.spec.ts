@@ -14,3 +14,20 @@ test('ten native saved inventory exports preserve all 170 stock bytes',()=>{
     for(let id=87;id<=103;id++)expect(nativeConsumableCount(row.stock,id)).toBe(raw[evidence.stockFileOffset+id-87]);
   }
 });
+
+test('slot08 item menu lists actual nonzero native stock only',async({page})=>{
+  const evidence=JSON.parse(readFileSync('data/saves/consumable-stock.json','utf8'));
+  const stock=evidence.rows.find((row:any)=>row.slot===8).stock;
+  await page.goto('http://127.0.0.1:5173/');
+  await page.waitForFunction(()=>(window as any).battleGame?.scene.getScene('default')?.statusText?.active);
+  await page.evaluate(()=>{(window as any).battleGame.scene.getScene('default').scene.restart({mapId:31});});
+  await page.waitForFunction(()=>(window as any).battleGame.scene.getScene('default').units[0]?.id?.startsWith('unit-'));
+  const actual=await page.evaluate(()=>{
+    const scene=(window as any).battleGame.scene.getScene('default');
+    scene.selected=scene.units.find((unit:any)=>unit.side==='player'&&unit.hp>0);
+    scene.beginUtilitySelection('item');
+    return {stock:scene.consumableStock,ids:scene.utilityMenu.list.filter((row:any)=>row.type==='Text'&&row.getData('controlId')!==undefined).map((row:any)=>row.getData('controlId'))};
+  });
+  expect(actual.stock).toEqual(stock);
+  expect(actual.ids).toEqual(stock.flatMap((count:number,index:number)=>count>0?[87+index]:[]));
+});

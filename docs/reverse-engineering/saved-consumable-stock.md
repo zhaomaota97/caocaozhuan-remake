@@ -18,3 +18,12 @@ stock is supplied for missing campaign state. Save writing remains deferred.
 Reproduce in the reverse workspace:
 `python tools/export_saved_consumable_stock.py`. The process stays suspended,
 with no native game UI or sound.
+
+The map31/slot08 Web fixture now initializes its own in-memory consumable
+stock from this native export. The item menu lists only IDs 87..103 with
+nonzero actual stock, and target previews reject unavailable stock. Browser
+coverage checks every menu ID and all 17 stored counts. Scene restart resets
+the fixture stock. Other scenarios no longer receive the full item catalog
+as invented available inventory; their campaign stock initialization is still
+missing. Actual item result/presentation and successful stock decrement are
+not yet connected to the live preview, so this is not complete item use.

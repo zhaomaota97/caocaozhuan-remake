@@ -1,6 +1,8 @@
 import Phaser from 'phaser';
 import type { BattleMap, Unit } from '../model/battle';
 import slot08 from '../../data/saves/slot-08.json';
+import savedConsumableStock from '../../data/saves/consumable-stock.json';
+import {nativeConsumableCount} from '../rules/consumableInventory';
 import { loadUnits, saveUnits,loadRngState,setRngState } from '../save/localSave';
 import { idleFrame } from '../rules/idleFrame';
 import toolbar from '../../data/mappings/battle-toolbar.json';
@@ -60,6 +62,7 @@ export class BattleScene extends Phaser.Scene {
   private moving=false;
   private presentationUnits=new Set<Unit>();
   private bgmStarted=false;
+  private consumableStock?:number[];
   private unitSprites: Array<{unit: Unit; sprite: Phaser.GameObjects.Sprite; hpBack: Phaser.GameObjects.Rectangle; hpFill: Phaser.GameObjects.Rectangle}> = [];
   private phase = slot08.animationPhase;
   private phaseElapsed = 0;
@@ -93,6 +96,7 @@ export class BattleScene extends Phaser.Scene {
     this.sound.get('saved-bgm')?.destroy();
     this.input.mouse?.disableContextMenu();
     this.bgmStarted=false;
+    this.consumableStock=undefined;
     this.animating=false;this.moving=false;
     this.selected=undefined;
     this.cells.clear();
@@ -835,7 +839,9 @@ export class BattleScene extends Phaser.Scene {
         this.selectedEffectId=effect.id;this.closeUtilityMenu();this.showStrategyReach();this.showActionNotice(`选择${effect.name}的目标`);
       }));
     }else{
-      const items=(itemCategories as Array<{id:number;name?:string;categoryByte:number}>).filter(item=>item.categoryByte>=63&&item.categoryByte<=76).map(item=>({itemId:item.id,name:item.name}));
+      if(!this.consumableStock&&this.mapId===31)this.consumableStock=savedConsumableStock.rows.find(row=>row.slot===8)?.stock.slice();
+      if(!this.consumableStock){this.closeUtilityMenu();this.clearReach();this.showActionNotice('该关卡的原生库存尚未接入');return;}
+      const items=(itemCategories as Array<{id:number;name?:string;categoryByte:number}>).filter(item=>item.id>=87&&item.id<=103&&item.categoryByte>=63&&item.categoryByte<=76&&nativeConsumableCount(this.consumableStock!,item.id)>0).map(item=>({itemId:item.id,name:item.name}));
       if(!items.length){this.showActionNotice('没有已验证消耗品定义');this.closeUtilityMenu();return;}
       items.forEach((item,index)=>nativeButton(this,menu,[8,30+index*28,284,24],item.name??`道具 ${item.itemId}`,item.itemId,()=>{
         this.selectedItemId=item.itemId;this.closeUtilityMenu();this.clearReach();
@@ -892,6 +898,7 @@ export class BattleScene extends Phaser.Scene {
   }
   private previewVerifiedItem(target:Unit){
     if(!this.selected||target.hp<=0||target.nativeHidden||target.side!==this.selected.side)return;
+    if(!this.consumableStock||this.selectedItemId===undefined||nativeConsumableCount(this.consumableStock,this.selectedItemId)===0)return;
     if(!inAttackRange(this.combatActor(this.selected),target,1,targetShapes.shapes,1))return;
     const rule=(itemCategories as Array<{id:number;name?:string;categoryByte?:number;baseValue?:number;secondaryValue?:number}>).find(row=>row.id===this.selectedItemId);
     if(!rule){this.showActionNotice(`No verified item mapping for ${target.name}`);return;}

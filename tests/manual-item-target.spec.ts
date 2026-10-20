@@ -8,6 +8,7 @@ test('manual item preview uses native adjacent-plus-origin range and allied targ
   const result=await page.evaluate(()=>{
     const scene=(window as any).battleGame.scene.getScene('default');
     const actor=scene.units.find((unit:any)=>unit.side==='player'&&unit.hp>0);
+    scene.consumableStock=Array(17).fill(0);scene.consumableStock[0]=1;
     actor.x=5;actor.y=5;actor.nativeHidden=false;
     scene.selected=actor;scene.actionMode='item';scene.selectedItemId=87;scene.showStrategyReach();
     const count=[...scene.cells.values()].filter((cell:any)=>cell.fillAlpha===0.35).length;
