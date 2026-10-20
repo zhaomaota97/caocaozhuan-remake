@@ -1332,6 +1332,11 @@
       "sha256": "d7911b0c9494a3a5706f178ea635526f6f03c02ccd655176bfb8fe1f5ea6df10"
     },
     {
+      "name": "verify_stat_fruit_controller_native.py",
+      "bytes": 2988,
+      "sha256": "4512e60f7e19fb64b24e96773311154bc1b255a0c874139e77dd0bc71529c999"
+    },
+    {
       "name": "verify_status_effects_native.py",
       "bytes": 3126,
       "sha256": "28ca79b2d0155a1d5fa3421868a0ff59d093ee1e6a739dc8272a04d87c24db28"
