@@ -1,0 +1,208 @@
+{
+  "total": 15,
+  "passed": 15,
+  "rows": [
+    {
+      "phase": 0,
+      "elapsed": 1,
+      "frames": [],
+      "finalPhase": 0,
+      "deadline": 1008,
+      "match": true
+    },
+    {
+      "phase": 0,
+      "elapsed": 8,
+      "frames": [],
+      "finalPhase": 0,
+      "deadline": 1008,
+      "match": true
+    },
+    {
+      "phase": 0,
+      "elapsed": 9,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 1
+        }
+      ],
+      "finalPhase": 1,
+      "deadline": 1016,
+      "match": true
+    },
+    {
+      "phase": 0,
+      "elapsed": 17,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 1
+        },
+        {
+          "tick": 1016,
+          "phase": 2
+        }
+      ],
+      "finalPhase": 2,
+      "deadline": 1024,
+      "match": true
+    },
+    {
+      "phase": 0,
+      "elapsed": 25,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 1
+        },
+        {
+          "tick": 1016,
+          "phase": 2
+        },
+        {
+          "tick": 1024,
+          "phase": 3
+        }
+      ],
+      "finalPhase": 3,
+      "deadline": 1032,
+      "match": true
+    },
+    {
+      "phase": 7,
+      "elapsed": 1,
+      "frames": [],
+      "finalPhase": 7,
+      "deadline": 1008,
+      "match": true
+    },
+    {
+      "phase": 7,
+      "elapsed": 8,
+      "frames": [],
+      "finalPhase": 7,
+      "deadline": 1008,
+      "match": true
+    },
+    {
+      "phase": 7,
+      "elapsed": 9,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 0
+        }
+      ],
+      "finalPhase": 0,
+      "deadline": 1016,
+      "match": true
+    },
+    {
+      "phase": 7,
+      "elapsed": 17,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 0
+        },
+        {
+          "tick": 1016,
+          "phase": 1
+        }
+      ],
+      "finalPhase": 1,
+      "deadline": 1024,
+      "match": true
+    },
+    {
+      "phase": 7,
+      "elapsed": 25,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 0
+        },
+        {
+          "tick": 1016,
+          "phase": 1
+        },
+        {
+          "tick": 1024,
+          "phase": 2
+        }
+      ],
+      "finalPhase": 2,
+      "deadline": 1032,
+      "match": true
+    },
+    {
+      "phase": 255,
+      "elapsed": 1,
+      "frames": [],
+      "finalPhase": 255,
+      "deadline": 1008,
+      "match": true
+    },
+    {
+      "phase": 255,
+      "elapsed": 8,
+      "frames": [],
+      "finalPhase": 255,
+      "deadline": 1008,
+      "match": true
+    },
+    {
+      "phase": 255,
+      "elapsed": 9,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 0
+        }
+      ],
+      "finalPhase": 0,
+      "deadline": 1016,
+      "match": true
+    },
+    {
+      "phase": 255,
+      "elapsed": 17,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 0
+        },
+        {
+          "tick": 1016,
+          "phase": 1
+        }
+      ],
+      "finalPhase": 1,
+      "deadline": 1024,
+      "match": true
+    },
+    {
+      "phase": 255,
+      "elapsed": 25,
+      "frames": [
+        {
+          "tick": 1008,
+          "phase": 0
+        },
+        {
+          "tick": 1016,
+          "phase": 1
+        },
+        {
+          "tick": 1024,
+          "phase": 2
+        }
+      ],
+      "finalPhase": 2,
+      "deadline": 1032,
+      "match": true
+    }
+  ],
+  "scope": "original 0x455CB2 idle loop and timer/phase helpers; deterministic clock/input, rendering callbacks suppressed; no full gameplay timing capture"
+}

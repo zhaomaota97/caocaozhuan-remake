@@ -5,6 +5,7 @@ import savedConsumableStock from '../../data/saves/consumable-stock.json';
 import {nativeConsumableCount} from '../rules/consumableInventory';
 import { loadUnits, saveUnits,loadRngState,setRngState } from '../save/localSave';
 import { idleFrame } from '../rules/idleFrame';
+import {nextNativeIdlePhase,NATIVE_IDLE_WAIT_MS} from '../rules/nativeIdlePhase';
 import toolbar from '../../data/mappings/battle-toolbar.json';
 import minimapUnits from '../../data/mappings/minimap-31-units.json';
 import { movementCosts } from '../rules/movementCosts';
@@ -422,9 +423,9 @@ export class BattleScene extends Phaser.Scene {
       if(this.cache.audio.exists(key))this.sound.add(key,{loop:true}).play();
     }
     this.phaseElapsed += delta;
-    if(this.phaseElapsed < slot08.animationStepMs) return;
-    this.phaseElapsed %= slot08.animationStepMs;
-    this.phase = (this.phase + 1) & 7;
+    if(this.phaseElapsed < NATIVE_IDLE_WAIT_MS) return;
+    this.phaseElapsed %= NATIVE_IDLE_WAIT_MS;
+    this.phase = nextNativeIdlePhase(this.phase);
     for(const {unit,sprite} of this.unitSprites){
       if(this.presentationUnits.has(unit)||(this.animating&&unit===this.selected))continue;
       const frame=this.unitIdleFrame(unit);
