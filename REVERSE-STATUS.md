@@ -14,7 +14,8 @@ its use.
 - Native terrain index: `data/scenarios/native-terrain-index.json`.
 - Readable reverse evidence: `docs/reverse-engineering/`.
 - Resource integrity: `npm run manifest:resources` produces SHA-256 hashes for
-  2,772 migrated assets.
+  11,185 migrated assets, including indexed acted-animation variants and
+  original MARK status icons.
 - Source migration integrity: `npm run verify:source-migration` compares every
   native `.e5`, `.e5s`, `.eex`, WAV and data file in the original directory by
   SHA-256 against `public/assets/native-extracted/`.
@@ -61,6 +62,14 @@ its use.
   callbacks and the battle-scene invocation remain unimplemented.
 
 ## Known fidelity boundaries
+
+Recent rendering integration now uses native indexed actor darkening,
+phase-dependent status-bit-16 coloring, original MARK status icons and
+ordinary idle terrain clipping. Separate native matrices and browser pixel
+checks are linked in the corresponding reports. These do not prove complete
+movement/attack compositing, special terrain13 rendering, real-time palette
+transitions or the complete original UI. All new render checks are available
+through `npm run test:render-rules` and included in `verify:all`.
 
 Where native evidence is absent, the port leaves behavior data-driven or
 explicitly deferred. It does not replace missing native semantics with custom

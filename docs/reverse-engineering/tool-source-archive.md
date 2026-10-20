@@ -1,6 +1,6 @@
 # Reverse tool source archive
 
-All 279 regular source files from the reverse workspace tools directory are
+All 297 regular source files from the reverse workspace tools directory are
 archived verbatim under `tool-sources/`. Their filenames, lengths and SHA-256
 hashes are in `TOOL-SOURCES-MANIFEST.json`. No interpreter caches or nested
 runtime directories are copied. The archive includes extraction, EEX decoding,

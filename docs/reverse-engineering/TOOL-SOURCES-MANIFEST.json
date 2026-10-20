@@ -37,6 +37,16 @@
       "sha256": "0dbfd709981ac5dd44eeec9909e4f048f62906dfd90c3204daa3072f4d5d61fa"
     },
     {
+      "name": "audit_item_palette_coverage.py",
+      "bytes": 1562,
+      "sha256": "d6f06e3a1cfc77d8ecdde9697d2f1ccbace070d736d3fde2d0e6a77321da1dc4"
+    },
+    {
+      "name": "audit_item_scene_colors.py",
+      "bytes": 1851,
+      "sha256": "c3a57420b0eb30fd99042dd8f513a8e0a358cb763d4e676aa6bc126eb46997a3"
+    },
+    {
       "name": "audit_live_data_entries.py",
       "bytes": 694,
       "sha256": "fe2688b709195a26b905a7bfa00caf8265f69cceeab9a5c022e4bf65b8aad7ef"
@@ -45,6 +55,11 @@
       "name": "audit_reverse_coverage.py",
       "bytes": 3700,
       "sha256": "dcd1c1ca5bfc119348c639730bf6db0f35d475c5aeba26b4bfb7f96426c0359b"
+    },
+    {
+      "name": "audit_unit_scene_colors.py",
+      "bytes": 2331,
+      "sha256": "01d8eae279f6d74b3626b9b3123ba2f8d92b2eb439e6eea310b44f8ef4975359"
     },
     {
       "name": "build_attack_stage_graph.py",
@@ -75,6 +90,26 @@
       "name": "build_verification_manifest.py",
       "bytes": 15194,
       "sha256": "0b75220201a8d874ce1c236460f3ed59937df7e8f93dead3a891b2a952f8d93c"
+    },
+    {
+      "name": "capture_acted_darkening_native.py",
+      "bytes": 1803,
+      "sha256": "4062f651023fbc0f93cd59771a3d0f27db1c080b8409c9a904884a44f952b321"
+    },
+    {
+      "name": "capture_actor_status_color_native.py",
+      "bytes": 2006,
+      "sha256": "d58f26a08f2eed562a71dec719848710a347f90f01f8796ec34dc06769207319"
+    },
+    {
+      "name": "capture_actor_status_icons_native.py",
+      "bytes": 2793,
+      "sha256": "9bf0a5a3bf424211a10a2685f444a01f8c7fcae19ba030778bc319f66da8fc47"
+    },
+    {
+      "name": "capture_item_blend_native.py",
+      "bytes": 1938,
+      "sha256": "40cc43e2d93547c3db86d30e1be53df3463ddf930c07224057493bd9991b6339"
     },
     {
       "name": "capture_s00_expanded_units_native.py",
@@ -172,6 +207,11 @@
       "sha256": "89472c10d8bf2433bf948f0a15dff034c76a717aa8e62a38157bed6fdc089ca8"
     },
     {
+      "name": "export_acted_movement_art.py",
+      "bytes": 2395,
+      "sha256": "4bfc9af170071a26342f68a0a7d7f192ce7d9b641eaa807e8c6c13034b8910c3"
+    },
+    {
       "name": "export_all_level_prefixes_native.py",
       "bytes": 6922,
       "sha256": "8035e783dbc9a04f388a4c436b84021d121b0fe270a4349a081dcf7448e524df"
@@ -185,6 +225,11 @@
       "name": "export_battle_actor_grid.py",
       "bytes": 603,
       "sha256": "ac6e8373d0ae479ec5888d3a445025c9f892f985cb1afce2eb06dd376023e1b1"
+    },
+    {
+      "name": "export_battle_item_art.py",
+      "bytes": 1693,
+      "sha256": "c5c361f1d76483f7517f6cc011125e937494efbd8288edc20a5ddf867defa08d"
     },
     {
       "name": "export_character_table.py",
@@ -405,6 +450,11 @@
       "name": "export_slot08_native_health.py",
       "bytes": 8249,
       "sha256": "dfc270cbe7b66dbec78e0e02f6cac197915249736db867d094f75e526f3b16b1"
+    },
+    {
+      "name": "export_status_icon_art.py",
+      "bytes": 1672,
+      "sha256": "9699bd4d0ca699303a9a22a7852e7f0de80ea38e61e3522190028870741850a4"
     },
     {
       "name": "export_story_readable.py",
@@ -747,6 +797,11 @@
       "sha256": "3a6ac7ce4010947f8b9875f651aa9cdf345847ef6309a4c7b1f098ae4ea24121"
     },
     {
+      "name": "verify_acted_render_gate_native.py",
+      "bytes": 2957,
+      "sha256": "7edec86bb0cabd28c28135d04cfdf84c791c6a073372ba3191d30e41939e6c41"
+    },
+    {
       "name": "verify_actor_stat_modifier.py",
       "bytes": 1637,
       "sha256": "dbd034cf1432b3bce9ae27238dfe9e777a5ba75df7e1f02eb11732ad23a87c8b"
@@ -1067,6 +1122,11 @@
       "sha256": "b3e1f3c0ffde2ac025b069bbf8ce10f53737f4ce4a9f7926287ec8d800898773"
     },
     {
+      "name": "verify_experience_item_controller_native.py",
+      "bytes": 3242,
+      "sha256": "32e89bf197029924dc8a85242437a4c6899e329241a731f67cdd4b61e634d152"
+    },
+    {
       "name": "verify_frame_clock_native.py",
       "bytes": 2652,
       "sha256": "f066e5f0a196b377a89ce0770f2b413e753fdf85e38d8a4ae36ef11fff61ec49"
@@ -1097,6 +1157,11 @@
       "sha256": "c76308b0a0f48ceeae9e872546638b61da45eae8cd2c1edcce069dee1b19b6dd"
     },
     {
+      "name": "verify_idle_phase_wait_native.py",
+      "bytes": 2490,
+      "sha256": "e3422ad8d9f36a25c80f83d25c7741f524c6ebf4efd3c3e05cd539d8f1773213"
+    },
+    {
       "name": "verify_item_resale_native.py",
       "bytes": 2291,
       "sha256": "2e36528bc532f65ddc605fee14152c2918f027684e42a19947ac7087f28385d5"
@@ -1110,6 +1175,11 @@
       "name": "verify_item_restore_controller_native.py",
       "bytes": 3289,
       "sha256": "ce185147be4f71230b4c742364d31cfe53b1d63db0894c66c89d1ebdf49c7277"
+    },
+    {
+      "name": "verify_item_wait_chain_native.py",
+      "bytes": 1998,
+      "sha256": "87c11faa36dbb8f275ddf468e8dfb0b6e6a8c2b7dd453ca6258712a0a8bf4b0b"
     },
     {
       "name": "verify_live_eex_alignment.py",
@@ -1200,6 +1270,11 @@
       "name": "verify_palette_load_controller.py",
       "bytes": 3446,
       "sha256": "fc06fae47f4d26f47a6a550eff1f88ff3afac76f5294e4aebf1005b0f2eef858"
+    },
+    {
+      "name": "verify_palette_lookup_corpus.py",
+      "bytes": 1801,
+      "sha256": "1d26f579f0dfedd4981ae8706c130ce4e07c7564b434d08d2190a404503d3f6e"
     },
     {
       "name": "verify_palette_lookup_native.py",
@@ -1317,6 +1392,11 @@
       "sha256": "d440b976578670870a5ce0abd6f6223aa9eccf346b902712d1e21d13a269c22e"
     },
     {
+      "name": "verify_short_palette_tail_native.py",
+      "bytes": 2432,
+      "sha256": "7c85a0771e5656c704b6d929cb85db257c8e3c5531181ff818a35d1a9543c92b"
+    },
+    {
       "name": "verify_skill_accuracy_native.py",
       "bytes": 3302,
       "sha256": "7efe7e6a8568c64553161344a9bbdbc070dc8d8542aa6374d05fb35571143753"
@@ -1390,6 +1470,16 @@
       "name": "verify_unit_spc_mapping_native.py",
       "bytes": 2232,
       "sha256": "7c3396a696a596d91e245d00275884eac2733b72bb33de8d5d4b4d3a55849e0f"
+    },
+    {
+      "name": "verify_unit_terrain_draw_native.py",
+      "bytes": 2923,
+      "sha256": "7c15ece85d0ac3a67dc0e703ebe6fda50bb693684789acdef267030e020ddcd3"
+    },
+    {
+      "name": "verify_unit_terrain_mask_native.py",
+      "bytes": 2469,
+      "sha256": "7299bbaea574451e5f05ef0e552a440a55b32e14e06b9b8e710ba800c05a16e8"
     },
     {
       "name": "verify_yuxi_critical_static.py",
