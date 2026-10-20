@@ -22,6 +22,13 @@ test('identity 174 uses explicit native leader-match input',()=>{
   expect(nativeAiOrdinaryAttackScore({...base,targetIdentity:174,leaderMatch:true})).toBe(2);
 });
 
+test('target slot 35 bonus and candidate coverage follow native ordering',()=>{
+  expect(nativeAiOrdinaryAttackScore({...base,targetSlot:35})).toBe(10);
+  expect(nativeAiOrdinaryAttackScore({...base,targetSlot:35,candidateRisk:true})).toBe(9);
+  expect(nativeAiOrdinaryAttackScore({...base,targetIdentity:174,targetSlot:35})).toBe(2);
+  expect(nativeAiOrdinaryAttackScore({...base,predictedDamage:100,covered:true,candidateRisk:true})).toBe(83);
+});
+
 test('ordinary score matches all 2880 captured native returns',()=>{
   const evidence=JSON.parse(readFileSync('docs/reverse-engineering/native-ai-attack-score-validation.json','utf8'));
   expect(evidence.rows).toHaveLength(2880);

@@ -38,3 +38,13 @@ on native pseudocode; the existing 2,880-case matrix controls the filter
 leaf and does not independently validate this class-to-type chain at runtime.
 Saved slot-08 mode, leader identity, candidate coverage and full native
 movement-cell ranking remain incomplete integration inputs.
+
+Further integration now supplies target identity from the saved roster or
+scenario `unitId`, and supplies the actual target slot for the slot-35 bonus.
+Counter-coverage risk is evaluated with the defender's native attack range
+geometry at the attacker's current candidate position. It is no longer
+hardcoded false. The leader-match word remains unresolved in live scenario
+state. Full candidate-cell scoring and native candidate enumeration order
+are still missing, so this remains a partial AI integration. The prior
+paragraph's candidate-coverage gap is superseded for this ordinary geometry
+path; special target contexts remain outside this claim.

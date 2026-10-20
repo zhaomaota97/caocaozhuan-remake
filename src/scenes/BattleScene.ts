@@ -678,9 +678,18 @@ export class BattleScene extends Phaser.Scene {
         const slot=Number(enemy.id.match(/(?:unit-|slot-)(\d+)$/)?.[1]);
         const attackMode=(scenarioCombat as Record<string,Array<{slot:number;attackMode:number}>>)[String(this.mapId)]?.find(row=>row.slot===slot)?.attackMode;
         return candidates.sort((a,b)=>{
-          const score=(target:Unit)=>nativeAiOrdinaryAttackScore({
-            currentHp:target.hp,maxHp:target.maxHp,predictedDamage:ordinaryDamage(attacker,this.combatActor(target),itemCategories),
-            attackerMode:attackMode??0,targetFlags:target.statusFlags??0,targetIdentity:0,leaderMatch:false,covered:nativeAiClassFiltered(attacker.classId),sameSide:false,candidateRisk:false});
+          const score=(target:Unit)=>{
+            const defender=this.combatActor(target);
+            const targetSlot=Number(target.id.match(/(?:unit-|slot-)(\d+)$/)?.[1]);
+            const identity=target.id.startsWith('unit-')
+              ?slot08.actors.find(row=>row.id===target.id)?.unitId
+              :(scenarioCombat as Record<string,Array<{slot:number;unitId:number}>>)[String(this.mapId)]?.find(row=>row.slot===targetSlot)?.unitId;
+            return nativeAiOrdinaryAttackScore({
+              currentHp:target.hp,maxHp:target.maxHp,predictedDamage:ordinaryDamage(attacker,defender,itemCategories),
+              attackerMode:attackMode??0,targetFlags:target.statusFlags??0,targetIdentity:identity??174,targetSlot,leaderMatch:false,
+              covered:nativeAiClassFiltered(attacker.classId),sameSide:false,
+              candidateRisk:inAttackRange(defender,attacker,attackRange(defender,itemCategories,attackClasses),targetShapes.shapes)});
+          };
           return score(b)-score(a)||(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y))||a.id.localeCompare(b.id);
         })[0] ?? nearestNativeCandidate(enemy,this.units,this.map.width,this.map.height);
       };
