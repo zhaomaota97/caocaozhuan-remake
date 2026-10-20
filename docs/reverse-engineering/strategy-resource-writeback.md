@@ -23,3 +23,13 @@ previews because target eligibility and actual result controllers remain open.
 
 Reproduce: `python tools/verify_effect_cost_native.py` in the reverse
 workspace. Evidence: `native-effect-cost-validation.json`.
+
+Extended native matrix: **1,728/1,728**. It crosses success false/true,
+effects 0/20/22, MP 0/1/13/40/50/90, costs 0/1/13/255, no accessory or
+divisor 2/3/20, and magnitudes 0/7/30. The original routine and its resource
+setters execute; the same UI/reward callbacks remain suppressed. Web outputs
+are independently compared to captured native HP/MP for every row.
+This supersedes the earlier static-only success-zero limitation. It does
+not validate eligibility or full target/effect controllers. Reproduce with
+`python tools/verify_strategy_resource_matrix.py` in the reverse workspace;
+raw evidence is `native-strategy-resource-matrix.json`.
