@@ -21,3 +21,14 @@ interaction remains open.
 
 Reproduce: `python tools/verify_consumable_inventory_native.py` in the
 reverse workspace. Evidence: `native-consumable-inventory.json`.
+
+Granting now has separate native evidence: **918/918** calls to `0x40DA45`
+cover IDs 87..103, stock 0/1/98/99/100/255, money 0/999998/999999 and
+controlled resale prices 0/10/255. Below 99 the count increases by one and
+money is unchanged; at or above 99 stock remains unchanged and resale value
+is added, capped at 999999. The price getter is controlled, while capacity,
+stock writes and money helpers remain original. These deliberately invalid
+stock values document the leaf behavior rather than normal inventory rules.
+`grantNativeConsumable` matches every result. Reproduce with
+`python tools/verify_consumable_grant_native.py`; raw evidence is
+`native-consumable-grant.json`. Full opcode61 execution remains separate.

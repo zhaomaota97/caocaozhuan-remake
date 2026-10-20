@@ -15,3 +15,12 @@ export function decrementNativeConsumable(stock:readonly number[],itemId:number)
   if(index!==undefined)result[index]=Math.max(0,nativeConsumableCount(stock,itemId)-1);
   return result;
 }
+
+/** Native 0x40DA45: resale value is supplied by separate item-price getter. */
+export function grantNativeConsumable(stock:readonly number[],itemId:number,money:number,resaleValue:number){
+  const index=nativeConsumableIndex(itemId);
+  if(index===undefined)throw new RangeError('Not a native consumable ID');
+  const count=nativeConsumableCount(stock,itemId),result=stock.slice();
+  if(count<99){result[index]=count+1;return {stock:result,money,returned:count+1};}
+  return {stock:result,money:Math.min(999999,money+resaleValue),returned:0};
+}

@@ -1,6 +1,6 @@
 import {test,expect} from '@playwright/test';
 import {readFileSync} from 'node:fs';
-import {nativeConsumableCount,decrementNativeConsumable} from '../src/rules/consumableInventory';
+import {nativeConsumableCount,decrementNativeConsumable,grantNativeConsumable} from '../src/rules/consumableInventory';
 
 test('inventory query and decrement match all 1280 original native rows',()=>{
   const evidence=JSON.parse(readFileSync('docs/reverse-engineering/native-consumable-inventory.json','utf8'));
@@ -11,6 +11,18 @@ test('inventory query and decrement match all 1280 original native rows',()=>{
     const before=nativeConsumableCount(stock,row.id),afterStock=decrementNativeConsumable(stock,row.id);
     const after=nativeConsumableCount(afterStock,row.id);
     if(before!==row.before||after!==row.after)failures.push({row,before,after});
+  }
+  expect(failures).toEqual([]);
+});
+
+test('consumable grants match all 918 native stock and money boundaries',()=>{
+  const evidence=JSON.parse(readFileSync('docs/reverse-engineering/native-consumable-grant.json','utf8'));
+  expect(evidence.total).toBe(918);expect(evidence.passed).toBe(918);
+  const failures=[];
+  for(const row of evidence.rows){
+    const stock=Array(17).fill(0);stock[row.id-87]=row.count;
+    const result=grantNativeConsumable(stock,row.id,row.initialMoney,row.price);
+    if(result.stock[row.id-87]!==row.stock||result.money!==row.money||result.returned!==row.returned)failures.push({row,result});
   }
   expect(failures).toEqual([]);
 });
