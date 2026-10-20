@@ -33,3 +33,9 @@ Thus zero padding does not alter the source colors of these specific ITEM
 images. It can still affect background colors and native quantization lookup,
 so complete blended scene pixels are not proven independent of prior state.
 Reproduce: `python tools/audit_item_palette_coverage.py` in reverse workspace.
+
+All 58 Spalet records have now been compared at every nontransparent ITEM
+index, not only checked for adequate length. They produce one identical
+visible source-color profile. The existing PNG bank therefore covers ITEM
+source colors across every battle palette; see `item-scene-colors.md`.
+Full blended presentation still depends on scene backgrounds and lookup.

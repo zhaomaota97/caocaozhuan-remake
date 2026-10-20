@@ -1,0 +1,571 @@
+{
+  "scope": "all nontransparent ITEM source colors across all 58 Spalet records; high-nibble comparison; no background or blend quantization claim",
+  "items": 104,
+  "usedIndexes": [
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    83,
+    84,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    109,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173
+  ],
+  "palettes": 58,
+  "colorProfiles": 1,
+  "rows": [
+    {
+      "paletteEntry": 0,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 1,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 2,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 3,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 4,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 5,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 6,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 7,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 8,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 9,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 10,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 11,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 12,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 13,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 14,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 15,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 16,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 17,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 18,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 19,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 20,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 21,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 22,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 23,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 24,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 25,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 26,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 27,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 28,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 29,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 30,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 31,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 32,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 33,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 34,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 35,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 36,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 37,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 38,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 39,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 40,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 41,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 42,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 43,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 44,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 45,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 46,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 47,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 48,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 49,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 50,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 51,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 52,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 53,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 54,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 55,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 56,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    },
+    {
+      "paletteEntry": 57,
+      "colorProfile": 0,
+      "visibleColorSha256": "c3c5132dd264d86d5e26ba157d9a32882750487da4191bd0d5285ad925991ff8",
+      "changedIndexesFrom31": [],
+      "affectedItems": []
+    }
+  ]
+}
