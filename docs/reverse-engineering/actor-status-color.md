@@ -21,3 +21,19 @@ apply this phase-dependent state overlay; no generic tint substitutes for it.
 
 Reproduce: `python tools/capture_actor_status_color_native.py` in reverse
 workspace. Evidence: `native-actor-status-color.json`.
+
+Live Web integration now generates and caches movement-sheet canvas textures
+from migrated raw Unit_mov pixel arrays and readable scene palettes. It
+rebuilds the native lookup, optionally applies acted darkening, then applies
+the status transform. Per-phase updates switch between cached status and
+normal/acted sheets, retaining frames and mirroring; no generic tint is used.
+This supersedes the earlier live-renderer limitation for status bit 16 color.
+The browser test verifies phase switching, acted composition and nonblank
+canvas pixels; native pixel correspondence remains covered by the separate
+1,536-output matrix. The native global phase clock has not been fully
+correlated to wall time; Web uses its existing animation phase source.
+
+`data/mappings/scene-palettes.json` preserves four-bit source channel order
+with explicit zero-filled unused tails. These inputs do not reconstruct all
+live preceding-palette transitions. Generate that readable data with
+`node tools/build-scene-palettes.mjs`. Other status overlays/icons remain open.

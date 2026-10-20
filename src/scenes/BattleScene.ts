@@ -24,6 +24,10 @@ import combatRuntime from '../../data/mappings/slot08-combat-runtime.json';
 import combatSheets from '../../data/mappings/combat-sheets-map31.json';
 import actedMovementArt from '../../data/mappings/acted-movement-art.json';
 import {nativeActorIsDarkened} from '../rules/actedDarkening';
+import {nativeDarkenedPixel} from '../rules/actedDarkening';
+import {nativeActorStatusPixel,nativeActorStatusColorActive} from '../rules/actorStatusColor';
+import {buildNativePaletteLookup} from '../rules/nativePaletteLookup';
+import scenePalettes from '../../data/mappings/scene-palettes.json';
 import scenarioCombat from '../../data/mappings/scenario-combat-runtime.json';
 import nativeEquipmentAttributes from '../../data/rules/native-equipment-attributes.json';
 import {nativeBattleAttributes} from '../rules/battleAttributes';
@@ -65,6 +69,7 @@ export class BattleScene extends Phaser.Scene {
   private moving=false;
   private presentationUnits=new Set<Unit>();
   private bgmStarted=false;
+  private paletteLookup?:number[];
   private consumableStock?:number[];
   private unitSprites: Array<{unit: Unit; sprite: Phaser.GameObjects.Sprite; hpBack: Phaser.GameObjects.Rectangle; hpFill: Phaser.GameObjects.Rectangle}> = [];
   private phase = slot08.animationPhase;
@@ -100,6 +105,7 @@ export class BattleScene extends Phaser.Scene {
     this.sound.get('saved-bgm')?.destroy();
     this.input.mouse?.disableContextMenu();
     this.bgmStarted=false;
+    this.paletteLookup=undefined;
     this.consumableStock=undefined;
     this.animating=false;this.moving=false;
     this.selected=undefined;
@@ -167,6 +173,7 @@ export class BattleScene extends Phaser.Scene {
       this.load.image(`cmd-${index}`,`/assets/ui/${String(index).padStart(4,'0')}.png`);
     }
     for(let index=0;index<151;index++){
+      if(!this.cache.binary.exists(`mov-index-${index}`))this.load.binary(`mov-index-${index}`,`/assets/native-extracted/Unit_mov/resource_${String(index).padStart(4,'0')}.bin`);
       const key=`mov-${String(index).padStart(3,'0')}`;
       this.load.spritesheet(key,`/assets/animations/movement-map31/${key}.png`,{frameWidth:48,frameHeight:48});
     }
@@ -422,6 +429,7 @@ export class BattleScene extends Phaser.Scene {
       if(this.presentationUnits.has(unit)||(this.animating&&unit===this.selected))continue;
       const frame=this.unitIdleFrame(unit);
       sprite.setFrame(frame).setFlipX(Boolean(unit.mirror) && [4,5,8].includes(frame));
+      this.applyUnitAppearance(unit,sprite);
     }
   }
   private drawUnits(){
@@ -477,9 +485,36 @@ export class BattleScene extends Phaser.Scene {
   private applyUnitAppearance(unit: Unit,sprite: Phaser.GameObjects.Sprite){
     const flags=(unit.actorFlags??0)|(unit.acted?6:0);
     const profile=(actedMovementArt.scenes as Record<string,number>)[String(this.mapId)];
-    const key=nativeActorIsDarkened(flags,unit.hp)?`mov-acted-${profile}-${unit.art??0}`:`mov-${String(unit.art??0).padStart(3,'0')}`;
+    const dark=nativeActorIsDarkened(flags,unit.hp);
+    let key=dark?`mov-acted-${profile}-${unit.art??0}`:`mov-${String(unit.art??0).padStart(3,'0')}`;
+    if(nativeActorStatusColorActive(unit.statusFlags??0,this.phase))key=this.statusMovementTexture(unit.art??0,dark)??key;
     if(sprite.texture.key!==key&&this.textures.exists(key))sprite.setTexture(key,sprite.frame.name);
     sprite.clearTint();
+  }
+  private statusMovementTexture(art:number,dark:boolean):string|undefined{
+    const key=`mov-status-${this.mapId}-${art}-${Number(dark)}`;
+    if(this.textures.exists(key))return key;
+    const source=this.cache.binary.get(`mov-index-${art}`) as ArrayBuffer|undefined;
+    const palette=(scenePalettes.scenes as Record<string,number[]>)[String(this.mapId)];
+    if(!source||!palette)return undefined;
+    const indices=new Uint8Array(source);
+    if(indices.length!==11*48*48)return undefined;
+    const lookup=this.paletteLookup??=[...buildNativePaletteLookup(palette)];
+    const canvas=document.createElement('canvas');canvas.width=528;canvas.height=48;
+    const context=canvas.getContext('2d')!;const image=context.createImageData(528,48);
+    for(let frame=0;frame<11;frame++)for(let y=0;y<48;y++)for(let x=0;x<48;x++){
+      let index=indices[frame*2304+y*48+x];
+      if(dark)index=nativeDarkenedPixel(index,4,palette,lookup);
+      index=nativeActorStatusPixel(index,palette,lookup);
+      if(index===0)continue;
+      const offset=(y*528+frame*48+x)*4;
+      image.data[offset]=palette[index*3+1]*16;image.data[offset+1]=palette[index*3+2]*16;image.data[offset+2]=palette[index*3]*16;image.data[offset+3]=255;
+    }
+    context.putImageData(image,0,0);
+    const texture=this.textures.addCanvas(key,canvas);
+    if(!texture)return undefined;
+    for(let frame=0;frame<11;frame++)texture.add(frame,0,frame*48,0,48,48);
+    return key;
   }
   private select(unit: Unit){
     if(this.modal||this.battleEnded)return;
