@@ -18,3 +18,19 @@ the probe does not execute the full renderer or status overlays.
 
 Reproduce: `python tools/capture_acted_darkening_native.py` in reverse
 workspace. Evidence: `native-acted-darkening.json`.
+
+Live integration now replaces Web tint with indexed-darkened movement sheets.
+All 58 scene lookups produce 55 distinct used-pixel RGBA profiles (8,305
+movement sheets, deduplicated). Only the current scene's profile is loaded.
+`nativeActorIsDarkened` controls the texture; frame and mirroring are retained
+and RGB tint is cleared. Returning to unacted state restores the normal bank.
+This supersedes the earlier live-tint limitation above.
+
+`acted-movement-art.json` records scene/profile/sheet mappings. Browser tests
+check texture selection and compare one entire 11-frame decoded sheet to
+the reconstructed indexed transform using original raw Unit_mov pixels and
+the independently verified native lookup algorithm. Existing attack playback
+still passes. This is exact for the supplied scene palette, not full native
+status overlay or rendering capture. Source colors may be shared while
+darkening differs because quantization can select scene-specific terrain colors.
+Generate with `python tools/export_acted_movement_art.py` in reverse workspace.

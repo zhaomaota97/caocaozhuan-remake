@@ -22,6 +22,8 @@ import combatAttributes from '../../data/mappings/slot08-combat-attributes.json'
 import {ordinaryDamage} from '../rules/ordinaryDamage';
 import combatRuntime from '../../data/mappings/slot08-combat-runtime.json';
 import combatSheets from '../../data/mappings/combat-sheets-map31.json';
+import actedMovementArt from '../../data/mappings/acted-movement-art.json';
+import {nativeActorIsDarkened} from '../rules/actedDarkening';
 import scenarioCombat from '../../data/mappings/scenario-combat-runtime.json';
 import nativeEquipmentAttributes from '../../data/rules/native-equipment-attributes.json';
 import {nativeBattleAttributes} from '../rules/battleAttributes';
@@ -92,7 +94,8 @@ export class BattleScene extends Phaser.Scene {
   private battleRng=new GameRng(loadRngState());
   private lastExchange:ExchangeStrike[]=[];
   private readonly size=48; private readonly ox=0; private readonly oy=56;
-  init(){
+  init(data?:{mapId?:number}){
+    if(data?.mapId!==undefined)this.mapId=data.mapId;
     for(let index=0;index<58;index++)this.sound.get(`scenario-bgm-${index}`)?.destroy();
     this.sound.get('saved-bgm')?.destroy();
     this.input.mouse?.disableContextMenu();
@@ -124,6 +127,12 @@ export class BattleScene extends Phaser.Scene {
     });
   }
   preload(){
+    const profile=(actedMovementArt.scenes as Record<string,number>)[String(this.mapId)];
+    const bank=actedMovementArt.banks.find(row=>row.profile===profile);
+    for(const sheet of bank?.assets??[]){
+      const key=`mov-acted-${profile}-${sheet.art}`;
+      if(!this.textures.exists(key))this.load.spritesheet(key,sheet.url,{frameWidth:48,frameHeight:48});
+    }
     for(const item of treasureCatalog.entries)this.load.image(`treasure-${item.itemId}`,item.iconUrl);
     // The native selector was verified for 212 sound IDs. Keep the complete
     // bank available so effect, menu, movement and combat paths do not fall
@@ -466,9 +475,11 @@ export class BattleScene extends Phaser.Scene {
     this.applyUnitAppearance(unit,visual.sprite);
   }
   private applyUnitAppearance(unit: Unit,sprite: Phaser.GameObjects.Sprite){
-    // Native completed-action actors use the darkened palette while remaining
-    // fully visible and selectable.
-    if(unit.acted)sprite.setTint(0x808080);else sprite.clearTint();
+    const flags=(unit.actorFlags??0)|(unit.acted?6:0);
+    const profile=(actedMovementArt.scenes as Record<string,number>)[String(this.mapId)];
+    const key=nativeActorIsDarkened(flags,unit.hp)?`mov-acted-${profile}-${unit.art??0}`:`mov-${String(unit.art??0).padStart(3,'0')}`;
+    if(sprite.texture.key!==key&&this.textures.exists(key))sprite.setTexture(key,sprite.frame.name);
+    sprite.clearTint();
   }
   private select(unit: Unit){
     if(this.modal||this.battleEnded)return;
