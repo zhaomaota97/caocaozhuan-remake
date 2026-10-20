@@ -4,8 +4,10 @@ import {readFileSync} from 'node:fs';
 
 const base={currentHp:100,maxHp:100,predictedDamage:0,attackerMode:0,targetFlags:0,targetIdentity:10,leaderMatch:false,covered:false,sameSide:false,candidateRisk:false};
 test('native class filter follows class tiers and special-class mapping',()=>{
-  for(let id=0;id<53;id++)expect(nativeAiClassFiltered(id)).toBe((id>=24&&id<=35)||(id>=44&&id<=46));
-  expect(nativeAiClassFiltered(53)).toBe(false);
+  const evidence=JSON.parse(readFileSync('docs/reverse-engineering/native-ai-class-filter.json','utf8'));
+  expect(evidence.passed).toBe(256);
+  expect(evidence.rows).toHaveLength(256);
+  for(const row of evidence.rows)expect(nativeAiClassFiltered(row.classId),`class ${row.classId}`).toBe(row.filtered);
 });
 test('native ordinary AI score applies lethal, damage-ratio, HP-ratio and flag branches',()=>{
   expect(nativeAiOrdinaryAttackScore({...base,currentHp:40})).toBe(20);

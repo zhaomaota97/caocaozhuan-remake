@@ -48,3 +48,15 @@ state. Full candidate-cell scoring and native candidate enumeration order
 are still missing, so this remains a partial AI integration. The prior
 paragraph's candidate-coverage gap is superseded for this ordinary geometry
 path; special target contexts remain outside this claim.
+
+The class-to-filter chain above now has direct dynamic proof. The probe
+executes the original `0x43FFED -> 0x43B470 -> 0x4077D0` with actor unit
+index zero and every class byte 0..255, restoring the modified class byte
+after capture. All 256 native type/filter pairs match; this covers the 53
+valid classes plus invalid-byte fallback behavior. The process is suspended
+throughout, so no game window or sound starts. Raw evidence is
+`native-ai-class-filter.json`; reproduce in the reverse workspace with
+`python tools/verify_ai_class_filter_native.py`. The Web class-filter test
+now compares every captured native result instead of testing only a
+separately handwritten range formula. This supersedes the earlier
+static-only limitation for this mapping, not the complete AI-turn gaps.
