@@ -1,0 +1,167 @@
+{
+  "total": 20,
+  "passed": 20,
+  "rows": [
+    {
+      "amount": 0,
+      "elapsed": 0,
+      "tick": 1000,
+      "pumps": 0,
+      "deadline": 1000,
+      "match": true
+    },
+    {
+      "amount": 0,
+      "elapsed": 1,
+      "tick": 1001,
+      "pumps": 0,
+      "deadline": 1000,
+      "match": true
+    },
+    {
+      "amount": 0,
+      "elapsed": 3,
+      "tick": 1003,
+      "pumps": 0,
+      "deadline": 1000,
+      "match": true
+    },
+    {
+      "amount": 0,
+      "elapsed": 10,
+      "tick": 1010,
+      "pumps": 0,
+      "deadline": 1000,
+      "match": true
+    },
+    {
+      "amount": 1,
+      "elapsed": 0,
+      "tick": 1001,
+      "pumps": 1,
+      "deadline": 1001,
+      "match": true
+    },
+    {
+      "amount": 1,
+      "elapsed": 1,
+      "tick": 1001,
+      "pumps": 0,
+      "deadline": 1001,
+      "match": true
+    },
+    {
+      "amount": 1,
+      "elapsed": 3,
+      "tick": 1003,
+      "pumps": 0,
+      "deadline": 1001,
+      "match": true
+    },
+    {
+      "amount": 1,
+      "elapsed": 10,
+      "tick": 1010,
+      "pumps": 0,
+      "deadline": 1001,
+      "match": true
+    },
+    {
+      "amount": 5,
+      "elapsed": 0,
+      "tick": 1005,
+      "pumps": 5,
+      "deadline": 1005,
+      "match": true
+    },
+    {
+      "amount": 5,
+      "elapsed": 1,
+      "tick": 1005,
+      "pumps": 4,
+      "deadline": 1005,
+      "match": true
+    },
+    {
+      "amount": 5,
+      "elapsed": 3,
+      "tick": 1005,
+      "pumps": 2,
+      "deadline": 1005,
+      "match": true
+    },
+    {
+      "amount": 5,
+      "elapsed": 10,
+      "tick": 1010,
+      "pumps": 0,
+      "deadline": 1005,
+      "match": true
+    },
+    {
+      "amount": 10,
+      "elapsed": 0,
+      "tick": 1010,
+      "pumps": 10,
+      "deadline": 1010,
+      "match": true
+    },
+    {
+      "amount": 10,
+      "elapsed": 1,
+      "tick": 1010,
+      "pumps": 9,
+      "deadline": 1010,
+      "match": true
+    },
+    {
+      "amount": 10,
+      "elapsed": 3,
+      "tick": 1010,
+      "pumps": 7,
+      "deadline": 1010,
+      "match": true
+    },
+    {
+      "amount": 10,
+      "elapsed": 10,
+      "tick": 1010,
+      "pumps": 0,
+      "deadline": 1010,
+      "match": true
+    },
+    {
+      "amount": 255,
+      "elapsed": 0,
+      "tick": 1255,
+      "pumps": 255,
+      "deadline": 1255,
+      "match": true
+    },
+    {
+      "amount": 255,
+      "elapsed": 1,
+      "tick": 1255,
+      "pumps": 254,
+      "deadline": 1255,
+      "match": true
+    },
+    {
+      "amount": 255,
+      "elapsed": 3,
+      "tick": 1255,
+      "pumps": 252,
+      "deadline": 1255,
+      "match": true
+    },
+    {
+      "amount": 255,
+      "elapsed": 10,
+      "tick": 1255,
+      "pumps": 245,
+      "deadline": 1255,
+      "match": true
+    }
+  ],
+  "scope": "native 0x403340 -> 0x42C45F and 0x42C4E0 deadline loop; clock/message pump controlled, not real-time rendering"
+}
