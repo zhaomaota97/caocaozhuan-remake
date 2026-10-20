@@ -34,3 +34,13 @@ dynamic diagonal validation. Other ordered shapes throw explicitly.
 Web scene sorting still uses distance and lexical tie breaks. The ordered
 shape collector is not yet connected to complete movement-cell selection;
 this report does not claim full native AI turn fidelity.
+
+The diagonal coverage gap above has now been probed directly: native shape
+1 with units in all eight neighboring cells passes 216/216 controlled cases.
+These vary side/HP masks, tied and byte-overflow scores, center and corner
+origins. Web generation and selection independently match all 216 native
+lists and winners. The original score leaf and resource buffers remain
+controlled; this does not validate complete AI scoring or campaign turns.
+Reproduce in the reverse workspace with
+`python tools/verify_ai_diagonal_candidates_native.py`. Raw evidence:
+`native-ai-diagonal-candidates.json`. No native UI or sound was started.
