@@ -24,3 +24,12 @@ palette records preserve and shift the previous tail. This zero-padded PNG
 bank is therefore an explicit preview assumption for tail indexes 246..255,
 not a universal native palette load. A live preceding-palette capture is
 still needed before claiming exact campaign colors for those indexes.
+
+Exact resource audit now narrows this boundary for ITEM art: all 104 images
+(106,496 source pixels) use indexes no higher than 173. None references
+246..255. `item-palette-coverage.json` checks original ITEM index counts
+against each Spalet record length; map31 has no missing used source colors.
+Thus zero padding does not alter the source colors of these specific ITEM
+images. It can still affect background colors and native quantization lookup,
+so complete blended scene pixels are not proven independent of prior state.
+Reproduce: `python tools/audit_item_palette_coverage.py` in reverse workspace.
