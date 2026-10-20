@@ -32,3 +32,14 @@ Sources in the reverse workspace:
 `analysis/native-main/pseudocode/0041d4db.c`, `0041d3d9.c` and `0041c4e9.c`.
 The corresponding Web item actions remain incomplete; no guessed promotion
 or experience-item mutation is enabled by this report.
+
+Numerical helper sequence now has dynamic evidence: 477/477 calls using all
+53 original class records and near-cap HP/MP base attributes match. Original
+class loader, growth getter, stat increment and class setter execute without
+replacement. This runs the state sequence reconstructed from the controller,
+NOT the controller itself. It does not exercise refill, presentation, new
+spells, inventory or eligibility; invalid promotion classes are deliberately
+included only to test helpers. `0x40DFF0` itself only writes unit byte +0x2B.
+Readable helper: `src/rules/promotionNumericalState.ts`; evidence:
+`native-promotion-state-sequence.json`. Reproduce in the reverse workspace:
+`python tools/verify_promotion_state_sequence.py`.
