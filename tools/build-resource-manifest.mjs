@@ -3,7 +3,7 @@ import {readFileSync,readdirSync,statSync,writeFileSync} from 'node:fs';
 import {join,relative} from 'node:path';
 
 const root=process.cwd();
-const roots=['public/assets/native-extracted','public/assets/maps','public/assets/animations','public/assets/audio','public/assets/portraits','public/assets/ui','public/assets/effects'];
+const roots=['public/assets/native-extracted','public/assets/maps','public/assets/animations','public/assets/audio','public/assets/portraits','public/assets/ui','public/assets/effects','public/assets/markers'];
 const files=[];
 function walk(path){for(const name of readdirSync(path)){const full=join(path,name);if(statSync(full).isDirectory())walk(full);else files.push(full);}}
 for(const path of roots){try{walk(join(root,path));}catch{} }

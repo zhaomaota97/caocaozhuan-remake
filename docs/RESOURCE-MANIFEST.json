@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:04:51.031Z",
+  "generatedAt": "2026-10-20T06:28:53.273Z",
   "files": [
     {
       "path": "public/assets/animations/acted/profile-0/mov-000.png",
@@ -47665,6 +47665,26 @@
       "path": "public/assets/maps/minimap-31.png",
       "bytes": 13949,
       "sha256": "ef06818e0070431e3f25d69aabb57cf5570ec08cdd18d79bc3209c6c9a6de853"
+    },
+    {
+      "path": "public/assets/markers/map31-markers.png",
+      "bytes": 8736,
+      "sha256": "02235b58e8763577d1f3e5dfad5b3a96dee17f47977f8cbd6e6d63c1afe6e336"
+    },
+    {
+      "path": "public/assets/markers/status/1a2c0.png",
+      "bytes": 283,
+      "sha256": "522084d88e7ca8f147d3e1d57807cd7a31480d20ad84e8a74dcda808a9eba237"
+    },
+    {
+      "path": "public/assets/markers/status/1a3c0.png",
+      "bytes": 362,
+      "sha256": "2ca63b30802d1cb49d91ceedc132671b6de909aa2e704ff2727db52adcd5f3e2"
+    },
+    {
+      "path": "public/assets/markers/status/1a4c0.png",
+      "bytes": 388,
+      "sha256": "ca4830e0645128cec741a2a60008c60a97ced5c175cc7f8e3cdaacccf64ed8a4"
     },
     {
       "path": "public/assets/native-extracted/Data/resource_0000.bin",

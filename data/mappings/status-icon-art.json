@@ -1,0 +1,77 @@
+{
+  "source": "Mark.e5",
+  "nativeLoader": "0x42BA29",
+  "sourceBytes": 116704,
+  "paletteEntry": 31,
+  "identicalSourceColorsAcross58Palettes": true,
+  "rows": [
+    {
+      "offset": 107200,
+      "width": 16,
+      "height": 16,
+      "url": "/assets/markers/status/1a2c0.png",
+      "sha256": "b8fb84535ae39d0e2801b9508101685f95c5eb3686d23fdf30720a1c8942fcf5",
+      "usedIndexes": [
+        65,
+        69,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "offset": 107456,
+      "width": 16,
+      "height": 16,
+      "url": "/assets/markers/status/1a3c0.png",
+      "sha256": "a9ae7e1ebd794b184654f43b2830ceee7736663320137f411531a4393d2bb6f3",
+      "usedIndexes": [
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        40,
+        42,
+        43,
+        44,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "offset": 107712,
+      "width": 16,
+      "height": 16,
+      "url": "/assets/markers/status/1a4c0.png",
+      "sha256": "d64522fdd7926bc2364d7cf1ff808bab7fc883051ec93642ee03b1bb075099a1",
+      "usedIndexes": [
+        55,
+        59,
+        63,
+        105,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159
+      ]
+    }
+  ]
+}

@@ -22,3 +22,19 @@ query proves offsets, not which original archive entries populate them.
 
 Reproduce: `python tools/capture_actor_status_icons_native.py` in reverse
 workspace. Evidence: `native-actor-status-icons.json`.
+
+Resource loading is now identified: native `0x42BA29` reads raw `Mark.e5`
+from file offset zero for exactly 0x1C7E0 bytes into the shared marker buffer.
+The file has that exact length; each recorded icon offset therefore resolves
+directly to 256 original pixel bytes. All three extracted source-color sets
+match across the 58 Spalet records. `status-icon-art.json` records source
+offsets and pixel SHA-256; the browser uses original 16x16 transparent images.
+
+Live overlays follow the verified phase selection and tile-relative positions,
+hide for absent status/dead/deferred actors, and are suppressed while actors
+are in movement/attack presentation. This supersedes the earlier extraction
+and overlay integration gap. Ordinary idle overlays are covered by browser
+position/resource tests; exact full presentation overlay visibility still
+needs native presentation-specific traces. Actual icon bytes are hash-checked
+against the independently migrated raw MARK file. Export tool:
+`python tools/export_status_icon_art.py` in reverse workspace.

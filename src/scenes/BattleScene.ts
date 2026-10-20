@@ -28,6 +28,8 @@ import {nativeActorIsDarkened} from '../rules/actedDarkening';
 import {nativeDarkenedPixel} from '../rules/actedDarkening';
 import {nativeActorStatusPixel,nativeActorStatusColorActive} from '../rules/actorStatusColor';
 import {buildNativePaletteLookup} from '../rules/nativePaletteLookup';
+import {nativeActorStatusIcon} from '../rules/actorStatusIcon';
+import statusIconArt from '../../data/mappings/status-icon-art.json';
 import scenePalettes from '../../data/mappings/scene-palettes.json';
 import scenarioCombat from '../../data/mappings/scenario-combat-runtime.json';
 import nativeEquipmentAttributes from '../../data/rules/native-equipment-attributes.json';
@@ -71,6 +73,7 @@ export class BattleScene extends Phaser.Scene {
   private presentationUnits=new Set<Unit>();
   private bgmStarted=false;
   private paletteLookup?:number[];
+  private statusIcons=new Map<Unit,Phaser.GameObjects.Image>();
   private consumableStock?:number[];
   private unitSprites: Array<{unit: Unit; sprite: Phaser.GameObjects.Sprite; hpBack: Phaser.GameObjects.Rectangle; hpFill: Phaser.GameObjects.Rectangle}> = [];
   private phase = slot08.animationPhase;
@@ -134,6 +137,7 @@ export class BattleScene extends Phaser.Scene {
     });
   }
   preload(){
+    for(const icon of statusIconArt.rows)this.load.image(`status-icon-${icon.offset}`,icon.url);
     const profile=(actedMovementArt.scenes as Record<string,number>)[String(this.mapId)];
     const bank=actedMovementArt.banks.find(row=>row.profile===profile);
     for(const sheet of bank?.assets??[]){
@@ -427,6 +431,7 @@ export class BattleScene extends Phaser.Scene {
     this.phaseElapsed %= NATIVE_IDLE_WAIT_MS;
     this.phase = nextNativeIdlePhase(this.phase);
     for(const {unit,sprite} of this.unitSprites){
+      this.refreshStatusIcon(unit);
       if(this.presentationUnits.has(unit)||(this.animating&&unit===this.selected))continue;
       const frame=this.unitIdleFrame(unit);
       sprite.setFrame(frame).setFlipX(Boolean(unit.mirror) && [4,5,8].includes(frame));
@@ -434,6 +439,7 @@ export class BattleScene extends Phaser.Scene {
     }
   }
   private drawUnits(){
+    for(const icon of this.statusIcons.values())icon.destroy();this.statusIcons.clear();
     if(this.mapId>0&&this.mapId!==31&&this.units.length===0){
       this.units=this.mapId===1?this.createS01Units():this.createNativeScenarioUnits(this.mapId);
       const records=(scenarioUnits[this.mapId] as {units:Array<{slot:number;type:number}>}).units;
@@ -457,6 +463,8 @@ export class BattleScene extends Phaser.Scene {
       sprite.setFlipX(Boolean(unit.mirror) && [4,5,8].includes(frame));
       sprite.setData('unit',unit).setInteractive();
       this.unitSprites.push({unit,sprite,hpBack,hpFill});
+      this.statusIcons.set(unit,this.add.image(sx,sy,`status-icon-${statusIconArt.rows[0].offset}`).setOrigin(0,0).setDepth(8).setVisible(false));
+      this.refreshStatusIcon(unit);
     });
   }
   /**
@@ -482,6 +490,14 @@ export class BattleScene extends Phaser.Scene {
     visual.hpFill.setScale(ratio,1).setFillStyle(ratio>.5?0x35c96b:ratio>.25?0xe5bb45:0xd64545).setVisible(unit.hp>0);
     visual.hpBack.setVisible(unit.hp>0);
     this.applyUnitAppearance(unit,visual.sprite);
+    this.refreshStatusIcon(unit);
+  }
+  private refreshStatusIcon(unit:Unit){
+    const icon=this.statusIcons.get(unit),visual=this.unitSprites.find(row=>row.unit===unit);
+    if(!icon||!visual)return;
+    const selected=nativeActorStatusIcon(unit.statusFlags??0,this.phase);
+    if(!selected||unit.hp<=0||unit.nativeHidden||this.presentationUnits.has(unit)){icon.setVisible(false);return;}
+    icon.setTexture(`status-icon-${selected.offset}`).setPosition(visual.sprite.x-24+selected.x,visual.sprite.y-24+selected.y).setVisible(true);
   }
   private applyUnitAppearance(unit: Unit,sprite: Phaser.GameObjects.Sprite){
     const flags=(unit.actorFlags??0)|(unit.acted?6:0);
