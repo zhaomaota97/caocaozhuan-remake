@@ -43,3 +43,16 @@ included only to test helpers. `0x40DFF0` itself only writes unit byte +0x2B.
 Readable helper: `src/rules/promotionNumericalState.ts`; evidence:
 `native-promotion-state-sequence.json`. Reproduce in the reverse workspace:
 `python tools/verify_promotion_state_sequence.py`.
+
+XP-item orchestration now has 72/72 dynamic traces. Native `0x41D3D9`, its
+initializer, eligibility and resource setters execute. Target selection,
+presentation, growth and maximum getters are controlled. The growth callback
+changes mocked maxima from 100/50 to 120/60, proving that refill reads maxima
+after growth. Selection cancellation or level 50 prevents all callbacks and
+resource writes. Levels 1/49/50, XP 0/99/255 and item values 0/1/100/255 are
+crossed. The native growth call receives current XP plus item value and
+display=1. Web callback orchestration matches every trace and final HP/MP.
+This is controller-order evidence, not display-enabled growth validation or
+actual spell notifications. The live Web item action is not enabled by it.
+Reproduce: `python tools/verify_experience_item_controller_native.py`;
+evidence: `native-experience-item-controller.json`.

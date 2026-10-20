@@ -1,0 +1,943 @@
+{
+  "total": 72,
+  "passed": 72,
+  "rows": [
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 0,
+      "value": 0,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 0,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 0,
+      "value": 1,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 1,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 0,
+      "value": 100,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 100,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 0,
+      "value": 255,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 255,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 99,
+      "value": 0,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 99,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 99,
+      "value": 1,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 100,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 99,
+      "value": 100,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 199,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 99,
+      "value": 255,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 354,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 255,
+      "value": 0,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 255,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 255,
+      "value": 1,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 256,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 255,
+      "value": 100,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 355,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 1,
+      "xp": 255,
+      "value": 255,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 510,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 0,
+      "value": 0,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 0,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 0,
+      "value": 1,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 1,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 0,
+      "value": 100,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 100,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 0,
+      "value": 255,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 255,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 99,
+      "value": 0,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 99,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 99,
+      "value": 1,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 100,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 99,
+      "value": 100,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 199,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 99,
+      "value": 255,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 354,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 255,
+      "value": 0,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 255,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 255,
+      "value": 1,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 256,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 255,
+      "value": 100,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 355,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 49,
+      "xp": 255,
+      "value": 255,
+      "trace": [
+        {
+          "kind": "presentation"
+        },
+        {
+          "kind": "growth",
+          "total": 510,
+          "display": 1
+        }
+      ],
+      "hp": 120,
+      "mp": 60,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 0,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 0,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 0,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 0,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 99,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 99,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 99,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 99,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 255,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 255,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 255,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 0,
+      "level": 50,
+      "xp": 255,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 0,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 0,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 0,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 0,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 99,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 99,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 99,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 99,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 255,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 255,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 255,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 1,
+      "xp": 255,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 0,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 0,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 0,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 0,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 99,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 99,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 99,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 99,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 255,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 255,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 255,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 49,
+      "xp": 255,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 0,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 0,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 0,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 0,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 99,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 99,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 99,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 99,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 255,
+      "value": 0,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 255,
+      "value": 1,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 255,
+      "value": 100,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    },
+    {
+      "selected": 255,
+      "level": 50,
+      "xp": 255,
+      "value": 255,
+      "trace": [],
+      "hp": 10,
+      "mp": 5,
+      "match": true
+    }
+  ],
+  "scope": "original XP-item initializer/controller/eligibility and resource setters; target/presentation/growth/maxima leaves controlled; growth callback changes mocked maxima to prove ordering"
+}
