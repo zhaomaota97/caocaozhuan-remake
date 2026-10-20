@@ -28,3 +28,13 @@ defaults until those fields are recovered from each scenario controller.
 Those defaults are incomplete integration placeholders, not evidence of
 the native values in actual campaign state. The current turn selector is
 therefore still not a faithful complete native AI implementation.
+
+Scenario attack mode now comes from captured actor byte `+0x0E` rather than
+constant zero. The class-filter input now follows the static native chain
+`0x43FFED -> 0x43B470 -> 0x4077D0`: classes below 39 map by integer division
+by three, classes 39..52 subtract 26, and other classes map to 27. Types
+8/9/10/11/18/19/20 enable the low-score filter. This field mapping is based
+on native pseudocode; the existing 2,880-case matrix controls the filter
+leaf and does not independently validate this class-to-type chain at runtime.
+Saved slot-08 mode, leader identity, candidate coverage and full native
+movement-cell ranking remain incomplete integration inputs.

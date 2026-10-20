@@ -5,6 +5,12 @@ export interface NativeAiAttackScoreInput {
   targetSlot?:number;
 }
 
+/** Native 0x43FFED -> 0x43B470 -> 0x4077D0. */
+export function nativeAiClassFiltered(classId:number):boolean{
+  const type=classId<39?Math.floor(classId/3):classId<53?classId-26:27;
+  return [8,9,10,11,18,19,20].includes(type);
+}
+
 /** Native 0x438A20 ordinary (non-special-range) score branch. */
 export function nativeAiOrdinaryAttackScore(input:NativeAiAttackScoreInput):number{
   let score=0;

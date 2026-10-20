@@ -29,7 +29,7 @@ import effectLearning from '../../data/mappings/effect-learning-runtime.json';
 import {allRuntimeEffects,effectById} from '../rules/effectCatalog';
 import {nativeButton} from '../ui/nativeButton';
 import {nearestNativeCandidate} from '../rules/aiCandidateFilter';
-import {nativeAiOrdinaryAttackScore} from '../rules/aiAttackScore';
+import {nativeAiOrdinaryAttackScore,nativeAiClassFiltered} from '../rules/aiAttackScore';
 import treasureCatalog from '../../data/mappings/treasure-catalog.json';
 import rosterColumns from '../../data/mappings/roster-columns.json';
 import rosterFields from '../../data/mappings/slot08-roster-fields.json';
@@ -675,10 +675,12 @@ export class BattleScene extends Phaser.Scene {
       const chooseTarget=()=>{
         const candidates=this.units.filter(unit=>unit.side==='player'&&unit.hp>0&&!unit.nativeHidden&&unit.x>=0&&unit.y>=0&&unit.x<this.map.width&&unit.y<this.map.height);
         const attacker=this.combatActor(enemy);
+        const slot=Number(enemy.id.match(/(?:unit-|slot-)(\d+)$/)?.[1]);
+        const attackMode=(scenarioCombat as Record<string,Array<{slot:number;attackMode:number}>>)[String(this.mapId)]?.find(row=>row.slot===slot)?.attackMode;
         return candidates.sort((a,b)=>{
           const score=(target:Unit)=>nativeAiOrdinaryAttackScore({
             currentHp:target.hp,maxHp:target.maxHp,predictedDamage:ordinaryDamage(attacker,this.combatActor(target),itemCategories),
-            attackerMode:0,targetFlags:target.statusFlags??0,targetIdentity:0,leaderMatch:false,covered:false,sameSide:false,candidateRisk:false});
+            attackerMode:attackMode??0,targetFlags:target.statusFlags??0,targetIdentity:0,leaderMatch:false,covered:nativeAiClassFiltered(attacker.classId),sameSide:false,candidateRisk:false});
           return score(b)-score(a)||(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y))||a.id.localeCompare(b.id);
         })[0] ?? nearestNativeCandidate(enemy,this.units,this.map.width,this.map.height);
       };
