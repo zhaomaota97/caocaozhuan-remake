@@ -1,0 +1,2 @@
+# Preserve reverse-engineering source evidence byte for byte.
+docs/reverse-engineering/tool-sources/** -text

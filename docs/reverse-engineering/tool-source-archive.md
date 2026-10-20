@@ -1,6 +1,6 @@
 # Reverse tool source archive
 
-All 277 regular source files from the reverse workspace tools directory are
+All 279 regular source files from the reverse workspace tools directory are
 archived verbatim under `tool-sources/`. Their filenames, lengths and SHA-256
 hashes are in `TOOL-SOURCES-MANIFEST.json`. No interpreter caches or nested
 runtime directories are copied. The archive includes extraction, EEX decoding,
@@ -26,3 +26,10 @@ node tools/sync-reverse-tools.mjs <reverse-workspace-tools-directory>
 consumable/resource rules. This command is included in `verify:all`. Hash
 checks prove preservation only; they do not prove every archived tool can
 currently execute or that all reverse-engineering work is complete.
+
+The archive path has Git attribute `-text` to preserve source bytes despite
+Windows `core.autocrlf`. After staging an updated archive, run
+`node tools/verify-indexed-tool-sources.mjs` to check actual Git index blobs
+against the manifest, in addition to worktree integrity. This catches line
+ending transformations before commit. The initial normalized archive was
+restaged under this attribute; all 279 index blobs match original hashes.

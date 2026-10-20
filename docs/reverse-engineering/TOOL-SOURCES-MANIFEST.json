@@ -1232,6 +1232,11 @@
       "sha256": "bec10f5b24fbe91d1580bda12682584cd8e42565c1c2eaaee4058324d320f3a0"
     },
     {
+      "name": "verify_promotion_state_sequence.py",
+      "bytes": 2699,
+      "sha256": "0984c1ed8c1edb69350095b629754f842e5457a9b712ebb570a3906e98d2adff"
+    },
+    {
       "name": "verify_real_consumable_grant_native.py",
       "bytes": 2578,
       "sha256": "26b260f7d9c97ac95b15bae4e864dc73a4678f4548bd60d440fb78f5a376f82b"
