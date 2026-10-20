@@ -30,6 +30,7 @@ import {allRuntimeEffects,effectById} from '../rules/effectCatalog';
 import {nativeButton} from '../ui/nativeButton';
 import {nearestNativeCandidate} from '../rules/aiCandidateFilter';
 import {nativeAiOrdinaryAttackScore,nativeAiClassFiltered} from '../rules/aiAttackScore';
+import {nativeManualItemEligible} from '../rules/manualItemEligibility';
 import {collectNativeAdjacentCandidates,selectNativeAiCandidate} from '../rules/aiCandidateSelection';
 import treasureCatalog from '../../data/mappings/treasure-catalog.json';
 import rosterColumns from '../../data/mappings/roster-columns.json';
@@ -838,8 +839,7 @@ export class BattleScene extends Phaser.Scene {
       if(!items.length){this.showActionNotice('没有已验证消耗品定义');this.closeUtilityMenu();return;}
       items.forEach((item,index)=>nativeButton(this,menu,[8,30+index*28,284,24],item.name??`道具 ${item.itemId}`,item.itemId,()=>{
         this.selectedItemId=item.itemId;this.closeUtilityMenu();this.clearReach();
-        // Native item target geometry comes from the item's controller record;
-        // no complete Web mapping exists yet, so never paint a guessed full map.
+        this.showStrategyReach(0xc29b4b);
         this.showActionNotice(`选择${item.name??`道具 ${item.itemId}`}的目标`);
       }));
     }
@@ -873,6 +873,14 @@ export class BattleScene extends Phaser.Scene {
   private showStrategyReach(color=0x7567c7){
     this.clearReach();
     if(!this.selected)return;
+    if(this.actionMode==='item'){
+      const actor=this.combatActor(this.selected);
+      for(const [key,cell] of this.cells){
+        const [x,y]=key.split(',').map(Number);
+        if(inAttackRange(actor,{x,y},1,targetShapes.shapes,1))cell.setFillStyle(color,0.35);
+      }
+      return;
+    }
     if(this.actionMode!=='strategy')return;
     const geometry=effectGeometry.effects.find(row=>row.effectId===this.selectedEffectId);
     if(!geometry||geometry.targetShape===255)return;
@@ -883,8 +891,11 @@ export class BattleScene extends Phaser.Scene {
     }
   }
   private previewVerifiedItem(target:Unit){
+    if(!this.selected||target.hp<=0||target.nativeHidden||target.side!==this.selected.side)return;
+    if(!inAttackRange(this.combatActor(this.selected),target,1,targetShapes.shapes,1))return;
     const rule=(itemCategories as Array<{id:number;name?:string;categoryByte?:number;baseValue?:number;secondaryValue?:number}>).find(row=>row.id===this.selectedItemId);
     if(!rule){this.showActionNotice(`No verified item mapping for ${target.name}`);return;}
+    if(!nativeManualItemEligible(rule.categoryByte??255,this.combatActor(target),false))return;
     this.showActionNotice(`${rule.name??`Item ${rule.id}`} -> ${target.name}\nid ${rule.id} category ${rule.categoryByte??'-'} base ${rule.baseValue??'-'} secondary ${rule.secondaryValue??'-'}\nNative item result controller is not reconstructed.`);
   }
   private showAttackPreview(target:Unit){

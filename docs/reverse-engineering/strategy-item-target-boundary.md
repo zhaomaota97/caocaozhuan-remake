@@ -10,10 +10,17 @@ boundary for the current battle records.
 
 Manual item setup initializes through `0x41DBBC` and selects targets through
 `0x45533D`, which invokes native geometry with controller-specific arguments.
-The item controller's complete target-shape field has not been recovered.
-The Web item menu therefore no longer paints every grid cell as reachable.
-That previous full-map highlight was unsupported by native evidence. Item
-result mutation and the controller-specific target geometry remain open.
+The initializer explicitly writes range 1 to controller `+0x18`. Manual
+handlers pass it to the selector with mode 4; `0x45533D` includes the origin
+and requires matching faction groups for that mode. The earlier statement
+that this range field was unrecovered was incorrect.
+
+The Web now highlights shape 1 plus origin and rejects enemy, hidden, dead
+and out-of-range item preview targets. It invokes native eligibility helper
+`0x41C4E9`'s mode-zero equivalent for its supported category gates. The
+geometry and eligibility helpers have independent native evidence; complete
+UI-driven item selection/result/inventory flow remains unverified. Item
+result mutation remains open, so these gates do not claim working item use.
 
 Readable Web relation helper: `src/rules/nativeTargetEligibility.ts`.
 It only covers the verified relation-byte boundary; effect-specific status
