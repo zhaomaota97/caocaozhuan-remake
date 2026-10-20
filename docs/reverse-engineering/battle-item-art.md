@@ -18,3 +18,9 @@ Reproduce in the reverse workspace: `python tools/export_battle_item_art.py`.
 Browser coverage decodes all images, checks dimensions and visible pixels.
 Exporter RGBA checks prove palette conversion consistency, not independent
 pixel equivalence to a captured native item animation.
+
+Subsequent native wrapper evidence in `short-palette-tail.md` proves short
+palette records preserve and shift the previous tail. This zero-padded PNG
+bank is therefore an explicit preview assumption for tail indexes 246..255,
+not a universal native palette load. A live preceding-palette capture is
+still needed before claiming exact campaign colors for those indexes.
