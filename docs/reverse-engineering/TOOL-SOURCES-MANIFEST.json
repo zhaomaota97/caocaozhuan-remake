@@ -1,0 +1,1390 @@
+{
+  "scope": "Exact source archive; original root-relative paths retained, not standalone execution",
+  "files": [
+    {
+      "name": "analyze_portrait_palettes.py",
+      "bytes": 3810,
+      "sha256": "11978fc107398662c54cba0a191eac510daf89d54e9ebd3c03fb940fa4a77ae0"
+    },
+    {
+      "name": "audit_data_entries_complete.py",
+      "bytes": 1122,
+      "sha256": "448a9112f8930840f6b460033144e6b77414cf1f12d3e9de7dfea3f33e82d16f"
+    },
+    {
+      "name": "audit_data_entries.py",
+      "bytes": 1231,
+      "sha256": "5dcccff21318da195a1d6a9aa6669c2434e17197297a77ddc7be67d52c15a144"
+    },
+    {
+      "name": "audit_data_loader_calls.py",
+      "bytes": 772,
+      "sha256": "03d763a40013e9149dec9f8b6c666d63bb169bbe6f54d946a746a3b1a4d57680"
+    },
+    {
+      "name": "audit_data_sparse_entries.py",
+      "bytes": 2344,
+      "sha256": "1aa7949d0f185b2323dcd1043f1edc21b609042f994d61711986f1b01808c53b"
+    },
+    {
+      "name": "audit_dll_function_inventory.py",
+      "bytes": 1475,
+      "sha256": "74d13deba95edea68b262c6c8ce32f96b6ae0af689afe5aeb02cf14da71491ec"
+    },
+    {
+      "name": "audit_e_partition_tail.py",
+      "bytes": 1787,
+      "sha256": "0dbfd709981ac5dd44eeec9909e4f048f62906dfd90c3204daa3072f4d5d61fa"
+    },
+    {
+      "name": "audit_live_data_entries.py",
+      "bytes": 694,
+      "sha256": "fe2688b709195a26b905a7bfa00caf8265f69cceeab9a5c022e4bf65b8aad7ef"
+    },
+    {
+      "name": "audit_reverse_coverage.py",
+      "bytes": 3700,
+      "sha256": "dcd1c1ca5bfc119348c639730bf6db0f35d475c5aeba26b4bfb7f96426c0359b"
+    },
+    {
+      "name": "build_attack_stage_graph.py",
+      "bytes": 1792,
+      "sha256": "3e97c4283a581113f84a9cc6da8995f2382c7c006b898f48efb4f7045159217a"
+    },
+    {
+      "name": "build_eex_coverage_matrix.py",
+      "bytes": 1908,
+      "sha256": "6a5e3f1c3689efc1b1a0b6bf5c157f76217ed073459d3ddeabb4ee23ef6eef3a"
+    },
+    {
+      "name": "build_eex_coverage_summary.py",
+      "bytes": 1692,
+      "sha256": "00347629a6348c9d721da63ae4cb99804d67e5ea1cf346179543ee131302a934"
+    },
+    {
+      "name": "build_eex_opcode_usage.py",
+      "bytes": 2634,
+      "sha256": "0dae1e2f3d9b1c03f1f8c2b1c65c6edd8ea67e4c9aa8da4a53de0761e42dff78"
+    },
+    {
+      "name": "build_pseudocode_callgraph.py",
+      "bytes": 1731,
+      "sha256": "8dc80dec6d3870b77fb46d650f193fc44e3c61aad7246dc7724b6ff793436db3"
+    },
+    {
+      "name": "build_verification_manifest.py",
+      "bytes": 15194,
+      "sha256": "0b75220201a8d874ce1c236460f3ed59937df7e8f93dead3a891b2a952f8d93c"
+    },
+    {
+      "name": "capture_s00_expanded_units_native.py",
+      "bytes": 24776,
+      "sha256": "662e31a8416fda38dd2655a472888488259f998c70f9fb2d62403632b894123a"
+    },
+    {
+      "name": "capture_s00_unit_setup_native.py",
+      "bytes": 2624,
+      "sha256": "b102eed791084d7865fc4d5da0ec53bf9fe8ae2a5271059261a08c3e3ac980cc"
+    },
+    {
+      "name": "catalog_eex_handlers.py",
+      "bytes": 1116,
+      "sha256": "ce8bc00c3a5d7b55ec098d8333d142f5bc90a2e27716dd7da24070ca848f5478"
+    },
+    {
+      "name": "character_growth.py",
+      "bytes": 798,
+      "sha256": "7c76ae396e9f72b5399df9fe9207b32148241fe4e90430a32b38bac4d4ab529b"
+    },
+    {
+      "name": "classify_native_sound_callers.py",
+      "bytes": 1783,
+      "sha256": "cefe079a4bb7ee11edb77a6478a87355cd59b09cb97e6dde7710c67b716af2dd"
+    },
+    {
+      "name": "compare_e_partition_fields.py",
+      "bytes": 1306,
+      "sha256": "cc675d72b90f5330f1396f4f6d71b142961a8e9010c2c759b3f623a9f4966e8a"
+    },
+    {
+      "name": "compare_save_parts.py",
+      "bytes": 1526,
+      "sha256": "01379868dffa22cd46ef17f94693bb23f1b68f6910135780400c8e3c8eefe226"
+    },
+    {
+      "name": "compare_saves.py",
+      "bytes": 485,
+      "sha256": "23e7d955edcade0a27771c9bb39f0b9ceab17f03aa111083bb9574ade863e724"
+    },
+    {
+      "name": "decode_native_actor_camera_targets.py",
+      "bytes": 804,
+      "sha256": "f5039f165304e41ddc7ad71201ef4aa26d092992a45fdf4896520e08c34f4660"
+    },
+    {
+      "name": "decode_s00_unit_state.py",
+      "bytes": 1568,
+      "sha256": "7bf1ae79e7ebaa6d1bdca71465cb2eca634d66ab76e83b1e124fb9a4fb3592ea"
+    },
+    {
+      "name": "derive_writeback_projection.py",
+      "bytes": 3290,
+      "sha256": "ddfa1d7c3dc69d4f5048bfa9c634e7cd7466cd7dda0622d0d5ff6c2a80c22cd3"
+    },
+    {
+      "name": "diff_live_battle_snapshots.py",
+      "bytes": 681,
+      "sha256": "92742e0c5b48390a29bb159a2949f6f2c8570979d17c67cd83ebad1e50367380"
+    },
+    {
+      "name": "eex_cursor.py",
+      "bytes": 1131,
+      "sha256": "69bc7608371d95d90cc28f4ed240682425f9ce515d8110a29b945b80a22a9326"
+    },
+    {
+      "name": "eex_segments.py",
+      "bytes": 1489,
+      "sha256": "f89ccefcf77d9145ae9228a382b4d91e8ff3220d989b9817ffd3997b03f6de2a"
+    },
+    {
+      "name": "effect_blend.py",
+      "bytes": 1271,
+      "sha256": "b551142814748c33cf3a92e102c11fe3b34ec51b82827e24ebdae9a9654a9372"
+    },
+    {
+      "name": "enrich_s00_expanded_units.py",
+      "bytes": 1812,
+      "sha256": "088fe9ea21b3ba1a5f5b219a5df37cfd2b45437738a93a42237dbf5824d2b67f"
+    },
+    {
+      "name": "enrich_s00_units_with_animation.py",
+      "bytes": 1258,
+      "sha256": "b1a15c1f5e5b2c13770ca7fec46e0731f0102506fd73caa4722d02a54c544ba9"
+    },
+    {
+      "name": "enrich_s00_units_with_battle_slots.py",
+      "bytes": 1346,
+      "sha256": "c0c4cfcc8e75ca2f1149510841df77e6d522e75a5794816d0c6fe500963b89e4"
+    },
+    {
+      "name": "enrich_s00_units_with_characters.py",
+      "bytes": 1374,
+      "sha256": "89472c10d8bf2433bf948f0a15dff034c76a717aa8e62a38157bed6fdc089ca8"
+    },
+    {
+      "name": "export_all_level_prefixes_native.py",
+      "bytes": 6922,
+      "sha256": "8035e783dbc9a04f388a4c436b84021d121b0fe270a4349a081dcf7448e524df"
+    },
+    {
+      "name": "export_all_level_units_native.py",
+      "bytes": 4535,
+      "sha256": "b4d9982b60ef71dfd838879af4dffe8805d269d252773e6b9fedeffad4d428e6"
+    },
+    {
+      "name": "export_battle_actor_grid.py",
+      "bytes": 603,
+      "sha256": "ac6e8373d0ae479ec5888d3a445025c9f892f985cb1afce2eb06dd376023e1b1"
+    },
+    {
+      "name": "export_character_table.py",
+      "bytes": 932,
+      "sha256": "b743a0c6c1bb7c6b3f88fe4b9645232fae035018d5b575b3bc2bc47ddc367e86"
+    },
+    {
+      "name": "export_data_e5_sparse_records.py",
+      "bytes": 1722,
+      "sha256": "cfae29d6ead329108515b7acf18ba0b5d525c92aacbe99fae43d48c327ff22a0"
+    },
+    {
+      "name": "export_e_battle_prefix.py",
+      "bytes": 1497,
+      "sha256": "1b1931d1c6ce372555fa2f8c327d0f1d5abf80c79896961a0e11aaf201d9ae25"
+    },
+    {
+      "name": "export_e_partition_schema.py",
+      "bytes": 1877,
+      "sha256": "49d7def1d097520afecc2acfd84c3d04b860b493d020664963c381958e875cc8"
+    },
+    {
+      "name": "export_e_partition.py",
+      "bytes": 1742,
+      "sha256": "450473a7cd838e289ade57dcc5bb3f1bf379d70780b079831c7579ebde6a1344"
+    },
+    {
+      "name": "export_eex_bodies.py",
+      "bytes": 6771,
+      "sha256": "9a9e84132a94d6280622d88914ce9835af813d3bfc3a1808779671f56ee02c10"
+    },
+    {
+      "name": "export_eex_branches.py",
+      "bytes": 3033,
+      "sha256": "ec5f93d603892c8bcde0270eed39f919027c0a2b2cc7fe38f89fe340c5b7635b"
+    },
+    {
+      "name": "export_eex_dispatch_groups.py",
+      "bytes": 823,
+      "sha256": "314a042b00cd405540b1cca63debc5fc937f9c013be2ddb69c5e40f4c1e47fb9"
+    },
+    {
+      "name": "export_eex_handler_semantics.py",
+      "bytes": 1154,
+      "sha256": "9e6b90681b9a499f6e02c630409a53e0cdd7b56b32d97ce2f8ce6546af2a2d35"
+    },
+    {
+      "name": "export_eex_opcode_index.py",
+      "bytes": 1145,
+      "sha256": "f27cdc25dbe1eab2c40df78629ebecf4bd914322fc347d06cacfc1cadba80e55"
+    },
+    {
+      "name": "export_eex_predicates.py",
+      "bytes": 4185,
+      "sha256": "04d3589d8122121f9666dffe7e7d129883c18f5645e2b19a32c699a1fdba471b"
+    },
+    {
+      "name": "export_eex_text.py",
+      "bytes": 2954,
+      "sha256": "3be11bc1a0ac40d614b9dbcf1b40b11ccfe89c57366db062877ff7c40b42aca8"
+    },
+    {
+      "name": "export_effect_resource_links.py",
+      "bytes": 3173,
+      "sha256": "11178217ed638d208600f97411838553f8853791004e395bc05b1a7ffec7f2bf"
+    },
+    {
+      "name": "export_effect_table.py",
+      "bytes": 1833,
+      "sha256": "9ea09782e9524f933b7e3dafa2d6bbb29179af678d1367851987fa4c7997bdc8"
+    },
+    {
+      "name": "export_effect_target_predicates.py",
+      "bytes": 1552,
+      "sha256": "261f7066d729deeb7f6df4f6dd5e86f0ef22e8b4a1a8b7de88220faab3318f10"
+    },
+    {
+      "name": "export_effect_target_shapes.py",
+      "bytes": 912,
+      "sha256": "98ad73f9575f58e9ea5257d42764e8fcf5186816de16eb25dec0e6f9bae4eccf"
+    },
+    {
+      "name": "export_growth_table.py",
+      "bytes": 680,
+      "sha256": "8216f30aa8f5b2e2122fcb99108e349be465697c1b88d6caab3b101ca9b3af4d"
+    },
+    {
+      "name": "export_imsg.py",
+      "bytes": 992,
+      "sha256": "bf25538db66689099c54f2b91d7b6f24fc8149b9bc12796eefcdef483b2292e1"
+    },
+    {
+      "name": "export_item_table.py",
+      "bytes": 1826,
+      "sha256": "37385bc400f5147601b5b15474beb04c782e8ff9d0158c43ccda1896c43e4eb4"
+    },
+    {
+      "name": "export_level_event_inventory.py",
+      "bytes": 2006,
+      "sha256": "81ae1cf96cfa08d2c17931474714eb43467fe7980dfcba8bea4fcf722c653c1e"
+    },
+    {
+      "name": "export_level_script_inventory.py",
+      "bytes": 2549,
+      "sha256": "c83f93c6a036ecb291409ebcadfcffec77801fe3ed016f3efd53da43e9aa88ce"
+    },
+    {
+      "name": "export_level_setup_events.py",
+      "bytes": 2046,
+      "sha256": "b66bef8f42cd2826273f00416641441c1f441e705f255338817554a011a3ba3d"
+    },
+    {
+      "name": "export_map_layouts.py",
+      "bytes": 2692,
+      "sha256": "22e8ec383c10e62df020075f6aea61dafec86b472f4808c0e5a7c5e20cbb18ae"
+    },
+    {
+      "name": "export_mcall_clips.py",
+      "bytes": 5748,
+      "sha256": "3e4bce8018c19ef6854ba94b055add32ca78f3f583b900185eef2d4f5743a684"
+    },
+    {
+      "name": "export_meff_clips.py",
+      "bytes": 3118,
+      "sha256": "aaeeceb10aed67ee7d9763c17a2b1e5282bbca33af4ec431dbd456cdd046753b"
+    },
+    {
+      "name": "export_movement_directions.py",
+      "bytes": 553,
+      "sha256": "85f9cd02b0d827621a9193addc5fb5586e4d1fda9768626826d3d5b3d33b8118"
+    },
+    {
+      "name": "export_native_minimap_units.py",
+      "bytes": 2834,
+      "sha256": "2de3aaef125a94b8b4c428ec0a0cb3b447738493a2e578fa73114fc76a07d24d"
+    },
+    {
+      "name": "export_native_ui_templates.py",
+      "bytes": 3516,
+      "sha256": "54585f9427f1479579b401a2787ee64f30a263ad0a921e85cce620d400eac296"
+    },
+    {
+      "name": "export_pe_dependency_inventory.py",
+      "bytes": 2154,
+      "sha256": "7a49fc8ec3a8a173f01a0b0df762d9cbd3efca8e39bbcd219f337630b83c3baf"
+    },
+    {
+      "name": "export_portrait_index.py",
+      "bytes": 2229,
+      "sha256": "b863c6fc9b1a97e071a7ff8bfdceef09e4e8122bea3f74449ef6661f85a6127e"
+    },
+    {
+      "name": "export_resource_dll_map.py",
+      "bytes": 789,
+      "sha256": "c88c5a08b98cfa622cec10fc413354b7ca5094a6035c130e98f354be41a8ff66"
+    },
+    {
+      "name": "export_roster_columns.py",
+      "bytes": 823,
+      "sha256": "5f4cc9824f1d0cbe63f9a6748270e3d0a838a8d11aea6efd08611368c60af88c"
+    },
+    {
+      "name": "export_roster_native_fields.py",
+      "bytes": 1871,
+      "sha256": "6068d562ace28d0993407ccc0411d45d296b2ae0d88252731dbeea9468485dcd"
+    },
+    {
+      "name": "export_s00_liu_event_trace.py",
+      "bytes": 1837,
+      "sha256": "9b8f0c14b67779ba4ef4235054302da0423a9665e522e2e99a3724e22c985090"
+    },
+    {
+      "name": "export_s00_units_readable.py",
+      "bytes": 1469,
+      "sha256": "00fccad59e3d9871e66ce59988361e8e1f984da55b980655e33701a1b40b25ce"
+    },
+    {
+      "name": "export_save_object_schema.py",
+      "bytes": 1098,
+      "sha256": "59a4c0dff5a137f024b245173cab03d3dda8f13c9aa9b24924235891a80b8487"
+    },
+    {
+      "name": "export_save_objects.py",
+      "bytes": 1969,
+      "sha256": "909b7b768ea3e326d25c068f5c2b60db9a23cfcc7c8841512c9585ffa0a7c745"
+    },
+    {
+      "name": "export_save_text.py",
+      "bytes": 746,
+      "sha256": "985ca9d7283d251a279f8bb0c2f67c6b480595645ffd634c64a79a372ec61877"
+    },
+    {
+      "name": "export_saved_battlefields.py",
+      "bytes": 3245,
+      "sha256": "c557e1095d29856880354d033c484686d608beae969af1a991b5c1e2314042f9"
+    },
+    {
+      "name": "export_saved_consumable_stock.py",
+      "bytes": 1944,
+      "sha256": "e499de5858001ff2890b3485c1788b8531c55022a2c22cf2ee65dfe2a0fe07fe"
+    },
+    {
+      "name": "export_scenario_resource_links.py",
+      "bytes": 3680,
+      "sha256": "c510b10188d2da30adf837fb4d983a73356ae6b466d2518972d47f2807bd0c0a"
+    },
+    {
+      "name": "export_script_music_events_native.py",
+      "bytes": 4554,
+      "sha256": "7eb6cedf29a660e8482841615bc0a1775d670530c7afeb60f1ba5f38d6a56e58"
+    },
+    {
+      "name": "export_slot08_attack_ranges.py",
+      "bytes": 3724,
+      "sha256": "0483465dfbbab6b0bb398fef4cdea7723eb0dab5026b3099e86e2abdb4b81cce"
+    },
+    {
+      "name": "export_slot08_native_health.py",
+      "bytes": 8249,
+      "sha256": "dfc270cbe7b66dbec78e0e02f6cac197915249736db867d094f75e526f3b16b1"
+    },
+    {
+      "name": "export_story_readable.py",
+      "bytes": 4541,
+      "sha256": "f6a0f3f078994d9cbebfdb85df75a5441c8de5de427398e261109e9331a0acc6"
+    },
+    {
+      "name": "export_terrain_names.py",
+      "bytes": 745,
+      "sha256": "beb5b108651e20636f4fc874b47717262becc58381c127963e3a86ef710b2af2"
+    },
+    {
+      "name": "export_treasure_catalog.py",
+      "bytes": 2167,
+      "sha256": "f933f95c7dd17e1376af4aed9ad158e89e6e01bfebfd80295ece57df27eabeaa"
+    },
+    {
+      "name": "export_treasure_effect_text_native.py",
+      "bytes": 2255,
+      "sha256": "3fbb7042f6834cc6d84f24b8c10f1c436ca0f858f4a55fda930b233d03ee5258"
+    },
+    {
+      "name": "export_unit_spc_assets.py",
+      "bytes": 1616,
+      "sha256": "ff9aef643e970f1623a9fabcbfa5c344fd6de94189983e8ac8b9a8db4723a075"
+    },
+    {
+      "name": "export_unit_spc_mapping.py",
+      "bytes": 1335,
+      "sha256": "fa441c79f37406cc77cf4425349736d231826d2f2b9a6e742f9f1221505fec25"
+    },
+    {
+      "name": "export_web_portrait_bank.py",
+      "bytes": 1615,
+      "sha256": "371ad4a0bb7b1e533a15fb2f8e5a599d723d90e7c029e2f4317ec1bec716c479"
+    },
+    {
+      "name": "ExportNative.java",
+      "bytes": 2814,
+      "sha256": "71404802354868442c8d45a28fafa81a35d7fa3900f8e1163069b366aba38343"
+    },
+    {
+      "name": "extract_e5.py",
+      "bytes": 3112,
+      "sha256": "e73b48c19fdfb39b1b4a2aa472e92a081ba8f3f306afbdc1ac3bd6884f7328fc"
+    },
+    {
+      "name": "extract_live_eex_handler_evidence.py",
+      "bytes": 1579,
+      "sha256": "0873ca4b992f3a215ef6e9a2d51247785e53197ff813b08cbc6c6a9919af0378"
+    },
+    {
+      "name": "find_map_dimension_writers.py",
+      "bytes": 1158,
+      "sha256": "09d8f9e0091052316756a276cda5e6ac559a3f5d6a9aa065cb6091e5220e9531"
+    },
+    {
+      "name": "fix_remake_icon_transparency.py",
+      "bytes": 696,
+      "sha256": "5d813b85cca29d9f3c4a4080974aba2b81c4fb8ca7e8a49c6e84441ab1e7aa8d"
+    },
+    {
+      "name": "game_palette.py",
+      "bytes": 988,
+      "sha256": "2e208aa124ef68bba3d03e457a04d4dce459ada6b4b2952688743c303074600f"
+    },
+    {
+      "name": "game_rng.py",
+      "bytes": 434,
+      "sha256": "6edb3f668320714fda1318e957ebefc5efe4eae9e69334ced29694151c7e26d5"
+    },
+    {
+      "name": "game_text.py",
+      "bytes": 915,
+      "sha256": "09f6eb38cda84df3c33ec8a41dd130448e71d624368b516f33eac3d3aafe1100"
+    },
+    {
+      "name": "index_battle_termination_chain.py",
+      "bytes": 1181,
+      "sha256": "020f0a37111df3af5e2c55daa6c8254978efd20d3ce91bbec25835b67dfd20b9"
+    },
+    {
+      "name": "index_native_ui_sound_calls.py",
+      "bytes": 1118,
+      "sha256": "afd5bfaa7e49ce4b4eb2b09106ed7cc904b5caa967722b76d29cb430e811a985"
+    },
+    {
+      "name": "index_pe_modules.py",
+      "bytes": 3168,
+      "sha256": "822d2dd3a6ad887c1cb35479746c2e98bfa3e2712f3ee1781c054fa550cc536a"
+    },
+    {
+      "name": "inspect_e5.py",
+      "bytes": 3961,
+      "sha256": "2a73a6965c4c7c07ec56d5fd6e4268f9b403e6509152a58271ffac3c9223a364"
+    },
+    {
+      "name": "inspect_eex.py",
+      "bytes": 1444,
+      "sha256": "853da85415a3b935c5c15510bb6258bd31e16cdfaf914c7923529612be9cc3aa"
+    },
+    {
+      "name": "inventory_dll_calls.py",
+      "bytes": 970,
+      "sha256": "ffd088e87e942b0f117380924a555965f164a3199a825f1c879a63cfc985baa0"
+    },
+    {
+      "name": "inventory_game_formats.py",
+      "bytes": 1611,
+      "sha256": "7af06887fef611d9a7265ddaaa55f8d2d3a3d61aa9545c6e28022cb615afb960"
+    },
+    {
+      "name": "inventory_pe.py",
+      "bytes": 2982,
+      "sha256": "f05a27b3b510358444c6ea6521a7a4ce3aeefb95e95382156e52df4297409bad"
+    },
+    {
+      "name": "inventory_rizin.py",
+      "bytes": 849,
+      "sha256": "084b79e3d6355f11c190cab1de9da4902a6afe525cc91578170d24611d4cb443"
+    },
+    {
+      "name": "measure_native_ui_templates.py",
+      "bytes": 3021,
+      "sha256": "5e9a05ad1c46fa4c154dc5a2fa1d8cfdb759c437482ca7712d983975c60e7b0c"
+    },
+    {
+      "name": "migrate_battle_combat_inputs.py",
+      "bytes": 1890,
+      "sha256": "74eea1bad356d1f70ce5137bc4e1e7c0eaf55ca44578b49fd6d84c8ac2cdd326"
+    },
+    {
+      "name": "migrate_battle_toolbar.py",
+      "bytes": 2946,
+      "sha256": "0f573322a5f8e4e477737a14b9eec9d5fd39ffb0c66d0bd80231e6ff9a27ea8c"
+    },
+    {
+      "name": "migrate_dll_images.py",
+      "bytes": 1920,
+      "sha256": "5bc3741211261986f8eccc81706d01d5b3895b736fc6f7ff7d93c010eedbc73e"
+    },
+    {
+      "name": "migrate_map31_unit_palette.py",
+      "bytes": 1624,
+      "sha256": "691da14187e54619d1f5634a9e8656cb5ab8c132658045215db049c400053917"
+    },
+    {
+      "name": "migrate_slot08_animation_state.py",
+      "bytes": 1160,
+      "sha256": "a86cfeb4799ef9ad779f7049c1a9b2387d3d0f87e3195ce522dda7635d45c9a4"
+    },
+    {
+      "name": "migrate_slot08_markers.py",
+      "bytes": 2497,
+      "sha256": "e900d6b9f56973008a45a0116e57c3acf2ab79f47e528d8d4189c3169f2fe773"
+    },
+    {
+      "name": "migrate_slot08_minimap.py",
+      "bytes": 1108,
+      "sha256": "2902f13ab578616b771f692e470a89d33b08fb04bb08d6d6a6b1df829c9ecef1"
+    },
+    {
+      "name": "migrate_verified_critical_frames.py",
+      "bytes": 3047,
+      "sha256": "ec1b8b9b0bfeb228672b0425b4d732655c18d1b92420542023b77d37c95e6b9c"
+    },
+    {
+      "name": "migrate_verified_sound_banks.py",
+      "bytes": 2568,
+      "sha256": "c3247c49dcbef3c47a8210bf3b5a919a7c52ef80eb043428d205961265b9af3b"
+    },
+    {
+      "name": "observe_live_game.py",
+      "bytes": 47802,
+      "sha256": "a6872de2d7273d6317d6d01a2298fb6469b6823e5e837ae22757c43e425e9064"
+    },
+    {
+      "name": "parse_live_eex_events.py",
+      "bytes": 908,
+      "sha256": "9c84013be80961593bee951f50b1904ac9d530bd40b21c3a85cc326e46045faf"
+    },
+    {
+      "name": "prioritize_unobserved_eex.py",
+      "bytes": 1261,
+      "sha256": "72ea9851144925d2c498b377420e98d397afc349941ffcf938def8587d23c62c"
+    },
+    {
+      "name": "probe_font_asset.py",
+      "bytes": 959,
+      "sha256": "6914844de822e00084c83eed6ed18c85dfe0ed6275a3ef782e045d70b9a0b68a"
+    },
+    {
+      "name": "probe_movement_animation.py",
+      "bytes": 6936,
+      "sha256": "6cc84dd79d3cc0a95c97325ce5349e3bd254f5c4f470b18869bf05e9a99247f6"
+    },
+    {
+      "name": "probe_movement_destinations.py",
+      "bytes": 3498,
+      "sha256": "a4594b0feaa6fe71f074f2600fae97d1a1bd8ff5f264f8f3d353d5e0b4fe4be1"
+    },
+    {
+      "name": "probe_movement_sounds.py",
+      "bytes": 2735,
+      "sha256": "7e9e80586471275347dbaa35d851fb83a94f92da1e8aa8f1059ef800258b32d4"
+    },
+    {
+      "name": "probe_native_movement_paths.py",
+      "bytes": 15542,
+      "sha256": "e37c5a34df8fb0563824a8d4b0d6047778ace9eb5dede1a4482924a8eb32bff8"
+    },
+    {
+      "name": "rank_dll_semantic_candidates.py",
+      "bytes": 2123,
+      "sha256": "200436b80075ba043a0a030051145cfde51dc569b615f00a4c0b6cad12f3297d"
+    },
+    {
+      "name": "render_animation_sheets.py",
+      "bytes": 1790,
+      "sha256": "c7b46388c23e9829b743199ee868f200fee19bbafc06a79743395b3d88ee9b21"
+    },
+    {
+      "name": "render_battle_maps.py",
+      "bytes": 2474,
+      "sha256": "99a2f3a6f52e46dccc83fea85835e1ad90931547aa6d4a7811a7b1522af02550"
+    },
+    {
+      "name": "render_mcall_previews_native.py",
+      "bytes": 4730,
+      "sha256": "d262e4dc0a91b85ec3adc02fb2879121b3dae1aa6872c53b3178e01bc80274a8"
+    },
+    {
+      "name": "render_mmap.py",
+      "bytes": 820,
+      "sha256": "e96786ebd7bdbb33566e6b9ce13a5daa72ea9211c2c6a83147212b50d8bd6757"
+    },
+    {
+      "name": "render_saved_units_native.py",
+      "bytes": 7029,
+      "sha256": "9d1b5b3349473a2603a44780e809248f4d939bcbf5c78560c5a69e3eb5ce7a24"
+    },
+    {
+      "name": "run_reverse_checks.ps1",
+      "bytes": 1238,
+      "sha256": "d5d9cd820ce55c71e20d57e3cbd2107bb7d8588f70035d5845b85d970e60b593"
+    },
+    {
+      "name": "scan_data_entry_references.py",
+      "bytes": 1650,
+      "sha256": "97b3a3ad91c4e7736dc6f199541209f981b82bd09b8fcfe697aca8a319c47ea5"
+    },
+    {
+      "name": "summarize_dll_callgraph.py",
+      "bytes": 2137,
+      "sha256": "da3e1a6bc7c4bd8c7b435ff354a99fb3147d5c4d900b044ecc5dc3bac06871b6"
+    },
+    {
+      "name": "summarize_e_partition_ranges.py",
+      "bytes": 790,
+      "sha256": "688b6d8e277587925c3b344dc3d955f3e7b7f2bd05c4edc93b07ba883278a8cc"
+    },
+    {
+      "name": "summarize_eex_static_clusters.py",
+      "bytes": 1648,
+      "sha256": "3df6ec611ea21409a8ef6664903ab88774c04862c784c113ce0191fc11d91508"
+    },
+    {
+      "name": "summarize_live_eex_cursor.py",
+      "bytes": 2409,
+      "sha256": "ed21effead2515bff64834dfcdc3911275fbbb2415c20e105fd958863977f28e"
+    },
+    {
+      "name": "summarize_live_eex_handlers.py",
+      "bytes": 752,
+      "sha256": "04440827f7e3d866c9feb38d03fbe6e68d7b5fb839be5159241092fc39df23b3"
+    },
+    {
+      "name": "summarize_live_eex_runs.py",
+      "bytes": 1219,
+      "sha256": "80176dd667b273a05d6f657239f616e5f62f0f6ca302845a63689f4420a1e7f9"
+    },
+    {
+      "name": "summarize_live_eex_state.py",
+      "bytes": 726,
+      "sha256": "f496591d2b3a0e007ef03134ab6c0f7e3c57d4a6a699b76fb3adefc009c7841b"
+    },
+    {
+      "name": "summarize_live_load_controls.py",
+      "bytes": 1067,
+      "sha256": "dce995ae3f1408060f576dcf7371ecdde02783c477211abbf43c110fabe457f6"
+    },
+    {
+      "name": "summarize_live_load.py",
+      "bytes": 2443,
+      "sha256": "8e63f9df511f2380273ce4b34278ec992ea96ab59ab51e6dffa27e95f19e9f83"
+    },
+    {
+      "name": "summarize_live_resources.py",
+      "bytes": 2015,
+      "sha256": "ca18b16b378842254de89b77828cc2710877181453b6bf2d89231b61a297cac2"
+    },
+    {
+      "name": "summarize_native_ui_sound_candidates.py",
+      "bytes": 801,
+      "sha256": "ab8cf9027a2ed2dca3630873f12897e458831ba8629f53d8fc6cea8e67a22a56"
+    },
+    {
+      "name": "summarize_sound_id_usage.py",
+      "bytes": 1162,
+      "sha256": "937a8881829c7266652a229da50ba3d1ec90edd1785390f747b12922862fee18"
+    },
+    {
+      "name": "summarize_story_message_timeline.py",
+      "bytes": 854,
+      "sha256": "7229201b31e8d2e04be46389eea8018f0972c3d502297442eaa9b1a86697420a"
+    },
+    {
+      "name": "summarize_target_shape_matrix.py",
+      "bytes": 2006,
+      "sha256": "6aa484a2cda9b8a89513f368b2e1a432cba2285267a134133a663a064bf9baef"
+    },
+    {
+      "name": "summarize_target_shape_probes.py",
+      "bytes": 2381,
+      "sha256": "b764805000be1445404c64e1296acfbda20c9a57adfa65a93e6814363d975789"
+    },
+    {
+      "name": "test_character_growth.py",
+      "bytes": 632,
+      "sha256": "1f1be4b3ec4d20d4ddacf1d482d15292f2f00c622fd61286b63b65136bcc4846"
+    },
+    {
+      "name": "test_eex_cursor.py",
+      "bytes": 996,
+      "sha256": "cedda8dd3ed1aa93973256c0e9d93a1fb29006c077a421d0d24fdf0c87d4582c"
+    },
+    {
+      "name": "trace_game.py",
+      "bytes": 7099,
+      "sha256": "3a6ac7ce4010947f8b9875f651aa9cdf345847ef6309a4c7b1f098ae4ea24121"
+    },
+    {
+      "name": "verify_actor_stat_modifier.py",
+      "bytes": 1637,
+      "sha256": "dbd034cf1432b3bce9ae27238dfe9e777a5ba75df7e1f02eb11732ad23a87c8b"
+    },
+    {
+      "name": "verify_ai_attack_score_native.py",
+      "bytes": 3673,
+      "sha256": "b1436524eff7605cf6d10923121a2ce70dcf9c7d31597cd11be19bc10e0eb9b8"
+    },
+    {
+      "name": "verify_ai_candidate_selection_native.py",
+      "bytes": 4422,
+      "sha256": "910347bc8c4aa830b434cedb0d029ba9a93137fd729ca427cc9154b3fc27a736"
+    },
+    {
+      "name": "verify_ai_cell_score_native.py",
+      "bytes": 4563,
+      "sha256": "2700ca165389534457d73410dec24df0c99fc6acdf33ec9032f682393ba1e627"
+    },
+    {
+      "name": "verify_ai_class_filter_native.py",
+      "bytes": 1912,
+      "sha256": "43d3a17c28adde31ddec52a75e6fec91e759a227dbf80b6a8525c593f6698fae"
+    },
+    {
+      "name": "verify_ai_diagonal_candidates_native.py",
+      "bytes": 2701,
+      "sha256": "a0e029cb59bd8d8d6a0c697e4ba1bca7d33980837a326c58124a6cdfe6dbf9ed"
+    },
+    {
+      "name": "verify_ai_multi_target_score_native.py",
+      "bytes": 3896,
+      "sha256": "eabb5cb63d8a46f80a0e7044ef3a85ab043834e981b192791168f50c147d658f"
+    },
+    {
+      "name": "verify_animation_command_reader.py",
+      "bytes": 1766,
+      "sha256": "217333e2668530f6f109528ffc7ef6cac1418ae7742bafd9128c27ca1a4bcb26"
+    },
+    {
+      "name": "verify_animation_command_runner.py",
+      "bytes": 3472,
+      "sha256": "73ed19c9ebdabb29a9d03ff455173b5614dca68daa7c0fe1f7cd2ca6bb9506f5"
+    },
+    {
+      "name": "verify_attack_banks_native.py",
+      "bytes": 2921,
+      "sha256": "972b11bec57d8345262a8c3d4d1e01228bb6c325d7928226e2ecb59c471e7c05"
+    },
+    {
+      "name": "verify_attack_experience_awards.py",
+      "bytes": 4573,
+      "sha256": "a04cedd4b6779add99356129b176355f930facb96f08d9c9b728828265d9f667"
+    },
+    {
+      "name": "verify_attack_presentation_rng.py",
+      "bytes": 3391,
+      "sha256": "d2cadb9e24c24beeb4c901fca35e8ce52b1edbd1ed28587b2a81ebd6b9300298"
+    },
+    {
+      "name": "verify_attack_reward_controller.py",
+      "bytes": 4957,
+      "sha256": "604ce20698404900f702b513403a06a0cd7ebdfb33f5980601d35f85d97c6618"
+    },
+    {
+      "name": "verify_automatic_healing.py",
+      "bytes": 4482,
+      "sha256": "ec8c042e967d3c8135760118e9250c6bd1fcaa58b68d88277d8da0423e549a3b"
+    },
+    {
+      "name": "verify_battle_overlays_native.py",
+      "bytes": 4449,
+      "sha256": "2bc4435ec9dbb1b8147cc3d3614e2f331e1c730e63cd03fe5e04d48275c6448a"
+    },
+    {
+      "name": "verify_battle_save_native.py",
+      "bytes": 3741,
+      "sha256": "ff4f5c993394aaf863ec342f5ce9d08f9196a84881ac6324ff53eac4c4280ffa"
+    },
+    {
+      "name": "verify_battle_turn_chain.py",
+      "bytes": 538,
+      "sha256": "7cd1cb0d0489f3b4ff41131494a410a67f181cf2087d41f7bcae05c420514a8c"
+    },
+    {
+      "name": "verify_combat_magnitude_native.py",
+      "bytes": 5793,
+      "sha256": "5cb04d683cd104b2c4722da9b8dd0c6ecf26f8a6645a1611044a22b64f11d1eb"
+    },
+    {
+      "name": "verify_completion_audit.py",
+      "bytes": 618,
+      "sha256": "35c11b1715360292642cdbb8698b77a84c6f6289051eaa1fd5d96d8398162cf5"
+    },
+    {
+      "name": "verify_consumable_grant_native.py",
+      "bytes": 2357,
+      "sha256": "96a54551c69d8901fd21cb39fc9d59763df912e024298ba3668db3ff1bed1234"
+    },
+    {
+      "name": "verify_consumable_inventory_native.py",
+      "bytes": 1854,
+      "sha256": "46aac5806030e361ad3094a46d2a190134f40a0fdfed32c7a8d73114aa7b7d6c"
+    },
+    {
+      "name": "verify_counterattack_gate.py",
+      "bytes": 4501,
+      "sha256": "a9d8a0ce891376b15b0e75b8dc5cefbabfb7fb5cadd1a0d0361ddb4c2b357a6d"
+    },
+    {
+      "name": "verify_data_entries_unused.py",
+      "bytes": 674,
+      "sha256": "c4a91f3c80159df6d06eaf836d3e5b09cd6a7f3a2e52748292e9b1fbdd3d8f87"
+    },
+    {
+      "name": "verify_dll_boundaries.py",
+      "bytes": 842,
+      "sha256": "362fb29a93d75790c82fcda729bcf27a8df6f36308742c47895bb7e7d3fc0deb"
+    },
+    {
+      "name": "verify_dll_exports.py",
+      "bytes": 953,
+      "sha256": "c3ea7cc1e6c103332457946a1fd81642bdb06216ee2cba45f1334aa4162a3e45"
+    },
+    {
+      "name": "verify_e_battle_prefix.py",
+      "bytes": 607,
+      "sha256": "3f2abb618b7e5b9b6e344342a8f668982d8de9194e8e445f36731fe08a05cc6d"
+    },
+    {
+      "name": "verify_e_partition_codec.py",
+      "bytes": 1036,
+      "sha256": "f360771d3ca8e222d76392c382dcf58bc30d711b37bbf213dbc3b05d07b2e1df"
+    },
+    {
+      "name": "verify_e_partition_roundtrip.py",
+      "bytes": 747,
+      "sha256": "9d9f8807db6c59ad222d4b229262e445f101458929b538457e40c656a2ff52e0"
+    },
+    {
+      "name": "verify_eex_48_50_success_native.py",
+      "bytes": 3375,
+      "sha256": "8e37f82930fba3d856ba5f0ec6fa7d31f2d51739ba544c161c046f369f59b520"
+    },
+    {
+      "name": "verify_eex_amount_native.py",
+      "bytes": 2741,
+      "sha256": "c80fe897318bed9f83d870d41c034a73ff977e39055ff04934caa6d49fe6158b"
+    },
+    {
+      "name": "verify_eex_animation_commands_native.py",
+      "bytes": 3574,
+      "sha256": "ec446bbb96aef5c0d67e891b88d29737c215b4e15fe2f7de7beb88c44a729773"
+    },
+    {
+      "name": "verify_eex_branch_selection_native.py",
+      "bytes": 3465,
+      "sha256": "e1c4e3a2323bad5b8a82a55d5aaa867c948bf5268b67705612a36a96b70e4e25"
+    },
+    {
+      "name": "verify_eex_common_config_native.py",
+      "bytes": 2858,
+      "sha256": "cf7c4b7d31b57a0059aece3939b95b92704198b56723341ac76450af19e196de"
+    },
+    {
+      "name": "verify_eex_conditional_handlers.py",
+      "bytes": 1970,
+      "sha256": "db71e9994893ced2cce9ec970887b5e4804049e9e71bc0ced31091c7774fc51a"
+    },
+    {
+      "name": "verify_eex_config_predicates_native.py",
+      "bytes": 1899,
+      "sha256": "06a8744ec2b6aa799dff6cead6fe9b47c053bf59e7f8b220f25f0bfba524017e"
+    },
+    {
+      "name": "verify_eex_cursor_slot5_native.py",
+      "bytes": 2645,
+      "sha256": "656430c1bb1b65e1ce5143271841b5697cc65bb628fc2e89c035b863e13618d4"
+    },
+    {
+      "name": "verify_eex_dialogue_native.py",
+      "bytes": 4338,
+      "sha256": "6f7565056546ca91282c01906ec66b3cedf8fbbd73e7be512edc834d364527e6"
+    },
+    {
+      "name": "verify_eex_dispatch_native.py",
+      "bytes": 9220,
+      "sha256": "cde8622ac4c8ebf4b5895b32c15f42ab12bdaa7b7cbd526f7f09276d192429cb"
+    },
+    {
+      "name": "verify_eex_effect_dispatch_native.py",
+      "bytes": 3357,
+      "sha256": "d06ea889d716105e97b38b789657b718cc63660caddd8a2cf4980e53d8d70876"
+    },
+    {
+      "name": "verify_eex_enemy_setup_native.py",
+      "bytes": 3666,
+      "sha256": "972e07149221cfc0a60eb0fa8ddc97f1667f095491d28efa5d790bdaf78f628e"
+    },
+    {
+      "name": "verify_eex_handler28_native.py",
+      "bytes": 993,
+      "sha256": "59fdb64465a393e9de0470601e939232305a9c50bf4e5b9c96bd9874ddc24e5c"
+    },
+    {
+      "name": "verify_eex_high_frequency_handlers.py",
+      "bytes": 2448,
+      "sha256": "eac9d08bc241ff3b84a300441f89fbc1e44880845b287cac19bd08127417442e"
+    },
+    {
+      "name": "verify_eex_low_frequency_native.py",
+      "bytes": 1975,
+      "sha256": "4826d1544e03c66843cd82732e847ca54e7f6f44293c59ebfc17b5604e3676e7"
+    },
+    {
+      "name": "verify_eex_numeric_predicates_native.py",
+      "bytes": 3518,
+      "sha256": "29de8c7c785cc6a0b7ea76668d2a13e8d41e5e63f9b985cd31f2a7b3db15f449"
+    },
+    {
+      "name": "verify_eex_opcode48_50_boundaries.py",
+      "bytes": 1772,
+      "sha256": "c48b3f3bff78d16c24aa687463e1c201d1b5b925035d0ce4e63a48c12af325a9"
+    },
+    {
+      "name": "verify_eex_opcode48_target_native.py",
+      "bytes": 1649,
+      "sha256": "325aac2c43acda584463eef4f1922d89c33918959cd76c5348d5fae4a8866373"
+    },
+    {
+      "name": "verify_eex_opcode50_target_boundary.py",
+      "bytes": 1247,
+      "sha256": "b407725de6ce2cea17d6d08e6414528952831488db7ddf4ef1180db778e219cc"
+    },
+    {
+      "name": "verify_eex_portrait_flags_native.py",
+      "bytes": 3895,
+      "sha256": "624729e211896b8ac11794738d34988f9fc30b92a78e632424f3476fc534244c"
+    },
+    {
+      "name": "verify_eex_portrait_phase_native.py",
+      "bytes": 5351,
+      "sha256": "b9ed3bee7b1ccbde1e6e19ace334783f4054377ceb03c1ec1e7769d479b04932"
+    },
+    {
+      "name": "verify_eex_reset_native.py",
+      "bytes": 2186,
+      "sha256": "1a40f995b1f89e6402874e4b5ebb8127f497f4697ac69fb920612f68f3406082"
+    },
+    {
+      "name": "verify_eex_restore_units_native.py",
+      "bytes": 2754,
+      "sha256": "d3cef000622f0bd1cf939594baebde4b3e47bf504945600801b11bdb10406cc0"
+    },
+    {
+      "name": "verify_eex_side_effect_candidates.py",
+      "bytes": 835,
+      "sha256": "2d6d36f10f101b33d1641f69e0ffedb9c89f5c2c83457bdb3a5cdaf7d19a272e"
+    },
+    {
+      "name": "verify_eex_side_effect_native.py",
+      "bytes": 1795,
+      "sha256": "c9d5002387ff5e29660f65e04070b28c6d227b5312be117935a9f09d5abbcc18"
+    },
+    {
+      "name": "verify_eex_unit_count_native.py",
+      "bytes": 3134,
+      "sha256": "8684875b64dbbb2d69df1dcee541707aa9ff253a8dce1510c144040415fa2014"
+    },
+    {
+      "name": "verify_eex_wait_timer_native.py",
+      "bytes": 1643,
+      "sha256": "0ec867fcd8cd4fb31da0815029626c981a7ac00f77fb15ad637f7b6af9decd86"
+    },
+    {
+      "name": "verify_effect_blend_native.py",
+      "bytes": 3660,
+      "sha256": "b0c56640aa5aa7f2b4a604301bf1371ea55ae0fe5c07831bc5be07a8635ac90d"
+    },
+    {
+      "name": "verify_effect_cost_native.py",
+      "bytes": 3575,
+      "sha256": "e582e97f36bbe143e5a0df7152fd072b443e690e1db21d3b33974c4a0e919848"
+    },
+    {
+      "name": "verify_effect_frame_sequences.py",
+      "bytes": 2507,
+      "sha256": "a5b4b356c2c460e5d3401d3446395a2f6043f9ab070174fe375c914958949fe0"
+    },
+    {
+      "name": "verify_effect_movement_query.py",
+      "bytes": 2538,
+      "sha256": "8f6f8838b5266a015909a5680c9ae4da14ddf047154e39c4fb222031abc187f0"
+    },
+    {
+      "name": "verify_effect_table_native.py",
+      "bytes": 2058,
+      "sha256": "68d509ca5e9e3dbe3dc3f2d049b1d10f230c26d4c7a9197c4619d5a01e5b3eff"
+    },
+    {
+      "name": "verify_effect_terrain_native.py",
+      "bytes": 2069,
+      "sha256": "368a9507b6c323016830d3e143b15757dd2d5d5bf1f1e4c3e8ad002c43c386ee"
+    },
+    {
+      "name": "verify_equipment_accumulator.py",
+      "bytes": 3821,
+      "sha256": "7fa6c55cec57a7b0bac0d2993ece3add596da1aefe9a2a9a9a19f36cac703a83"
+    },
+    {
+      "name": "verify_equipment_attribute.py",
+      "bytes": 2223,
+      "sha256": "c8d83ba47a1d2cdcaa56e24ef5b0d6f4078be4c15ee8fd6b0124ce5ea3ee2128"
+    },
+    {
+      "name": "verify_equipment_experience.py",
+      "bytes": 3651,
+      "sha256": "b3e1f3c0ffde2ac025b069bbf8ce10f53737f4ce4a9f7926287ec8d800898773"
+    },
+    {
+      "name": "verify_frame_clock_native.py",
+      "bytes": 2652,
+      "sha256": "f066e5f0a196b377a89ce0770f2b413e753fdf85e38d8a4ae36ef11fff61ec49"
+    },
+    {
+      "name": "verify_generated_animation_stream.py",
+      "bytes": 3173,
+      "sha256": "30376f6064b863e5f4ad55659718f5ab499060f4cf46453d677fff3a75b6bb20"
+    },
+    {
+      "name": "verify_growth_native.py",
+      "bytes": 2783,
+      "sha256": "6af9a2a1ce1af0c54a060bd34d15c4f439986c92096dcd79e94f9a9ff51e359d"
+    },
+    {
+      "name": "verify_hit_static.py",
+      "bytes": 735,
+      "sha256": "5727dffda7c63555e6fbe1a8eabffa71e20a069000d2a280eee25d498f7e88f1"
+    },
+    {
+      "name": "verify_idle_frame_native.py",
+      "bytes": 2334,
+      "sha256": "dca0ad0d44f46948d55f45a85aac06df2568d10686e47ff70b0f6345003e7c49"
+    },
+    {
+      "name": "verify_idle_frame_selection.py",
+      "bytes": 2570,
+      "sha256": "c76308b0a0f48ceeae9e872546638b61da45eae8cd2c1edcce069dee1b19b6dd"
+    },
+    {
+      "name": "verify_item_resale_native.py",
+      "bytes": 2291,
+      "sha256": "2e36528bc532f65ddc605fee14152c2918f027684e42a19947ac7087f28385d5"
+    },
+    {
+      "name": "verify_item_restore_amount_native.py",
+      "bytes": 2218,
+      "sha256": "256744d06e9f2d8cedecb9305e5ae154d26a066526f5ba04cf1292eec47fbab1"
+    },
+    {
+      "name": "verify_item_restore_controller_native.py",
+      "bytes": 3289,
+      "sha256": "ce185147be4f71230b4c742364d31cfe53b1d63db0894c66c89d1ebdf49c7277"
+    },
+    {
+      "name": "verify_live_eex_alignment.py",
+      "bytes": 1718,
+      "sha256": "e13721fc954155a5e6c5b7d516046fb60a425e1989a0db8ea28a26c4d905bedd"
+    },
+    {
+      "name": "verify_live_eex_file_match.py",
+      "bytes": 554,
+      "sha256": "9392c479cd0ee579c3879943fe908a5076f065aff978551dd4f3db38b55bc92a"
+    },
+    {
+      "name": "verify_live_eex_handlers.py",
+      "bytes": 879,
+      "sha256": "489a3d63de28ed62808ea885085fa1a9161decc11d948e2ec7eacf6664912c02"
+    },
+    {
+      "name": "verify_live_eex_node_alignment.py",
+      "bytes": 1635,
+      "sha256": "0afaf38821e8f47fb739187b62bbc250e2c1e1d64c877b0d22ed5e64e657e1d6"
+    },
+    {
+      "name": "verify_live_snapshot.py",
+      "bytes": 2284,
+      "sha256": "895e8e64c2140174772b9e1bf1036d4fc4eb2ae67c937f7c118ec6ae71b9e5fb"
+    },
+    {
+      "name": "verify_manual_item_dispatch_inventory.py",
+      "bytes": 3312,
+      "sha256": "2c548fd3932921c5b3ee6961d42c284b4617514d62927048399151d2af821da9"
+    },
+    {
+      "name": "verify_manual_item_eligibility.py",
+      "bytes": 2746,
+      "sha256": "986c5e2d2c422085831a66db44a0dc4c936b52eea00f4df095cc8c3d09c55a30"
+    },
+    {
+      "name": "verify_map_readers_native.py",
+      "bytes": 3434,
+      "sha256": "3e23cf5f182efbbab1958f1cc62d4b338a4fc44ad3309ad8d333a471b6cd6a94"
+    },
+    {
+      "name": "verify_movement_budget_branches.py",
+      "bytes": 5579,
+      "sha256": "0c3088421019095e44c44dcffce1c967c6044d8c7c58eb1adc793da167a2ae03"
+    },
+    {
+      "name": "verify_movement_table_native.py",
+      "bytes": 3756,
+      "sha256": "15624370907aa5bf256dc3c4c2180c9841fec85efd1b06b55c9c45ac4b0bfac0"
+    },
+    {
+      "name": "verify_multi_target_reward_aggregation.py",
+      "bytes": 4028,
+      "sha256": "2bcca6a3fb86c8930b65e894f7c0747a6aeadf05d288688fd34f050b2cc9a4f5"
+    },
+    {
+      "name": "verify_music_mapping_native.py",
+      "bytes": 3030,
+      "sha256": "cc6516159d1ddea3562718a6a43d03a748bf77df790383f641ba827670bc26eb"
+    },
+    {
+      "name": "verify_native_movement_mirroring.py",
+      "bytes": 3172,
+      "sha256": "d62ced35938085563b435b5063037fb7c172611c5f1ee5fb51343beedf69783c"
+    },
+    {
+      "name": "verify_native_party_selection.py",
+      "bytes": 4453,
+      "sha256": "b3b3d397ca948ba45687e977d573c3ff6069ae2bd66f4615c483a4e26582c29b"
+    },
+    {
+      "name": "verify_native_target_candidates.py",
+      "bytes": 8017,
+      "sha256": "27c90581772b1e6c5566ff42865d81984806ba0e668d88fb8392f7f8669f2c53"
+    },
+    {
+      "name": "verify_native_target_shapes.py",
+      "bytes": 4481,
+      "sha256": "10aea8fd7e7c28734838d4f251d975e9c0bdc07d15b5b369598bba027581f6ce"
+    },
+    {
+      "name": "verify_open_work_items.py",
+      "bytes": 1263,
+      "sha256": "d194bb27075ce35c84c33438cfe3ad4289eb977f97e9d96d1c89b9f93e1b6ba7"
+    },
+    {
+      "name": "verify_palette_load_controller.py",
+      "bytes": 3446,
+      "sha256": "fc06fae47f4d26f47a6a550eff1f88ff3afac76f5294e4aebf1005b0f2eef858"
+    },
+    {
+      "name": "verify_palette_lookup_native.py",
+      "bytes": 2001,
+      "sha256": "3855da6edebb3a128bc32740c4a79075494588f377de9de66d8f9dd39053740d"
+    },
+    {
+      "name": "verify_palette_upload_native.py",
+      "bytes": 3453,
+      "sha256": "0d3d1d2a3de8531fe576d553bd8049d221fc8a24b4d228c27186d5e196b203c6"
+    },
+    {
+      "name": "verify_pmapobj_sprite_banks.py",
+      "bytes": 3204,
+      "sha256": "bfef46cf73e62e25340197a59c115a82f08e013a588c2770f287656a23df4e26"
+    },
+    {
+      "name": "verify_portrait_blit_native.py",
+      "bytes": 2216,
+      "sha256": "800fe8036256570ea10cad0e9d9666722287f25c99b396dc1cbed15b4ffb42ee"
+    },
+    {
+      "name": "verify_portrait_index_native.py",
+      "bytes": 2090,
+      "sha256": "470d8f7be985ad7681f6bc397675e946f2e33c1a347458cb945e0d86114722c4"
+    },
+    {
+      "name": "verify_progress_snapshot.py",
+      "bytes": 1054,
+      "sha256": "bec10f5b24fbe91d1580bda12682584cd8e42565c1c2eaaee4058324d320f3a0"
+    },
+    {
+      "name": "verify_real_consumable_grant_native.py",
+      "bytes": 2578,
+      "sha256": "26b260f7d9c97ac95b15bae4e864dc73a4678f4548bd60d440fb78f5a376f82b"
+    },
+    {
+      "name": "verify_remake_asset_migration.py",
+      "bytes": 1336,
+      "sha256": "a41dd76884aed7f4fd7c03c8a898dece679dc873d6f0aa5dcec6348ea4360a85"
+    },
+    {
+      "name": "verify_rng_native.py",
+      "bytes": 2490,
+      "sha256": "27a3b30b4d3b9a45b42cd6a5cf8c2389a747be3ad147190859384f3d20f09ee0"
+    },
+    {
+      "name": "verify_runtime_decode.py",
+      "bytes": 1094,
+      "sha256": "7e21ec1e1654f1818bcd8f87e05f3aba8e9bdc27e54a52b916a19eed4c0b5189"
+    },
+    {
+      "name": "verify_s00_drop_inventory_native.py",
+      "bytes": 4173,
+      "sha256": "100450044de89a1f470e14288e114f9bbf50f4ece3e082b9737a0905ebdb7cd8"
+    },
+    {
+      "name": "verify_s00_entry_prefix_native.py",
+      "bytes": 3794,
+      "sha256": "0a1f9481b1d5034bfa5eaad33be47e08eaba6c789753e40132a6c3b6f2064dfd"
+    },
+    {
+      "name": "verify_s00_full_event_selection.py",
+      "bytes": 14900,
+      "sha256": "72ebd749385001db0137b6bcf10070656bf1d931c6594df9dde205acde36f72a"
+    },
+    {
+      "name": "verify_s00_reinforcement_predicates.py",
+      "bytes": 3267,
+      "sha256": "9e32f1000bf975827d4cdf84a17f5bee42af6d1ab84ba41d81f499cdcf85e351"
+    },
+    {
+      "name": "verify_s00_setup_block_native.py",
+      "bytes": 2804,
+      "sha256": "5beb86a1cdc7525afa42581e7501a8363131ad42c4ea7dd1a038a747ff4e7be8"
+    },
+    {
+      "name": "verify_s00_slot_allocation_native.py",
+      "bytes": 4133,
+      "sha256": "c7d60b4959aa0fb487348ffcd7c8e7963b6af4216ca4cfd50bccdd58233c577d"
+    },
+    {
+      "name": "verify_s00_victory_tail_native.py",
+      "bytes": 3701,
+      "sha256": "cf0546178b87957da28bad4a1a0995630dd064c9c7c9333769252c5b0b7ecba4"
+    },
+    {
+      "name": "verify_s29_party_dependency_native.py",
+      "bytes": 4195,
+      "sha256": "d6c74e4dc9b29c8de134503b23652ccd3077f8eef258973fbfcf06e5d90301a2"
+    },
+    {
+      "name": "verify_save_objects_native.py",
+      "bytes": 2585,
+      "sha256": "6b1f3892719c1260d264c4b7f24d8da383444830c23bdaa3cc0c0cd054f2c445"
+    },
+    {
+      "name": "verify_saved_ordinary_damage.py",
+      "bytes": 13343,
+      "sha256": "4681cb9ecd5a3986c6f33d1d89f95cc57183e5324bb5ef054195cfad10a7de7c"
+    },
+    {
+      "name": "verify_scene_sprite_draw_dispatch.py",
+      "bytes": 2682,
+      "sha256": "9b54ff62da55ede2b7bbf1a4a6f42aec475cb436c8f178071531f6c203fa9149"
+    },
+    {
+      "name": "verify_scene_sprite_pixels.py",
+      "bytes": 2659,
+      "sha256": "d440b976578670870a5ce0abd6f6223aa9eccf346b902712d1e21d13a269c22e"
+    },
+    {
+      "name": "verify_skill_accuracy_native.py",
+      "bytes": 3302,
+      "sha256": "7efe7e6a8568c64553161344a9bbdbc070dc8d8542aa6374d05fb35571143753"
+    },
+    {
+      "name": "verify_sound_mapping_native.py",
+      "bytes": 2897,
+      "sha256": "adb9892ebfb5945e1131bfdaeb47a0b5ac9ad1caa35cd80b2b120b1a3a5b5ebf"
+    },
+    {
+      "name": "verify_sprite_links_native.py",
+      "bytes": 3631,
+      "sha256": "b0febd5599f6939664bc456d45a1026daedeea4bec91da99af606d09c7ed6616"
+    },
+    {
+      "name": "verify_stage_decay_native.py",
+      "bytes": 2917,
+      "sha256": "d7911b0c9494a3a5706f178ea635526f6f03c02ccd655176bfb8fe1f5ea6df10"
+    },
+    {
+      "name": "verify_status_effects_native.py",
+      "bytes": 3126,
+      "sha256": "28ca79b2d0155a1d5fa3421868a0ff59d093ee1e6a739dc8272a04d87c24db28"
+    },
+    {
+      "name": "verify_status_item_controller_native.py",
+      "bytes": 2652,
+      "sha256": "ab6ba2c6fccc9147d2ded936258a72f0372723e0449e9cfea24b6705369583e6"
+    },
+    {
+      "name": "verify_status_recovery_native.py",
+      "bytes": 2840,
+      "sha256": "de28fa3840b7ec4da4fa8573e2e3965e4f3b13fd7ee65a9350c6f0a74813850a"
+    },
+    {
+      "name": "verify_strategy_resource_matrix.py",
+      "bytes": 2437,
+      "sha256": "e76f58692e916c988e8edee6eed46ce31765ccac76046126ebab2686a34ba89b"
+    },
+    {
+      "name": "verify_terrain_masks_native.py",
+      "bytes": 4573,
+      "sha256": "58f7d597f5445191975d0de37c494bcf851eb2108e2d7a93b48e4e10d3d72050"
+    },
+    {
+      "name": "verify_transparent_blit_native.py",
+      "bytes": 2650,
+      "sha256": "129fc6e06838a1c7eefd209e60f045c43bfb12d1edf1b4d8344ae51a0921ee5d"
+    },
+    {
+      "name": "verify_treasure_catalog_native.py",
+      "bytes": 2554,
+      "sha256": "4d605f9acb57271be2c24c5a2d31284f030d34a322f9edc3c4e16a6d28280bed"
+    },
+    {
+      "name": "verify_ui_save_chain.py",
+      "bytes": 1434,
+      "sha256": "595a1e6e5afdefc3cef651d6d175fd2d29e81d186be97c016e2f12eb59f02b65"
+    },
+    {
+      "name": "verify_unit_level_growth.py",
+      "bytes": 4251,
+      "sha256": "21246093102b5458abe43cb97e9dbc03511fae2018e5dfb4091bcc4a4aea698b"
+    },
+    {
+      "name": "verify_unit_spc_mapping_native.py",
+      "bytes": 2232,
+      "sha256": "7c3396a696a596d91e245d00275884eac2733b72bb33de8d5d4b4d3a55849e0f"
+    },
+    {
+      "name": "verify_yuxi_critical_static.py",
+      "bytes": 1032,
+      "sha256": "f960b8cebe881ccf745fca38c0fce5893b61d121fad9805fe3dbbd39253e39b0"
+    }
+  ]
+}
