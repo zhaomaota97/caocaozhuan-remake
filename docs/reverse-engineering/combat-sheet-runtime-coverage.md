@@ -13,3 +13,8 @@ The images are still map31-palette conversions; scene-dependent unit colors
 and complete presentation timings are separate fidelity requirements.
 
 Verify with `npx playwright test tests/combat-sheet-coverage.spec.ts tests/attack-interaction.spec.ts --reporter=line`.
+
+The later exhaustive audit `unit-scene-colors.md` establishes source-color
+equivalence across all 58 Spalet records for every attack/movement/special
+resource. Thus the source PNG palette limitation above is resolved for these
+banks. Final status effects, darkening and scene compositing remain separate.

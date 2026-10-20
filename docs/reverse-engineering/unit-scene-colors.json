@@ -1,0 +1,1836 @@
+{
+  "scope": "exhaustive original unit indexed-pixel and Spalet high-nibble comparison; not animation ordering, background blending or live palette transitions",
+  "families": [
+    {
+      "family": "atk",
+      "resources": 151,
+      "pixels": 7421952,
+      "usedIndexes": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        66,
+        67,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        123,
+        124,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        161,
+        162,
+        163,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ],
+      "colorProfiles": 1,
+      "rows": [
+        {
+          "paletteEntry": 0,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 1,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 2,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 3,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 4,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 5,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 6,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 7,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 8,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 9,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 10,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 11,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 12,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 13,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 14,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 15,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 16,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 17,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 18,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 19,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 20,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 21,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 22,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 23,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 24,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 25,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 26,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 27,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 28,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 29,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 30,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 31,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 32,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 33,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 34,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 35,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 36,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 37,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 38,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 39,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 40,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 41,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 42,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 43,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 44,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 45,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 46,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 47,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 48,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 49,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 50,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 51,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 52,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 53,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 54,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 55,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 56,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 57,
+          "profile": 0,
+          "visibleColorSha256": "258aac0c5cea257abaa0883f104bccb3d18047e50bbb2c990d0d8e1cbfa40b7b",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        }
+      ]
+    },
+    {
+      "family": "mov",
+      "resources": 151,
+      "pixels": 3826944,
+      "usedIndexes": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        123,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ],
+      "colorProfiles": 1,
+      "rows": [
+        {
+          "paletteEntry": 0,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 1,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 2,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 3,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 4,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 5,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 6,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 7,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 8,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 9,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 10,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 11,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 12,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 13,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 14,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 15,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 16,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 17,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 18,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 19,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 20,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 21,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 22,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 23,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 24,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 25,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 26,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 27,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 28,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 29,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 30,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 31,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 32,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 33,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 34,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 35,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 36,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 37,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 38,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 39,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 40,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 41,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 42,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 43,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 44,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 45,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 46,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 47,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 48,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 49,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 50,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 51,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 52,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 53,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 54,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 55,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 56,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 57,
+          "profile": 0,
+          "visibleColorSha256": "c5f440722ece981a5ce2825a28e916e823466a0d890c8a3e9297bde1d55cb1ee",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        }
+      ]
+    },
+    {
+      "family": "spc",
+      "resources": 151,
+      "pixels": 1739520,
+      "usedIndexes": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        53,
+        54,
+        55,
+        56,
+        58,
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        89,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        123,
+        124,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        161,
+        163,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ],
+      "colorProfiles": 1,
+      "rows": [
+        {
+          "paletteEntry": 0,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 1,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 2,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 3,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 4,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 5,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 6,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 7,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 8,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 9,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 10,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 11,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 12,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 13,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 14,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 15,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 16,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 17,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 18,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 19,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 20,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 21,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 22,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 23,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 24,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 25,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 26,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 27,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 28,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 29,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 30,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 31,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 32,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 33,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 34,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 35,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 36,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 37,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 38,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 39,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 40,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 41,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 42,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 43,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 44,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 45,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 46,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 47,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 48,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 49,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 50,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 51,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 52,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 53,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 54,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 55,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 56,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        },
+        {
+          "paletteEntry": 57,
+          "profile": 0,
+          "visibleColorSha256": "03340cc2b93c00d6d3491a19e79dd68b4f81a8344e16f0a08ac875f1123596a7",
+          "missingUsedIndexes": [],
+          "changedIndexesFrom31": [],
+          "affectedResources": []
+        }
+      ]
+    }
+  ]
+}
