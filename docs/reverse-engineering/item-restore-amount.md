@@ -22,3 +22,16 @@ No complete item-use claim: inventory decrement, presentation, selection
 and all result-controller branches remain separate. Reproduce in the
 reverse workspace: `python tools/verify_item_restore_amount_native.py`.
 Raw evidence: `native-item-restore-amount.json`.
+
+Controller probe now adds **120/120** original executions. It calls native
+initializer `0x41DBBC`, then HP controller `0x41CCDF` in self-target mode
+or MP controller `0x41CE3D` with the target selector controlled to slot zero.
+Original eligibility, amount and resource setters remain live; only maxima,
+target selection, item presentation, camera and result display are controlled.
+The full-amount HP and low-byte MP distinction above now has dynamic proof.
+`nativeItemRestoreWriteback` matches every captured final HP/MP pair,
+including deliberately expanded maximum MP 500 to expose byte truncation.
+This does not prove normal gameplay allows that maximum, nor validate UI
+presentation, external target selection or inventory decrement.
+Reproduce: `python tools/verify_item_restore_controller_native.py`.
+Evidence: `native-item-restore-controller.json`.

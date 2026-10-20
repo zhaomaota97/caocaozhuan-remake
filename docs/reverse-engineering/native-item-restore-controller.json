@@ -1,0 +1,1087 @@
+{
+  "total": 120,
+  "passed": 120,
+  "rows": [
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 0,
+      "hp": 0,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 1,
+      "hp": 1,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 99,
+      "hp": 99,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 0,
+      "hp": 0,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 1,
+      "hp": 1,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 99,
+      "hp": 99,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 0,
+      "hp": 0,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 1,
+      "hp": 1,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 99,
+      "hp": 99,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 0,
+      "hp": 1,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 1,
+      "hp": 2,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 99,
+      "hp": 100,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 0,
+      "hp": 1,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 1,
+      "hp": 2,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 99,
+      "hp": 100,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 0,
+      "hp": 1,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 1,
+      "hp": 2,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 99,
+      "hp": 100,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 0,
+      "hp": 30,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 1,
+      "hp": 31,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 99,
+      "hp": 100,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 0,
+      "hp": 30,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 1,
+      "hp": 31,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 99,
+      "hp": 129,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 0,
+      "hp": 30,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 1,
+      "hp": 31,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 99,
+      "hp": 129,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 0,
+      "hp": 100,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 1,
+      "hp": 100,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 99,
+      "hp": 100,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 0,
+      "hp": 250,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 1,
+      "hp": 250,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 99,
+      "hp": 250,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 0,
+      "hp": 254,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 1,
+      "hp": 255,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 99,
+      "hp": 353,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 0,
+      "hp": 100,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 1,
+      "hp": 100,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 99,
+      "hp": 100,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 0,
+      "hp": 250,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 1,
+      "hp": 250,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 99,
+      "hp": 250,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 0,
+      "hp": 500,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 1,
+      "hp": 500,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 99,
+      "hp": 500,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 0,
+      "hp": 0,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 1,
+      "hp": 1,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 99,
+      "hp": 99,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 0,
+      "hp": 0,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 1,
+      "hp": 1,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 99,
+      "hp": 99,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 0,
+      "hp": 0,
+      "mp": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 1,
+      "hp": 1,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 99,
+      "hp": 99,
+      "mp": 99,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 0,
+      "hp": 0,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 1,
+      "hp": 1,
+      "mp": 2,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 99,
+      "hp": 99,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 0,
+      "hp": 0,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 1,
+      "hp": 1,
+      "mp": 2,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 99,
+      "hp": 99,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 0,
+      "hp": 0,
+      "mp": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 1,
+      "hp": 1,
+      "mp": 2,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 99,
+      "hp": 99,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 0,
+      "hp": 0,
+      "mp": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 1,
+      "hp": 1,
+      "mp": 31,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 99,
+      "hp": 99,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 0,
+      "hp": 0,
+      "mp": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 1,
+      "hp": 1,
+      "mp": 31,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 99,
+      "hp": 99,
+      "mp": 129,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 0,
+      "hp": 0,
+      "mp": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 1,
+      "hp": 1,
+      "mp": 31,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 99,
+      "hp": 99,
+      "mp": 129,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 0,
+      "hp": 0,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 1,
+      "hp": 1,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 99,
+      "hp": 99,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 0,
+      "hp": 0,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 1,
+      "hp": 1,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 99,
+      "hp": 99,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 0,
+      "hp": 0,
+      "mp": 254,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 1,
+      "hp": 1,
+      "mp": 255,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 99,
+      "hp": 99,
+      "mp": 353,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 0,
+      "hp": 0,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 1,
+      "hp": 1,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 99,
+      "hp": 99,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 100,
+      "hp": 100,
+      "mp": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 0,
+      "hp": 0,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 1,
+      "hp": 1,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 99,
+      "hp": 99,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 250,
+      "hp": 250,
+      "mp": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 0,
+      "hp": 0,
+      "mp": 244,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 1,
+      "hp": 1,
+      "mp": 244,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 99,
+      "hp": 99,
+      "mp": 244,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 500,
+      "hp": 500,
+      "mp": 500,
+      "match": true
+    }
+  ],
+  "scope": "native 0x41DBBC and HP/MP controllers, eligibility, amount, setters active; maxima and target-selector/presentation/camera leaves controlled; not inventory usage"
+}
