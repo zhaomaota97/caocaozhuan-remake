@@ -1,0 +1,1447 @@
+{
+  "total": 180,
+  "passed": 180,
+  "rows": [
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 0,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 1,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 30,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 0,
+      "amount": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 1,
+      "amount": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 0,
+      "amount": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 1,
+      "amount": 249,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 99,
+      "amount": 151,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 0,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 1,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 99,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 254,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 0,
+      "amount": 100,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 1,
+      "amount": 99,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 0,
+      "amount": 250,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 1,
+      "amount": 249,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 99,
+      "amount": 151,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 0,
+      "amount": 500,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 1,
+      "amount": 499,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 99,
+      "amount": 401,
+      "match": true
+    },
+    {
+      "category": 63,
+      "value": 255,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 0,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 1,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 30,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 0,
+      "amount": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 1,
+      "amount": 99,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 0,
+      "amount": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 1,
+      "amount": 249,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 99,
+      "amount": 151,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 0,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 1,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 99,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 254,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 0,
+      "amount": 100,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 1,
+      "amount": 99,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 0,
+      "amount": 250,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 1,
+      "amount": 249,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 99,
+      "amount": 151,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 0,
+      "amount": 500,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 1,
+      "amount": 499,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 99,
+      "amount": 401,
+      "match": true
+    },
+    {
+      "category": 64,
+      "value": 255,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 100,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 100,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 100,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 100,
+      "current": 100,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 250,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 250,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 250,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 250,
+      "current": 250,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 500,
+      "current": 0,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 500,
+      "current": 1,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 500,
+      "current": 99,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 0,
+      "maximum": 500,
+      "current": 500,
+      "amount": 0,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 100,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 100,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 100,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 100,
+      "current": 100,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 250,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 250,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 250,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 250,
+      "current": 250,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 500,
+      "current": 0,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 500,
+      "current": 1,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 500,
+      "current": 99,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 1,
+      "maximum": 500,
+      "current": 500,
+      "amount": 1,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 100,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 100,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 100,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 100,
+      "current": 100,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 250,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 250,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 250,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 250,
+      "current": 250,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 500,
+      "current": 0,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 500,
+      "current": 1,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 500,
+      "current": 99,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 30,
+      "maximum": 500,
+      "current": 500,
+      "amount": 30,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 100,
+      "current": 0,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 100,
+      "current": 1,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 100,
+      "current": 99,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 100,
+      "current": 100,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 250,
+      "current": 0,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 250,
+      "current": 1,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 250,
+      "current": 99,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 250,
+      "current": 250,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 500,
+      "current": 0,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 500,
+      "current": 1,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 500,
+      "current": 99,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 254,
+      "maximum": 500,
+      "current": 500,
+      "amount": 254,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 100,
+      "current": 0,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 100,
+      "current": 1,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 100,
+      "current": 99,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 100,
+      "current": 100,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 250,
+      "current": 0,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 250,
+      "current": 1,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 250,
+      "current": 99,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 250,
+      "current": 250,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 500,
+      "current": 0,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 500,
+      "current": 1,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 500,
+      "current": 99,
+      "amount": 255,
+      "match": true
+    },
+    {
+      "category": 70,
+      "value": 255,
+      "maximum": 500,
+      "current": 500,
+      "amount": 255,
+      "match": true
+    }
+  ],
+  "scope": "native 0x43C42E; max HP/MP getters controlled; current within max; no inventory or presentation"
+}
