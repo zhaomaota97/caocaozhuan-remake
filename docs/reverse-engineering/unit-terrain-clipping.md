@@ -20,3 +20,13 @@ This is not a claim that complete terrain occlusion is migrated.
 
 Reproduce: `python tools/verify_unit_terrain_mask_native.py` in reverse
 workspace. Evidence: `native-unit-terrain-mask.json`.
+
+Full draw-wrapper evidence now adds 14/14 executions of original `0x45137C`
+at sizes 48/64 and terrain inputs 0/1/2/7/9/10/255. Terrain query, resource
+buffer accessor and final draw are controlled; the original branch selection,
+tile copying and mask application remain active with actual MARK bytes.
+Every selected buffer offset and final tile pixel matches the Web mask data
+and helper. This supersedes the static-only mapping limitation above for
+these branches, not actual actor-coordinate queries or special terrain13.
+Reproduce: `python tools/verify_unit_terrain_draw_native.py`.
+Evidence: `native-unit-terrain-draw.json`.
