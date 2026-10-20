@@ -23,6 +23,14 @@ only on strict improvement, and leaves target 255 when no positive score
 exists. Boundary tests also check equal-score order and termination at
 invalid/sentinel slots; the invalid-list case is static evidence only.
 
-This test does not re-create the candidate list: geometry/filter coverage
-belongs to the original native probe. Web scene sorting still uses distance
-and lexical tie breaks, so full original enumeration order remains pending.
+The test now independently generates the candidate list with
+`collectNativeAdjacentCandidates` before selection. All 6,144 lists and
+selected results match native outputs for shapes 0/1, including map corners,
+group masks and HP masks. Shape 1's diagonal occupancy is absent from the
+captured matrix; diagonal order is supported by the original constant table
+and static call sequence, with a separate Web test rather than claimed
+dynamic diagonal validation. Other ordered shapes throw explicitly.
+
+Web scene sorting still uses distance and lexical tie breaks. The ordered
+shape collector is not yet connected to complete movement-cell selection;
+this report does not claim full native AI turn fidelity.
