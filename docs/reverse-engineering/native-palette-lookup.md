@@ -20,3 +20,14 @@ currently uses the captured map31 palette. Palette tail indexes 246..255
 cannot enter lookup candidate selection, narrowing the prior tail concern.
 They can still affect the background-channel inputs to pixel blending.
 The real scene palette initialization and full item render remain open.
+
+Expanded native corpus now captures all 58 Spalet resources and three
+synthetic palettes (all black, all equal nonzero channels, varying dominant
+channels). Every **249,856** generated lookup entry across **61** palettes
+matches the Web builder. Original native builder/search run without patched
+functions; native main thread remains suspended. This supersedes the earlier
+map31-only dynamic limitation and exercises ties and missing dominant-color
+candidates with native outputs. Short resource tails are explicitly zero
+padded as controlled input; the actual live preceding palette remains open.
+Reproduce: `python tools/verify_palette_lookup_corpus.py` in reverse workspace.
+Evidence: `native-palette-lookup-corpus.json`.
