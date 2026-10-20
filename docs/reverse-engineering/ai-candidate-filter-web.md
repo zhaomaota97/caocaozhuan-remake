@@ -44,3 +44,12 @@ controlled; this does not validate complete AI scoring or campaign turns.
 Reproduce in the reverse workspace with
 `python tools/verify_ai_diagonal_candidates_native.py`. Raw evidence:
 `native-ai-diagonal-candidates.json`. No native UI or sound was started.
+
+Battle integration now uses the ordered collector and selector for the
+post-movement ordinary target choice when the attack shape is 0 or 1.
+Candidates are generated at the actor's actual position, then scored with
+the current ordinary-score inputs. Ties retain native enumeration order;
+all-zero scores leave no attack target. This replaces global score/distance/
+lexical sorting for that specific stage and those two shapes. The movement
+destination selector, pre-movement approach target, other shapes and effect
+AI still use incomplete workflows and must not be described as original AI.

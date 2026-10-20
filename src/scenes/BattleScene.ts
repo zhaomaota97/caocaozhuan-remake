@@ -30,6 +30,7 @@ import {allRuntimeEffects,effectById} from '../rules/effectCatalog';
 import {nativeButton} from '../ui/nativeButton';
 import {nearestNativeCandidate} from '../rules/aiCandidateFilter';
 import {nativeAiOrdinaryAttackScore,nativeAiClassFiltered} from '../rules/aiAttackScore';
+import {collectNativeAdjacentCandidates,selectNativeAiCandidate} from '../rules/aiCandidateSelection';
 import treasureCatalog from '../../data/mappings/treasure-catalog.json';
 import rosterColumns from '../../data/mappings/roster-columns.json';
 import rosterFields from '../../data/mappings/slot08-roster-fields.json';
@@ -672,12 +673,11 @@ export class BattleScene extends Phaser.Scene {
   }
   private async runEnemyTurn(){
     for(const enemy of this.units.filter(unit=>unit.side==='enemy'&&unit.hp>0&&!unit.nativeHidden)){
-      const chooseTarget=()=>{
+      const chooseTarget=(afterMovement=false)=>{
         const candidates=this.units.filter(unit=>unit.side==='player'&&unit.hp>0&&!unit.nativeHidden&&unit.x>=0&&unit.y>=0&&unit.x<this.map.width&&unit.y<this.map.height);
         const attacker=this.combatActor(enemy);
         const slot=Number(enemy.id.match(/(?:unit-|slot-)(\d+)$/)?.[1]);
         const attackMode=(scenarioCombat as Record<string,Array<{slot:number;attackMode:number}>>)[String(this.mapId)]?.find(row=>row.slot===slot)?.attackMode;
-        return candidates.sort((a,b)=>{
           const score=(target:Unit)=>{
             const defender=this.combatActor(target);
             const targetSlot=Number(target.id.match(/(?:unit-|slot-)(\d+)$/)?.[1]);
@@ -690,6 +690,18 @@ export class BattleScene extends Phaser.Scene {
               covered:nativeAiClassFiltered(attacker.classId),sameSide:false,
               candidateRisk:inAttackRange(defender,attacker,attackRange(defender,itemCategories,attackClasses),targetShapes.shapes)});
           };
+        const range=attackRange(attacker,itemCategories,attackClasses);
+        if(afterMovement&&range!==255&&((range&127)===0||(range&127)===1)){
+          const nativeSlot=(unit:Unit)=>Number(unit.id.match(/(?:unit-|slot-)(\d+)$/)?.[1]);
+          const occupants=this.units.filter(unit=>unit.hp>0&&!unit.nativeHidden).map(unit=>({slot:nativeSlot(unit),groupSlot:nativeSlot(unit),hp:unit.hp,x:unit.x,y:unit.y}));
+          const ordered=collectNativeAdjacentCandidates(enemy,range,this.map.width,this.map.height,slot,occupants);
+          const bySlot=new Map(candidates.map(unit=>[nativeSlot(unit),unit]));
+          const result=selectNativeAiCandidate(ordered,targetSlot=>{
+            const unit=bySlot.get(targetSlot);return unit?score(unit):0;
+          });
+          return bySlot.get(result.target);
+        }
+        return candidates.sort((a,b)=>{
           return score(b)-score(a)||(Math.abs(a.x-enemy.x)+Math.abs(a.y-enemy.y))-(Math.abs(b.x-enemy.x)+Math.abs(b.y-enemy.y))||a.id.localeCompare(b.id);
         })[0] ?? nearestNativeCandidate(enemy,this.units,this.map.width,this.map.height);
       };
@@ -722,7 +734,7 @@ export class BattleScene extends Phaser.Scene {
       }
       // Native turn flow resolves the target again after movement. Do not
       // attack the pre-movement target when it is no longer in range.
-      target=chooseTarget();
+      target=chooseTarget(true);
       if(!target||!inAttackRange(this.combatActor(enemy),this.combatActor(target),attackRange(this.combatActor(enemy),itemCategories,attackClasses),targetShapes.shapes)){
         enemy.acted=true;enemy.actorFlags=(enemy.actorFlags??0)|6;this.refreshUnitSprite(enemy);continue;
       }
