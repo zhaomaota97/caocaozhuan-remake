@@ -825,8 +825,7 @@ export class BattleScene extends Phaser.Scene {
     menu.add(this.add.rectangle(0,0,300,24,0x202a35).setOrigin(0));
     menu.add(this.add.text(8,4,mode==='strategy'?'策略':'道具',{fontSize:'14px',color:'#ffffff'}));
     if(mode==='strategy'){
-      const nativeActor=slot08.actors.find(row=>row.id===this.selected?.id) as (typeof slot08.actors)[number] | undefined;
-      const actor={classId:nativeActor?.classId??this.selected?.nativeClassId??0,nativeLevel:nativeActor?.nativeLevel??1};
+      const actor=this.combatActor(this.selected);
       const learned=(effectLearning as Array<{effect_id:string;name_gbk:string;class_id:string;required_level:string;learnable:string}>)
         .filter(row=>Number(row.class_id)===actor?.classId&&Number(row.required_level)<=Number(actor?.nativeLevel)&&row.learnable==='True')
         .map(row=>({id:Number(row.effect_id),name:row.name_gbk || `效果 ${row.effect_id}`}));
@@ -849,8 +848,7 @@ export class BattleScene extends Phaser.Scene {
     const geometry=effectGeometry.effects.find(row=>row.effectId===this.selectedEffectId);
     const origin=this.movementActors().find(row=>row.id===this.selected?.id);
     if(!geometry||!origin||!inAttackRange(origin,target,geometry.targetShape,targetShapes.shapes))return;
-    const nativeActor=slot08.actors.find(row=>row.id===this.selected?.id) as (typeof slot08.actors)[number] | undefined;
-    const actor={classId:nativeActor?.classId??this.selected?.nativeClassId??0,nativeLevel:nativeActor?.nativeLevel??1};
+    const actor=this.combatActor(this.selected!);
     const learned=(effectLearning as Array<{effect_id:string;class_id:string;required_level:string;learnable:string}>)
       .filter(row=>Number(row.class_id)===actor?.classId&&Number(row.required_level)<=Number(actor?.nativeLevel)&&row.learnable==='True');
     const effect=effectById(this.selectedEffectId ?? Number(learned[0]?.effect_id));
