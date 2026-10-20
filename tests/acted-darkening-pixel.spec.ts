@@ -14,3 +14,10 @@ test('actor darkening gate requires both action flags and living actor',()=>{
   expect([0,2,4,6].map(flags=>nativeActorIsDarkened(flags,1))).toEqual([false,false,false,true]);
   expect(nativeActorIsDarkened(6,0)).toBe(false);
 });
+
+test('darkening gate matches all 512 native actor renderer executions',()=>{
+  const evidence=JSON.parse(readFileSync('docs/reverse-engineering/native-acted-render-gate.json','utf8'));
+  expect(evidence.total).toBe(512);expect(evidence.passed).toBe(512);
+  const failures=evidence.rows.filter((row:any)=>!row.match||nativeActorIsDarkened(row.flags,row.hp)!==row.darkened);
+  expect(failures).toEqual([]);
+});

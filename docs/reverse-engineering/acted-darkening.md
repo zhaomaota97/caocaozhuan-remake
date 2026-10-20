@@ -34,3 +34,15 @@ still passes. This is exact for the supplied scene palette, not full native
 status overlay or rendering capture. Source colors may be shared while
 darkening differs because quantization can select scene-specific terrain colors.
 Generate with `python tools/export_acted_movement_art.py` in reverse workspace.
+
+The actor gate now also has direct renderer evidence: all 256 flag bytes
+crossed with HP zero/nonzero produce 512/512 matching original `0x43EB1F`
+executions. Original action-mask/HP getters, darkening and lookup run. Only
+the source tile provider and final draw are replaced; all 2,304 final tile
+pixels are checked for each case (1,179,648 pixels total). The supplied tile
+cycles every byte index, and expected dark pixels come from the native
+darkening function in the same probe. Web predicate matches all decisions.
+This supersedes the gate's earlier static-only limitation. Status flags are
+zero, so it does not validate the status-color or status-icon branches.
+Reproduce: `python tools/verify_acted_render_gate_native.py`.
+Evidence: `native-acted-render-gate.json`.
