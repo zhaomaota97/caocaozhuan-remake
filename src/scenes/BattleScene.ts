@@ -416,7 +416,14 @@ export class BattleScene extends Phaser.Scene {
     }
   }
   private drawUnits(){
-    if(this.mapId>0&&this.mapId!==31&&this.units.length===0)this.units=this.mapId===1?this.createS01Units():this.createNativeScenarioUnits(this.mapId);
+    if(this.mapId>0&&this.mapId!==31&&this.units.length===0){
+      this.units=this.mapId===1?this.createS01Units():this.createNativeScenarioUnits(this.mapId);
+      const records=(scenarioUnits[this.mapId] as {units:Array<{slot:number;type:number}>}).units;
+      for(const unit of this.units){
+        const slot=Number(unit.id.match(/-slot-(\d+)$/)?.[1]);
+        unit.nativeHidden=records.find(row=>row.slot===slot)?.type===1;
+      }
+    }
     for(const {sprite,hpBack,hpFill} of this.unitSprites){sprite.destroy();hpBack.destroy();hpFill.destroy();}
     this.unitSprites=[];
     this.units.forEach(unit=>{
@@ -1099,7 +1106,7 @@ export class BattleScene extends Phaser.Scene {
   }
   /** Keep the native automatic prompt reachable from every action completion path. */
   private maybeOpenEndTurnConfirm(){
-    const living=this.units.filter(unit=>unit.side==='player'&&unit.hp>0);
+    const living=this.units.filter(unit=>unit.side==='player'&&unit.hp>0&&!unit.nativeHidden);
     if(living.length>0 && living.every(unit=>unit.acted) && !this.modal && !this.contextMenu)
       this.openEndTurnConfirm();
   }
