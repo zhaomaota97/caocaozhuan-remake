@@ -21,6 +21,7 @@ import {attackRange,inAttackRange} from '../rules/attackRange';
 import combatAttributes from '../../data/mappings/slot08-combat-attributes.json';
 import {ordinaryDamage} from '../rules/ordinaryDamage';
 import combatRuntime from '../../data/mappings/slot08-combat-runtime.json';
+import combatSheets from '../../data/mappings/combat-sheets-map31.json';
 import scenarioCombat from '../../data/mappings/scenario-combat-runtime.json';
 import nativeEquipmentAttributes from '../../data/rules/native-equipment-attributes.json';
 import {nativeBattleAttributes} from '../rules/battleAttributes';
@@ -139,9 +140,8 @@ export class BattleScene extends Phaser.Scene {
       if(match)this.load.audio(`effect-${effect.effectId}`,`/assets/audio/Se_m_${String(Number(match[1])).padStart(2,'0')}.wav`);
     }
     for(let i=0;i<9;i++)this.load.image(`effect-mcall-${i}`,`/assets/effects/Mcall${String(i).padStart(2,'0')}.gif`);
-    for(const art of new Set([...slot08.actors.map(actor=>actor.art),...(s00Units.units as Array<{controlledNativeExpansion?:{art:number}}>).map(actor=>actor.controlledNativeExpansion?.art).filter((art):art is number=>Number.isFinite(art))])){
-      this.load.spritesheet(`atk-${art}`,`/assets/animations/atk-map31/atk-${String(art).padStart(3,'0')}.png`,{frameWidth:64,frameHeight:64});
-      this.load.spritesheet(`spc-${art}`,`/assets/animations/spc-map31/spc-${String(art).padStart(3,'0')}.png`,{frameWidth:48,frameHeight:48});
+    for(const sheet of combatSheets){
+      this.load.spritesheet(`${sheet.family}-${sheet.index}`,sheet.url,{frameWidth:sheet.tileSize,frameHeight:sheet.tileSize});
     }
     for(let id=23;id<=29;id++)this.load.audio(`step-${id}`,`/assets/audio/native/se${id}.wav`);
     this.load.image('minimap-31','/assets/maps/minimap-31.png');
