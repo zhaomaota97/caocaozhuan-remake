@@ -32,3 +32,13 @@ stock values document the leaf behavior rather than normal inventory rules.
 `grantNativeConsumable` matches every result. Reproduce with
 `python tools/verify_consumable_grant_native.py`; raw evidence is
 `native-consumable-grant.json`. Full opcode61 execution remains separate.
+
+An additional **306/306** cases now execute original DATA item loading,
+grant, capacity check, real resale getter and money helpers together with
+no patched leaf functions. All 17 original consumable IDs cross the same
+six stock and three money boundaries. The composed Web resale/grant rules
+match every final stock, money and return value. This removes the controlled
+price-leaf limitation for this original-item composition, while still not
+claiming complete opcode61/UI execution or campaign stock initialization.
+Reproduce: `python tools/verify_real_consumable_grant_native.py`.
+Evidence: `native-real-consumable-grant.json`.
