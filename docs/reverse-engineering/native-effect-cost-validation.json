@@ -1,0 +1,111 @@
+[
+  {
+    "current": 40,
+    "cost": 13,
+    "expected": 27,
+    "resource": 27,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 5,
+    "cost": 13,
+    "expected": 0,
+    "resource": 0,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 13,
+    "cost": 13,
+    "expected": 0,
+    "resource": 0,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 40,
+    "cost": 0,
+    "expected": 40,
+    "resource": 40,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 90,
+    "cost": 0,
+    "expected": 50,
+    "resource": 50,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 40,
+    "cost": 13,
+    "divisor": 2,
+    "expected": 34,
+    "resource": 34,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 40,
+    "cost": 13,
+    "divisor": 3,
+    "expected": 36,
+    "resource": 36,
+    "health": 80,
+    "match": true
+  },
+  {
+    "current": 40,
+    "cost": 13,
+    "divisor": 20,
+    "expected": 40,
+    "resource": 40,
+    "health": 80,
+    "match": true
+  },
+  {
+    "effect": 20,
+    "current": 40,
+    "cost": 13,
+    "magnitude": 7,
+    "expected": 27,
+    "healthExpected": 87,
+    "resource": 27,
+    "health": 87,
+    "match": true
+  },
+  {
+    "effect": 20,
+    "current": 40,
+    "cost": 13,
+    "magnitude": 30,
+    "expected": 27,
+    "healthExpected": 100,
+    "resource": 27,
+    "health": 100,
+    "match": true
+  },
+  {
+    "effect": 22,
+    "current": 40,
+    "cost": 13,
+    "magnitude": 7,
+    "expected": 34,
+    "resource": 34,
+    "health": 80,
+    "match": true
+  },
+  {
+    "effect": 22,
+    "current": 40,
+    "cost": 13,
+    "magnitude": 40,
+    "expected": 50,
+    "resource": 50,
+    "health": 80,
+    "match": true
+  }
+]
